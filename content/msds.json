@@ -1,0 +1,55 @@
+{
+  "source": "msds.html",
+  "slug": "msds",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Product MSDS & SDS Sheets | SHENHE ZHONGKE",
+    "description": "MSDS and SDS for private-label pet care: deodorizing sprays, disinfectants, shampoo and foam. One request, one sheet per SKU, free of charge, 16 languages.",
+    "canonical": "https://shenhezhongke.com/msds.html",
+    "ogTitle": "Pet Product MSDS & SDS Sheets | SHENHE ZHONGKE",
+    "ogDescription": "MSDS and SDS for private-label pet care: deodorizing sprays, disinfectants, shampoos, cleansers and paw care. Ask for the safety data sheet of your SKU.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": null,
+    "hreflang": [],
+    "jsonLd": [],
+    "hasGtm": true
+  },
+  "blocks": [
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section\" style=\"background: linear-gradient(180deg, var(--pp-teal-50), var(--pp-white)); padding-top: var(--pp-space-12);\">\n      <div class=\"pp-container pp-container--narrow pp-text-center\" >\n        <span class=\"pp-eyebrow\">MSDS</span>\n        <h1>Material Safety Data Sheets</h1>\n        <p class=\"pp-lead\">What a customs officer, a carrier and a retailer ask for: the sheet that says how the goods are to be handled, stored and transported. One sheet exists for every active SKU, and it travels with the consignment. The representative sheet below is published so you can check the format before you order.</p>\n        <p class=\"pp-answer\">A safety data sheet exists for every active SKU and is issued with the consignment — ask for the sheet for the SKU you ordered.</p>\n        <p class=\"pp-answer-note\">It is a record of the consignment, not an approval of the wording on a label for any market. Label approval is a separate exercise, and we help you map it for your target market.</p>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <p style=\"background: var(--pp-amber-50); border-left: 4px solid var(--pp-amber-500); padding: var(--pp-space-3) var(--pp-space-4); border-radius: var(--pp-radius); font-size: var(--pp-text-sm);\">\n          <strong>Note:</strong> The sheet published below is issued in Chinese by the testing laboratory, because that is the version the carrier and the customs broker accept. An English version is issued per order — ask with your SKU and destination market.\n        </p>\n        <div class=\"pp-grid pp-grid--2\" id=\"msds-grid\">\n          <div class=\"pp-card\">\n            <span class=\"pp-eyebrow\">Published sample</span>\n            <h3>Jingwei Xiaozi · deodorizing liquid</h3>\n            <p class=\"pp-prose\">A complete 16-section sheet. GHS classification: not a hazardous substance or mixture — no hazard pictogram, no signal word. Transport: not classified as dangerous goods under ADR/RID, IMDG and IATA-DGR. Appearance: pale yellow liquid, pH 5.0–7.5.</p>\n            <p style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500);\">SiT testing laboratory · report SIT250402370103SF · issued 2025-04-09 · 6 pages</p>\n            <a class=\"pp-btn pp-btn--primary pp-mt-3\" href=\"/assets/img/certs/Safety-Data-Sheet-Jingwei-Xiaozi-SIT250402370103SF.pdf\" target=\"_blank\" rel=\"noopener\">Download the SDS (PDF, 0.5 MB)</a>\n          </div>\n          <div class=\"pp-card\">\n            <span class=\"pp-eyebrow\">Other SKUs</span>\n            <h3>20+ catalogue items</h3>\n            <p class=\"pp-prose\">Every active SKU carries its own sheet, issued with the consignment. Send us the SKU and destination market and we return the matching sheet — the same file that travels with your container.</p>\n            <a class=\"pp-btn pp-btn--secondary pp-mt-3\" href=\"/contact.html?interest=msds\">Request the SDS for your SKU</a>\n            <a class=\"pp-btn pp-btn--ghost pp-mt-3\" href=\"/certifications.html\">Or read the 10 lab reports</a>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Need a custom MSDS?",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n      <div class=\"pp-container pp-container--narrow pp-text-center\" >\n        <h2>Need a custom MSDS?</h2>\n        <p>If you require an MSDS in a specific format (GHS, REACH, OSHA), we can prepare one for OEM/ODM orders. Lead time: 7–14 days.</p>\n        <a class=\"pp-btn pp-btn--primary pp-btn--lg\" href=\"/contact.html?interest=msds\">Request custom MSDS</a>\n      </div>\n    </section>"
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 3,
+    "richtextFallback": 0
+  }
+}

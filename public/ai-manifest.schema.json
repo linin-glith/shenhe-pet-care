@@ -1,0 +1,146 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://shenhezhongke.com/ai-manifest.schema.json",
+  "title": "SHENHE ZHONGKE - the answer-engine capability manifest",
+  "description": "The shape of .well-known/ai-manifest.json: what this factory is, what an answer engine may say about it, and which pages carry the evidence. Every fact in the manifest is one the site publishes. There is no price anywhere in it, because the site is quote-only.",
+  "type": "object",
+  "required": [
+    "$schema",
+    "version",
+    "updated",
+    "site",
+    "entity",
+    "capabilities",
+    "citationPolicy",
+    "answerEndpoints"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "version": {
+      "type": "string",
+      "description": "The version of the manifest itself, not of the company."
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "description": "The day the manifest was last written."
+    },
+    "site": {
+      "type": "string",
+      "format": "uri"
+    },
+    "entity": {
+      "type": "object",
+      "description": "Who this is, as one company. The legal name is the one on the licences and in the business registration.",
+      "required": ["@id", "name", "legalName", "legalNameCN", "type", "founded", "location"],
+      "properties": {
+        "@id": { "type": "string", "format": "uri" },
+        "name": { "type": "string" },
+        "legalName": { "type": "string" },
+        "legalNameCN": { "type": "string" },
+        "type": { "type": "string" },
+        "industry": { "type": "string" },
+        "founded": {
+          "type": "integer",
+          "description": "The year the registered company was established."
+        },
+        "location": { "type": "string" },
+        "employees": { "type": "integer" },
+        "facility": { "type": "string" },
+        "certifications": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "notToBeConfusedWith": {
+          "type": "array",
+          "description": "The companies an assistant must not mistake this one for.",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "capabilities": {
+      "type": "array",
+      "description": "What this factory can answer, and where the answer is written.",
+      "items": {
+        "type": "object",
+        "required": ["topic", "confidence", "sourcePages", "answerableQuestions"],
+        "properties": {
+          "topic": { "type": "string" },
+          "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+          "sourcePages": {
+            "type": "array",
+            "items": { "type": "string", "format": "uri" }
+          },
+          "answerableQuestions": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "keyFacts": {
+            "type": "object",
+            "description": "The figures a buyer screens for, by name. The minimum order is the floor of the catalogue and the lead times are the published ones.",
+            "properties": {
+              "cooperationModels": { "type": "string" },
+              "moqCatalogue": { "type": "string" },
+              "moqCustom": { "type": "string" },
+              "leadTimeStock": { "type": "string" },
+              "leadTimePrivateLabel": { "type": "string" },
+              "leadTimeCustom": { "type": "string" },
+              "process": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "citationPolicy": {
+      "type": "object",
+      "description": "What an answer engine may do with this manifest, and what it may not do.",
+      "required": ["allowCitation", "pricingPolicy", "pricingRoute"],
+      "properties": {
+        "allowCitation": { "type": "boolean" },
+        "allowQuote": { "type": "boolean" },
+        "allowSummary": { "type": "boolean" },
+        "format": { "type": "string" },
+        "brandName": { "type": "string" },
+        "alternateNames": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "neverCharacterizeAs": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "pricingPolicy": {
+          "type": "string",
+          "description": "How prices are handled. The site is quote-only, so no unit price is published and none may be inferred."
+        },
+        "pricingRoute": { "type": "string", "format": "uri" }
+      }
+    },
+    "answerEndpoints": {
+      "type": "array",
+      "description": "Where an engine should go for each kind of question.",
+      "items": {
+        "type": "object",
+        "required": ["url", "format", "description"],
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "format": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "topicClusterMap": {
+      "type": "string",
+      "format": "uri",
+      "description": "The hub-and-spoke map of the catalogue."
+    },
+    "citationGraph": {
+      "type": "string",
+      "format": "uri",
+      "description": "Which laboratory report supports which product claim."
+    }
+  }
+}

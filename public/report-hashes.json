@@ -1,0 +1,98 @@
+{
+  "_readme": "The SHA-256 of each published laboratory report. A buyer downloads the file from the url and computes the same hash; if it matches the one recorded on the chain, the file has not been changed since the batch was attested. The hashes are computed at build time from the exact bytes the site serves.",
+  "generatedBy": "scripts/gen-report-hashes.mjs",
+  "algorithm": "sha256",
+  "count": 10,
+  "reports": [
+    {
+      "reportNumber": "NACCYH25014722",
+      "title": "Pet deodorant — ammonia removal",
+      "issuer": "Guangzhou Institute of Microbiology (NACC)",
+      "fileName": "Test-Ammonia-Removal-Efficiency.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Test-Ammonia-Removal-Efficiency.pdf",
+      "bytes": 799866,
+      "sha256": "2273cc7786a5dfe90bc04376b948a870fffef9c45e9724ad105e1de65db54ce8"
+    },
+    {
+      "reportNumber": "NACCYH25014721",
+      "title": "Pet deodorant — hydrogen sulfide removal",
+      "issuer": "Guangzhou Institute of Microbiology (NACC)",
+      "fileName": "Test-Hydrogen-Sulfide-Removal-Efficiency.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Test-Hydrogen-Sulfide-Removal-Efficiency.pdf",
+      "bytes": 800553,
+      "sha256": "03f5c37f2e2ada31484ea3a4353d600ce3e0e585ae0d13de94917b853d3325dc"
+    },
+    {
+      "reportNumber": "NACCYH25007027",
+      "title": "Cat litter deodorizer — ammonia removal",
+      "issuer": "Guangzhou Institute of Microbiology (NACC)",
+      "fileName": "Cat-Litter-Deodorizer-Ammonia-Removal-Test.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Cat-Litter-Deodorizer-Ammonia-Removal-Test.pdf",
+      "bytes": 1122024,
+      "sha256": "f7eccbab13ac06af95a26e7d5f3dd3fda897b9d7038973966e59dabdb18b61ff"
+    },
+    {
+      "reportNumber": "XJ2025001233",
+      "title": "Disinfectant — available chlorine stability and acute oral toxicity",
+      "issuer": "Guangzhou Institute of Microbiology Group Co., Ltd.",
+      "fileName": "Test-Available-Chlorine-Stability-1Year.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Test-Available-Chlorine-Stability-1Year.pdf",
+      "bytes": 3783842,
+      "sha256": "c636d8b9748bdbd3fbd0892bc5c9b4b979d2368282ffd55751c50647d58ac737"
+    },
+    {
+      "reportNumber": "2024FM12662R01Da",
+      "title": "Purepaws neutralising spray — full analysis",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "fileName": "Factory-Audit-Report-FM12662R01Da.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Factory-Audit-Report-FM12662R01Da.pdf",
+      "bytes": 2325664,
+      "sha256": "32b520409784a63b758ff159fc6111b8b6eeec4212b1c9c37971ccdb283de5c5"
+    },
+    {
+      "reportNumber": "2024FM11610R01D",
+      "title": "Disinfectant & deodorizing liquid — analysis",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "fileName": "Disinfectant-Solution-Bilingual-Spec.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Disinfectant-Solution-Bilingual-Spec.pdf",
+      "bytes": 2315095,
+      "sha256": "7b4d146c2a0b2f62bf6ae9bd377f21842b5903fbf12b48ddd7f0c85291367425"
+    },
+    {
+      "reportNumber": "2024FM11612R01D",
+      "title": "Multi-effect wash — antibacterial",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "fileName": "Multi-Effect-Wash-Antibacterial-Test.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Antibacterial-Test.pdf",
+      "bytes": 2310163,
+      "sha256": "8dab2eef5c27c89e21f0cb6b3243b7c05ac8f43597655fc3b6e776c1827e9850"
+    },
+    {
+      "reportNumber": "2024FM11612R03D",
+      "title": "Multi-effect wash — mite control",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "fileName": "Multi-Effect-Wash-Mite-Control-Test.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Mite-Control-Test.pdf",
+      "bytes": 2256811,
+      "sha256": "fdf42af40f371073bc6ac46b22bd6f9bcd54d3ebaeecd2766acc7a0bdef973af"
+    },
+    {
+      "reportNumber": "2024FM11612R02D",
+      "title": "Multi-effect wash — microbiological and quality test",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "fileName": "Multi-Effect-Wash-Ingredient-Report.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Ingredient-Report.pdf",
+      "bytes": 2292223,
+      "sha256": "abe3c99cedd0da0dff2f7ccfaa9f4cc2b8b549bbff74b4186f5563177608daad"
+    },
+    {
+      "reportNumber": "2024FM11611R02D",
+      "title": "Pet deodorant — safety assessment",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "fileName": "Pet-Deodorizing-Spray-Non-Toxic-Cert.pdf",
+      "url": "https://shenhezhongke.com/assets/img/certs/Pet-Deodorizing-Spray-Non-Toxic-Cert.pdf",
+      "bytes": 2420316,
+      "sha256": "08fc1582e4791c7997f30100a386b0536fb6b5f0aef43a516aaa6db2963aba36"
+    }
+  ]
+}

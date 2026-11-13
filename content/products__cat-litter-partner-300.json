@@ -1,0 +1,24 @@
+{
+  "source": "products/cat-litter-partner-300.html",
+  "slug": "products__cat-litter-partner-300",
+  "isPortal": false,
+  "head": {
+    "title": "Cat Litter Deodorizer Powder 300 g | Private Label",
+    "description": "Absorbs and decomposes litter box odor; accelerates clumping; extends litter life",
+    "canonical": "https://shenhezhongke.com/products/cat-litter-partner-300.html",
+    "ogTitle": "Cat Litter Deodorizer Powder 300 g | Private Label",
+    "ogDescription": "Absorbs and decomposes litter box odor; accelerates clumping; extends litter life",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [],
+    "hasGtm": false
+  },
+  "blocks": [],
+  "stats": {
+    "blocks": 0,
+    "richtextFallback": 0
+  }
+}

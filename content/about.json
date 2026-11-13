@@ -1,0 +1,172 @@
+{
+  "source": "about.html",
+  "slug": "about",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Care Products Manufacturers Since 2020 | SHENHE ZHONGKE",
+    "description": "SHENHE ZHONGKE — a pet care manufacturer in Heyuan, Guangdong, founded 2020. 20 private-label SKUs, 220 people, ISO 22716 GMP workshop, exports worldwide.",
+    "canonical": "https://shenhezhongke.com/about.html",
+    "ogTitle": "Pet Care Products Manufacturers Since 2020 | SHENHE ZHONGKE",
+    "ogDescription": "SHENHE ZHONGKE — A national high-tech pet care manufacturer founded 2020 in Heyuan, Guangdong. In-house R&D, 20 private-label SKUs across 4 product lines, formulas patented and verifiable. Independent export station serving global B2B partners.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": null,
+    "hreflang": [],
+    "jsonLd": [],
+    "hasGtm": true
+  },
+  "blocks": [
+    {
+      "classes": "pp-hero-simple",
+      "bg": "plain",
+      "type": "heroSimple",
+      "content": {
+        "title": "SHENHE ZHONGKE (深河中科) — a national high-tech pet care OEM and ODM manufacturer in China, exporting since 2020.",
+        "titleAccent": null,
+        "eyebrow": "About us",
+        "lead": "In-house R&D, mature product lines, and a self-built independent export company. We help global pet brands ship faster with formulas that are lab-verified, patented, and ready to scale.",
+        "actions": [
+          {
+            "href": "/contact.html",
+            "label": "Request a quotation",
+            "variant": "primary"
+          },
+          {
+            "href": "/factory.html",
+            "label": "Tour the Factory",
+            "variant": "ghost"
+          }
+        ],
+        "stats": [],
+        "panels": [],
+        "image": null,
+        "html": null,
+        "metrics": [
+          {
+            "value": "30,000 m²",
+            "label": "industrial park",
+            "note": "5,000 m² of it is GMP workshop"
+          },
+          {
+            "value": "220",
+            "label": "employees",
+            "note": "8 in-house chemists, 5 with a master’s"
+          },
+          {
+            "value": "6 years",
+            "label": "exporting since 2020",
+            "note": "30,000 m² of park in Heyuan, Guangdong"
+          },
+          {
+            "value": "1,000,000",
+            "label": "bottles a month",
+            "note": "6 production lines"
+          }
+        ]
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "A factory that publishes its own numbers",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n  <div class=\"pp-container\">\n    <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:44px;align-items:start;\">\n      <div>\n        <span class=\"pp-eyebrow\">Company</span>\n        <h2 class=\"pp-mt-2\">A factory that publishes its own numbers</h2>\n        <p class=\"pp-prose-loose\">We make pet care products: 20 SKUs across four lines &mdash; odor control and disinfection, grooming and care, outdoor protection, and pet nutrition. What we say about them is decided by the laboratory report, not by the brochure.</p>\n        <p class=\"pp-prose-loose\">We are a manufacturer, not a trader. When a batch fails the microbial check, the answer is not a discount and it is not a new supplier &mdash; it is the purified-water loop, the cleanroom class, or the order the preservative is added. We can change those because the line and the laboratory are both inside this plant.</p>\n        <p class=\"pp-prose-loose\">Our buyers are brand owners, importers, marketplace sellers and distributors, mainly in Russia, Brazil, the EAEU and the EU. Most of them start with one SKU and a sample, and the quote comes back within a working day.</p>\n        <p style=\"margin-top:20px;font-size:13px;color:#5B6670;\">Every licence number on this page can be checked against the scanned document on our <a href=\"/certifications.html\" style=\"color:#0a6e65;text-decoration:underline;\">certifications page</a>.</p>\n      </div>\n      <aside aria-labelledby=\"company-registration\" style=\"border:1px solid #E5E7EB;border-radius:16px;background:#fff;overflow:hidden;\">\n        <div id=\"company-registration\" style=\"padding:12px 18px;background:#F7FAFA;border-bottom:1px solid #E5E7EB;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#4B5563;font-weight:600;\">Company registration</div>\n        <dl style=\"margin:0;\">\n          <div style=\"padding:13px 18px;border-bottom:1px solid #F1F5F9;\">\n            <dt style=\"font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#6B7680;\">Legal name</dt>\n            <dd style=\"margin:5px 0 0;font-size:14px;line-height:1.55;color:#1F2A2E;\">Guangdong Shenhe Zhongke Biotechnology Co., Ltd.<br><span style=\"font-size:13px;color:#5B6670;\">广东深河中科生物科技有限公司</span></dd>\n          </div>\n          <div style=\"padding:13px 18px;border-bottom:1px solid #F1F5F9;\">\n            <dt style=\"font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#6B7680;\">Established</dt>\n            <dd style=\"margin:5px 0 0;font-size:14px;line-height:1.55;color:#1F2A2E;\">2020 <span style=\"font-size:13px;color:#5B6670;\">&middot; registered 31 March 2020</span></dd>\n          </div>\n          <div style=\"padding:13px 18px;border-bottom:1px solid #F1F5F9;\">\n            <dt style=\"font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#6B7680;\">Address</dt>\n            <dd style=\"margin:5px 0 0;font-size:14px;line-height:1.55;color:#1F2A2E;\">No.141-1 Longteng Road, Gaopugang, Yuancheng District, Heyuan, Guangdong<br><span style=\"font-size:13px;color:#5B6670;\">广东省河源市源城区高埔岗龙腾路 141 号-1</span></dd>\n          </div>\n          <div style=\"padding:13px 18px;border-bottom:1px solid #F1F5F9;background:#FFF8F0;\">\n            <dt style=\"font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#9A5B1E;\">Business licence</dt>\n            <dd style=\"margin:5px 0 0;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:15px;letter-spacing:.04em;color:#1F2A2E;\">91441602MA54FNBG55</dd>\n          </div>\n          <div style=\"padding:13px 18px;background:#0F2E2B;\">\n            <dt style=\"font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#9FD8CF;\">Business scope</dt>\n            <dd style=\"margin:5px 0 0;font-size:13px;line-height:1.6;color:#F2FAF8;\">Production of disinfectants, feed and feed additives; manufacture of environmental protection equipment and eco-materials; bio-fertiliser R&amp;D; import and export. <span style=\"color:#9FD8CF;\">Licensed items per the business licence.</span></dd>\n          </div>\n        </dl>\n      </aside>\n    </div>\n    <figure style=\"margin:40px 0 0;border-radius:var(--pp-radius-xl,16px);overflow:hidden;box-shadow:0 12px 32px rgba(15,23,42,0.12);\">\n      <img src=\"/assets/img/factory/factory-exterior-1344x768.png\" alt=\"SHENHE ZHONGKE 30,000m² industrial park — Heyuan, Guangdong\" loading=\"lazy\" style=\"width:100%;height:auto;display:block;\">\n      <figcaption style=\"padding:14px 18px;background:var(--pp-white,#fff);color:var(--pp-ink-700,#374151);font-size:var(--pp-text-sm,13px);text-align:center;border-top:1px solid var(--pp-ink-100,#f1f5f9);\">\n        30,000m² industrial park &middot; Heyuan, Guangdong &middot; 3,000m² office + 5,000m² GMP workshop\n      </figcaption>\n    </figure>\n  </div>\n</section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "What drives every batch we ship",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title pp-text-center\" >\n          <span class=\"pp-eyebrow\">Mission · Vision · Values</span>\n          <h2>What drives every batch we ship</h2>\n        </div>\n        <div class=\"pp-grid pp-grid--3 pp-mt-8\" >\n          <div class=\"pp-feature-card pp-feature-card--padded pp-feature-card--featured\">\n            <h3>\n              <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-clock/\"></svg>\n              Mission\n            </h3>\n            <p  class=\"pp-prose\">Make legal, safe, and highly effective pet care products accessible to brands in every market. Every formula we ship must earn a third-party lab stamp before it leaves the park.</p>\n          </div>\n          <div class=\"pp-feature-card pp-feature-card--padded\">\n            <h3>\n              <svg class=\"pp-mv-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/></svg>\n              Vision\n            </h3>\n            <p  class=\"pp-prose\">Be the OEM/ODM partner of choice for independent pet brands worldwide — known for formula transparency, R&amp;D depth, and on-time, on-spec delivery.</p>\n          </div>\n          <div class=\"pp-feature-card pp-feature-card--padded\">\n            <h3>\n              <svg class=\"pp-mv-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>\n              Values\n            </h3>\n            <p  class=\"pp-prose\">Quality first. Customer-led. Transparent documentation. Plant-based ingredients. Cruelty-free formulations. These are not slogans — they show up in our lab reports, lead times, and MSDS.</p>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "cardGrid",
+      "content": {
+        "cols": 4,
+        "cards": [
+          {
+            "kind": "card",
+            "stat": "5+",
+            "html": "<div class=\"pp-card\">\n            <div  class=\"pp-stat-big\">5+</div>\n            <div  class=\"pp-small-text\">Major export regions</div>\n          </div>"
+          },
+          {
+            "kind": "card",
+            "stat": "FOB",
+            "html": "<div class=\"pp-card\">\n            <div  class=\"pp-stat-big\">FOB</div>\n            <div  class=\"pp-small-text\">Guangzhou / Shenzhen</div>\n          </div>"
+          },
+          {
+            "kind": "card",
+            "stat": "USD / EUR / RMB",
+            "html": "<div class=\"pp-card\">\n            <div  class=\"pp-stat-big\">USD / EUR / RMB</div>\n            <div  class=\"pp-small-text\">Multi-currency invoicing</div>\n          </div>"
+          },
+          {
+            "kind": "card",
+            "stat": "L/C, T/T",
+            "html": "<div class=\"pp-card\">\n            <div  class=\"pp-stat-big\">L/C, T/T</div>\n            <div  class=\"pp-small-text\">Payment terms flexible</div>\n          </div>"
+          }
+        ]
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Every formula is owned, registered, and verifiable",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title pp-text-center\" >\n          <span class=\"pp-eyebrow\">Patents &amp; IP</span>\n          <h2>Every formula is owned, registered, and verifiable</h2>\n          <p  class=\"pp-lead-narrow\">Our technical team develops and registers the IP behind every product on this site. You can request the full patent register and certificate copies during the RFQ process.</p>\n        </div>\n        <div class=\"pp-grid pp-grid--2 pp-mt-8\" >\n          <div class=\"pp-feature-card pp-feature-card--accent\">\n            <span class=\"pp-pill\">Formula</span>\n            <div class=\"pp-feature-card__no\" style=\"margin-top: 8px;\">Registered formula composition</div>\n            <h3>Bio-enzyme + probiotic deodorizing complex</h4>\n            <p>The active complex behind our 94.2% ammonia and H₂S removal performance in pet deodorizing sprays. Built around enzyme preparations and probiotic strains, not masking fragrances.</p>\n          </div>\n          <div class=\"pp-feature-card pp-feature-card--accent\">\n            <span class=\"pp-pill\">Formula</span>\n            <div class=\"pp-feature-card__no\" style=\"margin-top: 8px;\">Registered formula composition</div>\n            <h3>Stabilized chlorine dioxide disinfectant system</h4>\n            <p>The active system behind our &gt;99.999% kill rate on E. coli, S. aureus, and C. albicans (reports 2024FM11610R01D and 2024FM12662R01Da) — and the feline ringworm treatment at ≥50 ppm.</p>\n          </div>\n          <div class=\"pp-feature-card pp-feature-card--accent\">\n            <span class=\"pp-pill\">Formula</span>\n            <div class=\"pp-feature-card__no\" style=\"margin-top: 8px;\">Registered formula composition</div>\n            <h3>Plant-based insect repellent blend</h4>\n            <p>Stemona + Sophora + Citronella + Mugwort combination, boosted with nano-silver ions. Used in our outdoor protection line.</p>\n          </div>\n          <div class=\"pp-feature-card pp-feature-card--accent\">\n            <span class=\"pp-pill\">Design / Utility</span>\n            <div class=\"pp-feature-card__no\" style=\"margin-top: 8px;\">Patented &amp; registrable</div>\n            <h3>Trigger-lock spray gun &amp; packaging system</h4>\n            <p>The hardware behind the spray gun kit, including the trigger-lock safety design. Design and utility model patents are registered and transferable to your brand.</p>\n          </div>\n        </div>\n        <p style=\"text-align: center; margin-top: var(--pp-space-6); color: var(--pp-ink-600); font-size: var(--pp-text-sm);\">Patent certificates, formula disclosures, and IP assignment documents are available under NDA. <a href=\"/contact.html\"  class=\"pp-accent-bold\">Request IP dossier →</a></p>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Six years of compounding capability",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--2 pp-grid-align-start\" >\n          <div>\n            <span class=\"pp-eyebrow\">Milestones</span>\n            <h2  class=\"pp-mt-2\">Six years of compounding capability</h2>\n            <p style=\"color: var(--pp-ink-700); line-height: 1.7; margin-top: var(--pp-space-4);\">We don't claim a flash-in-the-pan story. SHENHE ZHONGKE has shipped every year since 2020, and each milestone below was paid for by an actual customer shipment — not a press release.</p>\n            <div style=\"margin-top: var(--pp-space-6); display: flex; flex-wrap: wrap; gap: var(--pp-space-3);\">\n              <span class=\"pp-pill\">2020 founded</span>\n              <span class=\"pp-pill\">2021 4 product lines</span>\n              <span class=\"pp-pill\">2024 Formula IP registered</span>\n              <span class=\"pp-pill\">2025 300K bottles / month</span>\n              <span class=\"pp-pill\">2026 1M bottles / month</span>\n            </div>\n            <p style=\"color: var(--pp-ink-700); line-height: 1.7; margin-top: var(--pp-space-6);\">This independent export company you are reading was launched in 2024 to consolidate our global brand-client relationships under one direct, transparent storefront — replacing the patchwork of marketplace listings and ad-hoc RFQ emails.</p>\n          </div>\n          <div class=\"pp-timeline\">\n            <div class=\"pp-timeline-item\">\n              <div class=\"pp-timeline-year\">2020</div>\n              <div class=\"pp-timeline-title\">Incorporation &amp; first GMP-ready workshop</div>\n              <div class=\"pp-timeline-desc\">Registered as Guangdong Shenhe Zhongke Biotechnology Co., Ltd. First 1,000m² GMP-aligned workshop commissioned in Heyuan, Guangdong.</div>\n            </div>\n            <div class=\"pp-timeline-item\">\n              <div class=\"pp-timeline-year\">2021</div>\n              <div class=\"pp-timeline-title\">Four product lines live</div>\n              <div class=\"pp-timeline-desc\">Deodorizing, grooming, outdoor protection, and pet nutrition lines all in commercial production. First university R&amp;D partnership signed.</div>\n            </div>\n            <div class=\"pp-timeline-item\">\n              <div class=\"pp-timeline-year\">2024</div>\n              <div class=\"pp-timeline-title\">16 patented SKUs · independent export company</div>\n              <div class=\"pp-timeline-desc\">All 20 SKUs carry registered formula or design IP. This site goes live as our global brand-client storefront.</div>\n            </div>\n            <div class=\"pp-timeline-item\">\n              <div class=\"pp-timeline-year\">2026</div>\n              <div class=\"pp-timeline-title\">Capacity expanded to 1M bottles / month</div>\n              <div class=\"pp-timeline-desc\">Capacity line upgraded. Monthly output now 1,000,000 bottles with documented 25–40 day lead times.</div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-cta-banner",
+      "bg": "plain",
+      "type": "cta",
+      "content": {
+        "title": "See the factory, the lab, and the formulas behind your brand",
+        "eyebrow": null,
+        "actions": [
+          {
+            "href": "/factory.html",
+            "label": "Tour the Factory",
+            "variant": "primary"
+          },
+          {
+            "href": "/capabilities.html",
+            "label": "R&D & QC",
+            "variant": "outlineWhite"
+          },
+          {
+            "href": "/contact.html",
+            "label": "Start Your RFQ",
+            "variant": "outlineWhite"
+          }
+        ],
+        "html": null,
+        "text": "Walk the 30,000m² park, meet the technical team, and audit the QC process — in person or via our video audit pack."
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 7,
+    "richtextFallback": 0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://shenhezhongke.com/",
+      "service-desc": [
+        {
+          "href": "https://shenhezhongke.com/.well-known/openapi.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://shenhezhongke.com/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://shenhezhongke.com/.well-known/version.json",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://shenhezhongke.com/api/inquiries",
+      "service-desc": [
+        {
+          "href": "https://shenhezhongke.com/.well-known/openapi.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://shenhezhongke.com/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://shenhezhongke.com/.well-known/version.json",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
+}

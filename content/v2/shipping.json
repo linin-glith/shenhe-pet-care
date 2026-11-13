@@ -1,0 +1,59 @@
+{
+  "_note": "Shipment & logistics facts. ONE source for the web page and the downloadable TRADE-COMPLIANCE.md (scripts/build_trade_compliance_md.py reads this file too). Every value is transcribed from the factory's own knowledge base (public/assets/data/faq.json) or from the terms already published on the contact and terms pages. Nothing here is a price: freight is quote-per-lane, the same rule as the unit price. Production lead times are NOT here — they are derived from lib/products.json so they cannot drift.",
+  "channels": [
+    {
+      "id": "sea-fob",
+      "label": "Sea freight — FOB Guangzhou / Shenzhen",
+      "transit": "25–35 days to Europe and the US West Coast; 35–45 days to the US East Coast",
+      "note": "The default lane for bulk palletised orders. Cheapest per unit, slowest to arrive.",
+      "doorToDoor": false
+    },
+    {
+      "id": "sea-ddp",
+      "label": "Sea freight — DDP to your warehouse",
+      "transit": "40–50 days door-to-door",
+      "note": "We handle export customs, ocean freight, import clearance and the final mile. Duty and tax are inside the quote.",
+      "doorToDoor": true
+    },
+    {
+      "id": "air",
+      "label": "Air freight",
+      "transit": "5–7 days door-to-door",
+      "note": "For launches and restocks where the shelf date matters more than the freight bill.",
+      "doorToDoor": false
+    },
+    {
+      "id": "express",
+      "label": "Express courier — DHL / FedEx / UPS",
+      "transit": "3–5 days",
+      "note": "Samples and urgent top-ups. Freight is paid by the buyer.",
+      "doorToDoor": false
+    }
+  ],
+  "incoterms": {
+    "default": "FOB Guangzhou / Shenzhen (ICC Publication 723E)",
+    "available": ["EXW", "FCA", "CIF", "CFR", "DAP", "DDP", "DPU"],
+    "note": "Risk transfers at the named port of loading. Any other term is quoted on request."
+  },
+  "tracking": {
+    "document": "Bill of lading (B/L) for sea, air waybill (AWB) for air and courier",
+    "flow": "35% prepaid by the buyer when the order is placed → production completed → the logistics order number is issued and confirmed with the buyer → the balance is collected → the goods ship.",
+    "issuance": "Issued when production is complete, and confirmed with the buyer before the balance is settled — so you have the tracking number before the goods move. On sea the B/L is the title document; on air and courier it is the AWB or courier tracking number.",
+    "samples": "Samples are dispatched with a courier tracking number within 48 hours.",
+    "howToUse": "Sea: the B/L number is your container number and can be tracked through the forwarder. Air and courier: the AWB or courier number is trackable from the first scan."
+  },
+  "documents": [
+    "Commercial invoice (with HS code)",
+    "Packing list",
+    "Bill of lading (B/L) or air waybill (AWB)",
+    "Certificate of origin (COO) China",
+    "MSDS",
+    "INCI disclosure",
+    "COA for every production batch"
+  ],
+  "freight": {
+    "basis": "Quoted per lane against your destination, the volume and the Incoterms term, and shown separately from the product price so you can compare suppliers on the same basis.",
+    "samples": "Sample freight is paid by the buyer: USD 30–80 via DHL / FedEx / UPS depending on weight and destination.",
+    "ddp": "On a DDP lane the freight, import duty and tax are one quote — no separate customs invoice to settle."
+  }
+}

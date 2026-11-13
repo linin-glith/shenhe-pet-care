@@ -1,0 +1,35 @@
+{
+ "source": "privacy.html",
+ "slug": "privacy",
+ "isPortal": false,
+ "head": {
+  "title": "Privacy Policy · SHENHE ZHONGKE",
+  "description": "Privacy policy of SHENHE ZHONGKE — how we collect, store and protect customer data on shenhezhongke.com. Covers enquiry forms, accounts and analytics.",
+  "canonical": "https://shenhezhongke.com/privacy.html",
+  "ogTitle": "Privacy Policy · SHENHE ZHONGKE",
+  "ogDescription": "Privacy policy of SHENHE ZHONGKE — how we collect, store, and protect customer data on shenhezhongke.com. Covers enquiry forms, customer accounts, and analytics.",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": true
+ },
+ "blocks": [
+  {
+   "classes": "pp-section pp-section--sm",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": "1. Who we are",
+    "sub": null,
+    "html": "<section class=\"pp-section pp-section--sm\">\n      <div class=\"pp-container pp-container--narrow\">\n        <h1>Privacy Policy</h1>\n        <p style=\"color: var(--pp-ink-500); font-size: var(--pp-text-sm);\">Last updated: 2026-11-04</p>\n\n        <h2>1. Who we are</h2>\n        <p>SHENHE ZHONGKE (Guangdong Shenhe Zhongke Biotechnology Co., Ltd., hereinafter \"we\" or \"us\") operates the website shenhezhongke.com. We are a B2B pet care manufacturer based in Heyuan, Guangdong, China.</p>\n\n        <h2>2. What data we collect</h2>\n        <p>We collect the minimum data needed to respond to your B2B enquiry:</p>\n        <ul>\n          <li><strong>Enquiry form data</strong>: name, company, email, phone, country, message</li>\n          <li><strong>Technical data</strong>: IP address, browser type, referrer, pages visited (for site analytics — only with your consent)</li>\n          <li><strong>Screen recordings</strong>: if you accept analytics, Microsoft Clarity records what is on your screen while you browse, so we can see where a page is unclear or a form is confusing. The text you type into a form is masked, and Clarity does not store it.</li>\n          <li><strong>What you type into this site</strong>: if you start an enquiry and do not send it, or you ask our assistant a question, that text is kept in your own browser so it is not lost. It reaches us only when you send it yourself.</li>\n        </ul>\n        <p>Your language is part of the address you are reading, not something we keep a record of.</p>\n\n        <h2>3. How we use it</h2>\n        <ul>\n          <li>To respond to your enquiry (within one business day)</li>\n          <li>To send product updates only if you opt in</li>\n          <li>To improve site performance (anonymized analytics only)</li>\n        </ul>\n\n        <h2>4. Cookies</h2>\n        <p>Until you accept analytics, no tracking cookie is set on this site. We keep your consent choice and your unfinished work in your browser's own storage rather than in cookies, and those entries do not leave your browser unless you send them. See our <a href=\"#cookies\">cookie section</a> for the full detail.</p>\n\n        <h2 id=\"cookies\">5. Cookie details</h2>\n        <ul>\n          <li><strong>Essential</strong>: your consent choice (localStorage: <code>shenhe:consent:v1</code>). It is written whether you accept or not, because the site has to remember your answer.</li>\n          <li><strong>Analytics</strong>: written only when you press \"Accept analytics\".\n            <ul>\n              <li><strong>Google Analytics 4</strong> (Google Ireland Limited, Dublin, Ireland) counts visits and shows which pages are read. It runs in Google Consent Mode: before you accept, only a cookieless count is sent — no identifier is assigned and no trail follows you across visits. After you accept it sets the cookies <code>_ga</code> and <code>_ga_&lt;measurement-id&gt;</code>.</li>\n              <li><strong>Microsoft Clarity</strong> (Microsoft Corporation, USA) records your screen and your clicks, so we can find out where buyers get stuck. The script is loaded on every public page, but it stays in its limited, cookieless mode until you accept: only then does it record sessions and set the cookies <code>_clck</code> and <code>_clsk</code>. Fields inside forms are masked, so what you type is not stored by Clarity.</li>\n            </ul>\n          </li>\n          <li><strong>Marketing</strong>: we run no advertising or marketing tag, we never ask for marketing consent, and no advertising cookie is set. The advertising permission we send to both tools is always <code>denied</code>.</li>\n        </ul>\n        <p>You can withdraw or change your decision at any time with the \"Cookie settings\" link in the footer. Withdrawing is as easy as accepting, and it takes effect from the next page you open.</p>\n\n        <h2 id=\"browser\">6. What is kept in your browser</h2>\n        <p>These entries live in your browser's localStorage. They are not on our servers, and they are not sent to us unless you send the enquiry yourself.</p>\n        <ul>\n          <li><code>shenhe:consent:v1</code> — your consent choice</li>\n          <li><code>shenhe:inquiry-queue:v1</code> — an enquiry you started and did not send: the product, the quantity and how to reach you</li>\n          <li><code>shenhe:asked-questions:v1</code> — the questions you have asked on the page. A question you ask is also handed to our WhatsApp channel, which a person reads.</li>\n          <li><code>shenhe:chat-subject:v1</code> — the product you were last looking at</li>\n          <li><code>shenhe:chat-log:v1</code> — a local log of your conversations with our assistant, including what you wrote</li>\n        </ul>\n\n        <h2>7. Your rights (GDPR)</h2>\n        <p>If you are in the EU, you have the right to access, correct, delete, and export your data. Contact us at sales@shenhezhongke.com.</p>\n\n        <h2>8. Data retention</h2>\n        <p>Enquiry data is kept for 24 months. You can request deletion at any time.</p>\n\n        <h2>9. Contact</h2>\n        <p>For privacy questions: <a href=\"mailto:sales@shenhezhongke.com\">sales@shenhezhongke.com</a></p>\n      </div>\n    </section>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 1,
+  "richtextFallback": 0
+ }
+}

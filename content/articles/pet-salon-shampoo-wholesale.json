@@ -1,0 +1,81 @@
+{
+  "slug": "pet-salon-shampoo-wholesale",
+  "category": "sourcing",
+  "date": "2026-10-23",
+  "reviewedBy": "compliance",
+  "seo": {
+    "title": "Pet Salon Shampoo Wholesale: What to Ask a Supplier",
+    "description": "Salon buying shampoo by the carton: why per-bottle count and carton weight decide the landed cost, and the five questions to ask. And the five questions."
+  },
+  "faq": [
+    {
+      "q": "What is the minimum order for pet salon shampoo?",
+      "a": "The standard minimum across the grooming line is 2,000 bottles per SKU. Two catalogue lines — the odor control set and the spray gun kit — start lower. The figure that applies to your order is confirmed once the SKU and quantity are known."
+    },
+    {
+      "q": "Do salons usually buy shampoo or wipes and foams?",
+      "a": "Both, and for different reasons. A liquid shampoo is the full-bath workhorse; a no-rinse foam is for spot cleaning between appointments and for animals too stressed for a full bath. A salon running high volumes typically carries one liquid format in two sizes and one foam."
+    },
+    {
+      "q": "Can a shampoo be private labelled for a salon brand?",
+      "a": "Private label covers the bottle, label, box and colour, and the formula itself can be ours or developed for you. Lead time and cost depend on whether the formula is new and whether the label artwork is new, so both are confirmed against the specific project."
+    },
+    {
+      "q": "What HS code does pet shampoo ship under?",
+      "a": "The grooming shampoos in this catalogue ship under 3307.10, which is the soap heading. Ear cleansing and paw gel sit under 3307.90, and the pet laundry detergent under 3402.20. The classification follows the product, so it is worth confirming before labelling."
+    }
+  ],
+  "body": [
+    {
+      "type": "lead",
+      "html": "<p>A salon does not buy shampoo the way a household does. A household buys one bottle and wants it to be good. A salon buys by the carton, repeats the order every few weeks, and its cost per bath is decided by two numbers that rarely appear on a product page: how many bottles are in a carton, and what that carton weighs.</p><p>This page covers what a salon, a mobile groomer or a distributor needs to evaluate a supplier — the commercial figures are confirmed against your enquiry, but the framework is stated here so you can ask the right questions.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Cost per bath is the only number that matters"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Take a 500 mL shampoo. A carton holds 12 bottles and weighs 8 kg. A 300 mL bottle in the same family ships 12 per carton at 6.8 kg, and a 200 mL bottle ships <em>24</em> per carton at 5.5 kg.</p><p>Work out the cost per bath before comparing anything. A 500 mL bottle used for one large dog produces roughly two baths; a 300 mL bottle used for one medium dog produces one. The 200 mL format, despite being the smallest per unit, often has the lowest cost per bath in the range, because the carton carries twice the bottle count at a lower gross weight — which is what determines your freight bill.</p><p>This is the arithmetic that decides whether a supplier is cheap or expensive for you, and it takes two minutes with the carton figures.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "The three formats a salon actually stocks"
+    },
+    {
+      "type": "prose",
+      "html": "<p><strong>Liquid shampoo, two sizes.</strong> One large format for double-coated breeds and one smaller for cats and small dogs. The grooming line runs a 500 mL shampoo and a multi-purpose wash in both 300 mL and 200 mL.</p><p><strong>No-rinse foam.</strong> The format that earns its place in a salon is not the bath replacement — it is the between-appointments clean, and the animal too stressed or too old for a full bath. It comes in 500 mL and 300 mL here, and a dedicated 200 mL paw format.</p><p><strong>Laundry detergent.</strong> Under-rated and often overlooked: towels, bedding and grooming cloths carry the same odor as the animal, and a 1.5 kg bottle at 6 per carton is a high-turnover line for a salon doing many animals a day.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Private label for a salon brand"
+    },
+    {
+      "type": "prose",
+      "html": "<p>If you are building a salon-owned brand, private label covers bottle, label, box and colour, with EN and Chinese label compliance for the destination market. The formula can be ours or developed for you.</p><p>The two variables that change the timeline are worth asking about early: whether the formula is new, and whether the label artwork is new. Both add time before the filling run can be scheduled. Production time and cost for a private-label programme are confirmed against the specific brief.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Documentation a salon distributor should require"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Four documents, every shipment:</p><p>A <strong>batch certificate of analysis</strong>, specific to the lot, not a generic one. A <strong>16-language safety data sheet</strong>. The <strong>commercial invoice with the HS code</strong> on it. A <strong>certificate of origin</strong>.</p><p>For any product making a biocidal claim — antibacterial, antifungal, mite control — ask whether the manufacturer publishes its third-party laboratory determinations and whether you may cite them in your own marketing. If the answer is no, plan your own substantiation before you launch rather than after a complaint.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "The questions to put to a supplier"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Send this list and compare the answers side by side:</p><p>How many bottles per carton, and what is the gross carton weight? What is the minimum order per SKU? What is the production time for that quantity, and how does it change for private label? Which HS code does each format ship under? What documentation travels with every consignment? Do you publish your laboratory determinations?</p><p>A supplier who answers all six with figures is manufacturing. One who answers with adjectives is trading, and the difference will surface in the carton specification or the lead time.</p>"
+    }
+  ],
+  "relatedProducts": [
+    { "id": "P012", "note": "500 mL shampoo — 12 per carton, 8 kg. The full-bath workhorse" },
+    { "id": "P010", "note": "300 mL multi-purpose wash — 12 per carton, 6.8 kg, antibacterial" },
+    { "id": "P011", "note": "200 mL multi-purpose wash — 24 per carton, 5.5 kg. Usually the lowest cost per bath" },
+    { "id": "P014", "note": "500 mL no-rinse foam — for spot cleaning between appointments" },
+    { "id": "P017", "note": "1.5 kg laundry detergent — 6 per carton, 10.5 kg. Towels and bedding" }
+  ]
+}

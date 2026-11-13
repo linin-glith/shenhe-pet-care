@@ -1,0 +1,749 @@
+/* =============================================================
+   15. CHAT ENTRY
+   A detailed enquiry about one product, from any page. It sits
+   in the same corner as the back-to-top button, stacked above it.
+   ============================================================= */
+
+/* The stack: panel on top, button underneath, both pinned to the
+   bottom-right corner. The button sits ABOVE the back-to-top button
+   (which owns bottom: 1.25rem), so the two never overlap. */
+.chat-dock {
+  position: fixed;
+  right: 1.25rem;
+  /* Slot 2 of the bottom-right corner. The back-to-top button has slot 1
+     and the RAG assistant slot 3, so the three never share a spot. */
+  bottom: calc(var(--v2-float-slot-2) + var(--v2-float-shift, 0rem));
+  z-index: 62;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.625rem;
+}
+
+/* The conversion dock is a full-width strip on the bottom edge. The
+   stack lifts with it, the same way the back-to-top button does. */
+.chat-dock--over-dock {
+  bottom: calc(var(--v2-float-slot-2) + var(--v2-float-shift, 0rem));
+}
+
+.chat-entry {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: var(--v2-accent-600);
+  color: #fff;
+  border: 1px solid transparent;
+  box-shadow: 0 12px 28px -14px rgb(11 15 18 / 0.55);
+  cursor: pointer;
+  transition: transform 180ms cubic-bezier(0.16, 1, 0.3, 1), background-color 160ms ease,
+    box-shadow 160ms ease;
+}
+.chat-entry:hover {
+  background: var(--v2-accent-700);
+  transform: translateY(-2px);
+}
+.chat-entry:focus-visible {
+  outline: 2px solid var(--v2-accent-600);
+  outline-offset: 2px;
+}
+
+/* ---- the panel ---- */
+.chat-panel {
+  width: min(21.5rem, calc(100vw - 2rem));
+  border-radius: 1rem;
+  background: #fff;
+  border: 1px solid var(--v2-ink-200);
+  box-shadow: 0 24px 60px -28px rgb(11 15 18 / 0.45);
+  padding: 1.125rem 1.125rem 1rem;
+  text-align: left;
+  animation: chat-panel-in 180ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes chat-panel-in {
+  from {
+    opacity: 0;
+    transform: translateY(0.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.chat-panel__head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.875rem;
+}
+
+.chat-panel__title {
+  font-family: var(--font-display);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--v2-ink-900);
+  line-height: 1.2;
+}
+
+.chat-panel__sub {
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: var(--v2-ink-500);
+}
+
+.chat-panel__meta {
+  display: block;
+  margin-top: 0.125rem;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.02em;
+  color: var(--v2-ink-400);
+}
+
+.chat-panel__close {
+  flex: none;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--v2-ink-400);
+  padding: 0.25rem 0.375rem;
+  border-radius: 0.375rem;
+  cursor: pointer;
+}
+.chat-panel__close:hover {
+  color: var(--v2-ink-700);
+  background: var(--v2-ink-050);
+}
+.chat-panel__close:focus-visible {
+  outline: 2px solid var(--v2-accent-600);
+  outline-offset: 1px;
+}
+
+.chat-panel__label {
+  display: block;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--v2-ink-400);
+  margin-bottom: 0.375rem;
+}
+
+.chat-panel__input {
+  width: 100%;
+  resize: vertical;
+  min-height: 4.5rem;
+  border-radius: 0.625rem;
+  border: 1px solid var(--v2-ink-200);
+  background: var(--v2-ink-050);
+  padding: 0.625rem 0.75rem;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  color: var(--v2-ink-900);
+}
+.chat-panel__input:focus {
+  outline: 2px solid var(--v2-accent-600);
+  outline-offset: 1px;
+  background: #fff;
+}
+
+.chat-panel__note {
+  margin-top: 0.5rem;
+  font-size: 0.6875rem;
+  line-height: 1.5;
+  color: var(--v2-ink-400);
+}
+
+.chat-panel__actions {
+  display: flex;
+  align-items: center;
+  gap: 0.875rem;
+  margin-top: 0.875rem;
+}
+
+.chat-panel__send {
+  border-radius: 999px;
+  background: var(--v2-accent-600);
+  color: #fff;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.chat-panel__send:hover {
+  background: var(--v2-accent-700);
+}
+.chat-panel__send:focus-visible {
+  outline: 2px solid var(--v2-accent-600);
+  outline-offset: 2px;
+}
+
+.chat-panel__link {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--v2-accent-700);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.chat-panel__link:hover {
+  color: var(--v2-accent-800);
+}
+
+.chat-panel__sent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+  font-size: 0.8125rem;
+  line-height: 1.55;
+  color: var(--v2-ink-600);
+}
+.chat-panel__sent-icon {
+  display: grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 999px;
+  background: var(--v2-accent-050);
+  color: var(--v2-accent-700);
+}
+
+@media (max-width: 640px) {
+  .chat-dock {
+    right: 0.875rem;
+    bottom: 4.375rem;
+  }
+  .chat-dock--over-dock {
+    bottom: 7.875rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .chat-panel {
+    animation: none;
+  }
+  .chat-entry {
+    transition: none;
+  }
+}
+
+/* =============================================================
+   CHATBOT STYLES
+
+   The assistant was written years before the v3 visual system and had
+   no stylesheet at all — every one of its 31 class names resolved to
+   nothing, which is why it was never mounted. These rules give it the
+   v3 language: deep ink surfaces, one teal accent used only on the
+   interactive points, hairlines instead of shadows, and type that
+   matches the rest of the site.
+   ============================================================= */
+
+.pp-chatbot-root {
+  position: fixed;
+  right: 1.25rem;
+  /* Slot 3 of the bottom-right corner.
+   *
+   * It used to be placed by a set of :has() rules that asked whether the
+   * product-chat dock was its next sibling, and whether that dock was over
+   * the conversion rail. The answer depended on the order two independent
+   * widgets happened to mount in, and when the rail came up the assistant
+   * landed on the chat entry's slot - which is what the buyer saw: two
+   * circles on top of each other in the corner.
+   *
+   * The slot is fixed now, and the whole stack moves together when the rail
+   * is up. */
+  bottom: calc(var(--v2-float-slot-3) + var(--v2-float-shift, 0rem));
+  z-index: 61;
+  font-family: inherit;
+}
+
+/* ---------- the launcher ---------- */
+.pp-chat-fab {
+  width: 2.75rem;
+  height: 2.75rem;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--v2-ink-900);
+  border-radius: 999px;
+  background: var(--v2-ink-900);
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 6px 20px -8px rgb(15 23 32 / 45%);
+  transition: background 0.18s ease, transform 0.18s ease;
+}
+.pp-chat-fab:hover {
+  background: var(--v2-accent-700);
+  border-color: var(--v2-accent-700);
+}
+.pp-chat-fab:focus-visible {
+  outline: 2px solid var(--v2-accent-600);
+  outline-offset: 2px;
+}
+.pp-chat-fab.is-active {
+  background: var(--v2-accent-700);
+  border-color: var(--v2-accent-700);
+}
+
+.pp-chat-fab__icon-open { display: block; }
+.pp-chat-fab__icon-close { display: none; }
+.pp-chat-fab.is-active .pp-chat-fab__icon-open { display: none; }
+.pp-chat-fab.is-active .pp-chat-fab__icon-close { display: block; }
+
+.pp-chat-fab__badge {
+  position: absolute;
+  top: -0.125rem;
+  right: -0.125rem;
+  min-width: 1.125rem;
+  height: 1.125rem;
+  padding: 0 0.25rem;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--v2-accent-600);
+  color: #fff;
+  font-size: 0.625rem;
+  font-weight: 700;
+  line-height: 1;
+}
+.pp-chat-fab { position: relative; }
+
+/* ---------- the panel ---------- */
+.pp-chat {
+  position: absolute;
+  right: 0;
+  bottom: 3.5rem;
+  width: min(23rem, calc(100vw - 2.5rem));
+  display: none;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--v2-ink-200);
+  border-radius: 0.875rem;
+  background: #fff;
+  box-shadow: 0 24px 48px -20px rgb(15 23 32 / 35%);
+}
+.pp-chat.is-open { display: flex; }
+
+.pp-chat__header {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  padding: 0.75rem 0.875rem;
+  background: var(--v2-ink-900);
+  color: #fff;
+}
+.pp-chat__avatar {
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 999px;
+  background: var(--v2-accent-600);
+  color: #fff;
+  flex-shrink: 0;
+}
+.pp-chat__title { flex: 1; min-width: 0; }
+.pp-chat__name {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+.pp-chat__status {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  margin-top: 0.125rem;
+  font-size: 0.6875rem;
+  color: rgb(255 255 255 / 65%);
+}
+.pp-chat__dot {
+  width: 0.375rem;
+  height: 0.375rem;
+  border-radius: 999px;
+  background: var(--v2-accent-500);
+}
+.pp-chat__close {
+  border: 0;
+  background: transparent;
+  color: rgb(255 255 255 / 70%);
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 0.375rem;
+}
+.pp-chat__close:hover { color: #fff; background: rgb(255 255 255 / 10%); }
+
+/* ---------- the transcript ---------- */
+.pp-chat__body {
+  flex: 1;
+  min-height: 15rem;
+  max-height: 22rem;
+  overflow-y: auto;
+  padding: 0.875rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+  background: var(--v2-ink-050);
+}
+
+.pp-chat__bubble {
+  max-width: 88%;
+  padding: 0.5625rem 0.75rem;
+  border-radius: 0.75rem;
+  font-size: 0.8125rem;
+  line-height: 1.55;
+}
+.pp-chat__bubble--bot {
+  align-self: flex-start;
+  background: #fff;
+  border: 1px solid var(--v2-ink-200);
+  color: var(--v2-ink-800);
+  border-bottom-left-radius: 0.25rem;
+}
+.pp-chat__bubble--user {
+  align-self: flex-end;
+  background: var(--v2-ink-900);
+  color: #fff;
+  border-bottom-right-radius: 0.25rem;
+}
+.pp-chat__bubble strong { font-weight: 600; }
+
+/* ---------- quick suggestions ---------- */
+.pp-chat__suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  padding: 0.625rem 0.875rem;
+  border-top: 1px solid var(--v2-ink-150);
+  background: #fff;
+}
+.pp-chat__chip {
+  padding: 0.3125rem 0.625rem;
+  border: 1px solid var(--v2-ink-200);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--v2-ink-700);
+  font-size: 0.6875rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+.pp-chat__chip:hover {
+  border-color: var(--v2-accent-600);
+  color: var(--v2-accent-700);
+}
+
+/* ---------- the input ---------- */
+.pp-chat__form {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.625rem 0.875rem;
+  border-top: 1px solid var(--v2-ink-150);
+  background: #fff;
+}
+.pp-chat__input {
+  flex: 1;
+  min-width: 0;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--v2-ink-200);
+  border-radius: 0.5rem;
+  background: #fff;
+  color: var(--v2-ink-900);
+  font-size: 0.8125rem;
+  font-family: inherit;
+}
+.pp-chat__input::placeholder { color: var(--v2-ink-400); }
+.pp-chat__input:focus {
+  outline: none;
+  border-color: var(--v2-accent-600);
+  box-shadow: 0 0 0 3px var(--v2-accent-050);
+}
+.pp-chat__send {
+  display: grid;
+  place-items: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  flex-shrink: 0;
+  border: 0;
+  border-radius: 0.5rem;
+  background: var(--v2-accent-700);
+  color: #fff;
+  cursor: pointer;
+}
+.pp-chat__send:hover { background: var(--v2-accent-600); }
+
+/* ---------- the human hand-off ---------- */
+.pp-chat__human-card {
+  align-self: stretch;
+  margin-top: 0.25rem;
+  padding: 0.75rem;
+  border: 1px dashed var(--v2-ink-300);
+  border-radius: 0.625rem;
+  background: #fff;
+}
+.pp-chat__human-title {
+  margin-bottom: 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--v2-ink-700);
+}
+.pp-chat__human-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.pp-chat__human-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.4375rem 0.75rem;
+  border-radius: 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+.pp-chat__human-btn--wa {
+  background: #1da851;
+  color: #fff;
+}
+.pp-chat__human-btn--wa:hover { background: #17903f; }
+.pp-chat__human-btn--mail {
+  background: var(--v2-ink-900);
+  color: #fff;
+}
+.pp-chat__human-btn--mail:hover { background: var(--v2-accent-700); }
+
+/* ---------- the in-panel feedback ---------- */
+.pp-chat__feedback {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.875rem;
+  border-top: 1px solid var(--v2-ink-150);
+  font-size: 0.6875rem;
+  color: var(--v2-ink-500);
+  background: #fff;
+}
+.pp-chat__fb-btn {
+  border: 1px solid var(--v2-ink-200);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--v2-ink-600);
+  font-size: 0.6875rem;
+  padding: 0.25rem 0.625rem;
+  cursor: pointer;
+}
+.pp-chat__fb-btn:hover { border-color: var(--v2-accent-600); color: var(--v2-accent-700); }
+.pp-chat__fb-thanks { color: var(--v2-accent-700); font-weight: 500; }
+
+/* ---------- narrow screens ---------- */
+@media (max-width: 40rem) {
+  .pp-chat {
+    width: calc(100vw - 1.5rem);
+    right: -0.5rem;
+  }
+  .pp-chat__body { max-height: 17rem; }
+}
+/* ---------------------------------------------------------------------------
+   The product chat's entry, as a labelled pill.
+
+   There are two chat entries on a product page: this one asks about the
+   product on screen, and the inquiry assistant answers general questions.
+   Two identical round icons in one corner meant a visitor could not tell
+   them apart until after clicking. This one now carries a label and sits
+   above the assistant's button rather than beside it.
+
+   AND THE LABEL IS A HOVER LABEL, NOT A PERMANENT ONE
+   The label used to be printed on the button, which made the button a
+   20rem-wide pill sitting in the bottom-right corner — and a floating
+   control in the bottom-right corner is always over something. On the
+   homepage it covered the composer's card; the reader could not get to the
+   text under it, and the text under it was the quote terms.
+
+   So the button is a circle at rest, the same size as the assistant's, and
+   the label appears ABOVE it when the pointer arrives or when it takes
+   focus. The label is still there for the person who is reaching for the
+   button, and the aria-label is there for everyone else.
+   --------------------------------------------------------------------------- */
+.chat-entry--labelled {
+  position: relative;
+  width: 2.75rem;
+  height: 2.75rem;
+  min-height: 2.75rem;
+  max-width: none;
+  padding: 0;
+  gap: 0.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  box-shadow: 0 14px 30px -14px rgb(11 15 18 / 0.6);
+}
+
+/* The label sits above the button, so it never stretches sideways over the
+   content the reader is trying to reach. */
+.chat-entry--labelled .chat-entry__label {
+  position: absolute;
+  right: 0;
+  bottom: calc(100% + 0.5rem);
+  max-width: min(18rem, calc(100vw - 2.5rem));
+  padding: 0.4375rem 0.75rem;
+  border-radius: 999px;
+  background: var(--v2-ink-900);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  box-shadow: 0 10px 24px -14px rgb(11 15 18 / 0.7);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(0.375rem);
+  transition: opacity 160ms ease, transform 160ms ease;
+}
+
+.chat-entry--labelled:hover .chat-entry__label,
+.chat-entry--labelled:focus-visible .chat-entry__label {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.chat-entry--labelled > svg {
+  flex: none;
+}
+
+/* On a narrow screen the label is the first thing to go: the icon alone is
+   ambiguous, but a truncated product name is worse than a clear icon, and
+   the panel header states which product the question is about. */
+@media (max-width: 480px) {
+  .chat-entry--labelled .chat-entry__label {
+    display: none;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Where to reply.
+   The enquiry cannot be worked without a way to reach the buyer, so the
+   panel asks for one. It is optional: the WhatsApp hand-off carries the
+   message either way, and the buyer who leaves neither simply gets no
+   reference.
+   --------------------------------------------------------------------------- */
+.chat-panel__reply {
+  margin-top: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 0.625rem;
+  border: 1px solid var(--v2-ink-150);
+  background: var(--v2-ink-050);
+}
+
+.chat-panel__reply-head {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--v2-ink-400);
+  margin-bottom: 0.5rem;
+}
+
+.chat-panel__reply-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 0.375rem;
+}
+
+.chat-panel__reply-input {
+  width: 100%;
+  border-radius: 0.5rem;
+  border: 1px solid var(--v2-ink-200);
+  background: #fff;
+  padding: 0.5rem 0.625rem;
+  font-size: 0.8125rem;
+  color: var(--v2-ink-900);
+}
+
+.chat-panel__reply-input:focus {
+  outline: 2px solid var(--v2-accent-500);
+  outline-offset: 1px;
+  border-color: var(--v2-accent-500);
+}
+
+.chat-panel__reply-note {
+  margin-top: 0.5rem;
+  font-size: 0.6875rem;
+  line-height: 1.5;
+  color: var(--v2-ink-400);
+}
+
+/* ---------------------------------------------------------------------------
+   The reference.
+   The number the enquiry was given, and the link to follow it. It is shown
+   to the buyer with a copy button, because the site can receive a WhatsApp
+   message but cannot send one: the buyer carries the number back.
+   --------------------------------------------------------------------------- */
+.chat-panel__reference {
+  width: 100%;
+  margin-top: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 0.625rem;
+  border: 1px solid var(--v2-accent-200, var(--v2-ink-150));
+  background: var(--v2-accent-050);
+}
+
+.chat-panel__reference-head {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--v2-accent-700);
+  margin-bottom: 0.5rem;
+}
+
+.chat-panel__reference-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.chat-panel__reference-code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--v2-ink-900);
+  background: #fff;
+  border: 1px solid var(--v2-ink-200);
+  border-radius: 0.375rem;
+  padding: 0.25rem 0.5rem;
+}
+
+.chat-panel__reference-copy {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  color: var(--v2-accent-700);
+  border: 1px solid var(--v2-ink-200);
+  background: #fff;
+  border-radius: 0.375rem;
+  padding: 0.25rem 0.5rem;
+}
+
+.chat-panel__reference-copy:hover {
+  border-color: var(--v2-accent-500);
+}
+
+.chat-panel__reference-note {
+  margin-top: 0.5rem;
+  font-size: 0.6875rem;
+  line-height: 1.5;
+  color: var(--v2-ink-500);
+}
+
+.chat-panel__reference .chat-panel__link {
+  display: inline-block;
+  margin-top: 0.5rem;
+}

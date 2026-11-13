@@ -1,0 +1,156 @@
+{
+  "source": "products/probiotic-pet-tooth-cleaner.html",
+  "slug": "products__probiotic-pet-tooth-cleaner",
+  "isPortal": false,
+  "head": {
+    "title": "Probiotic Pet Dental Water 300 mL | Oral Care",
+    "description": "Probiotic dental water for plaque & tartar",
+    "canonical": "https://shenhezhongke.com/products/probiotic-pet-tooth-cleaner.html",
+    "ogTitle": "Probiotic Pet Dental Water 300 mL | Oral Care",
+    "ogDescription": "Probiotic dental water for plaque & tartar",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Probiotic Pet Dental Water — 150 mL / bottle",
+        "sku": "SHENHE-PROBIO-DENTAL-150",
+        "mpn": "SHENHE-PROBIO-DENTAL-150",
+        "description": "Probiotic Pet Dental Water — 150 mL / bottle. Made with probiotics (lactobacillus), mint extract, deionized water. Add to drinking water. Balances oral flora. Reduces plaque and bad breath. Suited to pet drinking water, daily oral care",
+        "image": "https://shenhezhongke.com/assets/img/products/quote-pet-dental-water-300.png",
+        "brand": {
+          "@type": "Brand",
+          "name": "SHENHE ZHONGKE"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+          "url": "https://shenhezhongke.com"
+        },
+        "category": "Pet Disinfection & Odor Control",
+        "url": "https://shenhezhongke.com/products/probio-dental-150.html",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Ingredients",
+            "value": "Probiotics (Lactobacillus), Mint Extract, Deionized Water"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Application",
+            "value": "Pet drinking water, Daily oral care"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Function",
+            "value": "Add to drinking water; balances oral flora; reduces plaque and bad breath"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Minimum Order Quantity",
+            "value": "2000 bottles"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "HS Code",
+            "value": "3306.90"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Shelf Life",
+            "value": "18 months"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Lead Time",
+            "value": "Stock: 7-15 days · OEM: 25-40 days"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Carton",
+            "value": "24 bottles/carton · L 30 × W 25 × H 20 · 5 kg"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "MSDS Available",
+            "value": "Yes (16-language)"
+          }
+        ]
+      }
+    ],
+    "hasGtm": false
+  },
+  "blocks": [
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\" style=\"padding-top: 0;\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--2\" style=\"gap: var(--pp-space-12); align-items: start;\">\n\n          <div>\n            <span class=\"pp-eyebrow\">Grooming & Care · 300 mL</span>\n            <h1 style=\"margin-bottom: var(--pp-space-2);\">Probiotic Pet Tooth Cleaner</h1>\n                        <p class=\"pp-lead\">Probiotic dental water for plaque & tartar</p>\n\n            <div class=\"pp-trust-row\" style=\"margin-bottom: var(--pp-space-6);\">\n              <span class=\"pp-badge pp-badge--amber\">MOQ 1,000</span>\n              <span class=\"pp-badge\">Sample on request</span>\n              <span class=\"pp-badge\">Quote in 1 business day</span>\n            </div>\n\n            \n            <div style=\"aspect-ratio: 1; background: linear-gradient(135deg, #ffffff, #f8fafc); border-radius: var(--pp-radius-xl); display: flex; align-items: center; justify-content: center; border: 1px solid var(--pp-ink-200); overflow: hidden;\">\n              <img src=\"/assets/img/products/quote-pet-dental-water-300.png?v=2\" alt=\"Probiotic Pet Tooth Cleaner\" style=\"width: 100%; height: 100%; object-fit: contain; padding: var(--pp-space-4);\" onerror=\"this.parentElement.innerHTML='<div style=&quot;font-size: 6rem; color: var(--pp-teal-300);&quot;>🐾</div>'\">\n            </div>\n            <p style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500); margin-top: var(--pp-space-2); text-align: center;\">DEKOBIO · 300 mL</p>\n          </div>\n\n          <div>\n                        <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.keyFeatures\" style=\"margin-bottom: var(--pp-space-2);\">Self-designed for daily oral microbiome care</h3>\n\n\n              <ul style=\"list-style: none; padding: 0; margin: 0; font-size: var(--pp-text-sm);\">\n\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Probiotic oral microbiome</strong> &#8212; 3 strains (Lactic Acid Bacteria + Streptococcus salivarius + Bacillus mucilaginosus) colonize the mouth.</li>\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Outcompetes plaque bacteria</strong> &#8212; beneficial bacteria crowd out Streptococcus mutans and other plaque-formers.</li>\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Bio-enzyme breakdown</strong> &#8212; enzymes break down existing tartar and food residue.</li>\n\n                <li style=\"margin-bottom: 0;\"><strong style=\"color: var(--pp-teal-700);\">Just add to drinking water daily</strong> &#8212; powder dissolves in water bowl, no brushing required.</li>\n\n\n              </ul>\n\n\n            </div>\n\n\n            <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.ingredients\" style=\"margin-bottom: var(--pp-space-2);\">Main ingredients &#8212; and what each one powers</h3>\n\n\n              <table style=\"width:100%; border-collapse: collapse; font-size: var(--pp-text-sm);\">\n\n\n                <tbody>\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Deionized Water</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Base carrier &#8212; pure solvent.</td>\n\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Lactic Acid Bacteria</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Oral microbiome &#8212; primary colonizer.</td>\n\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Streptococcus salivarius</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Plaque competition &#8212; secondary strain.</td>\n\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Bacillus mucilaginosus</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Tartar breakdown &#8212; tertiary strain.</td>\n\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Bio-enzymes</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Active breakdown &#8212; food residue.</td>\n\n\n\n                  <tr style=\"\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Probiotics</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Sustained colonization &#8212; long-tail effect.</td>\n\n\n\n\n                </tbody>\n\n\n              </table>\n\n\n            </div>\n\n\n\n\n            <div class=\"pp-card\">\n\n\n              <h3 data-i18n=\"products.labReports\" style=\"margin-bottom: var(--pp-space-2);\">Third-party lab reports</h3>\n\n\n              <p style=\"color: var(--pp-ink-500); font-size: var(--pp-text-sm); margin: 0;\">No specific lab report required. Manufactured under factory-level QC (ISO 22716); full COA available on request.</p>\n\n\n            </div>\n\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Pricing",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n  <div class=\"pp-container\">\n    <h2>Pricing</h2>\n    <p>Unit prices are quote-only. Volume tiering, label/packaging costs and shipping terms are confirmed per RFQ.</p>\n  </div>\n</section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "OEM/ODM options",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <h2>OEM/ODM options</h2>\n        <div class=\"pp-grid pp-grid--2\">\n          <div class=\"pp-card pp-card--feature\">\n            <h3>ODM · Use this ready formula</h3>\n            <p>Minimum 1,000 sets. We use the formula above and print your label. <strong>25–40 days</strong> from artwork approval to shipment.</p>\n            <a class=\"pp-btn pp-btn--primary pp-btn--block\" href=\"/contact.html?product=probiotic-pet-tooth-cleaner&mode=odm\">Request ODM quote</a>\n          </div>\n          <div class=\"pp-card pp-card--feature-amber\">\n            <h3>OEM · Custom formula</h3>\n            <p>Minimum 1,000–2,000 sets. Send us your formula or target spec. <strong>30–45 days</strong> from approval to shipment. NDA provided.</p>\n            <a class=\"pp-btn pp-btn--secondary pp-btn--block\" href=\"/contact.html?product=probiotic-pet-tooth-cleaner&mode=oem\">Request OEM quote</a>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg",
+      "bg": "bg",
+      "type": "prose",
+      "content": {
+        "title": "Related products",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg\"><div class=\"pp-container\"><h2>Related products</h2><div class=\"pp-grid pp-grid--3\">\n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/pet-paw-cleaning-foam.html\" aria-label=\"Pet Paw Cleaning Foam\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/pet-paw-cleaning-foam.png?v=2\" alt=\"Pet Paw Cleaning Foam\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">grooming care</div>\n          <h3 class=\"pp-product-card__title\">Pet Paw Cleaning Foam</h4>\n          <div class=\"pp-product-card__size\">250 mL</div>\n          <p class=\"pp-product-card__desc\">No-rinse paw cleaning with camellia extract</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n        \n        </div>\n      </article>\n    \n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/pet-waterless-cleaning-foam.html\" aria-label=\"Pet Waterless Cleaning Foam\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/pet-waterless-cleaning-foam-300.png?v=2\" alt=\"Pet Waterless Cleaning Foam\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">grooming care</div>\n          <h3 class=\"pp-product-card__title\">Pet Waterless Cleaning Foam</h4>\n          <div class=\"pp-product-card__size\">300 mL / 500 mL</div>\n          <p class=\"pp-product-card__desc\">Camellia-enriched waterless bath</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n        \n        </div>\n      </article>\n    \n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/pet-paw-moisturizing-gel.html\" aria-label=\"Pet Paw Moisturizing Gel\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/pet-paw-moisturizing-gel.png?v=2\" alt=\"Pet Paw Moisturizing Gel\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">grooming care</div>\n          <h3 class=\"pp-product-card__title\">Pet Paw Moisturizing Gel</h4>\n          <div class=\"pp-product-card__size\">10 g</div>\n          <p class=\"pp-product-card__desc\">Restores pad elasticity, prevents cracking</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n        \n        </div>\n      </article>\n    </div></div></section>"
+      }
+    },
+    {
+      "classes": "pp-cta-banner",
+      "bg": "plain",
+      "type": "cta",
+      "content": {
+        "title": "Request a quotation within 1 business day",
+        "eyebrow": null,
+        "actions": [
+          {
+            "href": "/contact.html?product=probiotic-pet-tooth-cleaner",
+            "label": "Start Your Quote",
+            "variant": "primary"
+          },
+          {
+            "href": "/assets/img/certs/Factory-Audit-Report-FM12662R01Da.pdf",
+            "label": "View lab report",
+            "variant": "outlineWhite"
+          }
+        ],
+        "html": null,
+        "text": "Send your target market, MOQ, and timeline. We reply within one business day with a quote and a sample plan."
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 5,
+    "richtextFallback": 1
+  }
+}

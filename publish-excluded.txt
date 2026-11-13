@@ -1,0 +1,462 @@
+# what was left out, and why
+DEPLOY.md	the operating leftovers
+HEALTH-CHECK.md	the ledger
+PROVENANCE.md	the provenance ledger
+SEO-DIFF-REPORT.json	the operating leftovers
+_backup-handwritten/contact-page.tsx	parked and backed-up work
+_backup-handwritten/factory-page.tsx	parked and backed-up work
+_backup-handwritten/page.tsx	parked and backed-up work
+_tmp-ai-refs.txt	the operating leftovers
+_tmp-latest.txt	the operating leftovers
+app/(console)/admin/accounts/page.tsx	the internal console pages
+app/(console)/admin/batches/page.tsx	the internal console pages
+app/(console)/admin/documents/page.tsx	the internal console pages
+app/(console)/admin/inquiries/page.tsx	the internal console pages
+app/(console)/admin/orders/page.tsx	the internal console pages
+app/(console)/admin/page.tsx	the internal console pages
+app/(console)/admin/payments/page.tsx	the internal console pages
+app/(console)/admin/production/page.tsx	the internal console pages
+app/(console)/admin/quotes/page.tsx	the internal console pages
+app/(console)/admin/shipments/page.tsx	the internal console pages
+app/(console)/layout.tsx	the internal console pages
+build.log	the operating leftovers
+components/v2/AccountsPage.tsx	talks to the internal console
+components/v2/BatchesPage.tsx	talks to the internal console
+components/v2/ConsoleDashboard.tsx	talks to the internal console
+components/v2/ConsoleShell.tsx	talks to the internal console
+components/v2/DocumentsPage.tsx	talks to the internal console
+components/v2/EnquiryListPage.tsx	talks to the internal console
+components/v2/EnquiryWorkbench.tsx	talks to the internal console
+components/v2/OrdersPage.tsx	talks to the internal console
+components/v2/PaymentsPage.tsx	talks to the internal console
+components/v2/ProductionPage.tsx	talks to the internal console
+components/v2/QuotesPage.tsx	talks to the internal console
+components/v2/ShipmentsPage.tsx	talks to the internal console
+content/_livejsonld.json	the internal dashboards and the live snapshot
+content/systems.json	the internal dashboards and the live snapshot
+docs/.copy-stats.json	the working documents
+docs/2026-11-12-无询盘诊断与下一步.md	the working documents
+docs/ACO-链上存证设计.md	the working documents
+docs/Bing后台操作流程.md	the working documents
+docs/Bing接入-两步清单.md	the working documents
+docs/GEO-下一步-2026-11-12.md	the working documents
+docs/GEO-结论句模板-14个SKU-2026-11-12.md	the working documents
+docs/GEO优化对照与执行方案.md	the working documents
+docs/GEO实测报告-2026-11-07.md	the working documents
+docs/GSC-要提交的链接清单.md	the working documents
+docs/GSC-请求收录清单.md	the working documents
+docs/GSC商家信息-对账与重新验证清单.md	the working documents
+docs/REA-SEO-GEO-AEO-拆解-2026-11-10.md	the working documents
+docs/SEO-GEO-AEO-外部框架对照.md	the working documents
+docs/SEO-GEO-AEO与询盘增长手册.md	the working documents
+docs/VOC洞察-2026-11-06.md	the working documents
+docs/_audit/__pycache__/content.cpython-312.pyc	the working documents
+docs/_audit/__pycache__/corpus.cpython-312.pyc	the working documents
+docs/_audit/aao.py	the working documents
+docs/_audit/aao_out.txt	the working documents
+docs/_audit/aao_out2.txt	the working documents
+docs/_audit/chk_b2.py	the working documents
+docs/_audit/chk_banner.py	the working documents
+docs/_audit/chk_bound.py	the working documents
+docs/_audit/chk_cards.py	the working documents
+docs/_audit/chk_cat.py	the working documents
+docs/_audit/chk_dom.py	the working documents
+docs/_audit/chk_drift.py	the working documents
+docs/_audit/chk_exact.py	the working documents
+docs/_audit/chk_gz.py	the working documents
+docs/_audit/chk_howto.py	the working documents
+docs/_audit/chk_links.py	the working documents
+docs/_audit/chk_llms.py	the working documents
+docs/_audit/chk_llms2.py	the working documents
+docs/_audit/chk_meta.py	the working documents
+docs/_audit/chk_moq.py	the working documents
+docs/_audit/chk_moq2.py	the working documents
+docs/_audit/chk_moq_post.py	the working documents
+docs/_audit/chk_moqsrc.py	the working documents
+docs/_audit/chk_path.py	the working documents
+docs/_audit/chk_phone.py	the working documents
+docs/_audit/chk_post.py	the working documents
+docs/_audit/chk_sg.py	the working documents
+docs/_audit/chk_sku.py	the working documents
+docs/_audit/chk_sku2.py	the working documents
+docs/_audit/chk_sku3.py	the working documents
+docs/_audit/chk_src.py	the working documents
+docs/_audit/chk_years.py	the working documents
+docs/_audit/content.py	the working documents
+docs/_audit/corpus.py	the working documents
+docs/_audit/diff_crawls.py	the working documents
+docs/_audit/facts.py	the working documents
+docs/_audit/facts_out.txt	the working documents
+docs/_audit/facts_out2.txt	the working documents
+docs/_audit/final_howto.py	the working documents
+docs/_audit/final_sg.py	the working documents
+docs/_audit/geo2.py	the working documents
+docs/_audit/geo_facts.py	the working documents
+docs/_audit/geo_out.txt	the working documents
+docs/_audit/geo_out2.txt	the working documents
+docs/_audit/raw/__ai.txt	the working documents
+docs/_audit/raw/__llms-full.json	the working documents
+docs/_audit/raw/__llms-full.txt	the working documents
+docs/_audit/raw/__llms.txt	the working documents
+docs/_audit/raw/crawl_status.json	the working documents
+docs/_audit/raw/pages/_index	the working documents
+docs/_audit/raw/pages/about.html	the working documents
+docs/_audit/raw/pages/ai-customize.html	the working documents
+docs/_audit/raw/pages/blog.html	the working documents
+docs/_audit/raw/pages/blog__howto__how-to-choose-a-pet-shampoo.html	the working documents
+docs/_audit/raw/pages/blog__howto__pet-shampoo-ingredients-to-avoid.html	the working documents
+docs/_audit/raw/pages/blog__howto__washing-a-cat-at-home.html	the working documents
+docs/_audit/raw/pages/blog__howto__waterless-foam-or-wet-shampoo.html	the working documents
+docs/_audit/raw/pages/blog__pet-care-notes__why-does-cat-litter-smell.html	the working documents
+docs/_audit/raw/pages/blog__sourcing__how-to-choose-a-pet-care-oem-manufacturer-in-china.html	the working documents
+docs/_audit/raw/pages/blog__sourcing__pet-groomer-bulk-supply.html	the working documents
+docs/_audit/raw/pages/blog__sourcing__pet-salon-shampoo-wholesale.html	the working documents
+docs/_audit/raw/pages/blog__sourcing__shelter-and-rescue-pet-wash.html	the working documents
+docs/_audit/raw/pages/capabilities.html	the working documents
+docs/_audit/raw/pages/certifications.html	the working documents
+docs/_audit/raw/pages/contact.html	the working documents
+docs/_audit/raw/pages/factory.html	the working documents
+docs/_audit/raw/pages/global-compliance.html	the working documents
+docs/_audit/raw/pages/msds.html	the working documents
+docs/_audit/raw/pages/oem-odm.html	the working documents
+docs/_audit/raw/pages/privacy.html	the working documents
+docs/_audit/raw/pages/products.html	the working documents
+docs/_audit/raw/pages/products__cat-litter-companion.html	the working documents
+docs/_audit/raw/pages/products__cat-litter-partner-300.html	the working documents
+docs/_audit/raw/pages/products__cat-ringworm-spray.html	the working documents
+docs/_audit/raw/pages/products__deodorizing-disinfecting.html	the working documents
+docs/_audit/raw/pages/products__ear-mite-cleaning-solution.html	the working documents
+docs/_audit/raw/pages/products__grooming-care.html	the working documents
+docs/_audit/raw/pages/products__multi-purpose-pet-wash-200.html	the working documents
+docs/_audit/raw/pages/products__multi-purpose-pet-wash-300.html	the working documents
+docs/_audit/raw/pages/products__odor-control-set.html	the working documents
+docs/_audit/raw/pages/products__outdoor-insect-repellent-spray.html	the working documents
+docs/_audit/raw/pages/products__outdoor-protection.html	the working documents
+docs/_audit/raw/pages/products__pet-deodorizing-spray-gun-kit.html	the working documents
+docs/_audit/raw/pages/products__pet-deodorizing-spray.html	the working documents
+docs/_audit/raw/pages/products__pet-digestive-probiotics.html	the working documents
+docs/_audit/raw/pages/products__pet-disinfectant-deodorizing-solution.html	the working documents
+docs/_audit/raw/pages/products__pet-household-laundry-detergent.html	the working documents
+docs/_audit/raw/pages/products__pet-immunoglobulin.html	the working documents
+docs/_audit/raw/pages/products__pet-nutrition.html	the working documents
+docs/_audit/raw/pages/products__pet-paw-cleaning-foam.html	the working documents
+docs/_audit/raw/pages/products__pet-paw-moisturizing-gel.html	the working documents
+docs/_audit/raw/pages/products__pet-shampoo-antibacterial-300.html	the working documents
+docs/_audit/raw/pages/products__pet-shampoo-antibacterial-500.html	the working documents
+docs/_audit/raw/pages/products__pet-waterless-cleaning-foam.html	the working documents
+docs/_audit/raw/pages/products__probiotic-pet-tooth-cleaner.html	the working documents
+docs/_audit/raw/pages/products__waterless-cleansing-foam-500.html	the working documents
+docs/_audit/raw/pages/reports__2024fm11610r01d.html	the working documents
+docs/_audit/raw/pages/reports__2024fm11611r02d.html	the working documents
+docs/_audit/raw/pages/reports__2024fm11612r01d.html	the working documents
+docs/_audit/raw/pages/reports__2024fm11612r02d.html	the working documents
+docs/_audit/raw/pages/reports__2024fm11612r03d.html	the working documents
+docs/_audit/raw/pages/reports__2024fm12662r01da.html	the working documents
+docs/_audit/raw/pages/reports__naccyh25007027.html	the working documents
+docs/_audit/raw/pages/reports__naccyh25014721.html	the working documents
+docs/_audit/raw/pages/reports__naccyh25014722.html	the working documents
+docs/_audit/raw/pages/reports__yd20251215351.html	the working documents
+docs/_audit/raw/pages/sourcing-guides.html	the working documents
+docs/_audit/raw/pages/terms.html	the working documents
+docs/_audit/raw/pages/trade-compliance.html	the working documents
+docs/_audit/raw/robots.txt	the working documents
+docs/_audit/raw/sitemap.xml	the working documents
+docs/_audit/raw/sitemap_urls.txt	the working documents
+docs/_audit/raw2/__ai.txt	the working documents
+docs/_audit/raw2/__llms-full.json	the working documents
+docs/_audit/raw2/__llms-full.txt	the working documents
+docs/_audit/raw2/__llms.txt	the working documents
+docs/_audit/raw2/__robots.txt	the working documents
+docs/_audit/raw2/__sitemap.xml	the working documents
+docs/_audit/raw2/pages/_index	the working documents
+docs/_audit/raw2/pages/about.html	the working documents
+docs/_audit/raw2/pages/ai-customize.html	the working documents
+docs/_audit/raw2/pages/blog.html	the working documents
+docs/_audit/raw2/pages/blog__howto__how-to-choose-a-pet-shampoo.html	the working documents
+docs/_audit/raw2/pages/blog__howto__pet-shampoo-ingredients-to-avoid.html	the working documents
+docs/_audit/raw2/pages/blog__howto__washing-a-cat-at-home.html	the working documents
+docs/_audit/raw2/pages/blog__howto__waterless-foam-or-wet-shampoo.html	the working documents
+docs/_audit/raw2/pages/blog__pet-care-notes__why-does-cat-litter-smell.html	the working documents
+docs/_audit/raw2/pages/blog__sourcing__how-to-choose-a-pet-care-oem-manufacturer-in-china.html	the working documents
+docs/_audit/raw2/pages/blog__sourcing__pet-groomer-bulk-supply.html	the working documents
+docs/_audit/raw2/pages/blog__sourcing__pet-salon-shampoo-wholesale.html	the working documents
+docs/_audit/raw2/pages/blog__sourcing__shelter-and-rescue-pet-wash.html	the working documents
+docs/_audit/raw2/pages/capabilities.html	the working documents
+docs/_audit/raw2/pages/certifications.html	the working documents
+docs/_audit/raw2/pages/contact.html	the working documents
+docs/_audit/raw2/pages/factory.html	the working documents
+docs/_audit/raw2/pages/global-compliance.html	the working documents
+docs/_audit/raw2/pages/msds.html	the working documents
+docs/_audit/raw2/pages/oem-odm.html	the working documents
+docs/_audit/raw2/pages/privacy.html	the working documents
+docs/_audit/raw2/pages/products.html	the working documents
+docs/_audit/raw2/pages/products__cat-litter-companion.html	the working documents
+docs/_audit/raw2/pages/products__cat-litter-partner-300.html	the working documents
+docs/_audit/raw2/pages/products__cat-ringworm-spray.html	the working documents
+docs/_audit/raw2/pages/products__deodorizing-disinfecting.html	the working documents
+docs/_audit/raw2/pages/products__ear-mite-cleaning-solution.html	the working documents
+docs/_audit/raw2/pages/products__grooming-care.html	the working documents
+docs/_audit/raw2/pages/products__multi-purpose-pet-wash-200.html	the working documents
+docs/_audit/raw2/pages/products__multi-purpose-pet-wash-300.html	the working documents
+docs/_audit/raw2/pages/products__odor-control-set.html	the working documents
+docs/_audit/raw2/pages/products__outdoor-insect-repellent-spray.html	the working documents
+docs/_audit/raw2/pages/products__outdoor-protection.html	the working documents
+docs/_audit/raw2/pages/products__pet-deodorizing-spray-gun-kit.html	the working documents
+docs/_audit/raw2/pages/products__pet-deodorizing-spray.html	the working documents
+docs/_audit/raw2/pages/products__pet-digestive-probiotics.html	the working documents
+docs/_audit/raw2/pages/products__pet-disinfectant-deodorizing-solution.html	the working documents
+docs/_audit/raw2/pages/products__pet-household-laundry-detergent.html	the working documents
+docs/_audit/raw2/pages/products__pet-immunoglobulin.html	the working documents
+docs/_audit/raw2/pages/products__pet-nutrition.html	the working documents
+docs/_audit/raw2/pages/products__pet-paw-cleaning-foam.html	the working documents
+docs/_audit/raw2/pages/products__pet-paw-moisturizing-gel.html	the working documents
+docs/_audit/raw2/pages/products__pet-shampoo-antibacterial-300.html	the working documents
+docs/_audit/raw2/pages/products__pet-shampoo-antibacterial-500.html	the working documents
+docs/_audit/raw2/pages/products__pet-waterless-cleaning-foam.html	the working documents
+docs/_audit/raw2/pages/products__probiotic-pet-tooth-cleaner.html	the working documents
+docs/_audit/raw2/pages/products__waterless-cleansing-foam-500.html	the working documents
+docs/_audit/raw2/pages/reports__2024fm11610r01d.html	the working documents
+docs/_audit/raw2/pages/reports__2024fm11611r02d.html	the working documents
+docs/_audit/raw2/pages/reports__2024fm11612r01d.html	the working documents
+docs/_audit/raw2/pages/reports__2024fm11612r02d.html	the working documents
+docs/_audit/raw2/pages/reports__2024fm11612r03d.html	the working documents
+docs/_audit/raw2/pages/reports__2024fm12662r01da.html	the working documents
+docs/_audit/raw2/pages/reports__naccyh25007027.html	the working documents
+docs/_audit/raw2/pages/reports__naccyh25014721.html	the working documents
+docs/_audit/raw2/pages/reports__naccyh25014722.html	the working documents
+docs/_audit/raw2/pages/reports__yd20251215351.html	the working documents
+docs/_audit/raw2/pages/sourcing-guides.html	the working documents
+docs/_audit/raw2/pages/terms.html	the working documents
+docs/_audit/raw2/pages/trade-compliance.html	the working documents
+docs/_audit/raw2/robots.txt	the working documents
+docs/_audit/raw2/sitemap.xml	the working documents
+docs/_audit/raw2/sitemap_urls.txt	the working documents
+docs/_audit/recheck_moq.py	the working documents
+docs/_audit/seo2.py	the working documents
+docs/_audit/seo_analyze.py	the working documents
+docs/_audit/seo_out.txt	the working documents
+docs/_audit/seo_out2.txt	the working documents
+docs/_audit/switch.py	the working documents
+docs/_audit/verify.py	the working documents
+docs/_audit/verify10.py	the working documents
+docs/_audit/verify11.py	the working documents
+docs/_audit/verify2.py	the working documents
+docs/_audit/verify3.py	the working documents
+docs/_audit/verify4.py	the working documents
+docs/_audit/verify5.py	the working documents
+docs/_audit/verify6.py	the working documents
+docs/_audit/verify7.py	the working documents
+docs/_audit/verify8.py	the working documents
+docs/_audit/verify9.py	the working documents
+docs/_audit/verify_chunk.py	the working documents
+docs/_audit/verify_chunk2.py	the working documents
+docs/_audit/verify_dock.py	the working documents
+docs/_audit/verify_dock2.py	the working documents
+docs/_audit/verify_out.py	the working documents
+docs/db/columns.txt	the working documents
+docs/db/fks.txt	the working documents
+docs/db/functions.txt	the working documents
+docs/db/shenhe-schema.sql	the working documents
+docs/reddit-三篇文章.md	the working documents
+docs/reddit-技术回答型回复稿.md	the working documents
+docs/三角体系-架构总览-2026-11-09.md	the working documents
+docs/三角体系-架构总览-2026-11-10.md	the working documents
+docs/上线记录-2026-11-13.md	the working documents
+docs/下一步优化方案-2026-11-07.md	the working documents
+docs/买家搜索词实测-2026-11-10.md	the working documents
+docs/产品摘要-对账与验证清单.md	the working documents
+docs/产品摘要-待验证清单.csv	the working documents
+docs/代码精简记录.md	the working documents
+docs/代码逻辑漏洞审计.md	the working documents
+docs/企业邮箱与网站接收链路设计-2026-11-07.md	the working documents
+docs/企业邮箱别名-照做清单.md	the working documents
+docs/企业邮箱接入清单.md	the working documents
+docs/全流程核验-2026-11-06.md	the working documents
+docs/全球40站对标-深河落地方案-2026-11-07.md	the working documents
+docs/全站体检-SEO-GEO-AEO-AIO-2026-11-13.md	the working documents
+docs/全站系统完整性排查.md	the working documents
+docs/八语言系统-架构与落地路径.md	the working documents
+docs/关键词对比-全球同行-2026-11-10.md	the working documents
+docs/内容合规审计.md	the working documents
+docs/内容清单30条核对-2026-10-28.md	the working documents
+docs/四模型内容审核-2026-10-27.md	the working documents
+docs/基础卖点层级-2026-11-13.md	the working documents
+docs/对标-三家同行-缺项与补站排期.md	the working documents
+docs/我们的流量逻辑与内容布局.md	the working documents
+docs/推送渠道清单.md	the working documents
+docs/搜客源清单.md	the working documents
+docs/搜索引擎接入-交接手册.md	the working documents
+docs/搜索引擎接入诊断-2026-10-28.md	the working documents
+docs/搜索引擎接入诊断-2026-11-01.md	the working documents
+docs/搜索引擎收录-你要做的三步.md	the working documents
+docs/搜索接入-照做手册.md	the working documents
+docs/搜索覆盖/shenhezhongke.com-Coverage-2026-11-06.xlsx	the working documents
+docs/搜索覆盖/shenhezhongke.com-Coverage-Valid-2026-11-06.xlsx	the working documents
+docs/搜索覆盖判读-2026-11-06.md	the working documents
+docs/收录-你要粘贴的清单.md	the working documents
+docs/数据库架构.md	the working documents
+docs/数据库设计.md	the working documents
+docs/整体业务逻辑梳理-2026-11-07.md	the working documents
+docs/新品-超强除臭混合猫砂-上线准备-2026-11-08.md	the working documents
+docs/服务器改动-URL重复与410.md	the working documents
+docs/构建门判定结果-2026-11-07.md	the working documents
+docs/架构总览与优化排期-2026-11-06.md	the working documents
+docs/每周复盘表.md	the working documents
+docs/流量-待办-给父代理.md	the working documents
+docs/目标终验清单.md	the working documents
+docs/站外身份-照做手册.md	the working documents
+docs/站外身份执行清单.md	the working documents
+docs/竞品对标/PANGOL与沐森堂-全方位产品价格与客户需求对标.pdf	the working documents
+docs/竞品对标/PANGOL与沐森堂-对标报告-原文提取.txt	the working documents
+docs/竞品对标/PANGOL与沐森堂-对标要点摘录.md	the working documents
+docs/索引与流量-基线.md	the working documents
+docs/索引地基-Bing与Google-2026-11-09.md	the working documents
+docs/腾讯云DNSPod-配置阿里云企业邮-照做清单.md	the working documents
+docs/自有商标公网使用基线扫描-2026-11-13.md	the working documents
+docs/英文文案-B端版-2026-11-07.md	the working documents
+docs/英文文案-头部买家审阅-2026-11-07.md	the working documents
+docs/英文文案全集-2026-11-07.md	the working documents
+docs/英文文案审校-2026-11-07.md	the working documents
+docs/蓝军拷问-2026-10-27.md	the working documents
+docs/询盘复盘-2026-11-02.md	the working documents
+docs/询盘邮件与转发-2026-11-07.md	the working documents
+docs/询盘邮件处理链路-SOP-2026-11-07.md	the working documents
+docs/询盘邮件链路与标注规则-2026-11-09.md	the working documents
+docs/贪吃蛇式SEO-GEO-AIO设计.md	the working documents
+docs/链路倒推-SEO-GEO-AEO-2026-11-10.md	the working documents
+docs/需求对照-2026-11-07.md	the working documents
+i18n-routes-parked/[locale]/[[...slug]]/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/about/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/ai-customize/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/blog/[category]/[slug]/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/blog/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/capabilities/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/certifications/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/contact/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/factory/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/global-compliance/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/msds/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/oem-odm/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/privacy/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/cat-litter-companion/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/cat-litter-partner-300/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/cat-ringworm-spray/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/deodorizing-disinfecting/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/ear-mite-cleaning-solution/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/grooming-care/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/multi-purpose-pet-wash-200/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/multi-purpose-pet-wash-300/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/odor-control-set/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/outdoor-insect-repellent-spray/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/outdoor-protection/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-deodorizing-spray-gun-kit/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-deodorizing-spray/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-digestive-probiotics/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-disinfectant-deodorizing-solution/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-household-laundry-detergent/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-immunoglobulin/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-nutrition/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-paw-cleaning-foam/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-paw-moisturizing-gel/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-shampoo-antibacterial-300/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-shampoo-antibacterial-500/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/pet-waterless-cleaning-foam/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/probiotic-pet-tooth-cleaner/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/products/waterless-cleansing-foam-500/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/sourcing-guides/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/standards/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/terms/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/trade-compliance/page.tsx	parked and backed-up work
+i18n-routes-parked/[locale]/why-us/page.tsx	parked and backed-up work
+layer1-seo-audit.csv	the operating leftovers
+legacy/_data/pricing_rules.json	the legacy price catalogue
+legacy/_data/products.json	the legacy price catalogue
+legacy/_data/terminology.json	the legacy price catalogue
+scripts/.contract-last-run	the operating leftovers
+scripts/_add_conclusions.py	a one-off script bound to one machine
+scripts/_copy_audit.py	a one-off script bound to one machine
+scripts/_deck_200ml.py	a one-off script bound to one machine
+scripts/_extract_deck_images.py	a one-off script bound to one machine
+scripts/_extract_price_images.py	a one-off script bound to one machine
+scripts/_keyword_audit.py	a one-off script bound to one machine
+scripts/_match_price_images.py	a one-off script bound to one machine
+scripts/_preview_mock.py	a one-off script bound to one machine
+scripts/_read_price_list.py	a one-off script bound to one machine
+scripts/_remove_legacy_prices.py	the scripts that carry the legacy price list
+scripts/_size_evidence.py	a one-off script bound to one machine
+scripts/_split_deck_sheet.py	a one-off script bound to one machine
+scripts/add_articles_to_llms.py	a one-off script bound to one machine
+scripts/api_probe.py	a one-off script bound to one machine
+scripts/apply_page_keywords.py	a one-off script bound to one machine
+scripts/audit_index_quality.py	a one-off script bound to one machine
+scripts/audit_kb_coverage.py	the scripts that carry the legacy price list
+scripts/audit_pain_coverage.py	a one-off script bound to one machine
+scripts/build_trade_compliance_md.py	a one-off script bound to one machine
+scripts/check_cascade_gate.py	a one-off script bound to one machine
+scripts/check_colour_classes_exist.py	a one-off script bound to one machine
+scripts/check_customer_chain.py	talks to the internal console
+scripts/check_mailbox.py	names the production .env
+scripts/check_matcher_parity.py	a one-off script bound to one machine
+scripts/cleanup_test_data.py	carries a personal address
+scripts/collect_shots.py	a one-off script bound to one machine
+scripts/collect_shots2.py	a one-off script bound to one machine
+scripts/contract-types.cjs	talks to the internal console
+scripts/contract_check.py	talks to the internal console
+scripts/contract_e2e.py	talks to the internal console
+scripts/copy_preview.py	a one-off script bound to one machine
+scripts/crop_gun_from_disinfectant.py	a one-off script bound to one machine
+scripts/crop_wash_200.py	a one-off script bound to one machine
+scripts/cutout_contact_sheet.py	a one-off script bound to one machine
+scripts/e2e_api.py	talks to the internal console
+scripts/e2e_browser_flow.py	talks to the internal console
+scripts/e2e_order_book.py	talks to the internal console
+scripts/export_sku_angles.py	a one-off script bound to one machine
+scripts/fix_blog_route.py	a one-off script bound to one machine
+scripts/fix_stale_image_refs.py	a one-off script bound to one machine
+scripts/gen-api-routes.mjs	talks to the internal console
+scripts/gen-webp-manifest.mjs	a one-off script bound to one machine
+scripts/gen_chatbot_kb.py	a one-off script bound to one machine
+scripts/geo_baseline.py	a one-off script bound to one machine
+scripts/harvest_prospects.py	a one-off script bound to one machine
+scripts/healthcheck.py	a one-off script bound to one machine
+scripts/i18n_coverage.py	a one-off script bound to one machine
+scripts/judge_lines.py	a one-off script bound to one machine
+scripts/make_cutouts.py	a one-off script bound to one machine
+scripts/normalize_public_email.py	carries a personal address
+scripts/open-site.bat	a one-off script bound to one machine
+scripts/remove_legacy_trails.py	a one-off script bound to one machine
+scripts/retake_from_company_pages.py	a one-off script bound to one machine
+scripts/seed_order_book.py	talks to the internal console
+scripts/shenhe-ai-refs	the operating leftovers
+scripts/start_local.bat	a one-off script bound to one machine
+scripts/test_chatbot_matcher.py	a one-off script bound to one machine
+scripts/unpublish_systems_page.py	a one-off script bound to one machine
+scripts/verify_contract_fixes.py	talks to the internal console
+server-pg/README.md	the API service and the internal console
+server-pg/admin-routes.js	the API service and the internal console
+server-pg/auth-routes.js	the API service and the internal console
+server-pg/auth.js	the API service and the internal console
+server-pg/chain.js	the API service and the internal console
+server-pg/console-routes.js	the API service and the internal console
+server-pg/dates.js	the API service and the internal console
+server-pg/forward-inquiries.js	the API service and the internal console
+server-pg/forward-mailbox.js	the API service and the internal console
+server-pg/inquiry_guard.sql	the API service and the internal console
+server-pg/lead-readiness.js	the API service and the internal console
+server-pg/mail.js	the API service and the internal console
+server-pg/package-lock.json	the API service and the internal console
+server-pg/package.json	the API service and the internal console
+server-pg/password-routes.js	the API service and the internal console
+server-pg/portal-routes.js	the API service and the internal console
+server-pg/product-catalogue.js	the API service and the internal console
+server-pg/reference.js	the API service and the internal console
+server-pg/routes.json	the API service and the internal console
+server-pg/server.js	the API service and the internal console
+server-pg/stats-routes.js	the API service and the internal console
+server-pg/validate.js	the API service and the internal console
+server/POSTGRES_RLS.sql	the API service and the internal console
+server/README.md	the API service and the internal console
+server/console.mjs	the API service and the internal console
+server/db.mjs	the API service and the internal console
+server/index.mjs	the API service and the internal console

@@ -1,0 +1,107 @@
+{
+  "slug": "how-to-choose-a-pet-shampoo",
+  "category": "howto",
+  "date": "2026-10-23",
+  "reviewedBy": "compliance",
+  "seo": {
+    "title": "How to Choose a Pet Shampoo: 7 Questions to Ask Before You Buy",
+    "description": "Surfactant type, pH, essential oils, fragrance and rinse-off residue decide whether a pet shampoo is safe. Seven questions to ask a pet care supplier."
+  },
+  "faq": [
+    {
+      "q": "Is coconut-based shampoo safe for cats?",
+      "a": "Coconut-derived surfactants such as cocamidopropyl betaine are among the mildest cleansers available and are widely used in cat shampoos. Cats are sensitive to strong fragrance and to essential oils, so what matters is what else is in the bottle as much as the surfactant itself."
+    },
+    {
+      "q": "Should I avoid essential oils in a pet shampoo?",
+      "a": "Tea tree oil and citrus oils are the two most commonly cited concerns, and cats in particular are reported to be sensitive to them. If a formula contains tea tree or citrus, it belongs on a dog product, not a cat product, unless the manufacturer states otherwise for cats specifically."
+    },
+    {
+      "q": "What is the difference between a shampoo and a wash?",
+      "a": "A wash is a broader term: it may be a liquid, a foam, or a no-rinse product used for spot cleaning. A shampoo is a specific format — a surfactant you work through and rinse out. When comparing products, check whether you are comparing like with like."
+    },
+    {
+      "q": "Does a wash need rinsing?",
+      "a": "A traditional shampoo does. A no-rinse foam does not, which is the entire point of that format — it is for situations where a bath is not practical. Never rinse a no-rinse product out unless the instructions say to."
+    },
+    {
+      "q": "How do I know if a shampoo is pH balanced for pets?",
+      "a": "Ask for the pH range rather than the single number. Pet skin sits close to mildly acidic, and a surfactant system that works within roughly 5.5 to 7 is appropriate for regular bathing. A supplier that cannot state a range has not measured it."
+    }
+  ],
+  "body": [
+    {
+      "type": "lead",
+      "html": "<p>A pet shampoo is a surfactant in a bottle, and almost everything that determines whether it is gentle comes down to four things: which surfactant, what the pH is, what else is in the water, and whether it actually rinses out. A buyer who asks four questions gets a better answer than one who reads twenty marketing claims. Here are seven, in the order they matter.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "1. What is the surfactant, and is it coconut-derived?"
+    },
+    {
+      "type": "prose",
+      "html": "<p>The surfactant does the cleaning, and it is also what determines how much a pet will tolerate. Cocoamide or cocamidopropyl betaine — both coconut-derived — are among the mildest widely available, which is why they appear in nearly every gentle pet shampoo. Sodium lauryl sulfate cleans harder and foams more, and it is the ingredient most often associated with the tight, stripped feeling a human gets from a strong shampoo; on pet skin the concern is dryness rather than a dramatic reaction.</p><p>Ask which surfactant the formula is built on. A supplier who names one is a manufacturer; a supplier who says it is a <em>blend</em> without naming the base is buying from a blender.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "2. What is the pH range?"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Ask for a range, not a number. Pet skin sits close to mildly acidic, and a surfactant system that performs across roughly 5.5 to 7 suits regular bathing. A supplier who quotes a single pH to two decimal places has measured one sample, not the product.</p><p>This is also a fast way to tell whether you are talking to a formulator or a reseller. It takes one sentence to answer, and the answer is either specific or it is vague.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "3. What else is in it — and is any of it an essential oil?"
+    },
+    {
+      "type": "prose",
+      "html": "<p>This is the question that separates a dog product from a cat product. Tea tree oil and citrus oils are the two most commonly cited sensitivities, and cats are the animals most often reported to react to them. A formula containing low-concentration tea tree oil belongs on a dog product unless the manufacturer states that it is intended for cats too.</p><p>Beyond oils, the ingredients to look for are camellia seed extract, silk protein and aloe — conditioning agents rather than active ones. What you are looking for is a short list you can read, not a paragraph of unpronounceables.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "4. Is the claim a cleaning claim or a health claim?"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Cleaning and conditioning are cosmetic claims. Antibacterial, antifungal and mite-control are health claims, and in most markets they bring the product into the biocide regulatory frame, which means a production licence and supporting laboratory data.</p><p>This matters commercially, not just legally. If you are importing into the EU or the US, a product making a biocidal claim is classified differently from one that does not, and the classification follows the claim on the label. If a supplier is vague about which frame their product sits in, that is a question to resolve before you order rather than after.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "5. What format do you actually need?"
+    },
+    {
+      "type": "prose",
+      "html": "<p>A shampoo and a wash are not the same product. A shampoo is a surfactant you work through and rinse. A wash is the broader category, which may be a liquid, a foam, or a no-rinse format for spot cleaning. Comparing a 1.5 kg liquid bottle against a 200 mL foam pump on price per millilitre is comparing two different jobs.</p><p>Decide the job first — full bath, spot clean, or coat conditioning — then compare within that job.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "6. What is the pack and carton specification?"
+    },
+    {
+      "type": "prose",
+      "html": "<p>For a home buyer this barely matters. For anyone ordering by the carton it is the number that decides the freight bill. Bottle or sachet count per carton, carton dimensions and gross weight are worth asking for up front, because a 12-bottle carton and a 24-bottle carton of the same product are not the same landed cost.</p><p>Sachets are the other format worth knowing: a 10 g sachet ships 100 to a carton and needs no secondary packaging, which is why sachets are the usual choice for sample packs and for products added to an existing routine.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "7. What documentation travels with the shipment?"
+    },
+    {
+      "type": "prose",
+      "html": "<p>At minimum: a batch certificate of analysis, a safety data sheet, the commercial invoice with the HS code, and a certificate of origin. The HS code matters more than it looks — the grooming line in this catalogue sits under 3307.10 for soaps, 3307.90 for other preparations and 3402.20 for detergents, and getting the classification right at the outset avoids a customs query at the border.</p><p>If you are buying for resale rather than for your own animals, ask whether the manufacturer publishes its third-party laboratory determinations and whether you may cite them. A supplier who will not show the report is telling you something.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "The short version"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Mild surfactant, stated pH range, short readable ingredient list, a claim you can classify, the format your animals actually need, and the carton figures. A supplier who answers all six clearly is manufacturing; one who answers with adjectives is reselling.</p><p>Every figure on a product page — the minimum order, the production time, the price — is confirmed against your enquiry once the destination and the quantity are known.</p>"
+    }
+  ],
+  "relatedProducts": [
+    { "id": "P012", "note": "The 500 mL shampoo: camellia seed extract, cocamidopropyl betaine and silk protein, for cats and dogs" },
+    { "id": "P010", "note": "The 300 mL multi-purpose wash: same mild base with nano silver ions for antibacterial use" },
+    { "id": "P013", "note": "The 300 mL antibacterial shampoo: a health claim, so it sits in the biocide frame" }
+  ]
+}

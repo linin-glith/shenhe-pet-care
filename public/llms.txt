@@ -1,0 +1,339 @@
+<!-- AI-assisted: this file was written and assembled with the help of an AI.
+     Every fact in it is checked against the laboratory reports and the
+     production records it names. Where a number has no document behind
+     it, the file does not state it. Last built: 2026-11-12 -->
+# SHENHE ZHONGKE · Pet Care OEM/ODM Factory
+
+> Full international trade compliance, payment, FX, dispute, and regulatory policies: [TRADE-COMPLIANCE.md](TRADE-COMPLIANCE.md) · [Web version](/trade-compliance.html)
+>
+> **Brand**: SHENHE ZHONGKE (legal: Guangdong Shenhe Zhongke Biotechnology Co., Ltd.)
+> **Also known as**: 深河中科 · Guangdong Shenhe Zhongke · Shenhe Zhongke Biotechnology
+> **Not to be confused with**: other companies whose names begin "Shenhe" or "Zhongke" in Shenzhen — this factory is in Heyuan, Guangdong, and has made pet care products since 2020.
+> **Sub-brand line**: DEKOBIO
+> **Site**: https://shenhezhongke.com
+> **Enquiries**: sales@shenhezhongke.com (the desk answers within one business day, CST) · WhatsApp +86 172 6665 9928 · Tel +86-762-3909998
+> **Entity profile for AI systems**: [for-ai.html](/for-ai.html) — the citable record: legal name and registration number, licences with expiry dates, MOQs by line, the six things we do not claim, and one sentence you can quote verbatim
+> **Type**: National high-tech pet care manufacturer
+> **Founded**: 2020
+> **Location**: Heyuan, Guangdong, China
+> **Employees**: 220
+> **Facility**: 30,000 m² industrial park · 5,000 m² modern workshop · 3,000 m² office
+> **Monthly capacity**: 1,000,000 bottles
+> **Certifications**: FDA-registered facility · ISO 22716 GMP · MSDS compliant · Cruelty-free
+> **Trade shows**: exhibited at the 2025 Global Pet Supplies Supply Chain Conference and Shenchong Zhenxuan Pet Supplies Supply Chain Exhibition, Shenzhen Convention & Exhibition Center (Futian), 10 July 2025, booth Brand 42
+
+## Directly quotable conclusions
+
+One line per SKU: the sentence about this product that can be quoted as it stands, and the minimum order beside it. Where a figure rests on a third-party report, the report number travels with it; where it is our own specification, the line says so.
+
+- [Probiotic + Bio-Enzyme Odor Control Set 1 spray + 2 × 220 mL](https://shenhezhongke.com/products/odor-control-set.html) — Targets odor at source; 94.2% ammonia removal, report NACCYH25014722; for surfaces around the animal. MOQ 1,000 sets.
+- [Power Odor Eliminator (Extra Strength) 350 mL](https://shenhezhongke.com/products/pet-deodorizing-spray.html) — Targets odor at source; 94.2% ammonia removal, report NACCYH25014722; formulated for coats an animal may lick, safety assessment 2024FM11611R02D. MOQ 2,000 bottles.
+- [Disinfectant & Deodorizing Solution 350 mL](https://shenhezhongke.com/products/pet-disinfectant-deodorizing-solution.html) — Cleans and deodorizes surfaces; biocidal kill-rate claims are made only on markets where the product is registered, and the registration number is printed on the label — a 14.6% fall in available chlorine after 14 days at 54 °C, report XJ2025001233. MOQ 2,000 bottles.
+- [CatClean Antifungal & Deodorizing Solution 350 mL](https://shenhezhongke.com/products/cat-ringworm-spray.html) — Antifungal + deodorizing; targets feline ringworm fungi (Trichophyton mentagrophytes, Microsporum canis) — fungicidal kill rates above 99.999%, report 2024FM12662R01Da. MOQ 2,000 bottles.
+- [Pet Ear Cleansing Solution 100 mL](https://shenhezhongke.com/products/ear-mite-cleaning-solution.html) — Gentle ear canal cleaning; dissolves ear wax; helps prevent ear mites — 100 mL bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+- [Probiotic Pet Dental Water 150 mL](https://shenhezhongke.com/products/probiotic-pet-tooth-cleaner.html) — Add to drinking water; balances oral flora; reduces plaque and bad breath — 150 mL bottle, 18-month shelf life, refrigerate after opening — specification value, not third-party tested. MOQ 2,000 bottles.
+- [Cat Litter Partner — Deodorizing Powder 500 g](https://shenhezhongke.com/products/cat-litter-companion.html) — Absorbs and decomposes litter box odor; accelerates clumping; extends litter life — 96.6% ammonia removal, report NACCYH25007027. MOQ 2,000 packs.
+- [Cat Litter Partner — Deodorizing Powder 300 g](https://shenhezhongke.com/products/cat-litter-partner-300.html) — Absorbs and decomposes litter box odor; accelerates clumping; extends litter life — 96.6% ammonia removal, report NACCYH25007027. MOQ 2,000 packs.
+- [Pet Deodorizing Spray Gun Kit 220 mL × 2 bottles + 1 spray gun](https://shenhezhongke.com/products/pet-deodorizing-spray-gun-kit.html) — Bundle: convenient refill-and-spray format for end-consumers — 94.2% ammonia removal, report NACCYH25014722. MOQ 1,000 sets.
+- [Multi-Purpose Pet Wash 300 mL](https://shenhezhongke.com/products/multi-purpose-pet-wash-300.html) — Multi-purpose wash; gentle cleansing + antibacterial — inhibition rate above 99.97%, report 2024FM11612R01D. MOQ 2,000 bottles.
+- [Multi-Purpose Pet Wash 200 mL](https://shenhezhongke.com/products/multi-purpose-pet-wash-200.html) — Multi-purpose wash; gentle cleansing + antibacterial — inhibition rate above 99.97%, report 2024FM11612R01D. MOQ 2,000 bottles.
+- [Pet Shampoo for Cats or Dogs 500 mL](https://shenhezhongke.com/products/pet-shampoo-antibacterial-500.html) — Gentle cleansing + conditioning; cat & dog safe — 500 mL bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+- [Pet Shampoo — Antibacterial · Mite Control 300 mL](https://shenhezhongke.com/products/pet-shampoo-antibacterial-300.html) — Antibacterial + mite control; targets common pet mites and bacterial infections — 300 mL bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+- [No-Rinse Pet Cleansing Foam 500 mL](https://shenhezhongke.com/products/waterless-cleansing-foam-500.html) — Waterless cleansing foam; convenient spot-clean for pets — 500 mL bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+- [No-Rinse Pet Cleansing Foam 300 mL](https://shenhezhongke.com/products/pet-waterless-cleaning-foam.html) — Waterless cleansing foam; convenient spot-clean for pets — 300 mL bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+- [Pet Paw Cleansing Foam 200 mL](https://shenhezhongke.com/products/pet-paw-cleaning-foam.html) — Cleans pet paws before/after walks — 200 mL bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+- [Laundry Detergent for Pet Households 1.5 kg](https://shenhezhongke.com/products/pet-household-laundry-detergent.html) — Laundry detergent specifically formulated for pet hair and pet odors — 1.5 kg bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+- [Pet Paw Moisturizing Gel 10 g](https://shenhezhongke.com/products/pet-paw-moisturizing-gel.html) — Moisturizes and repairs pet paw pads — 10 g sachet, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 sachets.
+- [Outdoor Protection Spray for Pets 80 mL](https://shenhezhongke.com/products/outdoor-protection.html) — Repels insects during outdoor activities — citronella and mugwort essential oils, 80 mL bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+- [Outdoor Insect Repellent Spray 80 mL](https://shenhezhongke.com/products/outdoor-insect-repellent-spray.html) — Repels mosquitoes and insects during outdoor activities — citronella and mugwort essential oils with sophora extract, 80 mL bottle, 24-month shelf life — specification value, not third-party tested. MOQ 2,000 bottles.
+
+## What we do
+
+We manufacture pet care products (deodorizing, grooming, outdoor protection, pet nutrition) for global brands on **OEM** (your formula), **ODM** (our 20 ready SKUs + your label), and **OBM** (turnkey) cooperation models.
+
+We do NOT sell direct-to-consumer. We are a B2B contract manufacturer.
+
+## Product lines (4 lines, 20 catalogue SKUs)
+
+All 20 catalogue SKUs sit on 3 of these lines.
+The Pet Nutrition line carries no catalogue SKU code and is quoted project by project.
+Every SKU is available private label: minimum order and lead time are stated here, prices are quoted on request.
+
+### Deodorizing & Disinfecting (7 SKUs)
+- [OEM Probiotic + Bio-Enzyme Odor Control Set 1 spray + 2 × 220 mL](https://shenhezhongke.com/products/odor-control-set.html) — Targets odor at source; 94.2% ammonia removal, report NACCYH25014722; for surfaces around the animal 1 spray + 2 × 220 mL MOQ 1,000 sets. 7-15-day stock lead.
+- [Power Odor Eliminator (Extra Strength) 350 mL](https://shenhezhongke.com/products/pet-deodorizing-spray.html) — Targets odor at source; 94.2% ammonia removal, report NACCYH25014722; formulated for coats an animal may lick, safety assessment 2024FM11611R02D 350 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Disinfectant & Deodorizing Solution 350 mL](https://shenhezhongke.com/products/pet-disinfectant-deodorizing-solution.html) — Cleans and deodorizes surfaces; biocidal kill-rate claims are made only on markets where the product is registered, and the registration number is printed on the label 350 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [CatClean Antifungal & Deodorizing Solution 350 mL](https://shenhezhongke.com/products/cat-ringworm-spray.html) — Antifungal + deodorizing; targets feline ringworm fungi (Trichophyton mentagrophytes, Microsporum canis) 350 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Cat Litter Partner — Deodorizing Powder 500 g](https://shenhezhongke.com/products/cat-litter-companion.html) — Absorbs and decomposes litter box odor; accelerates clumping; extends litter life 500 g / pack MOQ 2,000 packs. 7-15-day stock lead.
+- [Cat Litter Partner — Deodorizing Powder 300 g](https://shenhezhongke.com/products/cat-litter-partner-300.html) — Absorbs and decomposes litter box odor; accelerates clumping; extends litter life 300 g / pack MOQ 2,000 packs. 7-15-day stock lead.
+- [OEM Pet Deodorizing Spray Gun Kit 220 mL × 2 bottles + 1 spray gun](https://shenhezhongke.com/products/pet-deodorizing-spray-gun-kit.html) — Bundle: convenient refill-and-spray format for end-consumers 220 mL × 2 bottles + 1 spray gun MOQ 1,000 sets. 7-15-day stock lead.
+
+### Grooming & Care (11 SKUs)
+- [Pet Ear Cleansing Solution 100 mL](https://shenhezhongke.com/products/ear-mite-cleaning-solution.html) — Gentle ear canal cleaning; dissolves ear wax; helps prevent ear mites 100 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Probiotic Pet Dental Water 150 mL](https://shenhezhongke.com/products/probiotic-pet-tooth-cleaner.html) — Add to drinking water; balances oral flora; reduces plaque and bad breath 150 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Multi-Purpose Pet Wash 300 mL](https://shenhezhongke.com/products/multi-purpose-pet-wash-300.html) — Multi-purpose wash; gentle cleansing + antibacterial 300 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Multi-Purpose Pet Wash 200 mL](https://shenhezhongke.com/products/multi-purpose-pet-wash-200.html) — Multi-purpose wash; gentle cleansing + antibacterial 200 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Pet Shampoo for Cats or Dogs 500 mL](https://shenhezhongke.com/products/pet-shampoo-antibacterial-500.html) — Gentle cleansing + conditioning; cat & dog safe 500 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Pet Shampoo — Antibacterial · Mite Control 300 mL](https://shenhezhongke.com/products/pet-shampoo-antibacterial-300.html) — Antibacterial + mite control; targets common pet mites and bacterial infections 300 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [No-Rinse Pet Cleansing Foam 500 mL](https://shenhezhongke.com/products/waterless-cleansing-foam-500.html) — Waterless cleansing foam; convenient spot-clean for pets 500 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [No-Rinse Pet Cleansing Foam 300 mL](https://shenhezhongke.com/products/pet-waterless-cleaning-foam.html) — Waterless cleansing foam; convenient spot-clean for pets 300 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Pet Paw Cleansing Foam 200 mL](https://shenhezhongke.com/products/pet-paw-cleaning-foam.html) — Cleans pet paws before/after walks 200 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Laundry Detergent for Pet Households 1.5 kg](https://shenhezhongke.com/products/pet-household-laundry-detergent.html) — Laundry detergent specifically formulated for pet hair and pet odors 1.5 kg / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Pet Paw Moisturizing Gel 10 g](https://shenhezhongke.com/products/pet-paw-moisturizing-gel.html) — Moisturizes and repairs pet paw pads 10 g / sachet MOQ 2,000 sachets. 7-15-day stock lead.
+
+### Outdoor Protection (2 SKUs)
+- [Outdoor Protection Spray for Pets 80 mL](https://shenhezhongke.com/products/outdoor-protection.html) — Repels insects during outdoor activities 80 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+- [Outdoor Insect Repellent Spray 80 mL](https://shenhezhongke.com/products/outdoor-insect-repellent-spray.html) — Repels mosquitoes and insects during outdoor activities 80 mL / bottle MOQ 2,000 bottles. 7-15-day stock lead.
+
+## Pricing (B2B wholesale, custom-quoted)
+
+We do not publish unit prices. Every order is custom-quoted based on SKU, batch volume, customization, packaging, Incoterms, and destination.
+
+Submit the enquiry form at <https://shenhezhongke.com/contact.html> or message via WhatsApp. A named sales manager replies within one business day with a tailored quote (USD/EUR/RMB).
+
+## Private label vs custom formulation (9 dimensions)
+
+| Dimension | Custom formulation (OEM) | Private label |
+|---|---|---|
+| Formula | Customer provides | Factory provides ready formulas |
+| Best for | Brands with R&D | Startups, fast launch |
+| Lead time | 30–45 days (custom formulation, formula and sample) | 25–40 days (private label, after the sample is approved) |
+| MOQ | 1,000–3,000 units | 1,000 sets on the bundled sets, 2,000 bottles on catalogue SKUs |
+| IP | Customer owns | Factory owns |
+| Cost | Higher setup, lower unit | Lower setup, mid unit |
+| Customization | Full formula | Label / packaging |
+| Samples | Chargeable, 7–10 days of bench work | Chargeable, 5–7 days for an existing SKU |
+| Compliance | Customer-led | Factory-led (FDA, ISO, MSDS) |
+
+## 6-step process
+
+Enquiry → Sample → Quote (1 business day) → Contract (NDA) → Production (batch production, on-site QC sampling) → Shipment (export packing and dispatch)
+
+## Payment terms
+
+- 35% T/T deposit + 65% balance before shipment (standard orders)
+- L/C at sight (large orders, threshold by negotiation)
+- USD / EUR / RMB accepted (USD is default invoice currency)
+
+## Currency and FX policy
+
+
+- Buyer can request EUR or RMB invoice at quote time
+- FX rate locked at invoice date (large orders); the rate applied is the one stated on the Proforma Invoice
+- FX rate fixed at deposit-receipt date (standard orders)
+- Buyer bears FX risk from invoice date to deposit receipt; supplier bears risk thereafter
+
+## Pricing basis (VAT / Tax / Duty)
+
+- All prices are **EX-Works VAT-exclusive, GST-exclusive, and import-duty-exclusive**
+- Buyer (importer of record) pays all destination-country taxes
+- EU buyers with VAT registration: self-account via reverse-charge mechanism (EU VAT Directive Article 196)
+- We provide commercial invoice with HS code + country of origin for your customs declaration
+- Other documents per shipment: packing list, certificate of origin (CCPIT), fumigation certificate (if ISPM-15 pallet)
+
+## Incoterms® 2020
+
+- **Default:** FOB Guangzhou / Shenzhen (per ICC Publication 723E)
+- Available on request: EXW, FCA, CIF, CFR, DAP, DDP, DPU
+- Risk transfers at named port of loading
+- Each quote specifies which term applies
+
+## HS codes (major categories)
+
+- Pet deodorizing sprays / disinfectants: HS 3307 / 3808
+- Pet shampamp / cleaning foam: HS 3305 / 3401
+- Pet paw care / moisturizing: HS 3304 / 3307
+- Outdoor insect repellent spray: HS 3808
+- Pet probiotics / nutrition supplements: HS 2309 / 2106
+- Laundry detergent: HS 3402
+- Tooth cleaner / oral care: HS 3306
+- Ear cleaning: HS 3307
+- Full HS code provided on commercial invoice for every shipment
+
+## Quality guarantee and acceptance
+
+- 6-step in-house QC (IQC → batching → IPQC → filling → OQC → 3rd-party verification)
+- COA per batch attached to shipment; MSDS for all 20 SKUs
+- **7-day acceptance window** from arrival at destination for visible / packaging defects
+- **30-day window** for active-ingredient / efficacy claims
+- Discrepancies filed with photo evidence + lab report within window
+- Verified defects replaced at supplier cost
+- Returns via FOB Guangzhou back-haul
+
+## Cancellation and refund policy
+
+- **35% T/T deposit non-refundable** after artwork approval
+- Balance 100% refundable if production not started (typically 7 days post-deposit)
+- Custom-formula R&D costs non-refundable once lab work begins
+- Sample policy: existing SKU samples available; custom-formula samples require lab-work deposit (quote on request)
+
+## Product liability insurance
+
+- Coverage: USD 1,000,000 per occurrence / USD 5,000,000 aggregate
+- Underwriter: PICC Property and Casualty Company Limited
+- Worldwide coverage (USA / Canada / EU primary)
+- Certificate copy available on request
+- Buyer can be added as additional insured for large orders (one-time admin fee applies)
+
+## Regulatory compliance
+
+- **China:** GB National Standard, CSAR where applicable
+- **USA:** FDA facility registered (registration number on file); 21 CFR compliance; Prop 65 statement on request
+- **EU:** Regulation (EC) 1223/2009 (Cosmetics); REACH SVHC declarations on request; CLP / SDS per Annex II; CPSR for applicable SKUs (lead time 14-21 days, fee USD 500-1500); BPR 528/2012 for disinfectant SKUs
+- **UK:** UKCA marking where applicable (post-Brexit)
+- **Other:** Canada (Health Canada NNHPD), Australia (TGA exemption for pet care cosmetics), Japan (quasi-drug registration where applicable)
+- **Documentation:** MSDS (16-language), CPSR, INCI ingredient disclosure, allergen declaration, animal-testing statement (Cruelty-Free, Leaping Bunny pending 2027), Certificate of Free Sale
+
+## Dispute resolution and governing law
+
+- Contracts governed by **the laws of the People's Republic of China**
+- Default arbitration: **CIETAC** (China International Economic and Trade Arbitration Commission), Shanghai, English-language, 3 arbitrators
+- Alternative for large orders: ICC (Paris) or HKIAC (Hong Kong)
+- Awards enforceable in 170+ jurisdictions under New York Convention 1958
+- Pre-arbitration: 30-day good-faith negotiation → CCPIT mediation → arbitration
+
+## ESG and sustainability
+
+- ISO 22716 (Cosmetic GMP) certified
+- Cruelty-free formulations since 2020 (no animal testing on finished products or ingredients)
+- Plant-based ingredients in 11 of 20 SKUs
+- Class-D cleanroom wastewater treated on-site per GB 8978-1996
+- ISO 14001 (Environmental) target Q2 2027; ISO 45001 (Occupational Health) target Q4 2026
+- Solar panel installation (1.2 MW, ~30% facility demand) target Q4 2026
+- PCR (Post-Consumer Recycled) plastic packaging option available at +5% unit cost
+
+## Contact
+
+- **Tel**: +86-762-3909998
+- **Mobile**: +86-17266659928
+- **Email**: sales@shenhezhongke.com
+- **Address**: No.141-1 Longteng Road, Gaopugang, Yuancheng District, Heyuan, Guangdong, China
+
+## Third-party lab reports (10 PDFs, available for download)
+
+Each report number below is the one printed on the document, so it can be
+quoted back. The SHA-256 is the fingerprint of the exact file served here.
+The finding is what the report measured, and the page is that report
+written out as text — the numbers inside a PDF cannot be read by a crawler.
+
+- NACCYH25014722 — Pet deodorant — ammonia removal (Guangzhou Institute of Microbiology (NACC)) — Ammonia 1.53 → 0.088 mg/m³, a 94.2% removal, on the pet deodorant sample. — page: https://shenhezhongke.com/reports/naccyh25014722.html — SHA-256 2273cc7786a5dfe90bc04376b948a870fffef9c45e9724ad105e1de65db54ce8
+- NACCYH25014721 — Pet deodorant — hydrogen sulfide removal (Guangzhou Institute of Microbiology (NACC)) — Hydrogen sulfide 0.15 → <0.010 mg/m³, a 93.3% removal, on the same sample. — page: https://shenhezhongke.com/reports/naccyh25014721.html — SHA-256 03f5c37f2e2ada31484ea3a4353d600ce3e0e585ae0d13de94917b853d3325dc
+- NACCYH25007027 — Cat litter deodorizer — ammonia removal (Guangzhou Institute of Microbiology (NACC)) — Ammonia 1.53 → 0.052 mg/m³, a 96.6% removal, on the cat litter deodorizer. — page: https://shenhezhongke.com/reports/naccyh25007027.html — SHA-256 f7eccbab13ac06af95a26e7d5f3dd3fda897b9d7038973966e59dabdb18b61ff
+- XJ2025001233 — Disinfectant — available chlorine stability and acute oral toxicity (Guangzhou Institute of Microbiology Group Co., Ltd.) — Available chlorine 130 mg/L, and 111 mg/L after 14 days at 54 °C — a 14.6% fall. — page: https://shenhezhongke.com/reports/xj2025001233.html — SHA-256 c636d8b9748bdbd3fbd0892bc5c9b4b979d2368282ffd55751c50647d58ac737
+- 2024FM12662R01Da — Purepaws neutralising spray — full analysis (Guangdong Detection Center of Microbiology) — Kill rates above 99.999% against Trichophyton mentagrophytes and Microsporum canis. — page: https://shenhezhongke.com/reports/2024fm12662r01da.html — SHA-256 32b520409784a63b758ff159fc6111b8b6eeec4212b1c9c37971ccdb283de5c5
+- 2024FM11610R01D — Disinfectant & deodorizing liquid — analysis (Guangdong Detection Center of Microbiology) — Kill rates above 99.9999% in the suspension bactericidal and fungicidal tests. — page: https://shenhezhongke.com/reports/2024fm11610r01d.html — SHA-256 7b4d146c2a0b2f62bf6ae9bd377f21842b5903fbf12b48ddd7f0c85291367425
+- 2024FM11612R01D — Multi-effect wash — antibacterial (Guangdong Detection Center of Microbiology) — Inhibition rate above 99.97% under GB/T 27404.1.11.3.2. — page: https://shenhezhongke.com/reports/2024fm11612r01d.html — SHA-256 8dab2eef5c27c89e21f0cb6b3243b7c05ac8f43597655fc3b6e776c1827e9850
+- 2024FM11612R03D — Multi-effect wash — mite control (Guangdong Detection Center of Microbiology) — Mite control: 100% kill rate at 48 hours against Dermatophagoides farinae. — page: https://shenhezhongke.com/reports/2024fm11612r03d.html — SHA-256 fdf42af40f371073bc6ac46b22bd6f9bcd54d3ebaeecd2766acc7a0bdef973af
+- 2024FM11612R02D — Multi-effect wash — microbiological and quality test (Guangdong Detection Center of Microbiology) — Aerobic bacterial count below 10 CFU/g, thermotolerant coliforms absent; meets QB/T 4524-2013. — page: https://shenhezhongke.com/reports/2024fm11612r02d.html — SHA-256 abe3c99cedd0da0dff2f7ccfaa9f4cc2b8b549bbff74b4186f5563177608daad
+- 2024FM11611R02D — Pet deodorant — safety assessment (Guangdong Detection Center of Microbiology) — Acute oral toxicity LD50 above 5000 mg/kg; no skin or eye irritation in rabbits. — page: https://shenhezhongke.com/reports/2024fm11611r02d.html — SHA-256 08fc1582e4791c7997f30100a386b0536fb6b5f0aef43a516aaa6db2963aba36
+
+## Batch attestations (0 attested, 0 written to the chain)
+
+Every production batch carries the SHA-256 of its laboratory report, written to
+a public blockchain, so the report in a buyer's hands can be compared with the
+one that was filed. The transaction is on a public chain and is not ours to edit.
+
+- the index of attested batches: https://shenhezhongke.com/attestation.html
+- the SHA-256 of every published report: https://shenhezhongke.com/report-hashes.json
+
+An attestation proves that the report file existed at the recorded time and has
+not been changed since. It does not prove that the product is approved for any
+market, and it does not prove that the product is good.
+
+## MSDS
+
+MSDS available for all 20 SKUs. Pet Deodorizing Spray 350 mL MSDS published in English.
+
+## Patents, standards and trademarks (what this company holds)
+
+- **Granted utility model patent** — Space spray deodorizing device (空间喷雾除臭设备), application CN202422485591.8, granted 2025-09-09 as CN223311460U, in force to 2034-10-14. Held jointly by Guangdong Shenhe Zhongke Biotechnology Co., Ltd. and Shenzhen Yongsheng Environmental Engineering Co., Ltd. IPC A61L9/14. **This is a device patent — it covers how the deodorizing liquid is delivered across a space. It is not a patent on a pet care formula, and we claim none.**
+- **Our own enterprise standard** — Q/SHZK 12-2026《宠物洁齿水》, published 2026-05-23, in force. Drafted by us. A standard we wrote and published, not a certificate another body issued to us.
+- **Registered trademark** — 贝洛宠, registration 89702457, class 3, registered 2026-08-13, in force to 2036-08-13. Held by 广东深河中科生物科技有限公司. Check by registration number or by applicant name in the trademark comprehensive query at sbj.cnipa.gov.cn. We file other marks under the same company name as well; those are checked by applicant name, because a trademark status changes and a number printed here can be wrong by the time a buyer reads it.
+
+A formula developed for a customer stays the customer's property, and the NDA comes before the discussion. The laboratory reports published on this site were made on samples belonging to customers, on their own brands — the sample name is on the report, and we do not claim the brand.
+
+Page: https://shenhezhongke.com/intellectual-property.html
+
+## Factory & R&D
+
+- 30,000m² self-owned industrial park in Heyuan, Guangdong
+- 5,000m² GMP workshop, class-D cleanroom filling, 1,000,000 bottles / month
+- 3,000m² office building, 220+ employees
+- In-house technical team develops all 20 SKUs; active R&D cooperation with partner universities
+- All product lines mature and commercially proven
+- Patents registered and verifiable: bio-enzyme + probiotic complex, stabilized chlorine dioxide system, plant-based insect repellent blend, trigger-lock spray gun design & utility models
+- 6-step QC process: IQC → batching → IPQC → filling → OQC → 3rd-party claim verification
+- Independent third-party lab reports for every published claim (kill rate, ammonia removal, etc.)
+
+## Site structure
+
+- [Home](https://shenhezhongke.com/) — the factory and what it makes
+- [Products](https://shenhezhongke.com/products.html) — All 20 SKUs grouped by product line
+- [Products](https://shenhezhongke.com/products/deodorizing-disinfecting.html) — Deodorizing & Disinfecting, 7 product pages
+- [Products](https://shenhezhongke.com/products/grooming-care.html) — Grooming & Care, 11 product pages
+- [Products](https://shenhezhongke.com/products/outdoor-protection.html) — Outdoor Protection, 2 product pages
+- [Products](https://shenhezhongke.com/products/pet-nutrition.html) — Pet Nutrition, 2 product pages
+- [Probiotic + Bio-Enzyme Odor Control Set 1 spray + 2 × 220 mL](https://shenhezhongke.com/products/odor-control-set.html) — product page
+- [Power Odor Eliminator (Extra Strength) 350 mL](https://shenhezhongke.com/products/pet-deodorizing-spray.html) — product page
+- [Disinfectant & Deodorizing Solution 350 mL](https://shenhezhongke.com/products/pet-disinfectant-deodorizing-solution.html) — product page
+- [CatClean Antifungal & Deodorizing Solution 350 mL](https://shenhezhongke.com/products/cat-ringworm-spray.html) — product page
+- [Pet Ear Cleansing Solution 100 mL](https://shenhezhongke.com/products/ear-mite-cleaning-solution.html) — product page
+- [Probiotic Pet Dental Water 150 mL](https://shenhezhongke.com/products/probiotic-pet-tooth-cleaner.html) — product page
+- [Cat Litter Partner — Deodorizing Powder 500 g](https://shenhezhongke.com/products/cat-litter-companion.html) — product page
+- [Cat Litter Partner — Deodorizing Powder 300 g](https://shenhezhongke.com/products/cat-litter-partner-300.html) — product page
+- [Pet Deodorizing Spray Gun Kit 220 mL × 2 bottles + 1 spray gun](https://shenhezhongke.com/products/pet-deodorizing-spray-gun-kit.html) — product page
+- [Multi-Purpose Pet Wash 300 mL](https://shenhezhongke.com/products/multi-purpose-pet-wash-300.html) — product page
+- [Multi-Purpose Pet Wash 200 mL](https://shenhezhongke.com/products/multi-purpose-pet-wash-200.html) — product page
+- [Pet Shampoo for Cats or Dogs 500 mL](https://shenhezhongke.com/products/pet-shampoo-antibacterial-500.html) — product page
+- [Pet Shampoo — Antibacterial · Mite Control 300 mL](https://shenhezhongke.com/products/pet-shampoo-antibacterial-300.html) — product page
+- [No-Rinse Pet Cleansing Foam 500 mL](https://shenhezhongke.com/products/waterless-cleansing-foam-500.html) — product page
+- [No-Rinse Pet Cleansing Foam 300 mL](https://shenhezhongke.com/products/pet-waterless-cleaning-foam.html) — product page
+- [Pet Paw Cleansing Foam 200 mL](https://shenhezhongke.com/products/pet-paw-cleaning-foam.html) — product page
+- [Laundry Detergent for Pet Households 1.5 kg](https://shenhezhongke.com/products/pet-household-laundry-detergent.html) — product page
+- [Pet Paw Moisturizing Gel 10 g](https://shenhezhongke.com/products/pet-paw-moisturizing-gel.html) — product page
+- [Outdoor Protection Spray for Pets 80 mL](https://shenhezhongke.com/products/outdoor-protection.html) — product page
+- [Outdoor Insect Repellent Spray 80 mL](https://shenhezhongke.com/products/outdoor-insect-repellent-spray.html) — product page
+- [Pet Digestive Probiotics 8 mL × 9 vials](https://shenhezhongke.com/products/pet-digestive-probiotics.html) — product page
+- [Pet Immunoglobulin (IgG) 15 g × 8 sachets](https://shenhezhongke.com/products/pet-immunoglobulin.html) — product page
+- [Home](https://shenhezhongke.com/) — the factory and what it makes
+- [OEM vs ODM](https://shenhezhongke.com/oem-odm.html) — 9 dimensions, 3 cooperation models, the 6-step process
+- [AI Product Match](https://shenhezhongke.com/ai-customize.html) — four questions, the top five SKUs
+- [Factory](https://shenhezhongke.com/factory.html) — the 30,000 m² park in Heyuan: lines, cleanroom, warehouse
+- [R&D & Quality](https://shenhezhongke.com/capabilities.html) — in-house lab, university partners, documentation
+- [Certifications](https://shenhezhongke.com/certifications.html) — every third-party lab report and certificate
+- [Global Compliance](https://shenhezhongke.com/global-compliance.html) — regulatory coverage by destination market
+- [Trade Compliance](https://shenhezhongke.com/trade-compliance.html) — payment terms, Incoterms, FX, disputes
+- [Sourcing Guides](https://shenhezhongke.com/sourcing-guides.html) — guides for pet care buyers
+- [Contact](https://shenhezhongke.com/contact.html) — the enquiry form, direct contacts, freight and logistics
+- [About](https://shenhezhongke.com/about.html) — the company: history, patents, global reach
+- [Why Us](https://shenhezhongke.com/why-us.html) — what makes this factory different from a trading company
+- [FAQ](https://shenhezhongke.com/faq.html) — the buyer questions, grouped: ordering, samples, quality, lead time, shipping
+- [Standards](https://shenhezhongke.com/standards.html) — the standards, test methods and the reports behind them
+- [Batch Attestations](https://shenhezhongke.com/attestation.html) — every attested batch, with its transaction hash
+- [MSDS](https://shenhezhongke.com/msds.html) — safety data sheets
+- [Terms](https://shenhezhongke.com/terms.html) — terms of sale
+- [Privacy](https://shenhezhongke.com/privacy.html) — privacy policy
+- [Insights](https://shenhezhongke.com/blog.html) — guides for pet care buyers
+
+### Third-party laboratory reports
+- [2024FM11610R01D — Disinfectant &amp; deodorizing liquid — analysis](https://shenhezhongke.com/reports/2024fm11610r01d.html) — Kill rates above 99.9999% in the suspension bactericidal and fungicidal tests.
+- [2024FM11611R02D — Pet deodorant — safety assessment](https://shenhezhongke.com/reports/2024fm11611r02d.html) — Acute oral toxicity LD50 above 5000 mg/kg; no skin or eye irritation in rabbits.
+- [2024FM11612R01D — Multi-effect wash — antibacterial](https://shenhezhongke.com/reports/2024fm11612r01d.html) — Inhibition rate above 99.97% under GB/T 27404.1.11.3.2.
+- [2024FM11612R02D — Multi-effect wash — microbiological and](https://shenhezhongke.com/reports/2024fm11612r02d.html) — Aerobic bacterial count below 10 CFU/g, thermotolerant coliforms absent; meets QB/T 4524-2013.
+- [2024FM11612R03D — Multi-effect wash — mite control](https://shenhezhongke.com/reports/2024fm11612r03d.html) — Mite control: 100% kill rate at 48 hours against Dermatophagoides farinae.
+- [2024FM12662R01Da — Purepaws neutralising spray — full analysis](https://shenhezhongke.com/reports/2024fm12662r01da.html) — Kill rates above 99.999% against Trichophyton mentagrophytes and Microsporum canis.
+- [NACCYH25007027 — Cat litter deodorizer — ammonia removal](https://shenhezhongke.com/reports/naccyh25007027.html) — Ammonia 1.53 → 0.052 mg/m³, a 96.6% removal, on the cat litter deodorizer.
+- [NACCYH25014721 — Pet deodorant — hydrogen sulfide removal](https://shenhezhongke.com/reports/naccyh25014721.html) — Hydrogen sulfide 0.15 → <0.010 mg/m³, a 93.3% removal, on the same sample.
+- [NACCYH25014722 — Pet deodorant — ammonia removal](https://shenhezhongke.com/reports/naccyh25014722.html) — Ammonia 1.53 → 0.088 mg/m³, a 94.2% removal, on the pet deodorant sample.
+- [XJ2025001233 — Disinfectant — available chlorine stability](https://shenhezhongke.com/reports/xj2025001233.html) — Available chlorine 130 mg/L, and 111 mg/L after 14 days at 54 °C — a 14.6% fall.
+
+### Guides
+- [How to Choose a Pet Shampoo: 7 Questions to Ask Before You Buy](https://shenhezhongke.com/blog/howto/how-to-choose-a-pet-shampoo.html) — guide
+- [Pet Shampoo Ingredients to Avoid: What to Check on the Label](https://shenhezhongke.com/blog/howto/pet-shampoo-ingredients-to-avoid.html) — guide
+- [How to Wash a Cat at Home, and How to Wash Their Bedding](https://shenhezhongke.com/blog/howto/washing-a-cat-at-home.html) — guide
+- [No-Rinse Foam or Wet Shampoo: Which One Does the Job](https://shenhezhongke.com/blog/howto/waterless-foam-or-wet-shampoo.html) — guide
+- [Why Does Cat Litter Smell? 4 Causes and What Actually Works](https://shenhezhongke.com/blog/pet-care-notes/why-does-cat-litter-smell.html) — guide
+- [How to Choose a Pet Care OEM Manufacturer in China](https://shenhezhongke.com/blog/sourcing/how-to-choose-a-pet-care-oem-manufacturer-in-china.html) — guide
+- [Bulk Pet Care Supply for Groomers and Distributors: A Guide](https://shenhezhongke.com/blog/sourcing/pet-groomer-bulk-supply.html) — guide
+- [Pet Salon Shampoo Wholesale: What to Ask a Supplier](https://shenhezhongke.com/blog/sourcing/pet-salon-shampoo-wholesale.html) — guide
+- [Washing Dogs in a Shelter or Rescue: Products That Turn Over](https://shenhezhongke.com/blog/sourcing/shelter-and-rescue-pet-wash.html) — guide

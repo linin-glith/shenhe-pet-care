@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://shenhezhongke.com/llms-full.schema.json",
+  "title": "SHENHE ZHONGKE - the machine-readable company record",
+  "description": "The shape of llms-full.json: the company record an answer engine is pointed at. Every fact in the file is one the site publishes. There is no price anywhere in it, because the site is quote-only.",
+  "type": "object",
+  "required": [
+    "version",
+    "updated",
+    "company",
+    "products",
+    "pages",
+    "brand",
+    "social"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "version": {
+      "type": "string"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date"
+    },
+    "company": {
+      "type": "object",
+      "description": "The legal entity: names, address, contact, scale, certifications.",
+      "required": [
+        "legalName",
+        "brand"
+      ]
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "products": {
+      "type": "array",
+      "description": "The catalogue SKUs. There is no price field on a product and there must not be one: the site is quote-only, and the minimum order below is a QUANTITY, not a price.",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "sku",
+          "name",
+          "url"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "The catalogue SKU id."
+          },
+          "sku": {
+            "type": "string",
+            "description": "The OEM SKU code a buyer quotes back."
+          },
+          "name": {
+            "type": "string"
+          },
+          "size": {
+            "type": "string"
+          },
+          "query": {
+            "type": "string",
+            "description": "The phrase a buyer types."
+          },
+          "alsoSearchedAs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "category": {
+            "type": "string"
+          },
+          "moq": {
+            "type": [
+              "string",
+              "number"
+            ],
+            "description": "The minimum order."
+          },
+          "leadTime": {
+            "type": [
+              "string",
+              "number"
+            ]
+          },
+          "hsCode": {
+            "type": "string"
+          },
+          "claim": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "cooperationModels": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "process": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "externalResources": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "pages": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "articles": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "brand": {
+      "type": "object"
+    },
+    "legalRepresentative": {
+      "type": "object"
+    },
+    "businessScope": {
+      "type": "string"
+    },
+    "sameAs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "social": {
+      "type": "object"
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "reports": {
+      "type": "array",
+      "description": "The third-party laboratory reports: the number as printed on the document, the body that issued it, what was measured, what it found, the page it is read out on, and the file itself.",
+      "items": {
+        "type": "object",
+        "required": [
+          "reportNumber",
+          "title",
+          "issuer",
+          "finding",
+          "page"
+        ]
+      }
+    },
+    "reviews": {
+      "type": "array",
+      "description": "What buyers said, in their own words, after a real order and with their permission to be quoted. Empty when there is none: a review that has not been cleared is never published.",
+      "items": {
+        "type": "object",
+        "required": [
+          "sku",
+          "author",
+          "rating",
+          "body",
+          "date",
+          "url"
+        ],
+        "properties": {
+          "sku": {
+            "type": "string",
+            "description": "The catalogue SKU bought."
+          },
+          "author": {
+            "type": "string",
+            "description": "The buyer's own name."
+          },
+          "company": {
+            "type": "string"
+          },
+          "rating": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+          },
+          "body": {
+            "type": "string",
+            "description": "The buyer's own words."
+          },
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "attestation": {
+      "type": "object",
+      "description": "The chain-of-custody record: what an attestation proves and what it does not."
+    }
+  },
+  "additionalProperties": true
+}

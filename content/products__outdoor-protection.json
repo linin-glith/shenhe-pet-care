@@ -1,0 +1,55 @@
+{
+  "source": "products/outdoor-protection.html",
+  "slug": "products__outdoor-protection",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Outdoor Protection Products | OEM",
+    "description": "Natural plant-based repellent, gentle on sensitive skin",
+    "canonical": "https://shenhezhongke.com/products/outdoor-protection.html",
+    "ogTitle": "Pet Outdoor Protection Products | OEM",
+    "ogDescription": "Natural plant-based repellent, gentle on sensitive skin",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [],
+    "hasGtm": false
+  },
+  "blocks": [
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section\" style=\"background: linear-gradient(180deg, var(--pp-teal-50), var(--pp-white)); padding-top: var(--pp-space-12);\">\n      <div class=\"pp-container\">\n        <span class=\"pp-eyebrow\">Outdoor Protection</span>\n        <h1 style=\"font-size: var(--pp-text-5xl); margin-bottom: var(--pp-space-2);\">Outdoor Protection</h1>\n        <p class=\"pp-lead\" style=\"max-width: 720px;\">Natural plant-based repellent, gentle on sensitive skin</p>\n        <div class=\"pp-trust-row\" style=\"margin-top: var(--pp-space-6);\">\n          <span class=\"pp-badge pp-badge--amber\">2 SKUs</span>\n          <span class=\"pp-badge\">In-House Lab QC</span>\n          <span class=\"pp-badge\">FDA Registered</span>\n          <span class=\"pp-badge\">ISO 22716 GMP</span>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "All Worry-Free Adventures products",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title\">\n          <h2>All Worry-Free Adventures products</h2>\n        </div>\n        <div class=\"pp-grid pp-grid--3\">\n\n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/outdoor-insect-repellent-spray.html\" aria-label=\"Outdoor Insect Repellent Spray\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/outdoor-insect-repellent-spray.png?v=2\" alt=\"Outdoor Insect Repellent Spray\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">outdoor protection</div>\n          <h3 class=\"pp-product-card__title\">Outdoor Insect Repellent Spray</h4>\n          <div class=\"pp-product-card__size\">80 mL</div>\n          <p class=\"pp-product-card__desc\">Natural plant-based repellent, nano-silver boosted</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n\n        </div>\n      </article>\n\n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/pet-household-laundry-detergent.html\" aria-label=\"Pet Household Laundry Detergent\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/pet-household-laundry-detergent.png?v=2\" alt=\"Pet Household Laundry Detergent\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">outdoor protection</div>\n          <h3 class=\"pp-product-card__title\">Pet Household Laundry Detergent</h4>\n          <div class=\"pp-product-card__size\">1.5 kg</div>\n          <p class=\"pp-product-card__desc\">Antibacterial laundry safe for baby clothes</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n\n        </div>\n      </article>\n\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Build your worry-free adventures line",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--2\" style=\"align-items: center; gap: var(--pp-space-12);\">\n          <div>\n            <span class=\"pp-eyebrow\">OEM/ODM</span>\n            <h2>Build your worry-free adventures line</h2>\n            <p class=\"pp-lead\">Use our ready formulas with your label (ODM, 1,000 MOQ) or send us your custom formula (OEM, 1,000+ MOQ). Every SKU in this line is ready to ship, and every batch goes through our on-site lab QC. The third-party laboratory reports published on this site are listed on the certifications page.</p>\n            <ul style=\"list-style: none; padding: 0; margin: var(--pp-space-6) 0;\">\n              <li style=\"padding: 8px 0; display: flex; align-items: center; gap: 8px;\"><span style=\"color: var(--pp-teal-600);\">✓</span> Samples shipped in 5–7 days, fee confirmed in the quotation</li>\n              <li style=\"padding: 8px 0; display: flex; align-items: center; gap: 8px;\"><span style=\"color: var(--pp-teal-600);\">✓</span> one-business-day quote response</li>\n              <li style=\"padding: 8px 0; display: flex; align-items: center; gap: 8px;\"><span style=\"color: var(--pp-teal-600);\">✓</span> Custom label & packaging</li>\n              <li style=\"padding: 8px 0; display: flex; align-items: center; gap: 8px;\"><span style=\"color: var(--pp-teal-600);\">✓</span> FDA-registered facility</li>\n            </ul>\n            <a class=\"pp-btn pp-btn--primary pp-btn--lg\" href=\"/contact.html?line=outdoor-protection\">Start Worry-Free Adventures OEM/ODM</a>\n          </div>\n          <div>\n            <div class=\"pp-cta-card\">\n              <span class=\"pp-cta-card__eyebrow\">Request a quotation within 1 business day</span>\n              <h3>Looking for a specific SKU in this line?</h3>\n              <p>Tell us the SKU, target market, and MOQ. We'll reply within one business day with a quote and a sample plan.</p>\n              <a class=\"pp-btn pp-btn--lg\" href=\"/contact.html?line=outdoor-protection\">Email Sales</a>\n            </div>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 3,
+    "richtextFallback": 0
+  }
+}

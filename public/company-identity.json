@@ -1,0 +1,137 @@
+{
+  "_readme": [
+    "The off-site identity register.",
+    "",
+    "Every URL here is a place where this company appears in SOMEONE ELSE's record.",
+    "An assistant reads a company as one entity when it finds the same company",
+    "at more than one address, so these addresses are what turn a self-published",
+    "claim into a third-party record.",
+    "",
+    "THE RULES",
+    "  1. The legal name on every platform must be character-identical to",
+    "     brand.legalName in lib/shenhe.config.ts.",
+    "  2. The address must be character-identical to brand.address.",
+    "  3. Every platform profile must list https://shenhezhongke.com as its website.",
+    "     The confirmation has to run both ways.",
+    "  4. No price anywhere. Minimum order and lead time are allowed; unit price is not.",
+    "  5. Real photographs only. A rendered factory is a rejected profile.",
+    "",
+    "WHEN A PLATFORM IS DONE, add its URL to the sameAs list in",
+    "lib/shenhe.config.ts and run: node scripts/check-build.mjs",
+    "The gate checks that every URL in that list resolves, so a typo fails the build.",
+    "",
+    "The full register, with the exact values to copy and the order of work,",
+    "is in docs/站外身份执行清单.md."
+  ],
+  "company": {
+    "legalName": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+    "brand": "SHENHE ZHONGKE",
+    "legalNameLocal": "广东深河中科生物科技有限公司",
+    "founded": "2020",
+    "website": "https://shenhezhongke.com",
+    "telephone": "+86-762-3909998",
+    "whatsapp": "https://wa.me/8617266659928",
+    "email": "sales@shenhezhongke.com",
+    "address": {
+      "streetAddress": "No.141-1 Longteng Road, Gaopugang, Yuancheng District",
+      "addressLocality": "Heyuan",
+      "addressRegion": "Guangdong",
+      "addressCountry": "CN",
+      "postalCode": "517000",
+      "countryName": "China"
+    },
+    "employees": 220,
+    "parkAreaM2": 30000,
+    "gmpWorkshopAreaM2": 5000,
+    "monthlyCapacityBottles": 1000000,
+    "productionLines": 6,
+    "productLines": 4,
+    "catalogueSkus": 20,
+    "certifications": [
+      "ISO 22716 GMP",
+      "FDA establishment registration"
+    ],
+    "thirdPartyReports": 10,
+    "domesticLicences": 3,
+    "exportMarkets": 12,
+    "intellectualProperty": {
+      "_note": "The registrations this company holds in its own name, with the number and the register each one is checked in. The same list is read by /intellectual-property.html and by content/v2/ip-assets.ts; the build gate checks the three agree.",
+      "patent": {
+        "title": "Space spray deodorizing device",
+        "titleLocal": "\u7a7a\u95f4\u55b7\u96fe\u9664\u81ed\u8bbe\u5907",
+        "applicationNumber": "CN202422485591.8",
+        "announcementNumber": "CN223311460U",
+        "filed": "2024-10-14",
+        "granted": "2025-09-09",
+        "status": "Active, in force to 2034-10-14",
+        "holder": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd. and Shenzhen Yongsheng Environmental Engineering Co., Ltd.",
+        "classification": "IPC A61L9/14",
+        "scope": "A device patent on a mobile deodorizing unit with an adjustable spray range. Not a patent on a pet care formula.",
+        "verify": "National patent search system, application CN202422485591.8"
+      },
+      "standard": {
+        "number": "Q/SHZK 12-2026",
+        "title": "Enterprise standard for the dental-care product",
+        "titleLocal": "\u4f01\u4e1a\u6807\u51c6\u300a\u5ba0\u7269\u6d01\u9f7f\u6c34\u300b",
+        "published": "2026-05-23",
+        "status": "In force",
+        "holder": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd. \u2014 the drafting company",
+        "scope": "A standard we authored, not a certificate another body issued to us.",
+        "verify": "National enterprise standard information platform, Q/SHZK 12-2026"
+      },
+          "trademarks": {
+      "holder": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+      "mark": "贝洛宠",
+      "registrationNumber": "89702457",
+      "class": "3",
+      "registered": "2026-08-13",
+      "term": "14 Aug 2026 to 13 Aug 2036",
+      "note": "This registration is printed with its number because it can be checked in the register today, and it is the same number published on /for-ai.html. We file other marks under the same company name as well, and those are checked by applicant name, because a trademark status changes and a number printed here can be wrong by the time a buyer reads it.",
+      "verify": "Trademark comprehensive query at sbj.cnipa.gov.cn, by registration number or applicant name"
+    }
+    }
+  },
+  "offSite": {
+    "_note": "The platforms where the company is already listed, and the ones that are not. Every live entry has to be in the sameAs list in lib/shenhe.config.ts as well - a record that nothing points at is a record the site does not claim.",
+    "alibaba1688Factory": {
+      "url": "https://www.1688.com/factory/b2b-221729763086058196.html",
+      "status": "live",
+      "note": "The company information page on 1688. It carries the legal name and the address (源城区高埔岗, 河源) in its own body, which is what the sameAs claim rests on.",
+      "inSameAs": true
+    },
+    "jdFlagshipStore": {
+      "url": "https://mall.jd.com/index-146676108.html",
+      "status": "live",
+      "note": "The official flagship store on JD. The page title is the Chinese brand name.",
+      "inSameAs": true
+    },
+    "alibabaInternational": {
+      "url": "",
+      "status": "not registered"
+    },
+    "madeInChina": {
+      "url": "",
+      "status": "not registered"
+    },
+    "globalSources": {
+      "url": "",
+      "status": "not registered"
+    },
+    "linkedinCompany": {
+      "url": "",
+      "status": "not registered"
+    },
+    "googleBusinessProfile": {
+      "url": "",
+      "status": "not registered"
+    },
+    "youtube": {
+      "url": "",
+      "status": "not registered"
+    },
+    "industryDirectories": {
+      "url": "",
+      "status": "not registered"
+    }
+  }
+}

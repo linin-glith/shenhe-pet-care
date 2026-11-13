@@ -1,0 +1,145 @@
+{
+  "_comment": [
+    "THE SECURITY HEADERS, AND THE ONE PLACE THEY ARE WRITTEN DOWN.",
+    "",
+    "This file is the source of truth. The nginx snippet on the server is",
+    "rendered from it (scripts/check_security_headers.py --render), and the",
+    "gate checks the live site against it, so the server's copy cannot drift",
+    "away from this one without the gate going red.",
+    "",
+    "'mode' says which header name the server is sending:",
+    "  report-only - the browser reports what it would have blocked",
+    "  enforce    - the browser blocks it",
+    "Both are checked against the same policy below, so flipping the mode",
+    "means changing this file AND the nginx snippet together - and the",
+    "gate notices if only one of them moved.",
+    "",
+    "The allow lists are measured, not guessed: the origins the browser",
+    "really asked for, and the browser features the code really uses.",
+    "'unsafe-inline' in script-src is not a shortcut - Next.js's static",
+    "export writes its flight data into 250 different inline scripts, one",
+    "set per page, so their hashes cannot be listed in a header and would",
+    "change with every edit."
+  ],
+  "mode": "enforce",
+  "contentSecurityPolicy": {
+    "default-src": [
+      "'self'"
+    ],
+    "base-uri": [
+      "'self'"
+    ],
+    "object-src": [
+      "'none'"
+    ],
+    "frame-ancestors": [
+      "'self'"
+    ],
+    "form-action": [
+      "'self'"
+    ],
+    "script-src": [
+      "'self'",
+      "'unsafe-inline'",
+      "https://*.googletagmanager.com",
+      "https://*.clarity.ms"
+    ],
+    "script-src-attr": [
+      "'none'"
+    ],
+    "style-src": [
+      "'self'",
+      "'unsafe-inline'"
+    ],
+    "img-src": [
+      "'self'",
+      "data:",
+      "https://*.clarity.ms",
+      "https://*.bing.com",
+      "https://*.google-analytics.com",
+      "https://*.googletagmanager.com"
+    ],
+    "connect-src": [
+      "'self'",
+      "https://*.clarity.ms",
+      "https://*.bing.com",
+      "https://*.google-analytics.com",
+      "https://*.googletagmanager.com",
+      "https://analytics.google.com"
+    ],
+    "font-src": [
+      "'self'",
+      "data:"
+    ],
+    "frame-src": [
+      "'none'"
+    ],
+    "media-src": [
+      "'self'"
+    ],
+    "worker-src": [
+      "'self'",
+      "blob:"
+    ],
+    "manifest-src": [
+      "'self'"
+    ],
+    "upgrade-insecure-requests": []
+  },
+  "permissionsPolicy": {
+    "accelerometer": [],
+    "autoplay": [],
+    "camera": [],
+    "display-capture": [],
+    "encrypted-media": [],
+    "fullscreen": [],
+    "geolocation": [],
+    "gyroscope": [],
+    "magnetometer": [],
+    "microphone": [],
+    "midi": [],
+    "payment": [],
+    "picture-in-picture": [],
+    "publickey-credentials-get": [],
+    "screen-wake-lock": [],
+    "serial": [],
+    "usb": [],
+    "web-share": [],
+    "xr-spatial-tracking": [],
+    "browsing-topics": [],
+    "clipboard-read": [],
+    "clipboard-write": [
+      "self"
+    ],
+    "idle-detection": []
+  },
+  "server": {
+    "vhost": "/etc/nginx/conf.d/shenhe-site.conf",
+    "snippet": "/etc/nginx/snippets/shenhe-security-headers.conf",
+    "includeLine": "include /etc/nginx/snippets/shenhe-security-headers.conf;",
+    "inheritDirective": "add_header_inherit merge;",
+    "minNginxVersion": "1.29.3",
+    "whyInherit": [
+      "In nginx a location that declares ANY add_header does not inherit",
+      "the ones from the server block - it replaces them. The",
+      "`location ~* \\.html$` block declares Cache-Control, so every",
+      ".html page was served with no HSTS, no nosniff, no X-Frame-Options",
+      "and no Referrer-Policy. `add_header_inherit merge;` makes a",
+      "location keep its own header AND inherit the server's."
+    ]
+  },
+  "livePaths": {
+    "_comment": [
+      "One address per kind of nginx location, because the headers have to",
+      "be on all of them. The .html addresses and /assets/ are the ones",
+      "that used to lose them."
+    ],
+    "home": "/",
+    "html": "/contact.html",
+    "htmlAdmin": "/admin.html",
+    "asset": "/assets/css/base.css",
+    "nextStatic": "/_next/static/chunks/__NEXT_CHUNK__",
+    "manifest": "/manifest.webmanifest",
+    "notFound": "/this-address-does-not-exist-for-the-gate.html"
+  }
+}

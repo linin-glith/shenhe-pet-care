@@ -1,0 +1,1093 @@
+{
+  "$schema": "https://shenhezhongke.com/llms-full.schema.json",
+  "version": "1.0.0",
+  "updated": "2026-11-13",
+  "company": {
+    "legalName": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+    "legalNameCN": "广东深河中科生物科技有限公司",
+    "brand": "SHENHE ZHONGKE",
+    "brandLine": "DEKOBIO",
+    "tagline": "Pet care OEM/ODM factory since 2020",
+    "founded": 2020,
+    "type": "Manufacturer · OEM/ODM/OBM",
+    "address": {
+      "street": "广东省河源市源城区高埔岗龙腾路 141 号-1",
+      "district": "Yuancheng District",
+      "city": "Heyuan",
+      "province": "Guangdong",
+      "country": "CN",
+      "postal": "517000"
+    },
+    "intellectualProperty": {
+      "note": "The registrations this company holds in its own name. A trademark status moves, so the trademarks are listed by register rather than by number; the patent and the enterprise standard carry the number the register prints.",
+      "patent": {
+        "title": "Space spray deodorizing device",
+        "titleCN": "空间喷雾除臭设备",
+        "applicationNumber": "CN202422485591.8",
+        "announcementNumber": "CN223311460U",
+        "filed": "2024-10-14",
+        "granted": "2025-09-09",
+        "status": "Active, in force to 2034-10-14",
+        "holder": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd. and Shenzhen Yongsheng Environmental Engineering Co., Ltd.",
+        "classification": "IPC A61L9/14",
+        "scope": "A device patent on a mobile deodorizing unit with an adjustable spray range. Not a patent on a pet care formula.",
+        "verify": "National patent search system, application CN202422485591.8",
+        "url": "https://shenhezhongke.com/intellectual-property.html"
+      },
+      "standard": {
+        "number": "Q/SHZK 12-2026",
+        "title": "Enterprise standard for the dental-care product",
+        "titleCN": "企业标准《宠物洁齿水》",
+        "published": "2026-05-23",
+        "status": "In force",
+        "holder": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd. — the drafting company",
+        "scope": "A standard we authored, not a certificate another body issued to us.",
+        "verify": "National enterprise standard information platform, Q/SHZK 12-2026"
+      },
+      "trademarks": {
+        "holder": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+        "mark": "贝洛宠",
+        "registrationNumber": "89702457",
+        "class": "3",
+        "registered": "2026-08-13",
+        "term": "14 Aug 2026 to 13 Aug 2036",
+        "note": "This registration is printed with its number because it can be checked in the register today, and it is the same number published on /for-ai.html. We file other marks under the same company name as well, and those are checked by applicant name, because a trademark status changes and a number printed here can be wrong by the time a buyer reads it.",
+        "verify": "Trademark comprehensive query at sbj.cnipa.gov.cn, by registration number or applicant name"
+      }
+    },
+    "contact": {
+      "tel": "+86-762-3909998",
+      "mobile": "+86 172 6665 9928",
+      "whatsapp": "+86 172 6665 9928",
+      "whatsappLink": "https://wa.me/8617266659928",
+      "emailSales": "sales@shenhezhongke.com",
+      "emailSecurity": "sales@shenhezhongke.com"
+    },
+    "scale": {
+      "industrialPark": "30,000 m²",
+      "gmpWorkshop": "5,000 m²",
+      "officeBuilding": "3,000 m²",
+      "employees": 220,
+      "monthlyCapacity": "1,000,000 bottles",
+      "automatedLines": 6
+    },
+    "certifications": [
+      "FDA-registered facility",
+      "ISO 22716 GMP certified",
+      "MSDS compliant",
+      "Cruelty-free formulations"
+    ],
+    "shippingTerms": {
+      "defaultIncoterm": "FOB Guangzhou / Shenzhen",
+      "supportedIncoterms": [
+        "EXW",
+        "FCA",
+        "FOB",
+        "CIF",
+        "CFR",
+        "DAP",
+        "DDP",
+        "DPU"
+      ],
+      "ports": [
+        "Guangzhou",
+        "Shenzhen",
+        "Yantian"
+      ],
+      "paymentTerms": "35% T/T deposit, 65% balance (orders < USD 30,000). L/C at sight (≥ USD 30,000).",
+      "currencies": [
+        "USD",
+        "EUR",
+        "RMB"
+      ],
+      "minOrderQuantity": 1000
+    },
+    "skuCount": 20,
+    "skuCountNote": "20 catalogue SKUs. The products list also holds 2 Pet Nutrition products that are quoted individually and carry no SKU code, so it lists 22 products in total."
+  },
+  "categories": [
+    {
+      "id": "deodorizing-disinfecting",
+      "skuCount": 7,
+      "headline": "Deodorizing & Disinfecting"
+    },
+    {
+      "id": "grooming-care",
+      "skuCount": 11,
+      "headline": "Grooming & Care"
+    },
+    {
+      "id": "outdoor-protection",
+      "skuCount": 2,
+      "headline": "Outdoor Protection"
+    },
+    {
+      "id": "pet-nutrition",
+      "skuCount": 0,
+      "productCount": 2,
+      "headline": "Probiotic set and IgG colostrum — quoted individually"
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "sku": "SHENHE-DEO-SET-PRO",
+      "name": "Probiotic + Bio-Enzyme Odor Control Set 1 spray + 2 × 220 mL",
+      "size": "1 spray + 2 × 220 mL",
+      "query": "Probiotic Bio-Enzyme Pet Odor Control Set",
+      "alsoSearchedAs": [
+        "pet odor eliminator manufacturers",
+        "pet odor control set manufacturers",
+        "OEM bio-enzyme deodorizer set",
+        "OEM pet odor control set",
+        "private label pet deodorizing gift set",
+        "probiotic deodorizing spray set",
+        "pet odor control set bulk"
+      ],
+      "category": "Deodorizing & Disinfecting",
+      "moq": "1,000 sets",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3401.19",
+      "claim": "Targets odor at source; 94.2% ammonia removal, report NACCYH25014722; for surfaces around the animal",
+      "url": "https://shenhezhongke.com/products/odor-control-set.html"
+    },
+    {
+      "id": "P002",
+      "sku": "SHENHE-OEM-DEO-SPRAY-350",
+      "name": "Power Odor Eliminator (Extra Strength) 350 mL",
+      "size": "350 mL",
+      "query": "Pet Deodorizing Spray",
+      "alsoSearchedAs": [
+        "pet odor eliminator manufacturers",
+        "pet deodorizer manufacturers",
+        "OEM pet odor eliminator spray",
+        "OEM pet deodorizing spray",
+        "dog deodorizing spray",
+        "cat urine odor spray private label",
+        "pet odor eliminator bulk",
+        "shenhe zhongke pet deodorizing spray",
+        "shenhe zhongke odor eliminator 350 mL",
+        "净味小子 除臭喷雾",
+        "cat litter odor control set",
+        "private label pet odor control for cats",
+        "cat litter deodorizing set bulk",
+        "cat litter box deodorizer spray bulk",
+        "private label cat deodorizing spray manufacturers"
+      ],
+      "category": "Deodorizing & Disinfecting",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3401.19",
+      "claim": "Targets odor at source; 94.2% ammonia removal, report NACCYH25014722; formulated for coats an animal may lick, safety assessment 2024FM11611R02D",
+      "url": "https://shenhezhongke.com/products/pet-deodorizing-spray.html"
+    },
+    {
+      "id": "P003",
+      "sku": "SHENHE-DISINFECT-SOL-350",
+      "name": "Disinfectant & Deodorizing Solution 350 mL",
+      "size": "350 mL",
+      "query": "Pet Disinfectant Spray",
+      "alsoSearchedAs": [
+        "pet disinfectant manufacturers",
+        "OEM pet disinfectant manufacturers",
+        "OEM pet disinfectant spray",
+        "pet disinfectant manufacturers",
+        "chlorine dioxide pet disinfectant",
+        "kennel disinfectant bulk"
+      ],
+      "category": "Deodorizing & Disinfecting",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3808.94",
+      "claim": "Cleans and deodorizes surfaces; biocidal kill-rate claims are made only on markets where the product is registered, and the registration number is printed on the label — a 14.6% fall in available chlorine after 14 days at 54 °C, report XJ2025001233",
+      "url": "https://shenhezhongke.com/products/pet-disinfectant-deodorizing-solution.html"
+    },
+    {
+      "id": "P004",
+      "sku": "SHENHE-CATCLEAN-350",
+      "name": "CatClean Antifungal & Deodorizing Solution 350 mL",
+      "size": "350 mL",
+      "query": "Cat Ringworm Antifungal Spray",
+      "alsoSearchedAs": [
+        "pet antifungal spray manufacturers",
+        "OEM pet antifungal spray",
+        "OEM cat ringworm antifungal spray",
+        "pet antifungal spray",
+        "feline ringworm treatment private label",
+        "cat fungus spray bulk",
+        "cat ringworm spray manufacturers",
+        "private label cat antifungal spray china"
+      ],
+      "category": "Deodorizing & Disinfecting",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3808.94",
+      "claim": "Antifungal + deodorizing; targets feline ringworm fungi (Trichophyton mentagrophytes, Microsporum canis) — fungicidal kill rates above 99.999%, report 2024FM12662R01Da",
+      "url": "https://shenhezhongke.com/products/cat-ringworm-spray.html"
+    },
+    {
+      "id": "P007",
+      "sku": "SHENHE-LITTER-POWDER-500",
+      "name": "Cat Litter Partner — Deodorizing Powder 500 g",
+      "size": "500 g",
+      "query": "Cat Litter Deodorizer Powder",
+      "alsoSearchedAs": [
+        "cat litter deodorizer manufacturers",
+        "OEM cat litter deodorizer powder",
+        "cat litter deodorizer bulk",
+        "litter box odor powder private label",
+        "cat litter deodorizing powder",
+        "cat litter deodorizer manufacturers",
+        "private label cat litter deodorizer powder"
+      ],
+      "category": "Deodorizing & Disinfecting",
+      "moq": "2,000 packs",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3824.99",
+      "claim": "Absorbs and decomposes litter box odor; accelerates clumping; extends litter life — 96.6% ammonia removal, report NACCYH25007027",
+      "url": "https://shenhezhongke.com/products/cat-litter-companion.html"
+    },
+    {
+      "id": "P008",
+      "sku": "SHENHE-LITTER-POWDER-300",
+      "name": "Cat Litter Partner — Deodorizing Powder 300 g",
+      "size": "300 g",
+      "query": "Cat Litter Deodorizer Powder",
+      "alsoSearchedAs": [
+        "cat litter deodorizer manufacturers",
+        "OEM small pack cat litter deodorizer",
+        "OEM cat litter deodorizer powder 300 g",
+        "cat litter deodorizer 300 g",
+        "litter deodorizer powder bulk",
+        "small pack cat litter deodorizer",
+        "cat litter deodorizer 300 g private label",
+        "small pack cat litter deodorizer suppliers"
+      ],
+      "category": "Deodorizing & Disinfecting",
+      "moq": "2,000 packs",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3824.99",
+      "claim": "Absorbs and decomposes litter box odor; accelerates clumping; extends litter life — 96.6% ammonia removal, report NACCYH25007027",
+      "url": "https://shenhezhongke.com/products/cat-litter-partner-300.html"
+    },
+    {
+      "id": "P009",
+      "sku": "SHENHE-SPRAY-GUN-KIT",
+      "name": "Pet Deodorizing Spray Gun Kit 220 mL × 2 bottles + 1 spray gun",
+      "size": "220 mL × 2 bottles + 1 spray gun",
+      "query": "Pet Deodorizing Spray Gun Kit",
+      "alsoSearchedAs": [
+        "pet deodorizing sprayer manufacturers",
+        "OEM pet odor eliminator sprayer",
+        "OEM pet deodorizing spray gun kit",
+        "professional pet deodorizing sprayer",
+        "pet deodorizing spray gun bulk",
+        "refillable odor control sprayer"
+      ],
+      "category": "Deodorizing & Disinfecting",
+      "moq": "1,000 sets",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3401.19",
+      "claim": "Bundle: convenient refill-and-spray format for end-consumers — 94.2% ammonia removal, report NACCYH25014722",
+      "url": "https://shenhezhongke.com/products/pet-deodorizing-spray-gun-kit.html"
+    },
+    {
+      "id": "P005",
+      "sku": "SHENHE-EAR-CLEAN-100",
+      "name": "Pet Ear Cleansing Solution 100 mL",
+      "size": "100 mL",
+      "query": "Pet Ear Cleansing Solution",
+      "alsoSearchedAs": [
+        "pet ear cleaner manufacturers",
+        "OEM pet ear cleaner",
+        "OEM pet ear cleansing solution",
+        "dog ear cleaner",
+        "pet ear mite drops",
+        "ear cleansing solution bulk"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.90",
+      "claim": "Gentle ear canal cleaning; dissolves ear wax; helps prevent ear mites — 100 mL bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/ear-mite-cleaning-solution.html"
+    },
+    {
+      "id": "P006",
+      "sku": "SHENHE-PROBIO-DENTAL-150",
+      "name": "Probiotic Pet Dental Water 150 mL",
+      "size": "150 mL",
+      "query": "Probiotic Pet Dental Water",
+      "alsoSearchedAs": [
+        "pet mouthwash manufacturers",
+        "OEM pet mouthwash",
+        "OEM probiotic pet dental water",
+        "pet mouthwash",
+        "dog dental water private label",
+        "probiotic dental care bulk"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3306.90",
+      "claim": "Add to drinking water; balances oral flora; reduces plaque and bad breath — 150 mL bottle, 18-month shelf life, refrigerate after opening — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/probiotic-pet-tooth-cleaner.html"
+    },
+    {
+      "id": "P010",
+      "sku": "SHENHE-MULTIWASH-300",
+      "name": "Multi-Purpose Pet Wash 300 mL",
+      "size": "300 mL",
+      "query": "Multi-Purpose Pet Wash",
+      "alsoSearchedAs": [
+        "pet shampoo manufacturers",
+        "OEM pet shampoo manufacturers",
+        "OEM multi-purpose pet wash",
+        "pet shampoo manufacturers",
+        "dog wash bulk",
+        "pet body wash private label"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.10",
+      "claim": "Multi-purpose wash; gentle cleansing + antibacterial — inhibition rate above 99.97%, report 2024FM11612R01D",
+      "url": "https://shenhezhongke.com/products/multi-purpose-pet-wash-300.html"
+    },
+    {
+      "id": "P011",
+      "sku": "SHENHE-MULTIWASH-200",
+      "name": "Multi-Purpose Pet Wash 200 mL",
+      "size": "200 mL",
+      "query": "Multi-Purpose Pet Wash",
+      "alsoSearchedAs": [
+        "pet shampoo manufacturers",
+        "OEM small size pet shampoo bulk",
+        "OEM multi-purpose pet wash 200 mL",
+        "pet wash 200 mL",
+        "small size pet shampoo bulk",
+        "travel pet wash private label"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.10",
+      "claim": "Multi-purpose wash; gentle cleansing + antibacterial — inhibition rate above 99.97%, report 2024FM11612R01D",
+      "url": "https://shenhezhongke.com/products/multi-purpose-pet-wash-200.html"
+    },
+    {
+      "id": "P012",
+      "sku": "SHENHE-SHAMPOO-500",
+      "name": "Pet Shampoo for Cats or Dogs 500 mL",
+      "size": "500 mL",
+      "query": "Pet Shampoo for Cats and Dogs",
+      "alsoSearchedAs": [
+        "pet shampoo manufacturers",
+        "dog shampoo manufacturers",
+        "cat shampoo manufacturers",
+        "pet shampoo OEM suppliers",
+        "OEM private label pet shampoo",
+        "OEM pet shampoo",
+        "cat and dog shampoo bulk",
+        "pet shampoo manufacturers china",
+        "conditioning pet shampoo private label",
+        "cat shampoo manufacturers",
+        "private label cat shampoo",
+        "cat shampoo suppliers china"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.10",
+      "claim": "Gentle cleansing + conditioning; cat & dog safe — 500 mL bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/pet-shampoo-antibacterial-500.html"
+    },
+    {
+      "id": "P013",
+      "sku": "SHENHE-SHAMPOO-MITE-300",
+      "name": "Pet Shampoo — Antibacterial · Mite Control 300 mL",
+      "size": "300 mL",
+      "query": "Antibacterial Pet Shampoo with Mite Control",
+      "alsoSearchedAs": [
+        "pet shampoo manufacturers",
+        "medicated pet shampoo manufacturers",
+        "OEM anti mite pet shampoo",
+        "OEM antibacterial pet shampoo",
+        "anti mite pet shampoo",
+        "pet shampoo 300 mL bulk",
+        "medicated pet shampoo private label"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.10",
+      "claim": "Antibacterial + mite control; targets common pet mites and bacterial infections — 300 mL bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/pet-shampoo-antibacterial-300.html"
+    },
+    {
+      "id": "P014",
+      "sku": "SHENHE-NORINSE-FOAM-500",
+      "name": "No-Rinse Pet Cleansing Foam 500 mL",
+      "size": "500 mL",
+      "query": "Waterless Pet Shampoo Foam",
+      "alsoSearchedAs": [
+        "waterless pet shampoo manufacturers",
+        "OEM dry pet shampoo",
+        "OEM waterless pet shampoo foam",
+        "dry pet shampoo",
+        "no rinse pet cleanser",
+        "waterless pet shampoo 500 mL"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.10",
+      "claim": "Waterless cleansing foam; convenient spot-clean for pets — 500 mL bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/waterless-cleansing-foam-500.html"
+    },
+    {
+      "id": "P015",
+      "sku": "SHENHE-NORINSE-FOAM-300",
+      "name": "No-Rinse Pet Cleansing Foam 300 mL",
+      "size": "300 mL",
+      "query": "Waterless Pet Shampoo Foam",
+      "alsoSearchedAs": [
+        "waterless pet shampoo manufacturers",
+        "OEM no rinse pet cleanser",
+        "OEM waterless pet shampoo foam 300 mL",
+        "waterless pet shampoo 300 mL",
+        "dry bath for dogs",
+        "no rinse pet foam bulk"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.10",
+      "claim": "Waterless cleansing foam; convenient spot-clean for pets — 300 mL bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/pet-waterless-cleaning-foam.html"
+    },
+    {
+      "id": "P016",
+      "sku": "SHENHE-PAW-FOAM-200",
+      "name": "Pet Paw Cleansing Foam 200 mL",
+      "size": "200 mL",
+      "query": "Pet Paw Cleansing Foam",
+      "alsoSearchedAs": [
+        "pet paw cleaner manufacturers",
+        "OEM dog paw cleaner",
+        "OEM pet paw cleansing foam",
+        "dog paw cleaner",
+        "paw wash private label",
+        "paw foam bulk"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.10",
+      "claim": "Cleans pet paws before/after walks — 200 mL bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/pet-paw-cleaning-foam.html"
+    },
+    {
+      "id": "P017",
+      "sku": "SHENHE-LAUNDRY-1.5KG",
+      "name": "Laundry Detergent for Pet Households 1.5 kg",
+      "size": "1.5 kg",
+      "query": "Pet Laundry Detergent",
+      "alsoSearchedAs": [
+        "pet laundry detergent manufacturers",
+        "OEM pet safe laundry detergent",
+        "OEM pet laundry detergent",
+        "pet safe laundry detergent",
+        "pet hair laundry powder",
+        "laundry detergent bulk private label"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3402.20",
+      "claim": "Laundry detergent specifically formulated for pet hair and pet odors — 1.5 kg bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/pet-household-laundry-detergent.html"
+    },
+    {
+      "id": "P018",
+      "sku": "SHENHE-PAW-MOISTURE-10G",
+      "name": "Pet Paw Moisturizing Gel 10 g",
+      "size": "10 g",
+      "query": "Pet Paw Moisturizing Gel",
+      "alsoSearchedAs": [
+        "dog paw balm manufacturers",
+        "pet paw balm manufacturers",
+        "OEM dog paw balm",
+        "OEM pet paw moisturizing gel",
+        "dog paw balm",
+        "paw pad repair gel",
+        "pet paw moisturizer bulk"
+      ],
+      "category": "Grooming & Care",
+      "moq": "2,000 sachets",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.90",
+      "claim": "Moisturizes and repairs pet paw pads — 10 g sachet, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/pet-paw-moisturizing-gel.html"
+    },
+    {
+      "id": "P019",
+      "sku": "SHENHE-OUTDOOR-PROTECT-80",
+      "name": "Outdoor Protection Spray for Pets 80 mL",
+      "size": "80 mL",
+      "query": "Pet Outdoor Protection Spray",
+      "alsoSearchedAs": [
+        "pet outdoor protection manufacturers",
+        "OEM dog outdoor spray",
+        "OEM pet outdoor protection spray",
+        "dog outdoor spray",
+        "plant based insect repellent for pets",
+        "outdoor pet spray bulk"
+      ],
+      "category": "Outdoor Protection",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.90",
+      "claim": "Repels insects during outdoor activities — citronella and mugwort essential oils, 80 mL bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/outdoor-protection.html"
+    },
+    {
+      "id": "P020",
+      "sku": "SHENHE-OUTDOOR-REPELLENT-80",
+      "name": "Outdoor Insect Repellent Spray 80 mL",
+      "size": "80 mL",
+      "query": "Pet Insect Repellent Spray",
+      "alsoSearchedAs": [
+        "mosquito repellent for dogs manufacturers",
+        "pet insect repellent manufacturers",
+        "OEM mosquito repellent for dogs",
+        "OEM pet insect repellent spray",
+        "mosquito repellent for dogs",
+        "citronella pet repellent",
+        "pet insect repellent bulk"
+      ],
+      "category": "Outdoor Protection",
+      "moq": "2,000 bottles",
+      "leadTime": "7-15 days stock · 25-40 days private label",
+      "hsCode": "3307.90",
+      "claim": "Repels mosquitoes and insects during outdoor activities — citronella and mugwort essential oils with sophora extract, 80 mL bottle, 24-month shelf life — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/outdoor-insect-repellent-spray.html"
+    },
+    {
+      "id": "pet-digestive-probiotics",
+      "name": "Pet Digestive Probiotics",
+      "size": "8 mL × 9 vials",
+      "category": "Pet Nutrition",
+      "moq": "1,000 vials",
+      "claim": "Triple-encapsulated Lactobacillus acidophilus for the canine and feline gut; 90%+ live arrival through stomach acid against about 30% for standard encapsulation, per COA — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/pet-digestive-probiotics.html",
+      "note": "Not a catalogue SKU — quoted individually."
+    },
+    {
+      "id": "pet-immunoglobulin",
+      "name": "Pet Immunoglobulin (IgG)",
+      "size": "15 g × 8 sachets",
+      "category": "Pet Nutrition",
+      "moq": "1,000 sachets",
+      "claim": "Bovine colostrum IgG with vitamins A and E; IgG ≥49 g/kg, vitamin A ≥200,000 IU/kg and vitamin E ≥2,520 mg/kg per COA — specification value, not third-party tested",
+      "url": "https://shenhezhongke.com/products/pet-immunoglobulin.html",
+      "note": "Not a catalogue SKU — quoted individually."
+    }
+  ],
+  "cooperationModels": [
+    {
+      "id": "oem",
+      "name": "Custom formulation (OEM)",
+      "tagline": "Your formula, developed in house",
+      "moq": "1,000–3,000 bottles"
+    },
+    {
+      "id": "odm",
+      "name": "Private label",
+      "tagline": "Our formula, your brand",
+      "moq": "1,000 sets on the bundled sets"
+    },
+    {
+      "id": "obm",
+      "name": "Full service (OBM)",
+      "tagline": "From concept to shelf",
+      "moq": "negotiable"
+    }
+  ],
+  "process": [
+    "Enquiry · Brief + target market + MOQ + timeline",
+    "Sample · Chargeable sample, fee confirmed in the quotation, 5–7 days for an existing SKU",
+    "Quote · A quote with a named contact, within one business day",
+    "Contract · NDA + formula agreement + payment terms",
+    "Production · Batch production with on-site QC sampling",
+    "Shipment · Export packing, documentation and dispatch"
+  ],
+  "externalResources": [
+    {
+      "title": "robots.txt",
+      "url": "/robots.txt"
+    },
+    {
+      "title": "sitemap.xml",
+      "url": "/sitemap.xml"
+    },
+    {
+      "title": "ai.txt",
+      "url": "/ai.txt"
+    },
+    {
+      "title": "security.txt",
+      "url": "/security.txt"
+    },
+    {
+      "title": "Trade compliance document",
+      "url": "/trade-compliance.html"
+    },
+    {
+      "title": "Manifest (PWA)",
+      "url": "/manifest.webmanifest"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://shenhezhongke.com/",
+      "title": "Home",
+      "summary": "the factory and what it makes"
+    },
+    {
+      "url": "https://shenhezhongke.com/products.html",
+      "title": "Product Catalogue",
+      "summary": "All 20 SKUs grouped by product line"
+    },
+    {
+      "url": "https://shenhezhongke.com/oem-odm.html",
+      "title": "OEM vs ODM",
+      "summary": "9 dimensions, 3 cooperation models, the 6-step process"
+    },
+    {
+      "url": "https://shenhezhongke.com/ai-customize.html",
+      "title": "AI Product Match",
+      "summary": "four questions, the top five SKUs"
+    },
+    {
+      "url": "https://shenhezhongke.com/factory.html",
+      "title": "Factory",
+      "summary": "the 30,000 m² park in Heyuan: lines, cleanroom, warehouse"
+    },
+    {
+      "url": "https://shenhezhongke.com/capabilities.html",
+      "title": "R&D & Quality",
+      "summary": "in-house lab, university partners, documentation"
+    },
+    {
+      "url": "https://shenhezhongke.com/certifications.html",
+      "title": "Certifications",
+      "summary": "every third-party lab report and certificate"
+    },
+    {
+      "url": "https://shenhezhongke.com/global-compliance.html",
+      "title": "Global Compliance",
+      "summary": "regulatory coverage by destination market"
+    },
+    {
+      "url": "https://shenhezhongke.com/trade-compliance.html",
+      "title": "Trade Compliance",
+      "summary": "payment terms, Incoterms, FX, disputes"
+    },
+    {
+      "url": "https://shenhezhongke.com/sourcing-guides.html",
+      "title": "Sourcing Guides",
+      "summary": "guides for pet care buyers"
+    },
+    {
+      "url": "https://shenhezhongke.com/contact.html",
+      "title": "Contact",
+      "summary": "the enquiry form, direct contacts, freight and logistics"
+    },
+    {
+      "url": "https://shenhezhongke.com/about.html",
+      "title": "About",
+      "summary": "the company: history, patents, global reach"
+    },
+    {
+      "url": "https://shenhezhongke.com/why-us.html",
+      "title": "Why Us",
+      "summary": "what makes this factory different from a trading company"
+    },
+    {
+      "url": "https://shenhezhongke.com/faq.html",
+      "title": "FAQ",
+      "summary": "the buyer questions, grouped: ordering, samples, quality, lead time, shipping"
+    },
+    {
+      "url": "https://shenhezhongke.com/standards.html",
+      "title": "Standards",
+      "summary": "the standards, test methods and the reports behind them"
+    },
+    {
+      "url": "https://shenhezhongke.com/attestation.html",
+      "title": "Batch Attestations",
+      "summary": "every attested batch, with its transaction hash"
+    },
+    {
+      "url": "https://shenhezhongke.com/msds.html",
+      "title": "MSDS",
+      "summary": "safety data sheets"
+    },
+    {
+      "url": "https://shenhezhongke.com/terms.html",
+      "title": "Terms",
+      "summary": "terms of sale"
+    },
+    {
+      "url": "https://shenhezhongke.com/privacy.html",
+      "title": "Privacy",
+      "summary": "privacy policy"
+    },
+    {
+      "url": "https://shenhezhongke.com/blog.html",
+      "title": "Insights",
+      "summary": "guides for pet care buyers"
+    },
+    {
+      "url": "https://shenhezhongke.com/products/deodorizing-disinfecting.html",
+      "title": "Deodorizing & Disinfecting",
+      "type": "product-line",
+      "productPages": 7
+    },
+    {
+      "url": "https://shenhezhongke.com/products/grooming-care.html",
+      "title": "Grooming & Care",
+      "type": "product-line",
+      "productPages": 11
+    },
+    {
+      "url": "https://shenhezhongke.com/products/outdoor-protection.html",
+      "title": "Outdoor Protection",
+      "type": "product-line",
+      "productPages": 2
+    },
+    {
+      "url": "https://shenhezhongke.com/products/pet-nutrition.html",
+      "title": "Pet Nutrition",
+      "type": "product-line",
+      "productPages": 2
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/2024fm11610r01d.html",
+      "title": "2024FM11610R01D — Disinfectant &amp; deodorizing liquid — analysis",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/2024fm11611r02d.html",
+      "title": "2024FM11611R02D — Pet deodorant — safety assessment",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/2024fm11612r01d.html",
+      "title": "2024FM11612R01D — Multi-effect wash — antibacterial",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/2024fm11612r02d.html",
+      "title": "2024FM11612R02D — Multi-effect wash — microbiological and",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/2024fm11612r03d.html",
+      "title": "2024FM11612R03D — Multi-effect wash — mite control",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/2024fm12662r01da.html",
+      "title": "2024FM12662R01Da — Purepaws neutralising spray — full analysis",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/naccyh25007027.html",
+      "title": "NACCYH25007027 — Cat litter deodorizer — ammonia removal",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/naccyh25014721.html",
+      "title": "NACCYH25014721 — Pet deodorant — hydrogen sulfide removal",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/naccyh25014722.html",
+      "title": "NACCYH25014722 — Pet deodorant — ammonia removal",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    },
+    {
+      "url": "https://shenhezhongke.com/reports/xj2025001233.html",
+      "title": "XJ2025001233 — Disinfectant — available chlorine stability",
+      "type": "lab-report",
+      "summary": "a third-party laboratory report, published in full"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "howto/how-to-choose-a-pet-shampoo",
+      "title": "How to Choose a Pet Shampoo: 7 Questions to Ask Before You Buy",
+      "url": "https://shenhezhongke.com/blog/howto/how-to-choose-a-pet-shampoo.html",
+      "desc": "Surfactant type, pH, essential oils, fragrance and rinse-off residue decide whether a pet shampoo is safe. Seven questions to ask a pet care supplier."
+    },
+    {
+      "slug": "howto/pet-shampoo-ingredients-to-avoid",
+      "title": "Pet Shampoo Ingredients to Avoid: What to Check on the Label",
+      "url": "https://shenhezhongke.com/blog/howto/pet-shampoo-ingredients-to-avoid.html",
+      "desc": "Essential oils, harsh surfactants and undisclosed fragrance are the three things to check on a pet shampoo label. How to read one. How to read a label."
+    },
+    {
+      "slug": "howto/washing-a-cat-at-home",
+      "title": "How to Wash a Cat at Home, and How to Wash Their Bedding",
+      "url": "https://shenhezhongke.com/blog/howto/washing-a-cat-at-home.html",
+      "desc": "Most cats do not need a bath. Here is when they do, how to do it without a fight, and why cat bedding needs its own detergent rather than the one you use."
+    },
+    {
+      "slug": "howto/waterless-foam-or-wet-shampoo",
+      "title": "No-Rinse Foam or Wet Shampoo: Which One Does the Job",
+      "url": "https://shenhezhongke.com/blog/howto/waterless-foam-or-wet-shampoo.html",
+      "desc": "Waterless foam cleans paws, spot dirt and travel messes in minutes. Wet shampoo is still the only option for a full bath. Maths. For salons and groomers."
+    },
+    {
+      "slug": "pet-care-notes/why-does-cat-litter-smell",
+      "title": "Why Does Cat Litter Smell? 4 Causes and What Actually Works",
+      "url": "https://shenhezhongke.com/blog/pet-care-notes/why-does-cat-litter-smell.html",
+      "desc": "Litter box odor comes from urine residue, not the litter. Learn why ammonia builds up and how to stop it at the source. And what actually works for cats."
+    },
+    {
+      "slug": "sourcing/how-to-choose-a-pet-care-oem-manufacturer-in-china",
+      "title": "How to Choose a Pet Care OEM Manufacturer in China",
+      "url": "https://shenhezhongke.com/blog/sourcing/how-to-choose-a-pet-care-oem-manufacturer-in-china.html",
+      "desc": "Most buyers compare pet care factories on price and certificates. The gate checks come first. Seven pass-or-fail questions to ask any pet care factory."
+    },
+    {
+      "slug": "sourcing/pet-groomer-bulk-supply",
+      "title": "Bulk Pet Care Supply for Groomers and Distributors: A Guide",
+      "url": "https://shenhezhongke.com/blog/sourcing/pet-groomer-bulk-supply.html",
+      "desc": "Ordering pet care products by the carton as a groomer or distributor: which formats turn over fastest and how to build a range. And the MOQ explained."
+    },
+    {
+      "slug": "sourcing/pet-salon-shampoo-wholesale",
+      "title": "Pet Salon Shampoo Wholesale: What to Ask a Supplier",
+      "url": "https://shenhezhongke.com/blog/sourcing/pet-salon-shampoo-wholesale.html",
+      "desc": "Salon buying shampoo by the carton: why per-bottle count and carton weight decide the landed cost, and the five questions to ask. And the five questions."
+    },
+    {
+      "slug": "sourcing/shelter-and-rescue-pet-wash",
+      "title": "Washing Dogs in a Shelter or Rescue: Products That Turn Over",
+      "url": "https://shenhezhongke.com/blog/sourcing/shelter-and-rescue-pet-wash.html",
+      "desc": "Shelters and rescues wash many animals with limited staff and limited time. Which pet care formats suit high-turnover use, and what to order for a shelter."
+    }
+  ],
+  "brand": {
+    "name": "SHENHE ZHONGKE",
+    "nameTitle": "Shenhe Zhongke",
+    "nameCN": "深河中科",
+    "legalName": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+    "positioning": "Pet Care Products Manufacturers",
+    "domain": "shenhezhongke.com",
+    "founded": null,
+    "website": "https://shenhezhongke.com"
+  },
+  "legalRepresentative": {
+    "note": "The legal entity is Guangdong Shenhe Zhongke Biotechnology Co., Ltd. A director is not named on this site, so none is stated here.",
+    "entity": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+    "registeredAddress": "No.141-1 Longteng Road, Gaopugang, Yuancheng District, Heyuan, Guangdong, China",
+    "registeredAddressCN": "广东省河源市源城区高埔岗龙腾路 141 号-1"
+  },
+  "businessScope": "Contract manufacturing of pet care products — shampoos, deodorizing and disinfecting sprays, grooming and outdoor protection lines — developed to a buyer\\",
+  "sameAs": [
+    "https://shenhezhongke.com",
+    "https://www.1688.com/factory/b2b-221729763086058196.html",
+    "https://mall.jd.com/index-146676108.html"
+  ],
+  "social": {
+    "website": "https://shenhezhongke.com",
+    "whatsapp": "https://wa.me/8617266659928",
+    "whatsappDisplay": "+86 172 6665 9928",
+    "email": "sales@shenhezhongke.com",
+    "telephone": "+86-762-3909998"
+  },
+  "certifications": [
+    {
+      "name": "ISO 22716",
+      "title": "ISO 22716 — Good Manufacturing Practices for cosmetics",
+      "scope": "Cosmetic production, control, storage and shipment, at the manufacturing site.",
+      "limit": "A guideline, not a product approval. It does not cover a biocidal claim.",
+      "reference": "ISO 22716:2007"
+    },
+    {
+      "name": "FDA registration",
+      "title": "FDA registered establishment",
+      "scope": "The establishment is listed with the US Food and Drug Administration.",
+      "limit": "A listing, not a product clearance. It does not by itself permit a claim in any market.",
+      "reference": "Establishment registration"
+    },
+    {
+      "name": "MSDS",
+      "title": "Safety data sheets, 16 languages",
+      "scope": "A safety data sheet for every catalogue product, in the language of the consignment.",
+      "limit": "A record of the consignment. It is not an approval of the wording on a label for any market.",
+      "reference": "SDS, 16 languages"
+    }
+  ],
+  "attestation": {
+    "what": "Batch attestations on a public blockchain. Each one records the SHA-256 of a production batch's laboratory report, so the report can be checked against the file a buyer holds.",
+    "proves": "That the laboratory report file existed at the recorded time and has not been changed since.",
+    "doesNotProve": "That the product is approved for any market, and that the product is good. Approval is the market authority's decision and quality is the laboratory's.",
+    "chain": "base-sepolia",
+    "index": "https://shenhezhongke.com/attestation.html",
+    "attestedBatches": 0,
+    "batchesOnChain": 0,
+    "batches": []
+  },
+  "reviews": [],
+  "provenance": {
+    "generation": "AI-assisted",
+    "note": "This file was written and assembled with the help of an AI. Every fact in it is checked against the laboratory reports and the production records it names. Where a number has no document behind it, the file does not state it.",
+    "built": "2026-11-06"
+  },
+  "reports": [
+    {
+      "reportNumber": "NACCYH25014722",
+      "title": "Pet deodorant — ammonia removal",
+      "issuer": "Guangzhou Institute of Microbiology (NACC)",
+      "test": "Ammonia removal",
+      "productLine": "Odor control",
+      "coversSKUs": "P001-P002",
+      "finding": "Ammonia 1.53 → 0.088 mg/m³, a 94.2% removal, on the pet deodorant sample.",
+      "findingShort": "Ammonia 1.53 → 0.088 mg/m³, a 94.2% removal.",
+      "page": "https://shenhezhongke.com/reports/naccyh25014722.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Test-Ammonia-Removal-Efficiency.pdf",
+      "sha256": "2273cc7786a5dfe90bc04376b948a870fffef9c45e9724ad105e1de65db54ce8"
+    },
+    {
+      "reportNumber": "NACCYH25014721",
+      "title": "Pet deodorant — hydrogen sulfide removal",
+      "issuer": "Guangzhou Institute of Microbiology (NACC)",
+      "test": "Hydrogen sulfide removal",
+      "productLine": "Odor control",
+      "coversSKUs": "P001-P002",
+      "finding": "Hydrogen sulfide 0.15 → <0.010 mg/m³, a 93.3% removal, on the same sample.",
+      "findingShort": "Hydrogen sulfide 0.15 → <0.010 mg/m³, a 93.3% removal.",
+      "page": "https://shenhezhongke.com/reports/naccyh25014721.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Test-Hydrogen-Sulfide-Removal-Efficiency.pdf",
+      "sha256": "03f5c37f2e2ada31484ea3a4353d600ce3e0e585ae0d13de94917b853d3325dc"
+    },
+    {
+      "reportNumber": "NACCYH25007027",
+      "title": "Cat litter deodorizer — ammonia removal",
+      "issuer": "Guangzhou Institute of Microbiology (NACC)",
+      "test": "Ammonia removal",
+      "productLine": "Odor control",
+      "coversSKUs": "P007-P008",
+      "finding": "Ammonia 1.53 → 0.052 mg/m³, a 96.6% removal, on the cat litter deodorizer.",
+      "findingShort": "Ammonia 1.53 → 0.052 mg/m³, a 96.6% removal.",
+      "page": "https://shenhezhongke.com/reports/naccyh25007027.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Cat-Litter-Deodorizer-Ammonia-Removal-Test.pdf",
+      "sha256": "f7eccbab13ac06af95a26e7d5f3dd3fda897b9d7038973966e59dabdb18b61ff"
+    },
+    {
+      "reportNumber": "XJ2025001233",
+      "title": "Disinfectant — available chlorine stability and acute oral toxicity",
+      "issuer": "Guangzhou Institute of Microbiology Group Co., Ltd.",
+      "test": "Available chlorine stability",
+      "productLine": "Disinfection",
+      "coversSKUs": "P003",
+      "finding": "Available chlorine 130 mg/L, and 111 mg/L after 14 days at 54 °C — a 14.6% fall.",
+      "findingShort": "Available chlorine 130 mg/L, 111 mg/L after 14 days at 54 °C — a 14.6% fall.",
+      "page": "https://shenhezhongke.com/reports/xj2025001233.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Test-Available-Chlorine-Stability-1Year.pdf",
+      "sha256": "c636d8b9748bdbd3fbd0892bc5c9b4b979d2368282ffd55751c50647d58ac737"
+    },
+    {
+      "reportNumber": "2024FM12662R01Da",
+      "title": "Purepaws neutralising spray — full analysis",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "test": "Fungicidal performance",
+      "productLine": "Odor control",
+      "coversSKUs": "P004",
+      "finding": "Kill rates above 99.999% against Trichophyton mentagrophytes and Microsporum canis.",
+      "findingShort": "Kill rates above 99.999% against two test fungi.",
+      "page": "https://shenhezhongke.com/reports/2024fm12662r01da.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Factory-Audit-Report-FM12662R01Da.pdf",
+      "sha256": "32b520409784a63b758ff159fc6111b8b6eeec4212b1c9c37971ccdb283de5c5"
+    },
+    {
+      "reportNumber": "2024FM11610R01D",
+      "title": "Disinfectant & deodorizing liquid — analysis",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "test": "Analysis and specification",
+      "productLine": "Disinfection",
+      "coversSKUs": "P003",
+      "finding": "Kill rates above 99.9999% in the suspension bactericidal and fungicidal tests.",
+      "findingShort": "Kill rates above 99.9999% in the bactericidal and fungicidal tests.",
+      "page": "https://shenhezhongke.com/reports/2024fm11610r01d.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Disinfectant-Solution-Bilingual-Spec.pdf",
+      "sha256": "7b4d146c2a0b2f62bf6ae9bd377f21842b5903fbf12b48ddd7f0c85291367425"
+    },
+    {
+      "reportNumber": "2024FM11612R01D",
+      "title": "Multi-effect wash — antibacterial",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "test": "Antibacterial performance",
+      "productLine": "Cleaning & care",
+      "coversSKUs": "P010-P011",
+      "finding": "Inhibition rate above 99.97% under GB/T 27404.1.11.3.2.",
+      "findingShort": "Inhibition rate above 99.97% under GB/T 27404.1.11.3.2.",
+      "page": "https://shenhezhongke.com/reports/2024fm11612r01d.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Antibacterial-Test.pdf",
+      "sha256": "8dab2eef5c27c89e21f0cb6b3243b7c05ac8f43597655fc3b6e776c1827e9850"
+    },
+    {
+      "reportNumber": "2024FM11612R03D",
+      "title": "Multi-effect wash — mite control",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "test": "Mite control",
+      "productLine": "Cleaning & care",
+      "coversSKUs": "P010-P011",
+      "finding": "Mite control: 100% kill rate at 48 hours against Dermatophagoides farinae.",
+      "findingShort": "Mite control: 100% kill rate at 48 hours.",
+      "page": "https://shenhezhongke.com/reports/2024fm11612r03d.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Mite-Control-Test.pdf",
+      "sha256": "fdf42af40f371073bc6ac46b22bd6f9bcd54d3ebaeecd2766acc7a0bdef973af"
+    },
+    {
+      "reportNumber": "2024FM11612R02D",
+      "title": "Multi-effect wash — microbiological and quality test",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "test": "Microbiological and quality test",
+      "productLine": "Cleaning & care",
+      "coversSKUs": "P010-P011",
+      "finding": "Aerobic bacterial count below 10 CFU/g, thermotolerant coliforms absent; meets QB/T 4524-2013.",
+      "findingShort": "Aerobic bacterial count below 10 CFU/g; meets QB/T 4524-2013.",
+      "page": "https://shenhezhongke.com/reports/2024fm11612r02d.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Ingredient-Report.pdf",
+      "sha256": "abe3c99cedd0da0dff2f7ccfaa9f4cc2b8b549bbff74b4186f5563177608daad"
+    },
+    {
+      "reportNumber": "2024FM11611R02D",
+      "title": "Pet deodorant — safety assessment",
+      "issuer": "Guangdong Detection Center of Microbiology",
+      "test": "Safety assessment",
+      "productLine": "Odor control",
+      "coversSKUs": "P002",
+      "finding": "Acute oral toxicity LD50 above 5000 mg/kg; no skin or eye irritation in rabbits.",
+      "findingShort": "Acute oral toxicity LD50 above 5000 mg/kg.",
+      "page": "https://shenhezhongke.com/reports/2024fm11611r02d.html",
+      "file": "https://shenhezhongke.com/assets/img/certs/Pet-Deodorizing-Spray-Non-Toxic-Cert.pdf",
+      "sha256": "08fc1582e4791c7997f30100a386b0536fb6b5f0aef43a516aaa6db2963aba36"
+    }
+  ]
+}

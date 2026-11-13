@@ -1,0 +1,156 @@
+{
+  "source": "products/pet-deodorizing-spray-gun-kit.html",
+  "slug": "products__pet-deodorizing-spray-gun-kit",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Deodorizing Spray Gun Kit | 220 mL × 2",
+    "description": "Professional spray system for fast coverage",
+    "canonical": "https://shenhezhongke.com/products/pet-deodorizing-spray-gun-kit.html",
+    "ogTitle": "Pet Deodorizing Spray Gun Kit | 220 mL × 2",
+    "ogDescription": "Professional spray system for fast coverage",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pet Deodorizing Spray Gun Kit — 220 mL × 2 bottles + 1 spray gun",
+        "sku": "SHENHE-SPRAY-GUN-KIT",
+        "mpn": "SHENHE-SPRAY-GUN-KIT",
+        "description": "Pet Deodorizing Spray Gun Kit — 220 mL × 2 bottles + 1 spray gun. Made with kit: power odor eliminator 220 mL × 2 + spray gun. Bundle: convenient refill-and-spray format for end-consumers. Suited to retail bundle, pet households",
+        "image": "https://shenhezhongke.com/assets/img/products/pet-deodorizing-spray-gun-kit.png",
+        "brand": {
+          "@type": "Brand",
+          "name": "SHENHE ZHONGKE"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+          "url": "https://shenhezhongke.com"
+        },
+        "category": "Pet Disinfection & Odor Control",
+        "url": "https://shenhezhongke.com/products/spray-gun-kit.html",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Ingredients",
+            "value": "Kit: Power Odor Eliminator 220 mL × 2 + spray gun"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Application",
+            "value": "Retail bundle, Pet households"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Function",
+            "value": "Bundle: convenient refill-and-spray format for end-consumers"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Minimum Order Quantity",
+            "value": "1,000 sets"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "HS Code",
+            "value": "3401.19"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Shelf Life",
+            "value": "24 months"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Lead Time",
+            "value": "Stock: 7-15 days · OEM: 25-40 days"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Carton",
+            "value": "6 sets/carton · L 50 × W 35 × H 30 · 9.8 kg"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "MSDS Available",
+            "value": "Yes (16-language)"
+          }
+        ]
+      }
+    ],
+    "hasGtm": false
+  },
+  "blocks": [
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\" style=\"padding-top: 0;\">\n\n\n      <div class=\"pp-container\">\n\n\n        <div class=\"pp-grid pp-grid--2\" style=\"gap: var(--pp-space-12); align-items: start;\">\n\n\n\n\n\n          <div>\n\n\n            <span class=\"pp-eyebrow\">Deodorizing & Disinfecting · 220 mL × 2</span>\n\n\n            <h1 style=\"margin-bottom: var(--pp-space-2);\">Pet Deodorizing Spray Gun Kit</h1>\n            <p class=\"pp-lead\">Professional spray system for fast coverage</p>\n\n\n                        <div class=\"pp-trust-row\" style=\"margin-bottom: var(--pp-space-6);\">\n\n\n              <span class=\"pp-badge pp-badge--amber\">MOQ 1,000</span>\n\n\n              <span class=\"pp-badge\">Sample on request</span>\n\n\n              <span class=\"pp-badge\">Quote in 1 business day</span>\n\n\n            </div>\n\n\n\n\n\n            \n\n\n            <div style=\"aspect-ratio: 1; background: linear-gradient(135deg, #ffffff, #f8fafc); border-radius: var(--pp-radius-xl); display: flex; align-items: center; justify-content: center; border: 1px solid var(--pp-ink-200); overflow: hidden;\">\n\n\n              <img id=\"pp-kit-main-img\" src=\"/assets/img/products/pet-deodorizing-spray-gun-kit.png?v=3\" alt=\"Pet Deodorizing Spray Gun Kit — retail box\" style=\"width: 100%; height: 100%; object-fit: contain; padding: var(--pp-space-4);\" onerror=\"this.parentElement.innerHTML='<div style=&quot;font-size: 6rem; color: var(--pp-teal-300);&quot;>🐾</div>'\">\n\n\n            </div>\n\n\n            <div class=\"pp-kit-thumbs\" role=\"tablist\" aria-label=\"Product image views\" style=\"display: flex; gap: var(--pp-space-2); margin-top: var(--pp-space-3); justify-content: center;\">\n              <button type=\"button\" class=\"pp-kit-thumb is-active\" data-src=\"/products/pet-deodorizing-spray-gun-kit.png\" data-alt=\"Pet Deodorizing Spray Gun Kit — retail box\" aria-label=\"Retail box\" style=\"width: 64px; height: 64px; border-radius: var(--pp-radius-md); border: 2px solid var(--pp-teal-500); background: #fff; padding: 4px; cursor: pointer; overflow: hidden;\">\n                <img src=\"/assets/img/products/pet-deodorizing-spray-gun-kit.png?v=3\" alt=\"Pet Deodorizing Spray Gun Kit main product photo\" loading=\"lazy\" style=\"width: 100%; height: 100%; object-fit: contain;\">\n              </button>\n              <button type=\"button\" class=\"pp-kit-thumb\" data-src=\"/products/pet-deodorizing-spray-gun-kit-assembled.png\" data-alt=\"Pet Deodorizing Spray Gun Kit — assembled with refill bottle\" aria-label=\"Assembled kit\" style=\"width: 64px; height: 64px; border-radius: var(--pp-radius-md); border: 2px solid var(--pp-ink-200); background: #fff; padding: 4px; cursor: pointer; overflow: hidden;\">\n                <img src=\"/assets/img/products/pet-deodorizing-spray-gun-kit.png?v=3\" alt=\"Pet Deodorizing Spray Gun Kit assembled with bottle\" loading=\"lazy\" style=\"width: 100%; height: 100%; object-fit: contain;\">\n              </button>\n              <button type=\"button\" class=\"pp-kit-thumb\" data-src=\"/products/pet-deodorizing-spray-gun-kit-refill.png\" data-alt=\"Pet Deodorizing Spray Gun Kit — 220 mL refill bottle\" aria-label=\"220 mL refill\" style=\"width: 64px; height: 64px; border-radius: var(--pp-radius-md); border: 2px solid var(--pp-ink-200); background: #fff; padding: 4px; cursor: pointer; overflow: hidden;\">\n                <img src=\"/assets/img/products/pet-deodorizing-spray-gun-kit.png?v=3\" alt=\"Pet Deodorizing Spray Gun Kit refill bottle\" loading=\"lazy\" style=\"width: 100%; height: 100%; object-fit: contain;\">\n              </button>\n            </div>\n            <p id=\"pp-kit-caption\" style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500); margin-top: var(--pp-space-2); text-align: center;\">DEKOBIO · 220 mL × 2 — retail box</p>\n\n\n          </div>\n\n\n\n\n\n          <div>\n\n\n            <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.keyFeatures\" style=\"margin-bottom: var(--pp-space-2);\">Self-designed for kennel & multi-pet odor control</h3>\n\n\n              <ul style=\"list-style: none; padding: 0; margin: 0; font-size: var(--pp-text-sm);\">\n\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Mist atomizer</strong> — fine-mist covers ~30 m² in 30 s, roughly 10× a regular spray bottle.</li>\n\n\n<li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Two-bottle refill</strong> — 30% lower cost-per-use, ~50% less plastic vs single-use sprayers.</li>\n\n\n<li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Trigger-lock + child-safe cap</strong> — safe around kids and dogs that grab bottles.</li>\n\n\n<li style=\"margin-bottom: 0;\"><strong style=\"color: var(--pp-teal-700);\">Invert-spray nozzle</strong> — sprays upright or upside-down for under-furniture and tight corners.</li>\n\n\n              </ul>\n\n\n            </div>\n\n\n\n\n\n            <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.ingredients\" style=\"margin-bottom: var(--pp-space-2);\">Main ingredients — and what each one powers</h3>\n\n\n              <table style=\"width:100%; border-collapse: collapse; font-size: var(--pp-text-sm);\">\n\n\n                <tbody>\n\n\n                  <tr style=\"border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; width: a lower unit price at that volume; white-space: nowrap;\">Enzyme Preparations</td>\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Mist atomizer — decomposes molecules on contact.</td>\n\n\n                  </tr>\n\n\n                  <tr style=\"border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Plant Extracts</td>\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Trigger-lock + pet-safe — botanical, no synthetic fragrance.</td>\n\n\n                  </tr>\n\n\n                  <tr style=\"border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Odor-Eliminating Compounds</td>\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Lab-verified 94.2% — targets NH₃ and H₂S.</td>\n\n\n                  </tr>\n\n\n                  <tr style=\"border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Deionized Water</td>\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Invert-spray + fabric safety — zero mineral residue.</td>\n\n\n                  </tr>\n\n\n                  <tr>\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Probiotics</td>\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Refill long-tail effect — keeps working 24–72 h.</td>\n\n\n                  </tr>\n\n\n                </tbody>\n\n\n              </table>\n\n\n            </div>\n\n\n\n\n\n            <div class=\"pp-card\">\n\n\n              <h3 data-i18n=\"products.labReports\" style=\"margin-bottom: var(--pp-space-2);\">Third-party lab reports</h3>\n\n\n              <ul style=\"list-style: none; padding: 0; margin: 0; font-size: var(--pp-text-sm);\">\n\n\n                <li style=\"padding: 6px 0; border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n                  <a href=\"/assets/img/certs/Pet-Deodorizing-Spray-Ammonia-Removal-Test.pdf\" download=\"Pet-Deodorizing-Spray-Ammonia-Removal-Test.pdf\" rel=\"noopener\" style=\"display: flex; align-items: center; gap: var(--pp-space-3); text-decoration: none; color: var(--pp-ink-800);\">\n\n\n                    <span style=\"font-size: 1.25rem; line-height: 1;\" aria-hidden=\"true\">📄</span>\n\n\n                    <span style=\"flex: 1; min-width: 0;\">\n\n\n                      <span style=\"display: block; color: var(--pp-teal-700); font-weight: 600;\">Ammonia Removal · 94.2%</span>\n\n\n                      <span style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500);\">789 KB · PDF</span>\n\n\n                    </span>\n\n\n                    <span style=\"color: var(--pp-teal-600); font-weight: 600; white-space: nowrap;\">Download ↓</span>\n\n\n                  </a>\n\n\n                </li>\n\n\n                <li style=\"padding: 6px 0; border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n                  <a href=\"/assets/img/certs/Pet-Deodorizing-Spray-Hydrogen-Sulfide-Removal-Test.pdf\" download=\"Pet-Deodorizing-Spray-Hydrogen-Sulfide-Removal-Test.pdf\" rel=\"noopener\" style=\"display: flex; align-items: center; gap: var(--pp-space-3); text-decoration: none; color: var(--pp-ink-800);\">\n\n\n                    <span style=\"font-size: 1.25rem; line-height: 1;\" aria-hidden=\"true\">📄</span>\n\n\n                    <span style=\"flex: 1; min-width: 0;\">\n\n\n                      <span style=\"display: block; color: var(--pp-teal-700); font-weight: 600;\">Hydrogen Sulfide Removal · 94.2%</span>\n\n\n                      <span style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500);\">789 KB · PDF</span>\n\n\n                    </span>\n\n\n                    <span style=\"color: var(--pp-teal-600); font-weight: 600; white-space: nowrap;\">Download ↓</span>\n\n\n                  </a>\n\n\n                </li>\n\n\n                <li style=\"padding: 6px 0 0;\">\n\n\n                  <a href=\"/assets/img/certs/Pet-Deodorizing-Spray-Non-Toxic-Cert.pdf\" download=\"Pet-Deodorizing-Spray-Non-Toxic-Cert.pdf\" rel=\"noopener\" style=\"display: flex; align-items: center; gap: var(--pp-space-3); text-decoration: none; color: var(--pp-ink-800);\">\n\n\n                    <span style=\"font-size: 1.25rem; line-height: 1;\" aria-hidden=\"true\">📄</span>\n\n\n                    <span style=\"flex: 1; min-width: 0;\">\n\n\n                      <span style=\"display: block; color: var(--pp-teal-700); font-weight: 600;\">Non-Toxic Safety Test</span>\n\n\n                      <span style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500);\">2.3 MB · PDF</span>\n\n\n                    </span>\n\n\n                    <span style=\"color: var(--pp-teal-600); font-weight: 600; white-space: nowrap;\">Download ↓</span>\n\n\n                  </a>\n\n\n                </li>\n\n\n              </ul>\n\n\n            </div>\n\n\n          </div>\n\n\n\n\n\n        </div>\n\n\n      </div>\n\n\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Pricing",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n  <div class=\"pp-container\">\n    <h2>Pricing</h2>\n    <p>Unit prices are quote-only. Volume tiering, label/packaging costs and shipping terms are confirmed per RFQ.</p>\n  </div>\n</section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "OEM/ODM options",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n\n\n      <div class=\"pp-container\">\n\n\n        <h2>OEM/ODM options</h2>\n\n\n        <div class=\"pp-grid pp-grid--2\">\n\n\n          <div class=\"pp-card pp-card--feature\">\n\n\n            <h3>ODM · Use this ready formula</h3>\n\n\n            <p>Minimum 1,000 sets. We use the formula above and print your label. <strong>25–40 days</strong> from artwork approval to shipment.</p>\n\n\n            <a class=\"pp-btn pp-btn--primary pp-btn--block\" href=\"/contact.html?product=pet-deodorizing-spray-gun-kit&mode=odm\">Request ODM quote</a>\n\n\n          </div>\n\n\n          <div class=\"pp-card pp-card--feature-amber\">\n\n\n            <h3>OEM · Custom formula</h3>\n\n\n            <p>Minimum 1,000–2,000 sets. Send us your formula or target spec. <strong>30–45 days</strong> from approval to shipment. NDA provided.</p>\n\n\n            <a class=\"pp-btn pp-btn--secondary pp-btn--block\" href=\"/contact.html?product=pet-deodorizing-spray-gun-kit&mode=oem\">Request OEM quote</a>\n\n\n          </div>\n\n\n        </div>\n\n\n      </div>\n\n\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg",
+      "bg": "bg",
+      "type": "prose",
+      "content": {
+        "title": "Related products",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg\"><div class=\"pp-container\"><h2>Related products</h2><div class=\"pp-grid pp-grid--3\">\n\n\n      <article class=\"pp-product-card\">\n\n\n        <a class=\"pp-product-card__link\" href=\"/products/pet-deodorizing-spray.html\" aria-label=\"Pet Deodorizing Spray\"></a>\n\n\n        <div class=\"pp-product-card__image\">\n\n\n          <img src=\"/assets/img/products/pet-deodorizing-spray.png?v=2\" alt=\"Pet Deodorizing Spray\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n\n\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n\n\n        </div>\n\n\n        <div class=\"pp-product-card__body\">\n\n\n          <div class=\"pp-product-card__body\">\n\n\n          <div class=\"pp-product-card__category\">deodorizing disinfecting</div>\n\n\n          <h3 class=\"pp-product-card__title\">Pet Deodorizing Spray</h4>\n\n\n          <div class=\"pp-product-card__size\">350 mL</div>\n\n\n          <p class=\"pp-product-card__desc\">Enzyme-powered daily odor control</p>\n\n\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n\n\n        \n\n\n        </div>\n\n\n      </article>\n\n\n    \n\n\n      <article class=\"pp-product-card\">\n\n\n        <a class=\"pp-product-card__link\" href=\"/products/cat-litter-companion.html\" aria-label=\"Cat Litter Companion Deodorizer\"></a>\n\n\n        <div class=\"pp-product-card__image\">\n\n\n          <img src=\"/assets/img/products/cat-litter-companion.png?v=2\" alt=\"Cat Litter Companion Deodorizer\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n\n\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n\n\n        </div>\n\n\n        <div class=\"pp-product-card__body\">\n\n\n          <div class=\"pp-product-card__body\">\n\n\n          <div class=\"pp-product-card__category\">deodorizing disinfecting</div>\n\n\n          <h3 class=\"pp-product-card__title\">Cat Litter Companion Deodorizer</h4>\n\n\n          <div class=\"pp-product-card__size\">300 g / 500 g</div>\n\n\n          <p class=\"pp-product-card__desc\">Adsorbs and breaks down odor molecules</p>\n\n\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n\n\n        \n\n\n        </div>\n\n\n      </article>\n\n\n    \n\n\n      <article class=\"pp-product-card\">\n\n\n        <a class=\"pp-product-card__link\" href=\"/products/pet-disinfectant-deodorizing-solution.html\" aria-label=\"Disinfectant & Deodorizing Solution\"></a>\n\n\n        <div class=\"pp-product-card__image\">\n\n\n          <img src=\"/assets/img/products/pet-disinfectant-deodorizing-solution.png?v=2\" alt=\"Disinfectant & Deodorizing Solution\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n\n\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n\n\n        </div>\n\n\n        <div class=\"pp-product-card__body\">\n\n\n          <div class=\"pp-product-card__body\">\n\n\n          <div class=\"pp-product-card__category\">deodorizing disinfecting</div>\n\n\n          <h3 class=\"pp-product-card__title\">Disinfectant & Deodorizing Solution</h4>\n\n\n          <div class=\"pp-product-card__size\">350 mL</div>\n\n\n          <p class=\"pp-product-card__desc\">>99.999% kill rate on 3 pathogen strains</p>\n\n\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n\n\n        \n\n\n        </div>\n\n\n      </article>\n\n\n    </div></div></section>"
+      }
+    },
+    {
+      "classes": "pp-cta-banner",
+      "bg": "plain",
+      "type": "cta",
+      "content": {
+        "title": "Request a quotation within 1 business day",
+        "eyebrow": null,
+        "actions": [
+          {
+            "href": "/contact.html?product=pet-deodorizing-spray-gun-kit",
+            "label": "Start Your Quote",
+            "variant": "primary"
+          },
+          {
+            "href": "/assets/img/certs/Pet-Deodorizing-Spray-Ammonia-Removal-Test.pdf",
+            "label": "View lab report",
+            "variant": "outlineWhite"
+          }
+        ],
+        "html": null,
+        "text": "Send your target market, MOQ, and timeline. We reply within one business day with a quote and a sample plan."
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 5,
+    "richtextFallback": 1
+  }
+}

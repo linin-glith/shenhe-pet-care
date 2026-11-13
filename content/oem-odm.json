@@ -1,0 +1,226 @@
+{
+  "source": "oem-odm.html",
+  "slug": "oem-odm",
+  "isPortal": false,
+  "head": {
+    "title": "Private Label Pet Care Manufacturing | OEM vs ODM",
+    "description": "Private label pet care manufacturing: our formula with your brand, or your own formulation. MOQ from 1,000 sets. Stock 7-15 days, private-label 25-40 days.",
+    "canonical": "https://shenhezhongke.com/oem-odm.html",
+    "ogTitle": "Private Label Pet Care Manufacturing | OEM vs ODM",
+    "ogDescription": "Private label pet care manufacturing: our formula with your brand, or your own formulation. MOQ from 1,000 sets. Stock 7-15 days, private-label 25-40 days.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": null,
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Pet Care OEM / ODM Manufacturing",
+        "name": "Pet Care OEM / ODM",
+        "provider": {
+          "@type": "Organization",
+          "@id": "https://shenhezhongke.com/#organization",
+          "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+          "url": "https://shenhezhongke.com",
+          "description": "B2B manufacturer of pet care and cleaning products; wholesale pricing is quoted on request."
+        },
+        "areaServed": [
+          "Worldwide"
+        ],
+        "mainEntity": {
+          "@type": "ItemList",
+          "name": "Cooperation models",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@type": "Service",
+                "name": "OEM (your formula)",
+                "description": "30-45 days development, MOQ 1,000-3,000 bottles, customer owns IP"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@type": "Service",
+                "name": "ODM (our 20 ready SKUs + your label)",
+                "description": "25-40 days development, MOQ 1,000 sets, factory owns IP, chargeable samples in 5-7 days"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@type": "Service",
+                "name": "OBM (turnkey)",
+                "description": "Full private-label service from formulation to shipment"
+              }
+            }
+          ]
+        },
+        "termsOfService": "https://shenhezhongke.com/trade-compliance.html",
+        "description": "Pet care OEM/ODM manufacturing with 20 ready SKUs across deodorizing, grooming, outdoor protection, and pet nutrition. FDA-registered facility, ISO 22716 GMP. Default FOB Guangzhou, 35% T/T deposit + 65% balance, USD/EUR/RMB accepted."
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the difference between OEM and ODM?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "OEM uses the customer's formula; ODM uses our 20 ready SKUs with the customer's label. OEM development is 30-45 days with MOQ 1,000-3,000 bottles; ODM is 25-40 days with MOQ 1,000 sets."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the minimum order quantity?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Trial order MOQ is 1,000 sets for the bundled sets, which is a sample run and not a commercial order. The price falls as the run gets larger, and each run is quoted for the quantity and the packing you ask for."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does production take?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Private label production is 25-40 days. A custom formula and a lab sample are 30-45 days. Stability and compatibility testing is a scheduled programme that runs in months and is quoted separately."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What payment terms do you accept?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "35% T/T deposit + 65% balance before shipment for orders under USD 30,000. L/C at sight for orders at or above USD 30,000. USD/EUR/RMB invoices available."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are samples free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "20 ready SKUs: samples are chargeable and the fee is confirmed in the quotation, buyer pays shipping (USD 30-80 via DHL/FedEx). Custom formula samples: USD 200-500 non-refundable once lab work begins."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What Incoterms do you offer?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Default FOB Guangzhou/Shenzhen per ICC Publication 723E (Incoterms 2020). EXW, FCA, CIF, CFR, DAP, DDP, DPU also available on request."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What regulatory compliance do you support?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "FDA-registered facility (USA), GPSR and the EU responsible-person handover, REACH SVHC declarations, CLP/SDS per Annex II, and BPR 528/2012 for disinfectant SKUs. A pet-only product is not a cosmetic under Regulation (EC) 1223/2009, so there is no CPNP notification and no cosmetic safety report for a pet line; both belong to a human-use line, which is a separate project."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What dispute resolution applies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Contracts governed by PRC law. Default arbitration at CIETAC Shanghai (English, 3 arbitrators). For orders USD 100,000+ also available ICC Paris or HKIAC Hong Kong. Awards enforceable in 170+ jurisdictions under the New York Convention 1958."
+            }
+          }
+        ]
+      }
+    ],
+    "hasGtm": true
+  },
+  "blocks": [
+    {
+      "classes": "pp-hero-simple",
+      "bg": "plain",
+      "type": "heroSimple",
+      "content": {
+        "title": "OEM vs ODM — Which fits your brand?",
+        "titleAccent": null,
+        "eyebrow": "OEM / ODM",
+        "lead": "Both paths lead to your shelf. Here's how to choose.",
+        "actions": [],
+        "stats": [],
+        "panels": [],
+        "image": null,
+        "html": null
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n      <div class=\"pp-container\">\n        <div style=\"overflow-x: auto;\">\n          <table class=\"pp-compare\" id=\"oem-compare-table\">\n            <thead>\n              <tr>\n                <th class=\"pp-compare__dim\" data-i18n=\"oem.table.headers.0\">Dimension</th>\n                <th class=\"pp-compare__oem\" data-i18n=\"oem.table.headers.1\">OEM</th>\n                <th class=\"pp-compare__odm\" data-i18n=\"oem.table.headers.2\">ODM</th>\n              </tr>\n            </thead>\n            <tbody data-i18n-rows=\"oem.table.rows\">\n              <tr>\n                <th>Formula</th>\n                <td class=\"pp-compare__oem-cell\">Customer provides formula / specs</td>\n                <td class=\"pp-compare__odm-cell\">Factory provides ready formulas</td>\n              </tr>\n              <tr>\n                <th>Best for</th>\n                <td class=\"pp-compare__oem-cell\">Brands with R&D / in-house lab</td>\n                <td class=\"pp-compare__odm-cell\">Startups, new entrants, fast launch</td>\n              </tr>\n              <tr>\n                <th>Development</th>\n                <td class=\"pp-compare__oem-cell\">30–45 days (formula + sample)</td>\n                <td class=\"pp-compare__odm-cell\">25–40 days (label + packaging)</td>\n              </tr>\n              <tr>\n                <th>MOQ</th>\n                <td class=\"pp-compare__oem-cell\">1,000–3,000 bottles</td>\n                <td class=\"pp-compare__odm-cell\">1,000 sets</td>\n              </tr>\n              <tr>\n                <th>IP</th>\n                <td class=\"pp-compare__oem-cell\">Customer owns formula</td>\n                <td class=\"pp-compare__odm-cell\">Factory owns formula</td>\n              </tr>\n              <tr>\n                <th>Cost</th>\n                <td class=\"pp-compare__oem-cell\">Higher setup, lower unit</td>\n                <td class=\"pp-compare__odm-cell\">Lower setup, mid-range unit</td>\n              </tr>\n              <tr>\n                <th>Customization</th>\n                <td class=\"pp-compare__oem-cell\">Full formula customization</td>\n                <td class=\"pp-compare__odm-cell\">Label / packaging customization</td>\n              </tr>\n              <tr>\n                <th>Samples</th>\n                <td class=\"pp-compare__oem-cell\">Paid samples, 7–14 days</td>\n                <td class=\"pp-compare__odm-cell\">Chargeable samples, fee in the quotation, 5–7 days</td>\n              </tr>\n              <tr>\n                <th>Compliance</th>\n                <td class=\"pp-compare__oem-cell\">Customer-led</td>\n                <td class=\"pp-compare__odm-cell\">Factory-led (FDA, ISO, MSDS)</td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n        <div style=\"text-align: center; margin-top: var(--pp-space-8);\">\n          <p class=\"pp-lead\" style=\"color: var(--pp-ink-700); font-style: italic;\" data-i18n=\"oem.unsure\">Still not sure which path fits? Talk to our solutions team.</p>\n          <a class=\"pp-btn pp-btn--primary pp-btn--lg\" href=\"/contact.html\" data-i18n=\"cta.button\">Start Your Quote</a>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Three cooperation models",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title\">\n          <h2 data-i18n=\"oem.modesTitle\">Three cooperation models</h2>\n        </div>\n        <div class=\"pp-grid pp-grid--3\">\n          <div class=\"pp-card pp-card--feature\">\n            <div class=\"pp-card-icon\" style=\"background: var(--pp-teal-100); color: var(--pp-teal-700);\">\n              <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M12 2L2 7l10 5 10-5-10-5z\"/></svg>\n            </div>\n            <h3 data-i18n=\"oem.modes.0.name\">OEM · Make-to-spec</h3>\n            <p data-i18n=\"oem.modes.0.desc\">Your formula, your brand. We produce to your specifications with full quality control and confidentiality.</p>\n            <span class=\"pp-badge pp-badge--amber\" data-i18n=\"oem.modes.0.tag\">For mature brands</span>\n          </div>\n          <div class=\"pp-card pp-card--feature-amber\">\n            <div class=\"pp-card-icon\" style=\"background: var(--pp-amber-100); color: var(--pp-amber-700);\">\n              <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-zap/\"></svg>\n            </div>\n            <h3 data-i18n=\"oem.modes.1.name\">ODM · Ready formula</h3>\n            <p data-i18n=\"oem.modes.1.desc\">Our 20 ready SKUs, your label. Fast launch with proven formulas and full documentation.</p>\n            <span class=\"pp-badge pp-badge--amber\" data-i18n=\"oem.modes.1.tag\">For fast launch</span>\n          </div>\n          <div class=\"pp-card pp-card--feature\">\n            <div class=\"pp-card-icon\" style=\"background: var(--pp-teal-100); color: var(--pp-teal-700);\">\n              <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>\n            </div>\n            <h3 data-i18n=\"oem.modes.2.name\">OBM · Turnkey</h3>\n            <p data-i18n=\"oem.modes.2.desc\">We design, formulate, brand, and ship. Walk into retail with a complete product, ready to sell.</p>\n            <span class=\"pp-badge pp-badge--amber\" data-i18n=\"oem.modes.2.tag\">For new entrants</span>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "6-step process from enquiry to shipment",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title\">\n          <span class=\"pp-eyebrow\">Process</span>\n          <h2 data-i18n=\"oem.processTitle\">6-step process from enquiry to shipment</h2>\n          <p data-i18n=\"oem.processSubtitle\">A clear, documented process — every step has a deliverable and an owner.</p>\n        </div>\n        <div class=\"pp-process\" data-i18n-process=\"oem.process\">\n          <div class=\"pp-process__step\"><h3>Inquiry</h4><p>Brief, target market, MOQ, timeline</p></div>\n          <div class=\"pp-process__step\"><h3>Sample</h4><p>Chargeable sample, fee confirmed in the quotation, 5–7 days</p></div>\n          <div class=\"pp-process__step\"><h3>Quote</h4><p>A quote with a named contact, within one business day</p></div>\n          <div class=\"pp-process__step\"><h3>Contract</h4><p>NDA, formula agreement, payment terms</p></div>\n          <div class=\"pp-process__step\"><h3>Production</h4><p>25–40 days, photo updates at each stage</p></div>\n          <div class=\"pp-process__step\"><h3>Shipment</h4><p>FOB Guangzhou, full export docs</p></div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg",
+      "bg": "bg",
+      "type": "prose",
+      "content": {
+        "title": "Frequently asked questions",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title\">\n          <span class=\"pp-eyebrow\">FAQ</span>\n          <h2 data-i18n=\"oem.faq.title\">Frequently asked questions</h2>\n        </div>\n        <div class=\"pp-faq\" data-i18n-faqs=\"oem.faq.items\"></div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-cta-banner",
+      "bg": "plain",
+      "type": "cta",
+      "content": {
+        "title": "Request a quotation within 1 business day",
+        "eyebrow": null,
+        "actions": [
+          {
+            "href": "/contact.html",
+            "label": "Start Your Quote",
+            "variant": "primary"
+          },
+          {
+            "href": "/ai-customize.html",
+            "label": "Try AI Match",
+            "variant": "outlineWhite"
+          }
+        ],
+        "html": null,
+        "text": "Send your target market, MOQ, and timeline. We reply within one business day with a quote and a sample plan."
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 6,
+    "richtextFallback": 0
+  }
+}

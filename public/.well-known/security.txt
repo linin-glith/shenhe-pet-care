@@ -1,0 +1,28 @@
+# security.txt — Vulnerability Disclosure Policy
+# Spec: RFC 9116 (https://www.rfc-editor.org/rfc/rfc9116)
+# Canonical URL: https://shenhezhongke.com/.well-known/security.txt
+
+Contact: mailto:sales@shenhezhongke.com
+Contact: https://shenhezhongke.com/contact
+Encryption: https://shenhezhongke.com/.well-known/pgp-key.txt
+Expires: 2027-12-31T23:59:59Z
+Preferred-Languages: en, zh
+Canonical: https://shenhezhongke.com/.well-known/security.txt
+
+# Policy
+# We accept security vulnerability reports for:
+#   - shenhezhongke.com (main site)
+#   - portal.shenhezhongke.com (customer login portal)
+#   - api.shenhezhongke.com (REST API)
+#
+# We aim to acknowledge reports within 48 hours and provide a remediation
+# timeline within 7 business days. We do not pursue legal action against
+# good-faith security researchers who follow this policy.
+
+# Out of scope
+#   - Third-party services (Google Analytics, Microsoft Clarity) — report to vendor
+#   - Denial-of-service attacks
+#   - Social engineering of staff
+
+# Acknowledgments
+# Thanks to the security research community for helping us ship safer product.

@@ -1,0 +1,88 @@
+{
+  "source": "products/pet-immunoglobulin.html",
+  "slug": "products__pet-immunoglobulin",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Colostrum IgG Supplements 15 g × 8 | OEM",
+    "description": "Bovine colostrum IgG with vitamins A & E",
+    "canonical": "https://shenhezhongke.com/products/pet-immunoglobulin.html",
+    "ogTitle": "Pet Colostrum IgG Supplements 15 g × 8 | OEM",
+    "ogDescription": "Bovine colostrum IgG with vitamins A & E",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [],
+    "hasGtm": false
+  },
+  "blocks": [
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\" style=\"padding-top: 0;\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--2\" style=\"gap: var(--pp-space-12); align-items: start;\">\n\n          <div>\n            <span class=\"pp-eyebrow\">Pet Nutrition · 15 g × 8 sachets</span>\n            <h1 style=\"margin-bottom: var(--pp-space-2);\">Pet Immunoglobulin (IgG)</h1>\n            <p class=\"pp-lead\">Bovine colostrum IgG with vitamins A & E</p>\n                        <div class=\"pp-trust-row\" style=\"margin-bottom: var(--pp-space-6);\">\n              <span class=\"pp-badge pp-badge--amber\">MOQ 1,000</span>\n              <span class=\"pp-badge\">Sample on request</span>\n              <span class=\"pp-badge\">Quote in 1 business day</span>\n            </div>\n\n            \n            <div style=\"aspect-ratio: 1; background: linear-gradient(135deg, #ffffff, #f8fafc); border-radius: var(--pp-radius-xl); display: flex; align-items: center; justify-content: center; border: 1px solid var(--pp-ink-200); overflow: hidden;\">\n              <img src=\"/assets/img/products/pet-immunoglobulin.png?v=2\" alt=\"Pet Immunoglobulin (IgG)\" style=\"width: 100%; height: 100%; object-fit: contain; padding: var(--pp-space-4);\" onerror=\"this.parentElement.innerHTML='<div style=&quot;font-size: 6rem; color: var(--pp-teal-300);&quot;>🐾</div>'\">\n            </div>\n            <p style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500); margin-top: var(--pp-space-2); text-align: center;\">DEKOBIO · 15 g × 8 sachets</p>\n          </div>\n\n          <div>\n                        <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.keyFeatures\" style=\"margin-bottom: var(--pp-space-2);\">Self-designed for high-potency immune support</h3>\n\n\n              <ul style=\"list-style: none; padding: 0; margin: 0; font-size: var(--pp-text-sm);\">\n\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">IgG &#8805;49 g/kg verified per COA</strong> &#8212; high-potency immune support from first-milking colostrum.</li>\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">20% bovine colostrum base</strong> &#8212; standardized dosage, premium-grade colostrum source.</li>\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Lipid-encapsulated delivery</strong> &#8212; Mono- and Diglycerides protect IgG through stomach acid.</li>\n\n                <li style=\"margin-bottom: 0;\"><strong style=\"color: var(--pp-teal-700);\">Vitamins A + E synergy</strong> &#8212; fat-soluble vitamins support mucosal immunity alongside IgG.</li>\n\n\n              </ul>\n\n\n            </div>\n\n\n            <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.ingredients\" style=\"margin-bottom: var(--pp-space-2);\">Main ingredients &#8212; and what each one powers</h3>\n\n\n              <table style=\"width:100%; border-collapse: collapse; font-size: var(--pp-text-sm);\">\n\n\n                <tbody>\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Peanut Oil</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Lipid carrier &#8212; base fat.</td>\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Bovine Colostrum Powder</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">IgG source &#8212; &#8805;49 g/kg potency.</td>\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Brewer&#8217;s Yeast Cell Wall</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Prebiotic + MOS &#8212; gut barrier.</td>\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Mono- and Diglycerides</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Stomach-acid protection &#8212; survival through GI.</td>\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Vitamin A</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Mucosal immunity &#8212; &#8805;200,000 IU/kg.</td>\n\n                  <tr style=\"\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Vitamin E</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Antioxidant support &#8212; &#8805;2,520 mg/kg.</td>\n\n\n\n                </tbody>\n\n\n              </table>\n\n\n            </div>\n\n\n\n\n            <div class=\"pp-card\">\n\n\n              <h3 data-i18n=\"products.labReports\" style=\"margin-bottom: var(--pp-space-2);\">Third-party lab reports</h3>\n\n\n              <p style=\"color: var(--pp-ink-500); font-size: var(--pp-text-sm); margin: 0;\">No specific lab report required. Manufactured under factory-level QC (ISO 22716); full COA available on request.</p>\n\n\n            </div>\n\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Pricing",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n  <div class=\"pp-container\">\n    <h2>Pricing</h2>\n    <p>Unit prices are quote-only. Volume tiering, label/packaging costs and shipping terms are confirmed per RFQ.</p>\n  </div>\n</section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "OEM/ODM options",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <h2>OEM/ODM options</h2>\n        <div class=\"pp-grid pp-grid--2\">\n          <div class=\"pp-card pp-card--feature\">\n            <h3>ODM · Use this ready formula</h3>\n            <p>Minimum 1,000 sets. We use the formula above and print your label. <strong>25–40 days</strong> from artwork approval to shipment.</p>\n            <a class=\"pp-btn pp-btn--primary pp-btn--block\" href=\"/contact.html?product=pet-immunoglobulin&mode=odm\">Request ODM quote</a>\n          </div>\n          <div class=\"pp-card pp-card--feature-amber\">\n            <h3>OEM · Custom formula</h3>\n            <p>Minimum 1,000–2,000 sets. Send us your formula or target spec. <strong>30–45 days</strong> from approval to shipment. NDA provided.</p>\n            <a class=\"pp-btn pp-btn--secondary pp-btn--block\" href=\"/contact.html?product=pet-immunoglobulin&mode=oem\">Request OEM quote</a>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg",
+      "bg": "bg",
+      "type": "prose",
+      "content": {
+        "title": "Related products",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg\"><div class=\"pp-container\"><h2>Related products</h2><div class=\"pp-grid pp-grid--3\">\n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/pet-digestive-probiotics.html\" aria-label=\"Pet Digestive Probiotics\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/pet-digestive-probiotics.png?v=2\" alt=\"Pet Digestive Probiotics\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">pet nutrition</div>\n          <h3 class=\"pp-product-card__title\">Pet Digestive Probiotics</h4>\n          <div class=\"pp-product-card__size\">8 mL × 9 vials</div>\n          <p class=\"pp-product-card__desc\">Triple-encapsulated Lactobacillus acidophilus</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n        \n        </div>\n      </article>\n    </div></div></section>"
+      }
+    },
+    {
+      "classes": "pp-cta-banner",
+      "bg": "plain",
+      "type": "cta",
+      "content": {
+        "title": "Request a quotation within 1 business day",
+        "eyebrow": null,
+        "actions": [
+          {
+            "href": "/contact.html?product=pet-immunoglobulin",
+            "label": "Start Your Quote",
+            "variant": "primary"
+          },
+          {
+            "href": "/contact.html?product=pet-immunoglobulin",
+            "label": "Request the COA",
+            "variant": "outlineWhite"
+          }
+        ],
+        "html": null,
+        "text": "Send your target market, MOQ, and timeline. We reply within one business day with a quote and a sample plan."
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 5,
+    "richtextFallback": 1
+  }
+}

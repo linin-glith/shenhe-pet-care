@@ -1,0 +1,78 @@
+{
+  "plan": [
+    "en",
+    "es",
+    "pt",
+    "ar",
+    "ru",
+    "de",
+    "ja",
+    "ko"
+  ],
+  "translated": [
+    "en",
+    "de",
+    "es"
+  ],
+  "published": [
+    "en"
+  ],
+  "locales": [
+    {
+      "locale": "en",
+      "state": "published",
+      "dictionary_pct": 100.0,
+      "keys": 127,
+      "pages": 86
+    },
+    {
+      "locale": "es",
+      "state": "translated",
+      "dictionary_pct": 100,
+      "keys": 127,
+      "pages": 0
+    },
+    {
+      "locale": "pt",
+      "state": "planned  ",
+      "dictionary_pct": 0.0,
+      "keys": 0,
+      "pages": 0
+    },
+    {
+      "locale": "ar",
+      "state": "planned  ",
+      "dictionary_pct": 0.0,
+      "keys": 0,
+      "pages": 0
+    },
+    {
+      "locale": "ru",
+      "state": "planned  ",
+      "dictionary_pct": 0.0,
+      "keys": 0,
+      "pages": 0
+    },
+    {
+      "locale": "de",
+      "state": "translated",
+      "dictionary_pct": 100,
+      "keys": 127,
+      "pages": 0
+    },
+    {
+      "locale": "ja",
+      "state": "planned  ",
+      "dictionary_pct": 0.0,
+      "keys": 0,
+      "pages": 0
+    },
+    {
+      "locale": "ko",
+      "state": "planned  ",
+      "dictionary_pct": 0.0,
+      "keys": 0,
+      "pages": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "_comment": "The parameters the site's own links carry. The server answers a request with an argument it does not name with a 404 - so every name here has to be in the map on the server (/etc/nginx/conf.d/shenhe-args.conf). The gate scripts/check_link_params.py reads the built pages and checks that nothing else is used.",
+  "range": "the SKUs the range builder selected, carried to the enquiry form",
+  "line": "the product line the catalogue was filtered by",
+  "product": "the product an enquiry is about",
+  "mode": "the mode an enquiry is about (odm, private label)",
+  "about": "the SKU an 'about this' link points at",
+  "interest": "what a reader came for (msds, certificates)",
+  "v": "the cache-buster on a picture that changed"
+}

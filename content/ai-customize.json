@@ -1,0 +1,55 @@
+{
+  "source": "ai-customize.html",
+  "slug": "ai-customize",
+  "isPortal": false,
+  "head": {
+    "title": "AI Product Match for Pet Care Sourcing | SHENHE ZHONGKE",
+    "description": "AI customization wizard — answer 4 questions, get the top 5 SKU matches from our 20-product private-label catalogue, with MOQ and lead time. Top five SKUs.",
+    "canonical": "https://shenhezhongke.com/ai-customize.html",
+    "ogTitle": "AI Product Match for Pet Care Sourcing | SHENHE ZHONGKE",
+    "ogDescription": "AI customization wizard — answer 4 questions, get the top 5 SKU matches from our 20-product private-label catalogue.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": null,
+    "hreflang": [],
+    "jsonLd": [],
+    "hasGtm": true
+  },
+  "blocks": [
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section\" style=\"background: linear-gradient(180deg, var(--pp-teal-50), var(--pp-white)); padding-top: var(--pp-space-12);\">\n      <div class=\"pp-container pp-container--narrow pp-text-center\" >\n        <span class=\"pp-eyebrow\" data-i18n=\"nav.ai\">AI Match</span>\n        <h1 data-i18n=\"ai.title\">AI Customization Wizard</h1>\n        <p class=\"pp-lead\" data-i18n=\"ai.subtitle\">Answer 4 questions. We'll match the top 5 SKUs from our 20-product library for your market.</p>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-wizard pp-wizard--intro\" data-wizard>\n\n          <div class=\"pp-wizard__steps\">\n            <div class=\"pp-wizard__step\" data-step=\"0\">\n              <div class=\"pp-wizard__step-num\">1</div>\n              <div class=\"pp-wizard__step-label\" data-i18n=\"ai.step1\">Category</div>\n            </div>\n            <div class=\"pp-wizard__step\" data-step=\"1\">\n              <div class=\"pp-wizard__step-num\">2</div>\n              <div class=\"pp-wizard__step-label\" data-i18n=\"ai.step2\">Function</div>\n            </div>\n            <div class=\"pp-wizard__step\" data-step=\"2\">\n              <div class=\"pp-wizard__step-num\">3</div>\n              <div class=\"pp-wizard__step-label\" data-i18n=\"ai.step3\">Market</div>\n            </div>\n            <div class=\"pp-wizard__step\" data-step=\"3\">\n              <div class=\"pp-wizard__step-num\">4</div>\n              <div class=\"pp-wizard__step-label\" data-i18n=\"ai.step4\">Volume</div>\n            </div>\n          </div>\n\n          \n          <div class=\"pp-wizard__intro\" data-wizard-intro>\n            <span class=\"pp-wizard__intro-icon\">\n              <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-cube/\"></svg>\n            </span>\n            <h3 data-i18n=\"ai.introTitle\">Find your perfect product match</h3>\n            <p data-i18n=\"ai.introDesc\">Answer 4 quick questions and we'll match you to the top 5 SKUs from our 20-product library — with rationale, MOQ hints, and OEM/ODM options.</p>\n            <button class=\"pp-btn pp-btn--primary pp-wizard__intro-btn\" type=\"button\" data-wizard-action=\"start\">\n              <span data-i18n=\"ai.introCta\">Start · 30 seconds</span> →\n            </button>\n          </div>\n\n          <div class=\"pp-wizard__panel\" data-wizard-step=\"0\">\n            <div class=\"pp-wizard__panel-meta\">STEP 1 OF 4</div>\n            <h3 data-i18n=\"ai.step1Title\">Which product line?</h3>\n            <p class=\"pp-wizard__panel-hint\" data-i18n=\"ai.step1Hint\">Pick the line closest to your target product.</p>\n            <div class=\"pp-wizard__options\"></div>\n          </div>\n          <div class=\"pp-wizard__panel\" data-wizard-step=\"1\">\n            <div class=\"pp-wizard__panel-meta\">STEP 2 OF 4</div>\n            <h3 data-i18n=\"ai.step2Title\">What function do you need?</h3>\n            <p class=\"pp-wizard__panel-hint\" data-i18n=\"ai.step2Hint\">Select the primary function your product should deliver.</p>\n            <div class=\"pp-wizard__options\"></div>\n          </div>\n          <div class=\"pp-wizard__panel\" data-wizard-step=\"2\">\n            <div class=\"pp-wizard__panel-meta\">STEP 3 OF 4</div>\n            <h3 data-i18n=\"ai.step3Title\">Target market?</h3>\n            <p class=\"pp-wizard__panel-hint\" data-i18n=\"ai.step3Hint\">Where will you sell? This helps us match SKUs with relevant compliance.</p>\n            <div class=\"pp-wizard__options\"></div>\n          </div>\n          <div class=\"pp-wizard__panel\" data-wizard-step=\"3\">\n            <div class=\"pp-wizard__panel-meta\">STEP 4 OF 4</div>\n            <h3 data-i18n=\"ai.step4Title\">Order volume?</h3>\n            <p class=\"pp-wizard__panel-hint\" data-i18n=\"ai.step4Hint\">Estimated volume for your first PO. We use this to recommend the right tier.</p>\n            <div class=\"pp-wizard__options\"></div>\n            <div class=\"pp-wizard__nav\">\n              <button type=\"button\" class=\"pp-btn pp-btn--ghost\" data-wizard-action=\"back\">← <span data-i18n=\"ai.back\">Back</span></button>\n              <span class=\"pp-wizard__nav-meta\">Selecting an option advances automatically</span>\n              <span></span>\n            </div>\n          </div>\n\n          <div data-wizard-results></div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Already know what you want?",
+        "sub": null,
+        "html": "<section style=\"margin-top:32px; padding:24px; background: var(--pp-teal-50, #f0fdfa); border:1px solid var(--pp-teal-200, #99f6e4); border-radius:12px; text-align:center;\">\n        <h2 style=\"margin:0 0 6px; font-size:20px;\">Already know what you want?</h2>\n        <p style=\"margin:0 0 14px; color: var(--pp-ink-600); font-size:14px;\">The AI matcher is a discovery tool. For firm quotes, samples, and lead times, send a direct enquiry.</p>\n        <a class=\"pp-btn pp-btn--primary\" href=\"/contact.html\">Send direct enquiry →</a>\n      </section>"
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 3,
+    "richtextFallback": 0
+  }
+}

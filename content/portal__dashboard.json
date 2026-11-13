@@ -1,0 +1,41 @@
+{
+ "source": "portal/dashboard.html",
+ "slug": "portal__dashboard",
+ "isPortal": true,
+ "head": {
+  "title": "Inquiries · SHENHE ZHONGKE portal",
+  "description": null,
+  "canonical": null,
+  "ogTitle": "Inquiries · SHENHE ZHONGKE portal",
+  "ogDescription": "Inquiries · SHENHE ZHONGKE portal",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": false
+ },
+ "blocks": [
+  {
+   "classes": "",
+   "bg": "plain",
+   "type": "richtext",
+   "content": {
+    "html": "<header id=\"pz-topbar\"></header>"
+   }
+  },
+  {
+   "type": "richtext",
+   "classes": "",
+   "bg": "plain",
+   "content": {
+    "html": "<main class=\"pz-shell pz-section\">\n    <span class=\"pz-eyebrow\" data-i18n=\"dashboardWelcome\">Welcome back</span>\n    <h1 data-i18n=\"yourInquiries\">Your inquiries</h1>\n    <p class=\"pz-lead\">Open any inquiry to see where it stands and what we've sent you on WhatsApp.</p>\n\n    \n    <div class=\"pz-card\" style=\"margin-bottom:18px; display:flex; gap:12px; align-items:center; flex-wrap:wrap;\">\n      <label for=\"pz-tz-select\" style=\"font-size:13px; color:var(--pp-ink-600); margin:0;\">\n        <span aria-hidden=\"true\">🕒</span> Your timezone:\n      </label>\n      <select id=\"pz-tz-select\" class=\"pz-form__input\" style=\"max-width:340px;\"></select>\n      <span id=\"pz-tz-current\" style=\"font-size:12px; color:var(--pp-ink-500);\"></span>\n    </div>\n\n    \n    <div id=\"activity-section\" class=\"pz-card\" style=\"margin-bottom:18px; padding:0; overflow:hidden;\">\n      <div style=\"display:flex; align-items:center; gap:10px; padding:14px 18px; background:linear-gradient(180deg,#f0f9ff 0%,#e0f2fe 100%); border-bottom:1px solid #bae6fd;\">\n        <h2 style=\"margin:0; font-size:16px; color:#0c4a6e;\">📰 Recent activity</h2>\n        <span id=\"activity-summary\" style=\"font-size:13px; color:#475569; flex:1;\"></span>\n        <label for=\"activity-days-select\" style=\"font-size:12px; color:#475569; margin:0;\">Range:</label>\n        <select id=\"activity-days-select\" class=\"pz-form__input\" style=\"max-width:90px; padding:4px 8px; font-size:13px;\">\n          <option value=\"7\">Last 7 days</option>\n          <option value=\"30\">Last 30 days</option>\n          <option value=\"90\">Last 90 days</option>\n        </select>\n      </div>\n      <div id=\"activity-body\" style=\"padding:14px 18px;\">\n        <div class=\"pz-loading\">Loading activity…</div>\n      </div>\n    </div>\n\n    <div id=\"dashboard-content\">\n      <div class=\"pz-loading\">Loading your inquiries…</div>\n    </div>\n\n    <div class=\"pz-card\" style=\"text-align:center; margin-top:24px;\">\n      <p style=\"margin:0 0 12px; color:var(--pp-ink-600);\">Don't see your inquiry?</p>\n      <a class=\"pz-btn pz-btn--primary\" href=\"/contact.html\" data-i18n=\"newInquiryCTA\">No inquiries yet? Send your first message →</a>\n    </div>\n\n    \n    <div class=\"pz-card pz-card--account\" style=\"margin-top:32px;\">\n      <h2 style=\"margin:0 0 4px; font-size:18px;\">Your data · GDPR rights</h2>\n      <p style=\"margin:0 0 16px; color:var(--pp-ink-600); font-size:14px;\">You can download everything we have on you, or permanently delete your account.</p>\n      <div style=\"display:flex; gap:12px; flex-wrap:wrap;\">\n        <button type=\"button\" id=\"pz-export-data\" class=\"pz-btn pz-btn--ghost\" style=\"background:var(--pp-teal-50); color:var(--pp-teal-700); border-color:var(--pp-teal-200);\">\n          <span aria-hidden=\"true\">⬇</span> Download my data (JSON)\n        </button>\n        <button type=\"button\" id=\"pz-delete-account\" class=\"pz-btn pz-btn--ghost\" style=\"background:#fef2f2; color:#991b1b; border-color:#fecaca;\">\n          <span aria-hidden=\"true\">⚠</span> Delete my account\n        </button>\n      </div>\n      <p style=\"margin:12px 0 0; font-size:12px; color:var(--pp-ink-500);\">\n        Erasure anonymizes your personal details in inquiry records (kept for tax/legal obligations). Active quotes/invoices follow PRC accounting law (7-year retention).\n        <a href=\"/privacy.html\" style=\"color:var(--pp-teal-700);\">Privacy policy →</a>\n      </p>\n    </div>\n  </main>\n\n  \n  <div id=\"pz-delete-modal\" class=\"pz-modal\" hidden>\n    <div class=\"pz-modal__overlay\" data-close></div>\n    <div class=\"pz-modal__panel\" role=\"dialog\" aria-labelledby=\"pz-delete-modal-title\" aria-modal=\"true\">\n      <h3 id=\"pz-delete-modal-title\" style=\"margin:0 0 12px; color:#991b1b;\">Permanently delete account</h3>\n      <p style=\"margin:0 0 12px;\">This will:</p>\n      <ul style=\"margin:0 0 16px; padding-left:20px; color:var(--pp-ink-700);\">\n        <li>Delete your login + all password reset tokens</li>\n        <li>Anonymize your name, email, phone, company, message in past inquiries</li>\n        <li>Record an audit log entry (without PII)</li>\n        <li>Sign you out immediately</li>\n      </ul>\n      <p style=\"margin:0 0 16px;\"><strong>It will NOT delete:</strong> quote / invoice records (required by PRC accounting law, 7-year retention) — but they will no longer be linked to you.</p>\n      <form id=\"pz-delete-form\">\n        <label style=\"display:block; margin:0 0 6px; font-size:14px;\">Type the confirmation phrase exactly:</label>\n        <input type=\"text\" id=\"pz-delete-confirm\" class=\"pz-input\" value=\"DELETE-my-erase\" required style=\"font-family:monospace;\">\n          <p style=\"margin:6px 0 0; font-size:12px; color:var(--pp-ink-500);\">Enter your password below to verify.</p>\n        </label>\n        <label style=\"display:block; margin:12px 0 6px; font-size:14px;\">Your password:</label>\n        <input type=\"password\" id=\"pz-delete-password\" class=\"pz-input\" required minlength=\"8\">\n        <div id=\"pz-delete-error\" class=\"pz-form__error\" style=\"display:none; margin-top:8px;\"></div>\n        <div style=\"margin-top:20px; display:flex; gap:12px;\">\n          <button type=\"button\" class=\"pz-btn pz-btn--ghost\" data-close>Cancel</button>\n          <button type=\"submit\" class=\"pz-btn pz-btn--danger\" style=\"background:#dc2626; color:white; border-color:#dc2626;\">Permanently delete</button>\n        </div>\n      </form>\n    </div>\n  </div>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 2,
+  "richtextFallback": 2
+ }
+}

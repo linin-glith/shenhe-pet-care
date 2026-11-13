@@ -1,0 +1,5430 @@
+{
+  "/assets/img/certs/Feed-Additive-License.jpg": {
+    "width": 1520,
+    "height": 1075,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/Feed-Additive-License-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/Feed-Additive-License-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/Feed-Additive-License-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/Feed-Additive-License-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/Feed-Additive-License-w1440.webp"
+      },
+      {
+        "w": 1520,
+        "src": "/assets/img/certs/Feed-Additive-License.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/Feed-Additive-License.webp": {
+    "width": 1520,
+    "height": 1075,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/Feed-Additive-License-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/Feed-Additive-License-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/Feed-Additive-License-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/Feed-Additive-License-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/Feed-Additive-License-w1440.webp"
+      },
+      {
+        "w": 1520,
+        "src": "/assets/img/certs/Feed-Additive-License.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/High-Tech-Enterprise-Certificate.jpg": {
+    "width": 1600,
+    "height": 1162,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w1440.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/High-Tech-Enterprise-Certificate.webp": {
+    "width": 1600,
+    "height": 1162,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate-w1440.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/assets/img/certs/High-Tech-Enterprise-Certificate.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/Hygiene-License.jpg": {
+    "width": 1476,
+    "height": 1014,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/Hygiene-License-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/Hygiene-License-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/Hygiene-License-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/Hygiene-License-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/Hygiene-License-w1440.webp"
+      },
+      {
+        "w": 1476,
+        "src": "/assets/img/certs/Hygiene-License.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/Hygiene-License.webp": {
+    "width": 1476,
+    "height": 1014,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/Hygiene-License-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/Hygiene-License-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/Hygiene-License-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/Hygiene-License-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/Hygiene-License-w1440.webp"
+      },
+      {
+        "w": 1476,
+        "src": "/assets/img/certs/Hygiene-License.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/download/Feed-Additive-License.jpg": {
+    "width": 1520,
+    "height": 1075,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w1440.webp"
+      },
+      {
+        "w": 1520,
+        "src": "/assets/img/certs/download/Feed-Additive-License.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/download/Feed-Additive-License.webp": {
+    "width": 1520,
+    "height": 1075,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/download/Feed-Additive-License-w1440.webp"
+      },
+      {
+        "w": 1520,
+        "src": "/assets/img/certs/download/Feed-Additive-License.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/download/High-Tech-Enterprise-Certificate.jpg": {
+    "width": 1600,
+    "height": 1162,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w1440.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/download/High-Tech-Enterprise-Certificate.webp": {
+    "width": 1600,
+    "height": 1162,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate-w1440.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/assets/img/certs/download/High-Tech-Enterprise-Certificate.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/download/Hygiene-License.jpg": {
+    "width": 1476,
+    "height": 1014,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/download/Hygiene-License-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/download/Hygiene-License-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/download/Hygiene-License-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/download/Hygiene-License-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/download/Hygiene-License-w1440.webp"
+      },
+      {
+        "w": 1476,
+        "src": "/assets/img/certs/download/Hygiene-License.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/download/Hygiene-License.webp": {
+    "width": 1476,
+    "height": 1014,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/download/Hygiene-License-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/download/Hygiene-License-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/download/Hygiene-License-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/certs/download/Hygiene-License-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/certs/download/Hygiene-License-w1440.webp"
+      },
+      {
+        "w": 1476,
+        "src": "/assets/img/certs/download/Hygiene-License.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/marks/cma.png": {
+    "width": 346,
+    "height": 159,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/marks/cma-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/marks/cma-w240.webp"
+      },
+      {
+        "w": 346,
+        "src": "/assets/img/certs/marks/cma.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/marks/cma.webp": {
+    "width": 346,
+    "height": 159,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/marks/cma-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/marks/cma-w240.webp"
+      },
+      {
+        "w": 346,
+        "src": "/assets/img/certs/marks/cma.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/marks/cnas.png": {
+    "width": 304,
+    "height": 235,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/marks/cnas-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/marks/cnas-w240.webp"
+      },
+      {
+        "w": 304,
+        "src": "/assets/img/certs/marks/cnas.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/marks/cnas.webp": {
+    "width": 304,
+    "height": 235,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/marks/cnas-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/marks/cnas-w240.webp"
+      },
+      {
+        "w": 304,
+        "src": "/assets/img/certs/marks/cnas.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/marks/ilac-mra.png": {
+    "width": 333,
+    "height": 311,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/marks/ilac-mra-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/marks/ilac-mra-w240.webp"
+      },
+      {
+        "w": 333,
+        "src": "/assets/img/certs/marks/ilac-mra.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/marks/ilac-mra.webp": {
+    "width": 333,
+    "height": 311,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/marks/ilac-mra-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/marks/ilac-mra-w240.webp"
+      },
+      {
+        "w": 333,
+        "src": "/assets/img/certs/marks/ilac-mra.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Cat-Litter-Deodorizer-Ammonia-Removal-Test.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Cat-Litter-Deodorizer-Ammonia-Removal-Test-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Cat-Litter-Deodorizer-Ammonia-Removal-Test-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Cat-Litter-Deodorizer-Ammonia-Removal-Test-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Cat-Litter-Deodorizer-Ammonia-Removal-Test.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Disinfectant-Solution-Bilingual-Spec.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Disinfectant-Solution-Bilingual-Spec-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Disinfectant-Solution-Bilingual-Spec-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Disinfectant-Solution-Bilingual-Spec-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Disinfectant-Solution-Bilingual-Spec.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Factory-Audit-Report-FM12662R01Da.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Factory-Audit-Report-FM12662R01Da-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Factory-Audit-Report-FM12662R01Da-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Factory-Audit-Report-FM12662R01Da-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Factory-Audit-Report-FM12662R01Da.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Multi-Effect-Wash-Antibacterial-Test.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Antibacterial-Test-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Antibacterial-Test-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Antibacterial-Test-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Antibacterial-Test.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Multi-Effect-Wash-Ingredient-Report.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Ingredient-Report-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Ingredient-Report-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Ingredient-Report-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Ingredient-Report.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Multi-Effect-Wash-Mite-Control-Test.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Mite-Control-Test-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Mite-Control-Test-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Mite-Control-Test-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Multi-Effect-Wash-Mite-Control-Test.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Pet-Deodorizing-Spray-Non-Toxic-Cert.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Pet-Deodorizing-Spray-Non-Toxic-Cert-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Pet-Deodorizing-Spray-Non-Toxic-Cert-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Pet-Deodorizing-Spray-Non-Toxic-Cert-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Pet-Deodorizing-Spray-Non-Toxic-Cert.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Test-Ammonia-Removal-Efficiency.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Test-Ammonia-Removal-Efficiency-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Test-Ammonia-Removal-Efficiency-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Test-Ammonia-Removal-Efficiency-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Test-Ammonia-Removal-Efficiency.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Test-Available-Chlorine-Stability-1Year.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Test-Available-Chlorine-Stability-1Year-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Test-Available-Chlorine-Stability-1Year-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Test-Available-Chlorine-Stability-1Year-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Test-Available-Chlorine-Stability-1Year.webp"
+      }
+    ]
+  },
+  "/assets/img/certs/thumbs/Test-Hydrogen-Sulfide-Removal-Efficiency.webp": {
+    "width": 760,
+    "height": 1074,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/certs/thumbs/Test-Hydrogen-Sulfide-Removal-Efficiency-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/certs/thumbs/Test-Hydrogen-Sulfide-Removal-Efficiency-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/certs/thumbs/Test-Hydrogen-Sulfide-Removal-Efficiency-w480.webp"
+      },
+      {
+        "w": 760,
+        "src": "/assets/img/certs/thumbs/Test-Hydrogen-Sulfide-Removal-Efficiency.webp"
+      }
+    ]
+  },
+  "/assets/img/contact/whatsapp-qr.png": {
+    "width": 374,
+    "height": 374,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/contact/whatsapp-qr-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/contact/whatsapp-qr-w240.webp"
+      },
+      {
+        "w": 374,
+        "src": "/assets/img/contact/whatsapp-qr.webp"
+      }
+    ]
+  },
+  "/assets/img/contact/whatsapp-qr.webp": {
+    "width": 374,
+    "height": 374,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/contact/whatsapp-qr-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/contact/whatsapp-qr-w240.webp"
+      },
+      {
+        "w": 374,
+        "src": "/assets/img/contact/whatsapp-qr.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/export-container-loading.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/export-container-loading-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/export-container-loading-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/export-container-loading-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/export-container-loading-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/export-container-loading.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/export-container-loading.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/export-container-loading-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/export-container-loading-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/export-container-loading-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/export-container-loading-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/export-container-loading.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/factory-exterior-1344x768.png": {
+    "width": 1344,
+    "height": 768,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/factory-exterior-1344x768-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/factory-exterior-1344x768-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/factory-exterior-1344x768-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/factory-exterior-1344x768-w960.webp"
+      },
+      {
+        "w": 1344,
+        "src": "/assets/img/factory/factory-exterior-1344x768.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/factory-exterior-1344x768.webp": {
+    "width": 1344,
+    "height": 768,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/factory-exterior-1344x768-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/factory-exterior-1344x768-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/factory-exterior-1344x768-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/factory-exterior-1344x768-w960.webp"
+      },
+      {
+        "w": 1344,
+        "src": "/assets/img/factory/factory-exterior-1344x768.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/factory-front.webp": {
+    "width": 1344,
+    "height": 768,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/factory-front-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/factory-front-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/factory-front-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/factory-front-w960.webp"
+      },
+      {
+        "w": 1344,
+        "src": "/assets/img/factory/factory-front.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/gmp-cleanroom-interior.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/gmp-cleanroom-interior-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/gmp-cleanroom-interior-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/gmp-cleanroom-interior-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/gmp-cleanroom-interior-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/gmp-cleanroom-interior.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/gmp-cleanroom-interior.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/gmp-cleanroom-interior-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/gmp-cleanroom-interior-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/gmp-cleanroom-interior-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/gmp-cleanroom-interior-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/gmp-cleanroom-interior.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-1-purified-water.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-1-purified-water-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-1-purified-water-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-1-purified-water-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-1-purified-water-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-1-purified-water.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-1-purified-water.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-1-purified-water-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-1-purified-water-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-1-purified-water-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-1-purified-water-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-1-purified-water.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-2-mixing-blending.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-2-mixing-blending-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-2-mixing-blending-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-2-mixing-blending-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-2-mixing-blending-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-2-mixing-blending.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-2-mixing-blending.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-2-mixing-blending-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-2-mixing-blending-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-2-mixing-blending-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-2-mixing-blending-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-2-mixing-blending.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-3-cleanroom-filling.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-3-cleanroom-filling-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-3-cleanroom-filling-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-3-cleanroom-filling-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-3-cleanroom-filling-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-3-cleanroom-filling.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-3-cleanroom-filling.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-3-cleanroom-filling-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-3-cleanroom-filling-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-3-cleanroom-filling-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-3-cleanroom-filling-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-3-cleanroom-filling.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-4-capping-sealing.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-4-capping-sealing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-4-capping-sealing-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-4-capping-sealing-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-4-capping-sealing-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-4-capping-sealing.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-4-capping-sealing.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-4-capping-sealing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-4-capping-sealing-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-4-capping-sealing-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-4-capping-sealing-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-4-capping-sealing.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-5-labeling-coding.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-5-labeling-coding-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-5-labeling-coding-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-5-labeling-coding-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-5-labeling-coding-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-5-labeling-coding.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-5-labeling-coding.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-5-labeling-coding-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-5-labeling-coding-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-5-labeling-coding-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-5-labeling-coding-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-5-labeling-coding.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-6-carton-packing.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-6-carton-packing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-6-carton-packing-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-6-carton-packing-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-6-carton-packing-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-6-carton-packing.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/line-6-carton-packing.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/line-6-carton-packing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/line-6-carton-packing-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/line-6-carton-packing-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/line-6-carton-packing-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/line-6-carton-packing.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/park-aerial.png": {
+    "width": 1334,
+    "height": 1080,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/park-aerial-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/park-aerial-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/park-aerial-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/park-aerial-w960.webp"
+      },
+      {
+        "w": 1334,
+        "src": "/assets/img/factory/park-aerial.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/park-aerial.webp": {
+    "width": 1334,
+    "height": 1080,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/park-aerial-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/park-aerial-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/park-aerial-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/park-aerial-w960.webp"
+      },
+      {
+        "w": 1334,
+        "src": "/assets/img/factory/park-aerial.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/qc-lab-bench.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/qc-lab-bench-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/qc-lab-bench-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/qc-lab-bench-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/qc-lab-bench-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/qc-lab-bench.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/qc-lab-bench.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/qc-lab-bench-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/qc-lab-bench-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/qc-lab-bench-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/qc-lab-bench-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/qc-lab-bench.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/warehouse-export-dock.jpg": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/warehouse-export-dock-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/warehouse-export-dock-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/warehouse-export-dock-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/warehouse-export-dock-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/warehouse-export-dock.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/warehouse-export-dock.webp": {
+    "width": 1200,
+    "height": 896,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/warehouse-export-dock-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/warehouse-export-dock-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/warehouse-export-dock-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/warehouse-export-dock-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/factory/warehouse-export-dock.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/workshop-floor.png": {
+    "width": 1344,
+    "height": 659,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/workshop-floor-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/workshop-floor-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/workshop-floor-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/workshop-floor-w960.webp"
+      },
+      {
+        "w": 1344,
+        "src": "/assets/img/factory/workshop-floor.webp"
+      }
+    ]
+  },
+  "/assets/img/factory/workshop-floor.webp": {
+    "width": 1344,
+    "height": 659,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/factory/workshop-floor-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/factory/workshop-floor-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/factory/workshop-floor-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/factory/workshop-floor-w960.webp"
+      },
+      {
+        "w": 1344,
+        "src": "/assets/img/factory/workshop-floor.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/cat-five-cute.jpg": {
+    "width": 1595,
+    "height": 895,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/cat-five-cute-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/cat-five-cute-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/cat-five-cute-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/cat-five-cute-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/cat-five-cute-w1440.webp"
+      },
+      {
+        "w": 1595,
+        "src": "/assets/img/hero/cat-five-cute.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/cat-five-cute.webp": {
+    "width": 1595,
+    "height": 895,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/cat-five-cute-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/cat-five-cute-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/cat-five-cute-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/cat-five-cute-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/cat-five-cute-w1440.webp"
+      },
+      {
+        "w": 1595,
+        "src": "/assets/img/hero/cat-five-cute.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/cat-indoor.jpg": {
+    "width": 2160,
+    "height": 1620,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/cat-indoor-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/cat-indoor-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/cat-indoor-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/cat-indoor-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/cat-indoor-w1440.webp"
+      },
+      {
+        "w": 2160,
+        "src": "/assets/img/hero/cat-indoor.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/cat-indoor.webp": {
+    "width": 2160,
+    "height": 1620,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/cat-indoor-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/cat-indoor-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/cat-indoor-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/cat-indoor-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/cat-indoor-w1440.webp"
+      },
+      {
+        "w": 2160,
+        "src": "/assets/img/hero/cat-indoor.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/cat-outdoor-warm.jpg": {
+    "width": 3840,
+    "height": 2160,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/cat-outdoor-warm-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/cat-outdoor-warm-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/cat-outdoor-warm-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/cat-outdoor-warm-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/cat-outdoor-warm-w1440.webp"
+      },
+      {
+        "w": 3840,
+        "src": "/assets/img/hero/cat-outdoor-warm.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/cat-outdoor-warm.webp": {
+    "width": 3840,
+    "height": 2160,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/cat-outdoor-warm-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/cat-outdoor-warm-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/cat-outdoor-warm-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/cat-outdoor-warm-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/cat-outdoor-warm-w1440.webp"
+      },
+      {
+        "w": 3840,
+        "src": "/assets/img/hero/cat-outdoor-warm.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/hero-oem-factory-floor.webp": {
+    "width": 1920,
+    "height": 1802,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/hero-oem-factory-floor-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/hero-oem-factory-floor-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/hero-oem-factory-floor-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/hero-oem-factory-floor-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/hero-oem-factory-floor-w1440.webp"
+      },
+      {
+        "w": 1920,
+        "src": "/assets/img/hero/hero-oem-factory-floor.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/oem-manufacturer.png": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/oem-manufacturer-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/oem-manufacturer-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/oem-manufacturer-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/oem-manufacturer-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/oem-manufacturer-w1440.webp"
+      },
+      {
+        "w": 1536,
+        "src": "/assets/img/hero/oem-manufacturer.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/oem-manufacturer.webp": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/oem-manufacturer-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/oem-manufacturer-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/oem-manufacturer-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/oem-manufacturer-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/oem-manufacturer-w1440.webp"
+      },
+      {
+        "w": 1536,
+        "src": "/assets/img/hero/oem-manufacturer.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/pet-cute.jpg": {
+    "width": 2560,
+    "height": 1600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/pet-cute-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/pet-cute-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/pet-cute-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/pet-cute-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/pet-cute-w1440.webp"
+      },
+      {
+        "w": 2560,
+        "src": "/assets/img/hero/pet-cute.webp"
+      }
+    ]
+  },
+  "/assets/img/hero/pet-cute.webp": {
+    "width": 2560,
+    "height": 1600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/hero/pet-cute-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/hero/pet-cute-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/hero/pet-cute-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/hero/pet-cute-w960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/assets/img/hero/pet-cute-w1440.webp"
+      },
+      {
+        "w": 2560,
+        "src": "/assets/img/hero/pet-cute.webp"
+      }
+    ]
+  },
+  "/assets/img/map/heyuan-z11.webp": {
+    "width": 1280,
+    "height": 768,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/map/heyuan-z11-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/map/heyuan-z11-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/map/heyuan-z11-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/map/heyuan-z11-w960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/assets/img/map/heyuan-z11.webp"
+      }
+    ]
+  },
+  "/assets/img/map/heyuan-z13.webp": {
+    "width": 1280,
+    "height": 768,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/map/heyuan-z13-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/map/heyuan-z13-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/map/heyuan-z13-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/map/heyuan-z13-w960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/assets/img/map/heyuan-z13.webp"
+      }
+    ]
+  },
+  "/assets/img/map/heyuan-z15.webp": {
+    "width": 1280,
+    "height": 768,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/map/heyuan-z15-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/map/heyuan-z15-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/map/heyuan-z15-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/map/heyuan-z15-w960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/assets/img/map/heyuan-z15.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/cat-indoor-1280.webp": {
+    "width": 1280,
+    "height": 960,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/cat-indoor-1280-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/cat-indoor-1280-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/cat-indoor-1280-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/pets/cat-indoor-1280-w960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/assets/img/pets/cat-indoor-1280.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/cat-indoor-640.webp": {
+    "width": 640,
+    "height": 480,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/cat-indoor-640-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/cat-indoor-640-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/cat-indoor-640-w480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/assets/img/pets/cat-indoor-640.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/cat-indoor-card.webp": {
+    "width": 800,
+    "height": 600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/cat-indoor-card-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/cat-indoor-card-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/cat-indoor-card-w480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/assets/img/pets/cat-indoor-card.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/cat-outdoor-1280.webp": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/cat-outdoor-1280-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/cat-outdoor-1280-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/cat-outdoor-1280-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/pets/cat-outdoor-1280-w960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/assets/img/pets/cat-outdoor-1280.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/cat-outdoor-640.webp": {
+    "width": 640,
+    "height": 360,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/cat-outdoor-640-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/cat-outdoor-640-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/cat-outdoor-640-w480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/assets/img/pets/cat-outdoor-640.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/cat-outdoor-card.webp": {
+    "width": 800,
+    "height": 600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/cat-outdoor-card-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/cat-outdoor-card-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/cat-outdoor-card-w480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/assets/img/pets/cat-outdoor-card.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/five-cats-1280.webp": {
+    "width": 1280,
+    "height": 718,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/five-cats-1280-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/five-cats-1280-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/five-cats-1280-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/pets/five-cats-1280-w960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/assets/img/pets/five-cats-1280.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/five-cats-640.webp": {
+    "width": 640,
+    "height": 359,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/five-cats-640-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/five-cats-640-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/five-cats-640-w480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/assets/img/pets/five-cats-640.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/five-cats-card.webp": {
+    "width": 800,
+    "height": 600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/five-cats-card-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/five-cats-card-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/five-cats-card-w480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/assets/img/pets/five-cats-card.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/pet-cute-1280.webp": {
+    "width": 1280,
+    "height": 800,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/pet-cute-1280-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/pet-cute-1280-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/pet-cute-1280-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/pets/pet-cute-1280-w960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/assets/img/pets/pet-cute-1280.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/pet-cute-640.webp": {
+    "width": 640,
+    "height": 400,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/pet-cute-640-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/pet-cute-640-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/pet-cute-640-w480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/assets/img/pets/pet-cute-640.webp"
+      }
+    ]
+  },
+  "/assets/img/pets/pet-cute-card.webp": {
+    "width": 800,
+    "height": 600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/pets/pet-cute-card-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/pets/pet-cute-card-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/pets/pet-cute-card-w480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/assets/img/pets/pet-cute-card.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cat-litter-companion.png": {
+    "width": 325,
+    "height": 652,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cat-litter-companion-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cat-litter-companion-w240.webp"
+      },
+      {
+        "w": 325,
+        "src": "/assets/img/products/cat-litter-companion.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cat-litter-companion.webp": {
+    "width": 325,
+    "height": 652,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cat-litter-companion-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cat-litter-companion-w240.webp"
+      },
+      {
+        "w": 325,
+        "src": "/assets/img/products/cat-litter-companion.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cat-litter-enhancer-500.png": {
+    "width": 479,
+    "height": 1167,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cat-litter-enhancer-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cat-litter-enhancer-500-w240.webp"
+      },
+      {
+        "w": 479,
+        "src": "/assets/img/products/cat-litter-enhancer-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cat-litter-enhancer-500.webp": {
+    "width": 479,
+    "height": 1167,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cat-litter-enhancer-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cat-litter-enhancer-500-w240.webp"
+      },
+      {
+        "w": 479,
+        "src": "/assets/img/products/cat-litter-enhancer-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cat-litter-enhancer-pack.png": {
+    "width": 432,
+    "height": 600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cat-litter-enhancer-pack-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cat-litter-enhancer-pack-w240.webp"
+      },
+      {
+        "w": 432,
+        "src": "/assets/img/products/cat-litter-enhancer-pack.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cat-litter-enhancer-pack.webp": {
+    "width": 432,
+    "height": 600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cat-litter-enhancer-pack-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cat-litter-enhancer-pack-w240.webp"
+      },
+      {
+        "w": 432,
+        "src": "/assets/img/products/cat-litter-enhancer-pack.webp"
+      }
+    ]
+  },
+  "/assets/img/products/catalogue-lineup.png": {
+    "width": 1200,
+    "height": 381,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/catalogue-lineup-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/catalogue-lineup-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/catalogue-lineup-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/catalogue-lineup-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/products/catalogue-lineup.webp"
+      }
+    ]
+  },
+  "/assets/img/products/catalogue-lineup.webp": {
+    "width": 1200,
+    "height": 381,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/catalogue-lineup-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/catalogue-lineup-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/catalogue-lineup-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/catalogue-lineup-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/products/catalogue-lineup.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/cat-litter-companion.png": {
+    "width": 319,
+    "height": 646,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/cat-litter-companion-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/cat-litter-companion-w240.webp"
+      },
+      {
+        "w": 319,
+        "src": "/assets/img/products/cutout/cat-litter-companion.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/cat-litter-companion.webp": {
+    "width": 319,
+    "height": 646,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/cat-litter-companion-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/cat-litter-companion-w240.webp"
+      },
+      {
+        "w": 319,
+        "src": "/assets/img/products/cutout/cat-litter-companion.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/cat-litter-enhancer-500.png": {
+    "width": 475,
+    "height": 1163,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-500-w240.webp"
+      },
+      {
+        "w": 475,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/cat-litter-enhancer-500.webp": {
+    "width": 475,
+    "height": 1163,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-500-w240.webp"
+      },
+      {
+        "w": 475,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/cat-litter-enhancer-pack.png": {
+    "width": 432,
+    "height": 600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-pack-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-pack-w240.webp"
+      },
+      {
+        "w": 432,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-pack.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/cat-litter-enhancer-pack.webp": {
+    "width": 432,
+    "height": 600,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-pack-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-pack-w240.webp"
+      },
+      {
+        "w": 432,
+        "src": "/assets/img/products/cutout/cat-litter-enhancer-pack.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/catalogue-lineup.png": {
+    "width": 1200,
+    "height": 381,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/catalogue-lineup-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/catalogue-lineup-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/catalogue-lineup-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/cutout/catalogue-lineup-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/products/cutout/catalogue-lineup.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/catalogue-lineup.webp": {
+    "width": 1200,
+    "height": 381,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/catalogue-lineup-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/catalogue-lineup-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/catalogue-lineup-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/cutout/catalogue-lineup-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/products/cutout/catalogue-lineup.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/ear-mite-cleaning-solution.png": {
+    "width": 337,
+    "height": 1123,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/ear-mite-cleaning-solution-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/ear-mite-cleaning-solution-w240.webp"
+      },
+      {
+        "w": 337,
+        "src": "/assets/img/products/cutout/ear-mite-cleaning-solution.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/ear-mite-cleaning-solution.webp": {
+    "width": 337,
+    "height": 1123,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/ear-mite-cleaning-solution-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/ear-mite-cleaning-solution-w240.webp"
+      },
+      {
+        "w": 337,
+        "src": "/assets/img/products/cutout/ear-mite-cleaning-solution.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/outdoor-insect-repellent-spray.png": {
+    "width": 247,
+    "height": 1104,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/outdoor-insect-repellent-spray-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/outdoor-insect-repellent-spray-w240.webp"
+      },
+      {
+        "w": 247,
+        "src": "/assets/img/products/cutout/outdoor-insect-repellent-spray.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/outdoor-insect-repellent-spray.webp": {
+    "width": 247,
+    "height": 1104,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/outdoor-insect-repellent-spray-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/outdoor-insect-repellent-spray-w240.webp"
+      },
+      {
+        "w": 247,
+        "src": "/assets/img/products/cutout/outdoor-insect-repellent-spray.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-dental-water.png": {
+    "width": 510,
+    "height": 1195,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-dental-water-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-dental-water-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-dental-water-w480.webp"
+      },
+      {
+        "w": 510,
+        "src": "/assets/img/products/cutout/pet-dental-water.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-dental-water.webp": {
+    "width": 510,
+    "height": 1195,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-dental-water-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-dental-water-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-dental-water-w480.webp"
+      },
+      {
+        "w": 510,
+        "src": "/assets/img/products/cutout/pet-dental-water.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-deodorizing-powder-100g.png": {
+    "width": 298,
+    "height": 784,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-deodorizing-powder-100g-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-deodorizing-powder-100g-w240.webp"
+      },
+      {
+        "w": 298,
+        "src": "/assets/img/products/cutout/pet-deodorizing-powder-100g.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-deodorizing-powder-100g.webp": {
+    "width": 298,
+    "height": 784,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-deodorizing-powder-100g-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-deodorizing-powder-100g-w240.webp"
+      },
+      {
+        "w": 298,
+        "src": "/assets/img/products/cutout/pet-deodorizing-powder-100g.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit.png": {
+    "width": 849,
+    "height": 876,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit-w480.webp"
+      },
+      {
+        "w": 849,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit.webp": {
+    "width": 849,
+    "height": 876,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit-w480.webp"
+      },
+      {
+        "w": 849,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-gun-kit.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-deodorizing-spray.png": {
+    "width": 359,
+    "height": 935,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-w240.webp"
+      },
+      {
+        "w": 359,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-deodorizing-spray.webp": {
+    "width": 359,
+    "height": 935,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray-w240.webp"
+      },
+      {
+        "w": 359,
+        "src": "/assets/img/products/cutout/pet-deodorizing-spray.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-digestive-probiotics.png": {
+    "width": 1027,
+    "height": 964,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics-w960.webp"
+      },
+      {
+        "w": 1027,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-digestive-probiotics.webp": {
+    "width": 1027,
+    "height": 964,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics-w960.webp"
+      },
+      {
+        "w": 1027,
+        "src": "/assets/img/products/cutout/pet-digestive-probiotics.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-disinfectant-deodorizing-solution.png": {
+    "width": 285,
+    "height": 581,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-disinfectant-deodorizing-solution-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-disinfectant-deodorizing-solution-w240.webp"
+      },
+      {
+        "w": 285,
+        "src": "/assets/img/products/cutout/pet-disinfectant-deodorizing-solution.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-disinfectant-deodorizing-solution.webp": {
+    "width": 285,
+    "height": 581,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-disinfectant-deodorizing-solution-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-disinfectant-deodorizing-solution-w240.webp"
+      },
+      {
+        "w": 285,
+        "src": "/assets/img/products/cutout/pet-disinfectant-deodorizing-solution.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-household-laundry-detergent.png": {
+    "width": 765,
+    "height": 1188,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-household-laundry-detergent-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-household-laundry-detergent-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-household-laundry-detergent-w480.webp"
+      },
+      {
+        "w": 765,
+        "src": "/assets/img/products/cutout/pet-household-laundry-detergent.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-household-laundry-detergent.webp": {
+    "width": 765,
+    "height": 1188,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-household-laundry-detergent-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-household-laundry-detergent-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-household-laundry-detergent-w480.webp"
+      },
+      {
+        "w": 765,
+        "src": "/assets/img/products/cutout/pet-household-laundry-detergent.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-immunoglobulin.png": {
+    "width": 514,
+    "height": 938,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-immunoglobulin-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-immunoglobulin-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-immunoglobulin-w480.webp"
+      },
+      {
+        "w": 514,
+        "src": "/assets/img/products/cutout/pet-immunoglobulin.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-immunoglobulin.webp": {
+    "width": 514,
+    "height": 938,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-immunoglobulin-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-immunoglobulin-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/pet-immunoglobulin-w480.webp"
+      },
+      {
+        "w": 514,
+        "src": "/assets/img/products/cutout/pet-immunoglobulin.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-multi-effect-cleansing.png": {
+    "width": 251,
+    "height": 576,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-multi-effect-cleansing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-multi-effect-cleansing-w240.webp"
+      },
+      {
+        "w": 251,
+        "src": "/assets/img/products/cutout/pet-multi-effect-cleansing.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-multi-effect-cleansing.webp": {
+    "width": 251,
+    "height": 576,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-multi-effect-cleansing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-multi-effect-cleansing-w240.webp"
+      },
+      {
+        "w": 251,
+        "src": "/assets/img/products/cutout/pet-multi-effect-cleansing.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-multi-effect-wash-200.png": {
+    "width": 214,
+    "height": 580,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-multi-effect-wash-200-w120.webp"
+      },
+      {
+        "w": 214,
+        "src": "/assets/img/products/cutout/pet-multi-effect-wash-200.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-multi-effect-wash-200.webp": {
+    "width": 214,
+    "height": 580,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-multi-effect-wash-200-w120.webp"
+      },
+      {
+        "w": 214,
+        "src": "/assets/img/products/cutout/pet-multi-effect-wash-200.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-paw-cleaning-foam.png": {
+    "width": 285,
+    "height": 1159,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-paw-cleaning-foam-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-paw-cleaning-foam-w240.webp"
+      },
+      {
+        "w": 285,
+        "src": "/assets/img/products/cutout/pet-paw-cleaning-foam.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-paw-cleaning-foam.webp": {
+    "width": 285,
+    "height": 1159,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-paw-cleaning-foam-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-paw-cleaning-foam-w240.webp"
+      },
+      {
+        "w": 285,
+        "src": "/assets/img/products/cutout/pet-paw-cleaning-foam.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-paw-moisturizing-gel.png": {
+    "width": 298,
+    "height": 784,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-paw-moisturizing-gel-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-paw-moisturizing-gel-w240.webp"
+      },
+      {
+        "w": 298,
+        "src": "/assets/img/products/cutout/pet-paw-moisturizing-gel.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-paw-moisturizing-gel.webp": {
+    "width": 298,
+    "height": 784,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-paw-moisturizing-gel-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-paw-moisturizing-gel-w240.webp"
+      },
+      {
+        "w": 298,
+        "src": "/assets/img/products/cutout/pet-paw-moisturizing-gel.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-shampoo-antibacterial-300.png": {
+    "width": 358,
+    "height": 990,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-300-w240.webp"
+      },
+      {
+        "w": 358,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-shampoo-antibacterial-300.webp": {
+    "width": 358,
+    "height": 990,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-300-w240.webp"
+      },
+      {
+        "w": 358,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-shampoo-antibacterial-500.png": {
+    "width": 467,
+    "height": 1160,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-500-w240.webp"
+      },
+      {
+        "w": 467,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-shampoo-antibacterial-500.webp": {
+    "width": 467,
+    "height": 1160,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-500-w240.webp"
+      },
+      {
+        "w": 467,
+        "src": "/assets/img/products/cutout/pet-shampoo-antibacterial-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-waterless-cleaning-foam-300.png": {
+    "width": 432,
+    "height": 1192,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-waterless-cleaning-foam-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-waterless-cleaning-foam-300-w240.webp"
+      },
+      {
+        "w": 432,
+        "src": "/assets/img/products/cutout/pet-waterless-cleaning-foam-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pet-waterless-cleaning-foam-300.webp": {
+    "width": 432,
+    "height": 1192,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pet-waterless-cleaning-foam-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pet-waterless-cleaning-foam-300-w240.webp"
+      },
+      {
+        "w": 432,
+        "src": "/assets/img/products/cutout/pet-waterless-cleaning-foam-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pure-paws-pet-deodorant.png": {
+    "width": 315,
+    "height": 647,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pure-paws-pet-deodorant-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pure-paws-pet-deodorant-w240.webp"
+      },
+      {
+        "w": 315,
+        "src": "/assets/img/products/cutout/pure-paws-pet-deodorant.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/pure-paws-pet-deodorant.webp": {
+    "width": 315,
+    "height": 647,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/pure-paws-pet-deodorant-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/pure-paws-pet-deodorant-w240.webp"
+      },
+      {
+        "w": 315,
+        "src": "/assets/img/products/cutout/pure-paws-pet-deodorant.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-cat-litter-powder.png": {
+    "width": 399,
+    "height": 512,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-cat-litter-powder-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-cat-litter-powder-w240.webp"
+      },
+      {
+        "w": 399,
+        "src": "/assets/img/products/cutout/quote-cat-litter-powder.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-cat-litter-powder.webp": {
+    "width": 399,
+    "height": 512,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-cat-litter-powder-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-cat-litter-powder-w240.webp"
+      },
+      {
+        "w": 399,
+        "src": "/assets/img/products/cutout/quote-cat-litter-powder.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-catclean-antifungal.png": {
+    "width": 341,
+    "height": 657,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-catclean-antifungal-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-catclean-antifungal-w240.webp"
+      },
+      {
+        "w": 341,
+        "src": "/assets/img/products/cutout/quote-catclean-antifungal.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-catclean-antifungal.webp": {
+    "width": 341,
+    "height": 657,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-catclean-antifungal-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-catclean-antifungal-w240.webp"
+      },
+      {
+        "w": 341,
+        "src": "/assets/img/products/cutout/quote-catclean-antifungal.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-deodorizing-spray-black.png": {
+    "width": 372,
+    "height": 913,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-deodorizing-spray-black-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-deodorizing-spray-black-w240.webp"
+      },
+      {
+        "w": 372,
+        "src": "/assets/img/products/cutout/quote-deodorizing-spray-black.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-deodorizing-spray-black.webp": {
+    "width": 372,
+    "height": 913,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-deodorizing-spray-black-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-deodorizing-spray-black-w240.webp"
+      },
+      {
+        "w": 372,
+        "src": "/assets/img/products/cutout/quote-deodorizing-spray-black.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-disinfectant-spray-350-bottle.png": {
+    "width": 170,
+    "height": 491,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350-bottle-w120.webp"
+      },
+      {
+        "w": 170,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350-bottle.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-disinfectant-spray-350-bottle.webp": {
+    "width": 170,
+    "height": 491,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350-bottle-w120.webp"
+      },
+      {
+        "w": 170,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350-bottle.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-disinfectant-spray-350.png": {
+    "width": 454,
+    "height": 582,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350-w240.webp"
+      },
+      {
+        "w": 454,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-disinfectant-spray-350.webp": {
+    "width": 454,
+    "height": 582,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350-w240.webp"
+      },
+      {
+        "w": 454,
+        "src": "/assets/img/products/cutout/quote-disinfectant-spray-350.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-dog-shampoo-amber.png": {
+    "width": 261,
+    "height": 683,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-dog-shampoo-amber-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-dog-shampoo-amber-w240.webp"
+      },
+      {
+        "w": 261,
+        "src": "/assets/img/products/cutout/quote-dog-shampoo-amber.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-dog-shampoo-amber.webp": {
+    "width": 261,
+    "height": 683,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-dog-shampoo-amber-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-dog-shampoo-amber-w240.webp"
+      },
+      {
+        "w": 261,
+        "src": "/assets/img/products/cutout/quote-dog-shampoo-amber.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-ear-mite-60ml.png": {
+    "width": 335,
+    "height": 1123,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-ear-mite-60ml-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-ear-mite-60ml-w240.webp"
+      },
+      {
+        "w": 335,
+        "src": "/assets/img/products/cutout/quote-ear-mite-60ml.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-ear-mite-60ml.webp": {
+    "width": 335,
+    "height": 1123,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-ear-mite-60ml-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-ear-mite-60ml-w240.webp"
+      },
+      {
+        "w": 335,
+        "src": "/assets/img/products/cutout/quote-ear-mite-60ml.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-laundry-1p5kg.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg-w960.webp"
+      },
+      {
+        "w": 1024,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-laundry-1p5kg.webp": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg-w960.webp"
+      },
+      {
+        "w": 1024,
+        "src": "/assets/img/products/cutout/quote-laundry-1p5kg.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-multi-effect-cleansing.png": {
+    "width": 426,
+    "height": 586,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-multi-effect-cleansing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-multi-effect-cleansing-w240.webp"
+      },
+      {
+        "w": 426,
+        "src": "/assets/img/products/cutout/quote-multi-effect-cleansing.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-multi-effect-cleansing.webp": {
+    "width": 426,
+    "height": 586,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-multi-effect-cleansing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-multi-effect-cleansing-w240.webp"
+      },
+      {
+        "w": 426,
+        "src": "/assets/img/products/cutout/quote-multi-effect-cleansing.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-no-rinse-foam-500.png": {
+    "width": 332,
+    "height": 566,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-500-w240.webp"
+      },
+      {
+        "w": 332,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-no-rinse-foam-500.webp": {
+    "width": 332,
+    "height": 566,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-500-w240.webp"
+      },
+      {
+        "w": 332,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-no-rinse-foam-trigger.png": {
+    "width": 565,
+    "height": 754,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-trigger-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-trigger-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-trigger-w480.webp"
+      },
+      {
+        "w": 565,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-trigger.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-no-rinse-foam-trigger.webp": {
+    "width": 565,
+    "height": 754,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-trigger-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-trigger-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-trigger-w480.webp"
+      },
+      {
+        "w": 565,
+        "src": "/assets/img/products/cutout/quote-no-rinse-foam-trigger.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-outdoor-protection.png": {
+    "width": 190,
+    "height": 863,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-outdoor-protection-w120.webp"
+      },
+      {
+        "w": 190,
+        "src": "/assets/img/products/cutout/quote-outdoor-protection.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-outdoor-protection.webp": {
+    "width": 190,
+    "height": 863,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-outdoor-protection-w120.webp"
+      },
+      {
+        "w": 190,
+        "src": "/assets/img/products/cutout/quote-outdoor-protection.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-pet-dental-water-300.png": {
+    "width": 240,
+    "height": 506,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-pet-dental-water-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-pet-dental-water-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-pet-dental-water-300.webp": {
+    "width": 240,
+    "height": 506,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-pet-dental-water-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-pet-dental-water-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-probiotic-core-18.png": {
+    "width": 855,
+    "height": 660,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-probiotic-core-18-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-probiotic-core-18-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/quote-probiotic-core-18-w480.webp"
+      },
+      {
+        "w": 855,
+        "src": "/assets/img/products/cutout/quote-probiotic-core-18.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-probiotic-core-18.webp": {
+    "width": 855,
+    "height": 660,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-probiotic-core-18-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-probiotic-core-18-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/cutout/quote-probiotic-core-18-w480.webp"
+      },
+      {
+        "w": 855,
+        "src": "/assets/img/products/cutout/quote-probiotic-core-18.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-pure-paws-deodorant.png": {
+    "width": 315,
+    "height": 647,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-pure-paws-deodorant-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-pure-paws-deodorant-w240.webp"
+      },
+      {
+        "w": 315,
+        "src": "/assets/img/products/cutout/quote-pure-paws-deodorant.webp"
+      }
+    ]
+  },
+  "/assets/img/products/cutout/quote-pure-paws-deodorant.webp": {
+    "width": 315,
+    "height": 647,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/cutout/quote-pure-paws-deodorant-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/cutout/quote-pure-paws-deodorant-w240.webp"
+      },
+      {
+        "w": 315,
+        "src": "/assets/img/products/cutout/quote-pure-paws-deodorant.webp"
+      }
+    ]
+  },
+  "/assets/img/products/ear-mite-cleaning-solution.png": {
+    "width": 342,
+    "height": 1146,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/ear-mite-cleaning-solution-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/ear-mite-cleaning-solution-w240.webp"
+      },
+      {
+        "w": 342,
+        "src": "/assets/img/products/ear-mite-cleaning-solution.webp"
+      }
+    ]
+  },
+  "/assets/img/products/ear-mite-cleaning-solution.webp": {
+    "width": 342,
+    "height": 1146,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/ear-mite-cleaning-solution-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/ear-mite-cleaning-solution-w240.webp"
+      },
+      {
+        "w": 342,
+        "src": "/assets/img/products/ear-mite-cleaning-solution.webp"
+      }
+    ]
+  },
+  "/assets/img/products/outdoor-insect-repellent-spray.png": {
+    "width": 250,
+    "height": 1106,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/outdoor-insect-repellent-spray-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/outdoor-insect-repellent-spray-w240.webp"
+      },
+      {
+        "w": 250,
+        "src": "/assets/img/products/outdoor-insect-repellent-spray.webp"
+      }
+    ]
+  },
+  "/assets/img/products/outdoor-insect-repellent-spray.webp": {
+    "width": 250,
+    "height": 1106,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/outdoor-insect-repellent-spray-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/outdoor-insect-repellent-spray-w240.webp"
+      },
+      {
+        "w": 250,
+        "src": "/assets/img/products/outdoor-insect-repellent-spray.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-dental-water.png": {
+    "width": 551,
+    "height": 1198,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-dental-water-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-dental-water-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-dental-water-w480.webp"
+      },
+      {
+        "w": 551,
+        "src": "/assets/img/products/pet-dental-water.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-dental-water.webp": {
+    "width": 551,
+    "height": 1198,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-dental-water-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-dental-water-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-dental-water-w480.webp"
+      },
+      {
+        "w": 551,
+        "src": "/assets/img/products/pet-dental-water.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-deodorizing-powder-100g.png": {
+    "width": 304,
+    "height": 791,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-deodorizing-powder-100g-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-deodorizing-powder-100g-w240.webp"
+      },
+      {
+        "w": 304,
+        "src": "/assets/img/products/pet-deodorizing-powder-100g.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-deodorizing-powder-100g.webp": {
+    "width": 304,
+    "height": 791,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-deodorizing-powder-100g-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-deodorizing-powder-100g-w240.webp"
+      },
+      {
+        "w": 304,
+        "src": "/assets/img/products/pet-deodorizing-powder-100g.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-deodorizing-spray-gun-kit.png": {
+    "width": 856,
+    "height": 881,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-deodorizing-spray-gun-kit-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-deodorizing-spray-gun-kit-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-deodorizing-spray-gun-kit-w480.webp"
+      },
+      {
+        "w": 856,
+        "src": "/assets/img/products/pet-deodorizing-spray-gun-kit.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-deodorizing-spray-gun-kit.webp": {
+    "width": 856,
+    "height": 881,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-deodorizing-spray-gun-kit-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-deodorizing-spray-gun-kit-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-deodorizing-spray-gun-kit-w480.webp"
+      },
+      {
+        "w": 856,
+        "src": "/assets/img/products/pet-deodorizing-spray-gun-kit.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-deodorizing-spray.png": {
+    "width": 363,
+    "height": 941,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-deodorizing-spray-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-deodorizing-spray-w240.webp"
+      },
+      {
+        "w": 363,
+        "src": "/assets/img/products/pet-deodorizing-spray.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-deodorizing-spray.webp": {
+    "width": 363,
+    "height": 941,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-deodorizing-spray-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-deodorizing-spray-w240.webp"
+      },
+      {
+        "w": 363,
+        "src": "/assets/img/products/pet-deodorizing-spray.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-digestive-probiotics.png": {
+    "width": 1034,
+    "height": 966,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-digestive-probiotics-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-digestive-probiotics-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-digestive-probiotics-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/pet-digestive-probiotics-w960.webp"
+      },
+      {
+        "w": 1034,
+        "src": "/assets/img/products/pet-digestive-probiotics.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-digestive-probiotics.webp": {
+    "width": 1034,
+    "height": 966,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-digestive-probiotics-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-digestive-probiotics-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-digestive-probiotics-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/pet-digestive-probiotics-w960.webp"
+      },
+      {
+        "w": 1034,
+        "src": "/assets/img/products/pet-digestive-probiotics.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-disinfectant-deodorizing-solution.png": {
+    "width": 291,
+    "height": 585,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-disinfectant-deodorizing-solution-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-disinfectant-deodorizing-solution-w240.webp"
+      },
+      {
+        "w": 291,
+        "src": "/assets/img/products/pet-disinfectant-deodorizing-solution.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-disinfectant-deodorizing-solution.webp": {
+    "width": 291,
+    "height": 585,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-disinfectant-deodorizing-solution-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-disinfectant-deodorizing-solution-w240.webp"
+      },
+      {
+        "w": 291,
+        "src": "/assets/img/products/pet-disinfectant-deodorizing-solution.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-household-laundry-detergent.png": {
+    "width": 782,
+    "height": 1193,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-household-laundry-detergent-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-household-laundry-detergent-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-household-laundry-detergent-w480.webp"
+      },
+      {
+        "w": 782,
+        "src": "/assets/img/products/pet-household-laundry-detergent.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-household-laundry-detergent.webp": {
+    "width": 782,
+    "height": 1193,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-household-laundry-detergent-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-household-laundry-detergent-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-household-laundry-detergent-w480.webp"
+      },
+      {
+        "w": 782,
+        "src": "/assets/img/products/pet-household-laundry-detergent.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-immunoglobulin.png": {
+    "width": 516,
+    "height": 943,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-immunoglobulin-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-immunoglobulin-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-immunoglobulin-w480.webp"
+      },
+      {
+        "w": 516,
+        "src": "/assets/img/products/pet-immunoglobulin.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-immunoglobulin.webp": {
+    "width": 516,
+    "height": 943,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-immunoglobulin-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-immunoglobulin-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/pet-immunoglobulin-w480.webp"
+      },
+      {
+        "w": 516,
+        "src": "/assets/img/products/pet-immunoglobulin.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-multi-effect-cleansing.png": {
+    "width": 256,
+    "height": 580,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-multi-effect-cleansing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-multi-effect-cleansing-w240.webp"
+      },
+      {
+        "w": 256,
+        "src": "/assets/img/products/pet-multi-effect-cleansing.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-multi-effect-cleansing.webp": {
+    "width": 256,
+    "height": 580,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-multi-effect-cleansing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-multi-effect-cleansing-w240.webp"
+      },
+      {
+        "w": 256,
+        "src": "/assets/img/products/pet-multi-effect-cleansing.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-multi-effect-wash-200.png": {
+    "width": 214,
+    "height": 580,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-multi-effect-wash-200-w120.webp"
+      },
+      {
+        "w": 214,
+        "src": "/assets/img/products/pet-multi-effect-wash-200.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-multi-effect-wash-200.webp": {
+    "width": 214,
+    "height": 580,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-multi-effect-wash-200-w120.webp"
+      },
+      {
+        "w": 214,
+        "src": "/assets/img/products/pet-multi-effect-wash-200.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-paw-cleaning-foam.png": {
+    "width": 290,
+    "height": 1164,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-paw-cleaning-foam-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-paw-cleaning-foam-w240.webp"
+      },
+      {
+        "w": 290,
+        "src": "/assets/img/products/pet-paw-cleaning-foam.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-paw-cleaning-foam.webp": {
+    "width": 290,
+    "height": 1164,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-paw-cleaning-foam-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-paw-cleaning-foam-w240.webp"
+      },
+      {
+        "w": 290,
+        "src": "/assets/img/products/pet-paw-cleaning-foam.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-paw-moisturizing-gel.png": {
+    "width": 304,
+    "height": 791,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-paw-moisturizing-gel-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-paw-moisturizing-gel-w240.webp"
+      },
+      {
+        "w": 304,
+        "src": "/assets/img/products/pet-paw-moisturizing-gel.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-paw-moisturizing-gel.webp": {
+    "width": 304,
+    "height": 791,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-paw-moisturizing-gel-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-paw-moisturizing-gel-w240.webp"
+      },
+      {
+        "w": 304,
+        "src": "/assets/img/products/pet-paw-moisturizing-gel.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-shampoo-antibacterial-300.png": {
+    "width": 362,
+    "height": 994,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-300-w240.webp"
+      },
+      {
+        "w": 362,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-shampoo-antibacterial-300.webp": {
+    "width": 362,
+    "height": 994,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-300-w240.webp"
+      },
+      {
+        "w": 362,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-shampoo-antibacterial-500.png": {
+    "width": 478,
+    "height": 1182,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-500-w240.webp"
+      },
+      {
+        "w": 478,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-shampoo-antibacterial-500.webp": {
+    "width": 478,
+    "height": 1182,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-500-w240.webp"
+      },
+      {
+        "w": 478,
+        "src": "/assets/img/products/pet-shampoo-antibacterial-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-waterless-cleaning-foam-300.png": {
+    "width": 434,
+    "height": 1194,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-waterless-cleaning-foam-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-waterless-cleaning-foam-300-w240.webp"
+      },
+      {
+        "w": 434,
+        "src": "/assets/img/products/pet-waterless-cleaning-foam-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pet-waterless-cleaning-foam-300.webp": {
+    "width": 434,
+    "height": 1194,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pet-waterless-cleaning-foam-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pet-waterless-cleaning-foam-300-w240.webp"
+      },
+      {
+        "w": 434,
+        "src": "/assets/img/products/pet-waterless-cleaning-foam-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pure-paws-pet-deodorant.png": {
+    "width": 319,
+    "height": 652,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pure-paws-pet-deodorant-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pure-paws-pet-deodorant-w240.webp"
+      },
+      {
+        "w": 319,
+        "src": "/assets/img/products/pure-paws-pet-deodorant.webp"
+      }
+    ]
+  },
+  "/assets/img/products/pure-paws-pet-deodorant.webp": {
+    "width": 319,
+    "height": 652,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/pure-paws-pet-deodorant-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/pure-paws-pet-deodorant-w240.webp"
+      },
+      {
+        "w": 319,
+        "src": "/assets/img/products/pure-paws-pet-deodorant.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-cat-litter-powder.png": {
+    "width": 399,
+    "height": 512,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-cat-litter-powder-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-cat-litter-powder-w240.webp"
+      },
+      {
+        "w": 399,
+        "src": "/assets/img/products/quote-cat-litter-powder.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-cat-litter-powder.webp": {
+    "width": 399,
+    "height": 512,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-cat-litter-powder-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-cat-litter-powder-w240.webp"
+      },
+      {
+        "w": 399,
+        "src": "/assets/img/products/quote-cat-litter-powder.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-catclean-antifungal.png": {
+    "width": 341,
+    "height": 657,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-catclean-antifungal-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-catclean-antifungal-w240.webp"
+      },
+      {
+        "w": 341,
+        "src": "/assets/img/products/quote-catclean-antifungal.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-catclean-antifungal.webp": {
+    "width": 341,
+    "height": 657,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-catclean-antifungal-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-catclean-antifungal-w240.webp"
+      },
+      {
+        "w": 341,
+        "src": "/assets/img/products/quote-catclean-antifungal.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-deodorizing-spray-black.png": {
+    "width": 376,
+    "height": 917,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-deodorizing-spray-black-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-deodorizing-spray-black-w240.webp"
+      },
+      {
+        "w": 376,
+        "src": "/assets/img/products/quote-deodorizing-spray-black.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-deodorizing-spray-black.webp": {
+    "width": 376,
+    "height": 917,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-deodorizing-spray-black-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-deodorizing-spray-black-w240.webp"
+      },
+      {
+        "w": 376,
+        "src": "/assets/img/products/quote-deodorizing-spray-black.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-disinfectant-spray-350-bottle.png": {
+    "width": 172,
+    "height": 586,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-disinfectant-spray-350-bottle-w120.webp"
+      },
+      {
+        "w": 172,
+        "src": "/assets/img/products/quote-disinfectant-spray-350-bottle.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-disinfectant-spray-350-bottle.webp": {
+    "width": 172,
+    "height": 586,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-disinfectant-spray-350-bottle-w120.webp"
+      },
+      {
+        "w": 172,
+        "src": "/assets/img/products/quote-disinfectant-spray-350-bottle.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-disinfectant-spray-350.png": {
+    "width": 458,
+    "height": 586,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-disinfectant-spray-350-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-disinfectant-spray-350-w240.webp"
+      },
+      {
+        "w": 458,
+        "src": "/assets/img/products/quote-disinfectant-spray-350.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-disinfectant-spray-350.webp": {
+    "width": 458,
+    "height": 586,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-disinfectant-spray-350-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-disinfectant-spray-350-w240.webp"
+      },
+      {
+        "w": 458,
+        "src": "/assets/img/products/quote-disinfectant-spray-350.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-dog-shampoo-amber.png": {
+    "width": 309,
+    "height": 706,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-dog-shampoo-amber-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-dog-shampoo-amber-w240.webp"
+      },
+      {
+        "w": 309,
+        "src": "/assets/img/products/quote-dog-shampoo-amber.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-dog-shampoo-amber.webp": {
+    "width": 309,
+    "height": 706,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-dog-shampoo-amber-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-dog-shampoo-amber-w240.webp"
+      },
+      {
+        "w": 309,
+        "src": "/assets/img/products/quote-dog-shampoo-amber.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-ear-mite-60ml.png": {
+    "width": 340,
+    "height": 1143,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-ear-mite-60ml-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-ear-mite-60ml-w240.webp"
+      },
+      {
+        "w": 340,
+        "src": "/assets/img/products/quote-ear-mite-60ml.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-ear-mite-60ml.webp": {
+    "width": 340,
+    "height": 1143,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-ear-mite-60ml-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-ear-mite-60ml-w240.webp"
+      },
+      {
+        "w": 340,
+        "src": "/assets/img/products/quote-ear-mite-60ml.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-laundry-1p5kg.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-laundry-1p5kg-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-laundry-1p5kg-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/quote-laundry-1p5kg-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/quote-laundry-1p5kg-w960.webp"
+      },
+      {
+        "w": 1024,
+        "src": "/assets/img/products/quote-laundry-1p5kg.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-laundry-1p5kg.webp": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-laundry-1p5kg-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-laundry-1p5kg-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/quote-laundry-1p5kg-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/products/quote-laundry-1p5kg-w960.webp"
+      },
+      {
+        "w": 1024,
+        "src": "/assets/img/products/quote-laundry-1p5kg.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-multi-effect-cleansing.png": {
+    "width": 431,
+    "height": 590,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-multi-effect-cleansing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-multi-effect-cleansing-w240.webp"
+      },
+      {
+        "w": 431,
+        "src": "/assets/img/products/quote-multi-effect-cleansing.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-multi-effect-cleansing.webp": {
+    "width": 431,
+    "height": 590,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-multi-effect-cleansing-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-multi-effect-cleansing-w240.webp"
+      },
+      {
+        "w": 431,
+        "src": "/assets/img/products/quote-multi-effect-cleansing.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-no-rinse-foam-500.png": {
+    "width": 356,
+    "height": 577,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-no-rinse-foam-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-no-rinse-foam-500-w240.webp"
+      },
+      {
+        "w": 356,
+        "src": "/assets/img/products/quote-no-rinse-foam-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-no-rinse-foam-500.webp": {
+    "width": 356,
+    "height": 577,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-no-rinse-foam-500-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-no-rinse-foam-500-w240.webp"
+      },
+      {
+        "w": 356,
+        "src": "/assets/img/products/quote-no-rinse-foam-500.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-no-rinse-foam-trigger.png": {
+    "width": 565,
+    "height": 754,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-no-rinse-foam-trigger-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-no-rinse-foam-trigger-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/quote-no-rinse-foam-trigger-w480.webp"
+      },
+      {
+        "w": 565,
+        "src": "/assets/img/products/quote-no-rinse-foam-trigger.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-no-rinse-foam-trigger.webp": {
+    "width": 565,
+    "height": 754,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-no-rinse-foam-trigger-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-no-rinse-foam-trigger-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/quote-no-rinse-foam-trigger-w480.webp"
+      },
+      {
+        "w": 565,
+        "src": "/assets/img/products/quote-no-rinse-foam-trigger.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-outdoor-protection.png": {
+    "width": 192,
+    "height": 870,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-outdoor-protection-w120.webp"
+      },
+      {
+        "w": 192,
+        "src": "/assets/img/products/quote-outdoor-protection.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-outdoor-protection.webp": {
+    "width": 192,
+    "height": 870,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-outdoor-protection-w120.webp"
+      },
+      {
+        "w": 192,
+        "src": "/assets/img/products/quote-outdoor-protection.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-pet-dental-water-300.png": {
+    "width": 259,
+    "height": 508,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-pet-dental-water-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-pet-dental-water-300-w240.webp"
+      },
+      {
+        "w": 259,
+        "src": "/assets/img/products/quote-pet-dental-water-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-pet-dental-water-300.webp": {
+    "width": 259,
+    "height": 508,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-pet-dental-water-300-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-pet-dental-water-300-w240.webp"
+      },
+      {
+        "w": 259,
+        "src": "/assets/img/products/quote-pet-dental-water-300.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-probiotic-core-18.png": {
+    "width": 886,
+    "height": 665,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-probiotic-core-18-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-probiotic-core-18-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/quote-probiotic-core-18-w480.webp"
+      },
+      {
+        "w": 886,
+        "src": "/assets/img/products/quote-probiotic-core-18.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-probiotic-core-18.webp": {
+    "width": 886,
+    "height": 665,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-probiotic-core-18-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-probiotic-core-18-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/products/quote-probiotic-core-18-w480.webp"
+      },
+      {
+        "w": 886,
+        "src": "/assets/img/products/quote-probiotic-core-18.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-pure-paws-deodorant.png": {
+    "width": 319,
+    "height": 652,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-pure-paws-deodorant-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-pure-paws-deodorant-w240.webp"
+      },
+      {
+        "w": 319,
+        "src": "/assets/img/products/quote-pure-paws-deodorant.webp"
+      }
+    ]
+  },
+  "/assets/img/products/quote-pure-paws-deodorant.webp": {
+    "width": 319,
+    "height": 652,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/products/quote-pure-paws-deodorant-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/products/quote-pure-paws-deodorant-w240.webp"
+      },
+      {
+        "w": 319,
+        "src": "/assets/img/products/quote-pure-paws-deodorant.webp"
+      }
+    ]
+  },
+  "/assets/img/ui/logo-ppt.png": {
+    "width": 616,
+    "height": 520,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/ui/logo-ppt-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/ui/logo-ppt-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/ui/logo-ppt-w480.webp"
+      },
+      {
+        "w": 616,
+        "src": "/assets/img/ui/logo-ppt.webp"
+      }
+    ]
+  },
+  "/assets/img/ui/logo-ppt.webp": {
+    "width": 616,
+    "height": 520,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/ui/logo-ppt-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/ui/logo-ppt-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/ui/logo-ppt-w480.webp"
+      },
+      {
+        "w": 616,
+        "src": "/assets/img/ui/logo-ppt.webp"
+      }
+    ]
+  },
+  "/assets/img/ui/logo.png": {
+    "width": 271,
+    "height": 68,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/ui/logo-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/ui/logo-w240.webp"
+      },
+      {
+        "w": 271,
+        "src": "/assets/img/ui/logo.webp"
+      }
+    ]
+  },
+  "/assets/img/ui/logo.webp": {
+    "width": 271,
+    "height": 68,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/ui/logo-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/ui/logo-w240.webp"
+      },
+      {
+        "w": 271,
+        "src": "/assets/img/ui/logo.webp"
+      }
+    ]
+  },
+  "/assets/img/ui/og-default.png": {
+    "width": 1200,
+    "height": 630,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/ui/og-default-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/ui/og-default-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/ui/og-default-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/ui/og-default-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/ui/og-default.webp"
+      }
+    ]
+  },
+  "/assets/img/ui/og-default.webp": {
+    "width": 1200,
+    "height": 630,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/ui/og-default-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/ui/og-default-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/ui/og-default-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/ui/og-default-w960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/assets/img/ui/og-default.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/cat-five-on-sofa.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/cat-five-on-sofa-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/cat-five-on-sofa-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/cat-five-on-sofa-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/cat-five-on-sofa-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/cat-five-on-sofa.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/cat-fluffy.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/cat-fluffy-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/cat-fluffy-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/cat-fluffy-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/cat-fluffy-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/cat-fluffy.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/cat-hairless.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/cat-hairless-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/cat-hairless-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/cat-hairless-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/cat-hairless-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/cat-hairless.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/cat-in-bed.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/cat-in-bed-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/cat-in-bed-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/cat-in-bed-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/cat-in-bed-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/cat-in-bed.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/cat-sunglasses.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/cat-sunglasses-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/cat-sunglasses-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/cat-sunglasses-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/cat-sunglasses-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/cat-sunglasses.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/cat-tabby.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/cat-tabby-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/cat-tabby-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/cat-tabby-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/cat-tabby-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/cat-tabby.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/dog-bichon.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/dog-bichon-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/dog-bichon-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/dog-bichon-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/dog-bichon-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/dog-bichon.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/dog-corgi-chair.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/dog-corgi-chair-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/dog-corgi-chair-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/dog-corgi-chair-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/dog-corgi-chair-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/dog-corgi-chair.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/dog-golden-flowers.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/dog-golden-flowers-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/dog-golden-flowers-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/dog-golden-flowers-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/dog-golden-flowers-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/dog-golden-flowers.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/dog-golden-rose.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/dog-golden-rose-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/dog-golden-rose-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/dog-golden-rose-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/dog-golden-rose-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/dog-golden-rose.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/dog-golden-swimming.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/dog-golden-swimming-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/dog-golden-swimming-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/dog-golden-swimming-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/dog-golden-swimming-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/dog-golden-swimming.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/dog-poodles.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/dog-poodles-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/dog-poodles-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/dog-poodles-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/dog-poodles-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/dog-poodles.webp"
+      }
+    ]
+  },
+  "/assets/img/wallpapers/dog-three-corgis.webp": {
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/wallpapers/dog-three-corgis-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/wallpapers/dog-three-corgis-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/wallpapers/dog-three-corgis-w480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/assets/img/wallpapers/dog-three-corgis-w960.webp"
+      },
+      {
+        "w": 1400,
+        "src": "/assets/img/wallpapers/dog-three-corgis.webp"
+      }
+    ]
+  },
+  "/assets/img/whatsapp-qr-shenhe.jpg": {
+    "width": 640,
+    "height": 790,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/whatsapp-qr-shenhe-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/whatsapp-qr-shenhe-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/whatsapp-qr-shenhe-w480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/assets/img/whatsapp-qr-shenhe.webp"
+      }
+    ]
+  },
+  "/assets/img/whatsapp-qr-shenhe.webp": {
+    "width": 640,
+    "height": 790,
+    "variants": [
+      {
+        "w": 120,
+        "src": "/assets/img/whatsapp-qr-shenhe-w120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/assets/img/whatsapp-qr-shenhe-w240.webp"
+      },
+      {
+        "w": 480,
+        "src": "/assets/img/whatsapp-qr-shenhe-w480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/assets/img/whatsapp-qr-shenhe.webp"
+      }
+    ]
+  }
+}

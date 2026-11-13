@@ -1,0 +1,30 @@
+{
+  "name": "shenhe-v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "python scripts/gen_image_dimensions.py && python scripts/gen_image_variants.py && node scripts/gen-catalogue-pdf.mjs && python scripts/fix_client_projection.py && node scripts/gen-chip-card.mjs && node scripts/gen-reports-index.mjs && node scripts/gen-report-hashes.mjs && next build && node scripts/gen-verify-files.mjs && node scripts/gen-verify-batches.mjs && node scripts/gen-carton-labels.mjs && node scripts/gen-carton-pdf.mjs && node scripts/gen-attestation-index.mjs && node scripts/gen-agent-skills.mjs && node scripts/copy-seo-files.mjs && python scripts/build_ai_files.py && node scripts/gen-ai-guides.mjs && node scripts/gen-ai-entity.mjs && node scripts/copy-seo-files.mjs && node scripts/gen-seo-files.mjs && node scripts/gen-sitemap-index.mjs && node scripts/index_health.mjs && node scripts/gen-rsc-map.mjs && node scripts/optimize_img_src.mjs && python scripts/check_site_facts.py && python scripts/check_published_numbers.py && python scripts/check_a11y_dl.py && python scripts/check_indexnow.py && python scripts/check_journey_marks.py && python scripts/check_link_params.py && python scripts/check_llms_facts.py && python scripts/check_ai_reports.py && python scripts/check_ai_numbers.py && python scripts/check_report_labels.py && python scripts/check_conclusions.py && python scripts/check_product_facts.py && python scripts/check_no_price_leak.py && python scripts/check_no_offers.py && python scripts/check_product_feed.py && python scripts/check_product_identity.py && python scripts/check_faq_schema.py && python scripts/check_semantic_structure.py && python scripts/check_journey_pages.py && python scripts/check_ip_claims.py && python scripts/check_page_weight.py && python scripts/check_transfer_weight.py && python scripts/check_security_headers.py --static",
+    "check": "node scripts/check-build.mjs",
+    "start": "next start",
+    "audit:entities": "node scripts/audit_entity_density.mjs",
+    "audit:meta": "python scripts/audit_meta_descriptions.py",
+    "build:site": "npm run build && npm run check"
+  },
+  "dependencies": {
+    "@designcodeio/threeui": "^1.2.0",
+    "next": "^16.4.2",
+    "qrcode": "^1.5.4",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

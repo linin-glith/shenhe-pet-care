@@ -1,0 +1,35 @@
+{
+  "source": "blog/index.html",
+  "slug": "blog__index",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Care Sourcing Guides & Insights | SHENHE ZHONGKE",
+    "description": "Sourcing guides for pet care brands buying from a pet care manufacturer in China: formulation, MOQ, labelling, compliance, samples and choosing a supplier.",
+    "canonical": "https://shenhezhongke.com/blog.html",
+    "ogTitle": "Pet Care Sourcing Guides & Insights | SHENHE ZHONGKE",
+    "ogDescription": "Sourcing guides for pet care brands buying from a pet care manufacturer in China: formulation, MOQ, labelling, compliance, samples and choosing a supplier.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [],
+    "hasGtm": false
+  },
+  "blocks": [
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\" style=\"padding-top: var(--pp-space-12); padding-bottom: var(--pp-space-12);\">\n      <div class=\"pp-container\" style=\"text-align: center; max-width: 720px;\">\n        <span class=\"pp-eyebrow\" style=\"display: inline-block; margin-bottom: var(--pp-space-3);\">Coming soon</span>\n        <h1 style=\"margin-bottom: var(--pp-space-4);\">Pet care insights, in progress</h1>\n        <p style=\"color: var(--pp-ink-600); font-size: var(--pp-text-lg); margin-bottom: var(--pp-space-6);\">\n          We're writing practical guides on pet care formulation, OEM/ODM workflows, and ingredient safety.\n          First articles land in Q4 2026. In the meantime, explore our product catalog or get a quote.\n        </p>\n        <div style=\"display: flex; gap: var(--pp-space-3); justify-content: center; flex-wrap: wrap;\">\n          <a class=\"pp-btn pp-btn--primary\" href=\"/products.html\">Browse products</a>\n          <a class=\"pp-btn pp-btn--secondary\" href=\"/contact.html\">Get a quote</a>\n        </div>\n      </div>\n    </section>"
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 1,
+    "richtextFallback": 0
+  }
+}

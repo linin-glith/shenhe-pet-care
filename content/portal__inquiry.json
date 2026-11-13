@@ -1,0 +1,33 @@
+{
+ "source": "portal/inquiry.html",
+ "slug": "portal__inquiry",
+ "isPortal": true,
+ "head": {
+  "title": "Inquiry detail · SHENHE ZHONGKE portal",
+  "description": null,
+  "canonical": null,
+  "ogTitle": "Inquiry detail · SHENHE ZHONGKE portal",
+  "ogDescription": "Inquiry detail · SHENHE ZHONGKE portal",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": false
+ },
+ "blocks": [
+  {
+   "classes": "",
+   "bg": "plain",
+   "type": "richtext",
+   "content": {
+    "html": "<header id=\"pz-topbar\"></header>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 1,
+  "richtextFallback": 1
+ }
+}

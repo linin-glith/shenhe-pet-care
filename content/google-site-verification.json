@@ -1,0 +1,24 @@
+{
+ "source": "google-site-verification.html",
+ "slug": "google-site-verification",
+ "isPortal": false,
+ "head": {
+  "title": null,
+  "description": null,
+  "canonical": null,
+  "ogTitle": null,
+  "ogDescription": null,
+  "ogImage": null,
+  "ogType": null,
+  "twitterCard": null,
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": false
+ },
+ "blocks": [],
+ "stats": {
+  "blocks": 0,
+  "richtextFallback": 0
+ }
+}

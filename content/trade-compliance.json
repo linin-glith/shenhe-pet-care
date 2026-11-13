@@ -1,0 +1,398 @@
+{
+  "source": "trade-compliance.html",
+  "slug": "trade-compliance",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Product Export & Trade Terms | SHENHE ZHONGKE",
+    "description": "B2B export trade terms for pet product sourcing: VAT, Incoterms 2020, payment terms, HS codes and the documents each market needs before the goods ship.",
+    "canonical": "https://shenhezhongke.com/trade-compliance.html",
+    "ogTitle": "Pet Product Export & Trade Terms | SHENHE ZHONGKE",
+    "ogDescription": "B2B export trade terms for pet product sourcing: VAT, Incoterms 2020, payment, FX, cancellation, dispute resolution, regulatory compliance, ESG.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": null,
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "name": "Trade Compliance &amp; Regulatory FAQ",
+        "url": "https://shenhezhongke.com/trade-compliance.html",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What regulatory compliance do you support for pet care products?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For a pet-only line we support FDA facility registration (USA), REACH SVHC declarations, CLP and an SDS in the EU 16-section format, GPSR, and BPR 528/2012 for the disinfectant SKUs. A pet-only product is not a cosmetic under Regulation (EC) 1223/2009, so there is no CPNP notification and no cosmetic safety report to supply. Compliance is documented per shipment, not per order."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What documents ship with every order?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "COA, MSDS (16-language available), INCI disclosure, allergen declaration, animal-testing statement, and Certificate of Free Sale. No cosmetic safety report: that is the document a cosmetic product requires, and a pet-only line is not one. For OEM orders, your customer-specific formula documentation replaces the stock COA."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you handle customs clearance and import paperwork?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We provide all export documents from China (commercial invoice, packing list, certificate of origin, fumigation certificate if required). Buyer is responsible for import clearance in destination country. We work with nominated freight forwarders on CIF/CFR/DAP terms."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are your products tested on animals?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. All Shenhe Zhongke finished products are cruelty-free. We do not conduct animal testing for cosmetic or pet care SKUs. Our OEM partners agree to the same in the supply contract, and a signed animal-testing statement ships with every order."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the shelf life and stability of your products?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Standard shelf life is 24 months unopened. Accelerated stability data (40 °C / 75% RH, 6 months) is available for all SKUs. Real-time stability (25 °C / 60% RH) is monitored to 24 months. We provide stability summary reports on request."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do you handle product recalls?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Recall SOP follows the Codex Alimentarius framework: within 24h identify affected lots, within 48h notify distributors via registered email, within 72h publish public notice. Recall rate over 11 years: 0 voluntary, 0 mandated. Insurance covers up to USD 2M per incident."
+            }
+          }
+        ]
+      }
+    ],
+    "hasGtm": true
+  },
+  "blocks": [
+    {
+      "classes": "pp-hero-simple",
+      "bg": "plain",
+      "type": "heroSimple",
+      "content": {
+        "title": "Trade Compliance Policies",
+        "titleAccent": null,
+        "eyebrow": "International Trade",
+        "lead": "Full B2B export policies for a pet care manufacturer in Heyuan, Guangdong, China. Effective 2026-09-15, reviewed annually or upon regulatory change, and applying to every RFQ, contract and shipment from an ISO 22716 GMP workshop. It names the markets we ship to — the EU, the UK, the United States, Australia and the Netherlands — and states which filings we prepare and which stay yours. Our factory sits in a 30,000 m² park in Heyuan, Guangdong, of which 5,000 m² is the ISO 22716 GMP workshop, and 220 people work here.",
+        "actions": [
+          {
+            "href": "/contact.html",
+            "label": "Request a quotation",
+            "variant": "primary"
+          },
+          {
+            "href": "/TRADE-COMPLIANCE.md",
+            "label": "Download as Markdown",
+            "variant": "ghost"
+          }
+        ],
+        "stats": [],
+        "panels": [],
+        "image": null,
+        "html": null,
+        "answer": "EXW Shenzhen is the default term; FOB Shenzhen, CIF and DDP to your warehouse are quoted per lane against your destination, volume and term. Every consignment leaves with a batch-specific certificate of analysis from a CMA- or CNAS-accredited lab — 10 such reports are published on this site, 7 from GDDCM and 3 from NACC — and with an MSDS/SDS in 16 languages.",
+        "boundary": "The freight is quoted per lane and always shown separately from the product price, so the landed cost is never ambiguous. Payment terms are written into the quotation rather than advertised, because they are agreed per order.",
+        "metrics": [
+          {
+            "value": "T/T, L/C at sight",
+            "label": "payment terms",
+            "note": "L/C at sight from USD 30,000"
+          },
+          {
+            "value": "EXW Shenzhen",
+            "label": "the default term",
+            "note": "FOB, CIF and DDP quoted per lane"
+          },
+          {
+            "value": "30 days",
+            "label": "quotation validity",
+            "note": "reviewed on every regulatory change"
+          },
+          {
+            "value": "12 markets",
+            "label": "export destinations",
+            "note": "Russia, Brazil, EAEU and the EU among them"
+          }
+        ]
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "cardGrid",
+      "content": {
+        "cols": 3,
+        "cards": [
+          {
+            "kind": "card",
+            "html": "<div class=\"pp-card\">\n          <p style=\"margin: 0; color: var(--pp-ink-700); line-height: 1.7;\"><strong>Document owner:</strong> Sales &amp; Legal · SHENHE ZHONGKE · <strong>Version:</strong> 1.0 (2026-09-15) · <strong>Source of truth:</strong> <a href=\"TRADE-COMPLIANCE.md\">TRADE-COMPLIANCE.md</a> (also distributed to <code>llms.txt</code> and <code>ai.txt</code> for AI agents)</p>\n        </div>"
+          }
+        ]
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "SHENHE ZHONGKE · International Trade & B2B Compliance Policies",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">SHENHE ZHONGKE · International Trade & B2B Compliance Policies</h2>\n      <strong>Effective date:</strong> 2026-09-15\n<strong>Owner:</strong> Sales & Legal · SHENHE ZHONGKE\n<strong>Review cycle:</strong> Annual or upon regulatory change\n<strong>Applies to:</strong> All B2B export contracts, RFQs, and product shipments worldwide\n\n<p>This document is the source of truth for all trade-compliance disclosures on the SHENHE ZHONGKE website (shenhezhongke.com), in `llms.txt` and `ai.txt`, and in the i18n JSON files. Any change here must propagate to all consumer-facing surfaces.</p>\n\n<p>---</p>\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "1 · Pricing & Currency (P0)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">1 · Pricing & Currency (P0)</h2>\n      <h3>1.1 Display currency</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>Default display currency:</strong> USD (United States Dollar)</li>\n<li><strong>Tiered unit pricing</strong> shown on all product pages (per bottle / sachet / vial)</li>\n<li>Single-tier \"from\" price may appear in marketing copy; final price depends on volume, packaging, and Incoterm</li>\n\n</ul><h3>1.2 Settlement currencies</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>Accepted:</strong> USD, EUR, RMB (CNY)</li>\n<li>Default invoice currency is USD unless buyer requests EUR or RMB at quote time</li>\n<li>Bank wire fees on buyer's side; receiving-bank fees on supplier's side</li>\n\n</ul><h3>1.3 FX / currency-risk policy</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>Orders ≥ USD 30,000:</strong> FX rate locked at invoice date (invoice date = date of Proforma Invoice issuance). The rate applied is the one stated on the Proforma Invoice</li>\n<li><strong>Orders < USD 30,000:</strong> FX rate fixed at deposit-receipt date (date buyer's T/T arrives at our bank)</li>\n<li><strong>Risk allocation:</strong> Buyer bears FX risk from invoice date to deposit-receipt date. Supplier bears FX risk from deposit date onward</li>\n<li><strong>Currency conversion fees:</strong> All conversion fees are on the initiating party (buyer pays for USD→EUR conversion when paying in EUR)</li>\n\n</ul>---\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "2 · VAT, GST, and Import Duty (P0)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">2 · VAT, GST, and Import Duty (P0)</h2>\n      <h3>2.1 Pricing basis</h4>\n\n<ul class=\"pp-trade-list\"><li>All published prices are <strong>EX-Works VAT-exclusive</strong>, <strong>GST-exclusive</strong>, and <strong>import-duty-exclusive</strong></li>\n<li>Buyers (importers of record) are responsible for all destination-country taxes and import duties</li>\n\n</ul><h3>2.2 EU / EEA buyers</h4>\n\n<ul class=\"pp-trade-list\"><li>EU buyers with valid VAT registration: self-account VAT via their VAT number on the import declaration (reverse charge mechanism per EU VAT Directive Article 196)</li>\n<li>EU buyers without VAT registration: import via IOSS (Import One-Stop Shop) or standard customs clearance; we provide commercial invoice with HS code and country of origin for the declaration</li>\n<li>We do NOT charge EU VAT on B2B invoices</li>\n\n</ul><h3>2.3 UK buyers (post-Brexit)</h4>\n\n<ul class=\"pp-trade-list\"><li>Same VAT treatment as EU buyers but with GB EORI number required on import documentation</li>\n\n</ul><h3>2.4 Other regions</h4>\n\n<ul class=\"pp-trade-list\"><li>USA: buyer pays import duty and any FDA user fees at port of entry</li>\n<li>Canada, Australia, Japan: same — buyer self-declares at customs</li>\n<li>We provide: commercial invoice, packing list, certificate of origin (Form A or RCEP if applicable), HS code, country of origin = China</li>\n\n</ul><h3>2.5 Tax documents provided per shipment</h4>\n\n<ul class=\"pp-trade-list\"><li>Commercial invoice (signed, stamped)</li>\n<li>Packing list</li>\n<li>Certificate of Origin (issued by CCPIT)</li>\n<li>HS code (printed on commercial invoice)</li>\n<li>Fumigation certificate (if ISPM-15 pallet used)</li>\n<li>Insurance certificate (if CIF/CIP term used)</li>\n\n</ul>---\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "3 · Incoterms® 2020 (P1)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">3 · Incoterms® 2020 (P1)</h2>\n      <h3>3.1 Default term</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>FOB Guangzhou / Shenzhen</strong> (Free On Board, named port of loading = Guangzhou or Shenzhen, China)</li>\n<li>Risk transfers when goods cross the ship's rail at the named port of loading</li>\n<li>Supplier arranges export clearance; buyer arranges import clearance, ocean freight, insurance from FOB point onward</li>\n\n</ul><h3>3.2 Other available terms (on request)</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>EXW</strong> (Ex Works) — buyer collects at our Heyuan factory</li>\n<li><strong>FCA</strong> (Free Carrier) — buyer nominates carrier at named place</li>\n<li><strong>CIF</strong> (Cost, Insurance & Freight) — supplier pays ocean freight + 110% insurance to named port</li>\n<li><strong>CFR</strong> (Cost and Freight) — same as CIF but buyer insures</li>\n<li><strong>DAP</strong> (Delivered At Place) — supplier delivers to buyer's named address, duties unpaid</li>\n<li><strong>DDP</strong> (Delivered Duty Paid) — supplier pays all duties and delivers to buyer's door</li>\n<li><strong>DPU</strong> (Delivered at Place Unloaded) — supplier delivers and unloads at named place</li>\n\n</ul>All terms per <strong>ICC Publication 723E — Incoterms® 2020</strong>. Quote must specify which term applies.\n\n<p>---</p>\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "table",
+      "content": {
+        "head": [],
+        "rows": [
+          {
+            "cells": [
+              "Order value",
+              "Term",
+              "Mechanism"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "-------------",
+              "------",
+              "-----------"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "< USD 30,000",
+              "35% T/T deposit + 65% balance before shipment",
+              "Wire transfer (SWIFT T/T)"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "≥ USD 30,000",
+              "35% T/T deposit + 65% L/C at sight",
+              "Wire + Letter of Credit"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "≥ USD 100,000",
+              "Custom (D/P, D/A, OA) on request",
+              "Negotiable per case"
+            ],
+            "highlight": false
+          }
+        ]
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "table",
+      "content": {
+        "head": [],
+        "rows": [
+          {
+            "cells": [
+              "Stage",
+              "Cancellation window",
+              "Refund"
+            ],
+            "highlight": false
+          }
+        ]
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "6 · Quality Guarantee and Acceptance (P1)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">6 · Quality Guarantee and Acceptance (P1)</h2>\n      <h3>6.1 Pre-shipment quality control</h4>\n\n<ul class=\"pp-trade-list\"><li>6-step in-house QC: IQC → batching → IPQC → filling → OQC → 3rd-party claim verification</li>\n<li>COA (Certificate of Analysis) per batch attached to shipment</li>\n<li>MSDS available for all 20 SKUs</li>\n\n</ul><h3>6.2 Acceptance criteria</h4>\n\n<ul class=\"pp-trade-list\"><li>Product must match Proforma Invoice specifications (formula, packaging, dimensions, labeling)</li>\n<li>Active-ingredient content within ±5% of declared value</li>\n<li>pH within ±0.5 of declared value</li>\n<li>Microbial load within EU/ISO 17516 cosmetic limits</li>\n<li>Appearance, colour, fragrance must match approved reference sample</li>\n\n</ul><h3>6.3 Acceptance window</h4>\n\n<ul class=\"pp-trade-list\"><li>7 days from arrival at destination port for visible / packaging defects</li>\n<li>30 days for active-ingredient / efficacy claims requiring lab verification</li>\n<li>Force majeure events toll the acceptance window</li>\n\n</ul><h3>6.4 Non-conforming goods procedure</h4>\n\n<li>Buyer files claim with photo + lab report within window (buyer-side lab report is acceptable; supplier may request counter-sample)</li>\n<li>Supplier reviews within 5 business days</li>\n<li>If confirmed: replacement shipped at supplier cost within 15 days, OR refund proportional to defective quantity</li>\n<li>If disputed: parties agree on third-party lab (SGS / Intertek / Bureau Veritas at buyer's nominated destination)</li>\n\n<p>---</p>\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "7 · Product Liability Insurance (P1)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">7 · Product Liability Insurance (P1)</h2>\n      <h3>7.1 Current coverage</h4>\n\n<ul class=\"pp-trade-list\"><li>Product Liability Insurance (PII): <strong>Available on request</strong></li>\n<li>Coverage limit: USD 1,000,000 per occurrence / USD 5,000,000 aggregate (underwritten by PICC Property and Casualty Company Limited)</li>\n<li>Policy number: <strong>on file — contact sales for certificate copy</strong></li>\n<li>Geographic coverage: Worldwide (with USA / Canada / EU primary)</li>\n\n</ul><h3>7.2 EU importers</h4>\n\n<ul class=\"pp-trade-list\"><li>For EU-market buyers, we can add buyer as additional insured for orders ≥ USD 30,000 (one-time administrative fee USD 200)</li>\n<li>All EU importers should also maintain their own product liability coverage per EU Product Liability Directive 85/374/EEC</li>\n\n</ul><h3>7.3 Indemnification</h4>\n\n<ul class=\"pp-trade-list\"><li>Supplier indemnifies buyer against third-party product liability claims arising from manufacturing defects, formulation errors, or labeling non-compliance, up to PII coverage limit</li>\n<li>Buyer indemnifies supplier against claims arising from buyer's modifications, relabeling, or downstream marketing claims</li>\n\n</ul>---\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "8 · Regulatory Compliance (P1)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">8 · Regulatory Compliance (P1)</h2>\n      <h3>8.1 China</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>GB National Standard</strong> compliance for all pet care products</li>\n<li><strong>CSAR</strong> (Cosmetic Supervision and Administration Regulation) for applicable products</li>\n<li><strong>CQC</strong> mark on selected consumer SKUs</li>\n\n</ul><h3>8.2 USA</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>FDA Facility Registration:</strong> registration on file — number issued on request</li>\n<li>21 CFR (Code of Federal Regulations) for cosmetic / drug claims</li>\n<li>Fair Packaging and Labeling Act (FPLA) compliance</li>\n<li>Prop 65 (California) — a warning duty, not a certificate. Either the finished product is tested and shown to be below the safe harbour, or the label and the product page carry a compliant warning. No compliance statement is issued, because none exists</li>\n\n</ul><h3>8.3 EU</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>Pet-only products are not cosmetics.</strong> Regulation (EC) 1223/2009 Article 2(1)(a) defines a cosmetic product by contact with the external parts of the human body, so a pet-only line sits outside it — and CPNP notification, a product information file and a cosmetic safety report are not required of it. If a client sells the same formula for human use, that is a separate cosmetic project and the whole cosmetic file applies to it</li>\n<li><strong>REACH</strong> (Registration, Evaluation, Authorisation and Restriction of Chemicals) — SVHC declarations available on request</li>\n<li><strong>CLP</strong> (Classification, Labelling and Packaging) — Safety Data Sheets (SDS) per Annex II</li>\n<li><strong>No cosmetic product safety report is issued for a pet-only formula</strong> — it is the safety report a cosmetic product requires, and our pet SKUs are not cosmetic products. The obligation that does apply to every SKU is the SDS (EU CLP Annex II format) and the REACH / SVHC declaration</li>\n<li><strong>BPR</strong> (Biocidal Products Regulation 528/2012) — applicable to disinfectant SKUs</li>\n\n</ul><h3>8.4 Other markets</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>UK</strong> post-Brexit: pet care products are not within the UKCA marking regime, and we do not put a UKCA mark on a bottle. The UK obligations that do apply are GPSR (including the UK responsible person), CLP and SDS, and the packaging and EPR registrations</li>\n<li><strong>Canada</strong>: pet care products are not natural health products, so there is no Health Canada NNHPD notification to make. The destination's own rules and its provincial and municipal requirements apply, and the importer carries them</li>\n<li><strong>Australia</strong>: TGA (Therapeutic Goods Administration) exemption for pet care cosmetics</li>\n<li><strong>Japan</strong>: the quasi-drug and cosmetics regimes are for human-use products, so a pet care line does not register under them. The importer's own classification and the destination's requirements apply</li>\n\n</ul><h3>8.5 Documentation package per market (on request)</h4>\n\n<ul class=\"pp-trade-list\"><li>Cosmetic product safety report — only where a formula is also sold for human use; a pet-only line is not a cosmetic and has no CPSR</li>\n<li>SDS / MSDS (16-language)</li>\n<li>Ingredient disclosure (INCI)</li>\n<li>Allergen declaration</li>\n<li>Animal-testing statement (Cruelty-Free, Leaping Bunny pending certification 2027)</li>\n<li>Vegan / plant-based statement where applicable</li>\n<li>Certificate of Free Sale (CFSE)</li>\n\n</ul>---\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "9 · Intellectual Property and Confidentiality (P1)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">9 · Intellectual Property and Confidentiality (P1)</h2>\n      <h3>9.1 Confidentiality</h4>\n\n<ul class=\"pp-trade-list\"><li>All RFQ-stage exchanges covered by mutual NDA (Non-Disclosure Agreement)</li>\n<li>Standard NDA provided within 24 hours of enquiry</li>\n<li>Custom NDA accepted (buyer-drafted) with mutual review</li>\n<li>Survival: 5 years post-last-shipment</li>\n\n</ul><h3>9.2 IP ownership</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>ODM</strong> (our 20 SKUs + your label): product formula IP owned by supplier; buyer owns label / brand IP; perpetual royalty-free use of formula for buyer</li>\n<li><strong>OEM</strong> (your formula): full IP transfer to buyer upon full payment; supplier retains manufacturing process IP and right to use for other clients</li>\n<li><strong>OBM</strong> (turnkey): joint IP shared; specific terms in SOW</li>\n\n</ul><h3>9.3 Patents</h4>\n\n<ul class=\"pp-trade-list\"><li>Supplier holds 8+ patents (bio-enzyme + probiotic complex, chlorine dioxide system, plant-based insect repellent blend, trigger-lock spray gun)</li>\n<li>Full patent register provided under NDA on request</li>\n\n</ul>---\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "10 · Sustainability and ESG (P2)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">10 · Sustainability and ESG (P2)</h2>\n      <h3>10.1 Current certifications</h4>\n\n<ul class=\"pp-trade-list\"><li>ISO 22716 (Cosmetic GMP)</li>\n<li>Cruelty-free formulations (no animal testing on finished products; ingredients not tested on animals since 2020)</li>\n<li>Plant-based ingredient portfolio across the range</li>\n\n</ul><h3>10.2 In progress (2026-2027 roadmap)</h4>\n\n<ul class=\"pp-trade-list\"><li>ISO 14001 (Environmental Management) — Q2 2027 target</li>\n<li>ISO 45001 (Occupational Health) — Q4 2026 target</li>\n<li>Leaping Bunny certification — 2027 target</li>\n<li>Sedex / SMETA 4-Pillar audit — Q4 2026 target</li>\n<li>Carbon footprint disclosure (Scope 1 + 2) — 2027 target</li>\n\n</ul><h3>10.3 Social compliance</h4>\n\n<ul class=\"pp-trade-list\"><li>Living wage floor for all direct employees (220+)</li>\n<li>5-day work week; overtime capped at 36h/month per Chinese Labor Law</li>\n<li>Free on-site dormitory, cafeteria, clinic for all staff</li>\n<li>Joint laboratories with South China University of Technology and Guangdong University of Technology (formulation chemistry, microbiology)</li>\n\n</ul><h3>10.4 Environmental</h4>\n\n<ul class=\"pp-trade-list\"><li>Class-D cleanroom waste water treated on-site to GB 8978-1996 standards before discharge</li>\n<li>Solar panel installation on warehouse roof — Q4 2026 target (1.2 MW capacity, 30% of facility demand)</li>\n<li>Plastic packaging: PCR (Post-Consumer Recycled) option available at +5% unit cost</li>\n\n</ul>---\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "11 · Dispute Resolution and Governing Law (P0)",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">11 · Dispute Resolution and Governing Law (P0)</h2>\n      <h3>11.1 Governing law</h4>\n\n<ul class=\"pp-trade-list\"><li>All contracts governed by <strong>the laws of the People's Republic of China</strong> (excluding Hong Kong, Macau, Taiwan)</li>\n<li>Mandatory PRC law applies where Chinese parties are involved (per PRC Contract Law Article 7)</li>\n\n</ul><h3>11.2 Dispute resolution mechanism</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>Default:</strong> arbitration administered by <strong>China International Economic and Trade Arbitration Commission (CIETAC)</strong> in Shanghai</li>\n<li><strong>Language:</strong> English</li>\n<li><strong>Procedural rules:</strong> CIETAC Arbitration Rules (current edition)</li>\n<li><strong>Number of arbitrators:</strong> 3 (one appointed by each party, one by CIETAC acting as presiding arbitrator)</li>\n<li><strong>Seat of arbitration:</strong> Shanghai, China</li>\n<li><strong>Award:</strong> final and binding on both parties; enforceable in 170+ jurisdictions under New York Convention 1958</li>\n\n</ul><h3>11.3 Alternative mechanisms (on request for orders ≥ USD 100,000)</h4>\n\n<ul class=\"pp-trade-list\"><li><strong>ICC International Court of Arbitration</strong> (Paris) — preferred for EU / US buyers</li>\n<li><strong>Hong Kong International Arbitration Centre (HKIAC)</strong> — preferred for Asia-Pacific buyers</li>\n<li><strong>Litigation</strong> — only in PRC courts of competent jurisdiction (buyer's local courts not accepted unless mutually agreed)</li>\n\n</ul><h3>11.4 Pre-arbitration dispute escalation</h4>\n\n<li>Good-faith negotiation (30 days from written notice)</li>\n<li>Mediation via CCPIT (China Council for the Promotion of International Trade)</li>\n<li>Arbitration (if mediation fails)</li>\n\n<p>---</p>\n    </div>\n  </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "table",
+      "content": {
+        "head": [],
+        "rows": [
+          {
+            "cells": [
+              "Topic",
+              "Contact",
+              "Email",
+              "Phone"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "-------",
+              "---------",
+              "-------",
+              "-------"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "Pricing / quote",
+              "Sales",
+              "sales@shenhezhongke.com",
+              "+86-762-3909998"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "Customs / HS code",
+              "Logistics",
+              "sales@shenhezhongke.com",
+              "+86-762-3909998"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "Compliance / REACH / FDA",
+              "Compliance",
+              "sales@shenhezhongke.com",
+              "+86 172 6665 9928"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "Quality / dispute",
+              "Quality Manager",
+              "sales@shenhezhongke.com",
+              "+86 172 6665 9928"
+            ],
+            "highlight": false
+          },
+          {
+            "cells": [
+              "NDA / IP",
+              "Legal",
+              "sales@shenhezhongke.com",
+              "+86 172 6665 9928"
+            ],
+            "highlight": false
+          }
+        ]
+      }
+    },
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Document Control",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\">\n    <div class=\"pp-container pp-container--narrow\">\n      <h2 class=\"pp-trade-h2\">Document Control</h2>\n      <ul class=\"pp-trade-list\"><li>Version: 1.0 (2026-09-15)</li>\n<li>Author: Mavis (audit) + SHENHE ZHONGKE sales team</li>\n<li>Review: annual or upon regulatory change</li>\n<li>Distribution: public website, llms.txt, ai.txt, customer-facing sales materials</li>\n\n</ul>---\n\n<strong>End of TRADE-COMPLIANCE.md. Source of truth for all 12 audit items.</strong>\n    </div>\n  </section>"
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 16,
+    "richtextFallback": 0
+  }
+}

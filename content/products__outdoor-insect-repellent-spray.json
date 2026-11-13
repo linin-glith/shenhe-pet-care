@@ -1,0 +1,146 @@
+{
+  "source": "products/outdoor-insect-repellent-spray.html",
+  "slug": "products__outdoor-insect-repellent-spray",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Insect Repellent Spray 80 mL | OEM",
+    "description": "Natural plant-based repellent, nano-silver boosted",
+    "canonical": "https://shenhezhongke.com/products/outdoor-insect-repellent-spray.html",
+    "ogTitle": "Pet Insect Repellent Spray 80 mL | OEM",
+    "ogDescription": "Natural plant-based repellent, nano-silver boosted",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Outdoor Insect Repellent Spray 80 mL — 80 mL / bottle",
+        "sku": "SHENHE-OUTDOOR-REPELLENT-80",
+        "mpn": "SHENHE-OUTDOOR-REPELLENT-80",
+        "description": "Outdoor Insect Repellent Spray 80 mL — 80 mL / bottle. Made with citronella essential oil, mugwort essential oil, sophora flavescens extract. Repels mosquitoes and insects during outdoor activities. Suited to pet coat, outdoor walks, hiking",
+        "image": "https://shenhezhongke.com/assets/img/products/quote-outdoor-protection.png",
+        "brand": {
+          "@type": "Brand",
+          "name": "SHENHE ZHONGKE"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+          "url": "https://shenhezhongke.com"
+        },
+        "category": "Pet Outdoor Protection",
+        "url": "https://shenhezhongke.com/products/outdoor-repellent-80.html",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Ingredients",
+            "value": "Citronella Essential Oil, Mugwort Essential Oil, Sophora Flavescens Extract"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Application",
+            "value": "Pet coat, Outdoor walks, Hiking"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Function",
+            "value": "Repels mosquitoes and insects during outdoor activities"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Minimum Order Quantity",
+            "value": "2000 bottles"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "HS Code",
+            "value": "3307.90"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Shelf Life",
+            "value": "24 months"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Lead Time",
+            "value": "Stock: 7-15 days · OEM: 25-40 days"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Carton",
+            "value": "48 bottles/carton · L 30 × W 25 × H 20 · 6 kg"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "MSDS Available",
+            "value": "Yes (16-language)"
+          }
+        ]
+      }
+    ],
+    "hasGtm": false
+  },
+  "blocks": [
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\" style=\"padding-top: 0;\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--2\" style=\"gap: var(--pp-space-12); align-items: start;\">\n\n          <div>\n            <span class=\"pp-eyebrow\">Outdoor Protection · 80 mL</span>\n            <h1 style=\"margin-bottom: var(--pp-space-2);\">Outdoor Insect Repellent Spray</h1>\n                        <p class=\"pp-lead\">Natural plant-based repellent, nano-silver boosted</p>\n\n            <div class=\"pp-trust-row\" style=\"margin-bottom: var(--pp-space-6);\">\n              <span class=\"pp-badge pp-badge--amber\">MOQ 1,000</span>\n              <span class=\"pp-badge\">Sample on request</span>\n              <span class=\"pp-badge\">Quote in 1 business day</span>\n            </div>\n\n            \n            <div style=\"aspect-ratio: 1; background: linear-gradient(135deg, #ffffff, #f8fafc); border-radius: var(--pp-radius-xl); display: flex; align-items: center; justify-content: center; border: 1px solid var(--pp-ink-200); overflow: hidden;\">\n              <img src=\"/assets/img/products/outdoor-insect-repellent-spray.png?v=2\" alt=\"Outdoor Insect Repellent Spray\" style=\"width: 100%; height: 100%; object-fit: contain; padding: var(--pp-space-4);\" onerror=\"this.parentElement.innerHTML='<div style=&quot;font-size: 6rem; color: var(--pp-teal-300);&quot;>🐾</div>'\">\n            </div>\n            <p style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500); margin-top: var(--pp-space-2); text-align: center;\">DEKOBIO · 80 mL</p>\n          </div>\n\n          <div>\n                        <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.keyFeatures\" style=\"margin-bottom: var(--pp-space-2);\">Self-designed for daily pre-walk routine</h3>\n\n\n              <ul style=\"list-style: none; padding: 0; margin: 0; font-size: var(--pp-text-sm);\">\n\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">80 mL travel format</strong> &#8212; fits in coat pocket or backpack side pocket, ~2-week daily-use supply for one dog.</li>\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">4-botanical repellent stack</strong> &#8212; Stemona + Sophora + Citronella + Mugwort layered for mosquito, tick, flea.</li>\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Nano-silver antibacterial layer</strong> &#8212; silver ions kill bacteria introduced by bites, reducing post-walk skin infection.</li>\n\n                <li style=\"margin-bottom: 0;\"><strong style=\"color: var(--pp-teal-700);\">Pre-walk application timing</strong> &#8212; spray 5&#8211;10 min before outdoor time, designed for daily use not one-off.</li>\n\n\n              </ul>\n\n\n            </div>\n\n\n            <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.ingredients\" style=\"margin-bottom: var(--pp-space-2);\">Main ingredients &#8212; and what each one powers</h3>\n\n\n              <table style=\"width:100%; border-collapse: collapse; font-size: var(--pp-text-sm);\">\n\n\n                <tbody>\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Stemona Root Extract</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Mosquito repellent &#8212; primary active.</td>\n\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Sophora Flavescens Extract</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Tick repellent &#8212; secondary layer.</td>\n\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Citronella Extract</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Flea + general insect &#8212; territorial marker.</td>\n\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Mugwort Extract</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Broad-spectrum botanical &#8212; backup layer.</td>\n\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Nano Silver Ions</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Post-bite antibacterial &#8212; wound hygiene.</td>\n\n\n\n                  <tr style=\"\">\n\n\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Deionized Water</td>\n\n\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Pure carrier &#8212; no mineral residue.</td>\n\n\n\n\n                </tbody>\n\n\n              </table>\n\n\n            </div>\n\n\n\n\n            <div class=\"pp-card\">\n\n\n              <h3 data-i18n=\"products.labReports\" style=\"margin-bottom: var(--pp-space-2);\">Third-party lab reports</h3>\n\n\n              <p style=\"color: var(--pp-ink-500); font-size: var(--pp-text-sm); margin: 0;\">No specific lab report required. Manufactured under factory-level QC (ISO 22716); full COA available on request.</p>\n\n\n            </div>\n\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Pricing",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n  <div class=\"pp-container\">\n    <h2>Pricing</h2>\n    <p>Unit prices are quote-only. Volume tiering, label/packaging costs and shipping terms are confirmed per RFQ.</p>\n  </div>\n</section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "OEM/ODM options",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <h2>OEM/ODM options</h2>\n        <div class=\"pp-grid pp-grid--2\">\n          <div class=\"pp-card pp-card--feature\">\n            <h3>ODM · Use this ready formula</h3>\n            <p>Minimum 1,000 sets. We use the formula above and print your label. <strong>25–40 days</strong> from artwork approval to shipment.</p>\n            <a class=\"pp-btn pp-btn--primary pp-btn--block\" href=\"/contact.html?product=outdoor-insect-repellent-spray&mode=odm\">Request ODM quote</a>\n          </div>\n          <div class=\"pp-card pp-card--feature-amber\">\n            <h3>OEM · Custom formula</h3>\n            <p>Minimum 1,000–2,000 sets. Send us your formula or target spec. <strong>30–45 days</strong> from approval to shipment. NDA provided.</p>\n            <a class=\"pp-btn pp-btn--secondary pp-btn--block\" href=\"/contact.html?product=outdoor-insect-repellent-spray&mode=oem\">Request OEM quote</a>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-cta-banner",
+      "bg": "plain",
+      "type": "cta",
+      "content": {
+        "title": "Request a quotation within 1 business day",
+        "eyebrow": null,
+        "actions": [
+          {
+            "href": "/contact.html?product=outdoor-insect-repellent-spray",
+            "label": "Start Your Quote",
+            "variant": "primary"
+          },
+          {
+            "href": "/assets/img/certs/Factory-Audit-Report-FM12662R01Da.pdf",
+            "label": "View lab report",
+            "variant": "outlineWhite"
+          }
+        ],
+        "html": null,
+        "text": "Send your target market, MOQ, and timeline. We reply within one business day with a quote and a sample plan."
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 4,
+    "richtextFallback": 1
+  }
+}

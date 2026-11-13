@@ -1,0 +1,80 @@
+{
+  "slug": "waterless-foam-or-wet-shampoo",
+  "category": "howto",
+  "date": "2026-10-23",
+  "reviewedBy": "compliance",
+  "seo": {
+    "title": "No-Rinse Foam or Wet Shampoo: Which One Does the Job",
+    "description": "Waterless foam cleans paws, spot dirt and travel messes in minutes. Wet shampoo is still the only option for a full bath. Maths. For salons and groomers."
+  },
+  "faq": [
+    {
+      "q": "Can a no-rinse foam replace a bath?",
+      "a": "No. A no-rinse foam is a spot-cleaning product: it lifts surface dirt from a small area and dries off. A matted coat, a fecal soiling or a full-body grime needs a wet shampoo and a rinse."
+    },
+    {
+      "q": "Is a no-rinse foam safe for cats?",
+      "a": "It is one of the better options for cats, because the main objection to bathing a cat is the wet-and-rinse process rather than the product. Avoid getting it in the eyes and ears, and never use it on broken skin."
+    },
+    {
+      "q": "How often should I use a paw foam?",
+      "a": "After muddy walks, and as a routine check whenever the dog is walked in areas where the pavement is salted or treated in winter. The salt and grime that get into the paw pads are the reason, not the dog being dirty."
+    },
+    {
+      "q": "Do I need to dry the coat after a no-rinse foam?",
+      "a": "Rub it through with a towel until the coat is not visibly damp, then let it air-dry. The product does not need rinsing, but it does need the excess lifted, particularly on double-coated breeds where it can sit and flatten the coat."
+    }
+  ],
+  "body": [
+    {
+      "type": "lead",
+      "html": "<p>Waterless foam and wet shampoo are not competitors. One cleans a paw in ninety seconds, the other cleans a whole animal. Most people reach for the wrong one because they buy a foam expecting it to replace a bath, or use a shampoo for a job that did not need one.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "What a no-rinse foam actually does"
+    },
+    {
+      "type": "prose",
+      "html": "<p>A waterless cleansing foam is a mild surfactant in a foam format that is applied, worked in, wiped or towel-dried, and left. It does not need water and it does not need rinsing. That is the whole of the proposition, and it is a genuinely useful one — for paws after a walk, for a patch of dirt, for a travelling animal, and for any animal whose stress around bathing is worse than the dirt.</p><p>It is also, precisely, a spot clean. Applied to a matted coat or a fecal soiling, it will not do the job.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "When the foam is the right tool"
+    },
+    {
+      "type": "prose",
+      "html": "<p><strong>Paws after walks.</strong> This is the highest-value use and the reason a dedicated paw format exists separately. Road salt, mud and grime get into the paw pads and between the toes, and they are the reason a dog smells from the feet even after a bath.</p><p><strong>Cats.</strong> The objection to bathing a cat is rarely the product — it is the tub, the water and the drying. A foam removes almost all of that.</p><p><strong>Travel and appointments.</strong> Between stays or before a grooming appointment, a foam is enough to make an animal presentable without a full bath.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "When a wet shampoo is the only option"
+    },
+    {
+      "type": "prose",
+      "html": "<p>A full bath is required when the coat is genuinely soiled — fecal contamination, mud through the coat, urine staining, or a double coat that has not been washed in long enough to have collected its own oil and debris. None of that is a spot clean, and no foam substitutes for it.</p><p>A wet shampoo is also the only route to conditioning a long or double coat, because the rinse is what removes the loosened dead hair and the residue. Silk protein in a 500 mL shampoo conditions the hair shaft; it needs water to do that.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Choosing a size"
+    },
+    {
+      "type": "prose",
+      "html": "<p>The formats here run 500 mL, 300 mL and a dedicated 200 mL paw size, and the choice is mostly about how much of the animal you are treating.</p><p>The 500 mL suits a larger dog or a fuller spot clean. The 300 mL suits cats and small breeds and is the general-purpose travel size. The 200 mL paw format is small enough to carry on a walk and sized for the job it is named after.</p><p>For a business buying by the carton, the density differs sharply: twelve per carton at 7.5 kg for the 500 mL, twelve at 5.5 kg for the 300 mL, and twenty-four at 5.5 kg for the paw format. Those figures decide the freight bill.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "One caution"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Keep both away from eyes and ears, and do not use any of them on broken or inflamed skin without advice. A foam applied to a hot, weeping patch is not treating the patch, and it can make the situation worse.</p><p>For skin that is actively irritated, the right next step is a vet. No shampoo in this range replaces one.</p>"
+    }
+  ],
+  "relatedProducts": [
+    { "id": "P016", "note": "200 mL paw foam — the format designed for the job, small enough to carry" },
+    { "id": "P015", "note": "300 mL no-rinse foam — cats, small breeds and travel" },
+    { "id": "P014", "note": "500 mL no-rinse foam — larger dogs and fuller spot cleans" },
+    { "id": "P012", "note": "500 mL wet shampoo — for a real bath and for conditioning a long coat" }
+  ]
+}

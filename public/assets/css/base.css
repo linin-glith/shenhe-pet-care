@@ -1,0 +1,324 @@
+/* ============================================
+   SHENHE ZHONGKE · Pet Care OEM/ODM Factory
+   Design System v4.0 · teal + amber
+   Built 2026-09-08
+   ============================================ */
+
+/* ---- Self-hosted Cabinet Grotesk (P2-3, 2026-09-15) ---- */
+@font-face {
+  font-family: 'Cabinet Grotesk';
+  src: url('../fonts/cabinet-grotesk-400.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cabinet Grotesk';
+  src: url('../fonts/cabinet-grotesk-500.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cabinet Grotesk';
+  src: url('../fonts/cabinet-grotesk-700.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cabinet Grotesk';
+  src: url('../fonts/cabinet-grotesk-800.woff2') format('woff2');
+  font-weight: 800;
+  font-display: swap;
+  font-style: normal;
+}
+
+/* ---- Design tokens ---- */
+:root {
+  /* Brand colors: teal (primary) + amber (CTA) */
+  --pp-teal-50:  #f0fdfa;
+  --pp-teal-100: #ccfbf1;
+  --pp-teal-200: #99f6e4;
+  --pp-teal-300: #5eead4;
+  --pp-teal-400: #2dd4bf;
+  --pp-teal-500: #14b8a6;
+  --pp-teal-600: #0d9488;
+  --pp-teal-700: #0f766e;
+  --pp-teal-800: #115e59;
+  --pp-teal-900: #134e4a;
+  --pp-teal-950: #042f2e;
+
+  --pp-amber-50:  #fffbeb;
+  --pp-amber-100: #fef3c7;
+  --pp-amber-200: #fde68a;
+  --pp-amber-300: #fcd34d;
+  --pp-amber-400: #fbbf24;
+  --pp-amber-500: #f59e0b;
+  --pp-amber-600: #d97706;
+  --pp-amber-700: #b45309;
+  --pp-amber-800: #92400e;
+  --pp-amber-900: #78350f;
+
+  --pp-ink-50:   #f8fafc;
+  --pp-ink-100:  #f1f5f9;
+  --pp-ink-200:  #e2e8f0;
+  --pp-ink-300:  #cbd5e1;
+  --pp-ink-400:  #94a3b8;
+  --pp-ink-500:  #64748b;
+  --pp-ink-600:  #475569;
+  --pp-ink-700:  #334155;
+  --pp-ink-800:  #1e293b;
+  --pp-ink-900:  #0f172a;
+  --pp-ink-950:  #020617;
+
+  --pp-white: #ffffff;
+  --pp-bg: #fafaf9;
+  --pp-bg-soft: #f5f5f4;
+
+  /* Status */
+  --pp-success: #10b981;
+  --pp-warning: #f59e0b;
+  --pp-error:   #ef4444;
+  --pp-info:    #3b82f6;
+
+  /* Typography */
+  --pp-font-display: "Cabinet Grotesk", -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", sans-serif;
+  --pp-font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --pp-font-serif: Georgia, "Times New Roman", "Songti SC", serif;
+  --pp-font-mono: "SF Mono", "JetBrains Mono", Consolas, monospace;
+
+  --pp-text-xs: 0.75rem;     /* 12px */
+  --pp-text-sm: 0.875rem;    /* 14px */
+  --pp-text-base: 1rem;      /* 16px */
+  --pp-text-lg: 1.125rem;    /* 18px */
+  --pp-text-xl: 1.25rem;     /* 20px */
+  --pp-text-2xl: 1.5rem;     /* 24px */
+  --pp-text-3xl: 1.875rem;   /* 30px */
+  --pp-text-4xl: 2.25rem;    /* 36px */
+  --pp-text-5xl: 3rem;       /* 48px */
+  --pp-text-6xl: 3.75rem;    /* 60px */
+  --pp-text-7xl: 4.5rem;     /* 72px */
+
+  --pp-leading-tight: 1.15;
+  --pp-leading-snug: 1.3;
+  --pp-leading-normal: 1.55;
+  --pp-leading-loose: 1.75;
+
+  /* Spacing */
+  --pp-space-1: 0.25rem;
+  --pp-space-2: 0.5rem;
+  --pp-space-3: 0.75rem;
+  --pp-space-4: 1rem;
+  --pp-space-5: 1.25rem;
+  --pp-space-6: 1.5rem;
+  --pp-space-8: 2rem;
+  --pp-space-10: 2.5rem;
+  --pp-space-12: 3rem;
+  --pp-space-16: 4rem;
+  --pp-space-20: 5rem;
+  --pp-space-24: 6rem;
+  --pp-space-32: 8rem;
+
+  /* Radius */
+  --pp-radius-sm: 4px;
+  --pp-radius: 8px;
+  --pp-radius-lg: 12px;
+  --pp-radius-xl: 16px;
+  --pp-radius-2xl: 20px;
+  --pp-radius-full: 9999px;
+
+  /* Shadow */
+  --pp-shadow-sm: 0 1px 2px 0 rgba(15, 23, 42, 0.05);
+  --pp-shadow:    0 1px 3px 0 rgba(15, 23, 42, 0.08), 0 1px 2px 0 rgba(15, 23, 42, 0.04);
+  --pp-shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.08), 0 2px 4px -1px rgba(15, 23, 42, 0.04);
+  --pp-shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.08), 0 4px 6px -2px rgba(15, 23, 42, 0.04);
+  --pp-shadow-xl: 0 20px 25px -5px rgba(15, 23, 42, 0.10), 0 10px 10px -5px rgba(15, 23, 42, 0.03);
+  --pp-shadow-amber: 0 8px 24px -6px rgba(245, 158, 11, 0.45);
+  --pp-shadow-teal:  0 8px 24px -6px rgba(13, 148, 136, 0.45);
+
+  /* Layout */
+  --pp-container: 1280px;
+  --pp-container-narrow: 960px;
+  --pp-container-wide: 1440px;
+  --pp-header-h: 72px;
+  --pp-z-nav: 100;
+  --pp-z-cookie: 200;
+  --pp-z-modal: 300;
+
+  /* Animation */
+  --pp-ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --pp-ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --pp-ease-in:  cubic-bezier(0.4, 0, 1, 1);
+  --pp-ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  --pp-dur-fast: 150ms;
+  --pp-dur:      250ms;
+  --pp-dur-slow: 400ms;
+}
+
+/* ---- Reset & base ---- */
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--pp-font-sans);
+  font-size: var(--pp-text-base);
+  line-height: var(--pp-leading-normal);
+  color: var(--pp-ink-800);
+  background: var(--pp-white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img, svg, video, canvas { max-width: 100%; height: auto; display: block; }
+
+a {
+  color: var(--pp-teal-700);
+  text-decoration: none;
+  transition: color var(--pp-dur) var(--pp-ease);
+}
+a:hover { color: var(--pp-teal-900); }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 var(--pp-space-4) 0;
+  font-weight: 700;
+  line-height: var(--pp-leading-tight);
+  color: var(--pp-ink-900);
+  letter-spacing: -0.01em;
+}
+h1, h2, .pp-section-title h2, .pp-hero-simple h1, .pp-clarity-hero__h1 {
+  font-family: var(--pp-font-display);
+  letter-spacing: -0.025em;
+}
+h1 { font-size: var(--pp-text-5xl); letter-spacing: -0.025em; }
+h2 { font-size: var(--pp-text-4xl); letter-spacing: -0.02em; }
+h3 { font-size: var(--pp-text-2xl); }
+h4 { font-size: var(--pp-text-xl); }
+h5 { font-size: var(--pp-text-lg); }
+h6 { font-size: var(--pp-text-base); }
+
+p { margin: 0 0 var(--pp-space-4) 0; }
+
+ul, ol { padding-left: var(--pp-space-6); margin: 0 0 var(--pp-space-4) 0; }
+
+hr { border: 0; height: 1px; background: var(--pp-ink-200); margin: var(--pp-space-8) 0; }
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+}
+
+button { cursor: pointer; border: 0; background: transparent; }
+
+::selection { background: var(--pp-teal-200); color: var(--pp-teal-900); }
+
+/* ---- Container ---- */
+.pp-container {
+  width: 100%;
+  max-width: var(--pp-container);
+  margin: 0 auto;
+  padding: 0 var(--pp-space-6);
+}
+.pp-container--narrow { max-width: var(--pp-container-narrow); }
+.pp-container--wide   { max-width: var(--pp-container-wide); }
+
+/* ---- Section spacing ---- */
+.pp-section { padding: var(--pp-space-20) 0; }
+.pp-section--sm { padding: var(--pp-space-12) 0; }
+.pp-section--lg { padding: var(--pp-space-24) 0; }
+.pp-section--bg { background: var(--pp-bg); }
+.pp-section--bg-soft { background: var(--pp-bg-soft); }
+.pp-section--dark {
+  background: linear-gradient(135deg, var(--pp-teal-900), var(--pp-teal-800));
+  color: var(--pp-white);
+}
+.pp-section--dark h1, .pp-section--dark h2, .pp-section--dark h3,
+.pp-section--dark h4, .pp-section--dark h5, .pp-section--dark h6 { color: var(--pp-white); }
+
+/* ---- Typography helpers ---- */
+.pp-eyebrow {
+  display: inline-block;
+  font-size: var(--pp-text-sm);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--pp-teal-600);
+  margin-bottom: var(--pp-space-3);
+}
+.pp-eyebrow--amber { color: var(--pp-amber-600); }
+.pp-eyebrow--light { color: var(--pp-teal-200); }
+
+.pp-section-title {
+  text-align: center;
+  margin-bottom: var(--pp-space-12);
+}
+.pp-section-title h2 { margin-bottom: var(--pp-space-4); }
+.pp-section-title p {
+  font-size: var(--pp-text-lg);
+  color: var(--pp-ink-600);
+  max-width: 720px;
+  margin: 0 auto;
+}
+.pp-section--dark .pp-section-title p { color: var(--pp-teal-100); }
+
+.pp-lead {
+  font-size: var(--pp-text-lg);
+  line-height: var(--pp-leading-normal);
+  color: var(--pp-ink-600);
+}
+
+.pp-mono { font-family: var(--pp-font-mono); }
+.pp-num  {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+
+/* ---- Grid ---- */
+.pp-grid {
+  display: grid;
+  gap: var(--pp-space-6);
+}
+.pp-grid--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.pp-grid--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.pp-grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+
+/* Critical: prevent any direct grid item from forcing track expansion
+   via its content's min-width (e.g. long unbreakable text, natural-size
+   images with no width constraint, inline-block descendants). Without
+   this, flex-column children like .pp-product-card and .pp-cat-card
+   can collapse to ~40px wide in Chromium, breaking the grid layout. */
+.pp-grid > * { min-width: 0; }
+
+@media (max-width: 960px) {
+  .pp-grid--3, .pp-grid--4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 640px) {
+  .pp-grid--2, .pp-grid--3, .pp-grid--4 { grid-template-columns: 1fr; }
+  h1 { font-size: var(--pp-text-3xl); }
+  h2 { font-size: var(--pp-text-2xl); }
+  .pp-section { padding: var(--pp-space-12) 0; }
+}
+
+/* ---- Visually hidden (a11y) ---- */
+.pp-sr {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---- Print ---- */
+@media print {
+  .pp-no-print { display: none !important; }
+  a[href]::after { content: " (" attr(href) ")"; font-size: 0.8em; }
+}

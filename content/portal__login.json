@@ -1,0 +1,41 @@
+{
+ "source": "portal/login.html",
+ "slug": "portal__login",
+ "isPortal": true,
+ "head": {
+  "title": "Sign in · SHENHE ZHONGKE portal",
+  "description": null,
+  "canonical": null,
+  "ogTitle": "Sign in · SHENHE ZHONGKE portal",
+  "ogDescription": "Sign in · SHENHE ZHONGKE portal",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": false
+ },
+ "blocks": [
+  {
+   "classes": "",
+   "bg": "plain",
+   "type": "richtext",
+   "content": {
+    "html": "<header id=\"pz-topbar\"></header>"
+   }
+  },
+  {
+   "type": "richtext",
+   "classes": "",
+   "bg": "plain",
+   "content": {
+    "html": "<main class=\"pz-shell pz-shell--narrow pz-section\">\n    <span class=\"pz-eyebrow\">Customer portal</span>\n    <h1 data-i18n=\"loginTitle\">Sign in to your account</h1>\n    <p class=\"pz-lead\" data-i18n=\"loginSubtitle\">Track your inquiry progress, message history, and shipping updates.</p>\n\n    <form id=\"login-form\" class=\"pz-card\" novalidate>\n      <div id=\"form-msg\"></div>\n      <div class=\"pz-form__field\">\n        <label class=\"pz-form__label\" for=\"email\" data-i18n=\"emailLabel\">Email</label>\n        <input class=\"pz-form__input\" type=\"email\" id=\"email\" name=\"email\" required autocomplete=\"email\">\n      </div>\n      <div class=\"pz-form__field\">\n        <label class=\"pz-form__label\" for=\"password\" data-i18n=\"passwordLabel\">Password</label>\n        <input class=\"pz-form__input\" type=\"password\" id=\"password\" name=\"password\" required minlength=\"8\" autocomplete=\"current-password\">\n      </div>\n      <button class=\"pz-btn pz-btn--primary pz-btn--lg pz-btn--block\" type=\"submit\" data-i18n=\"login\">Log in</button>\n      <p style=\"text-align:center; margin-top:18px; font-size:14px;\">\n        <span data-i18n=\"noAccount\">No account yet?</span>\n        <a href=\"/portal/register.html\" data-i18n=\"createAccount\">Create one</a>\n      </p>\n      <p style=\"text-align:center; margin-top:4px; font-size:13px; color:var(--pp-ink-500);\">\n        <a href=\"/portal/forgot-password.html\" data-i18n=\"forgotPassword\">Forgot password?</a>\n        <span style=\"color:#cbd5e1; margin:0 6px;\">·</span>\n        <a href=\"/portal/track.html\" style=\"color:var(--pp-teal-700);\">Track without signing in →</a>\n      </p>\n    </form>\n  </main>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 2,
+  "richtextFallback": 2
+ }
+}

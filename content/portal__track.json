@@ -1,0 +1,41 @@
+{
+ "source": "portal/track.html",
+ "slug": "portal__track",
+ "isPortal": true,
+ "head": {
+  "title": "Track your inquiry · SHENHE ZHONGKE",
+  "description": null,
+  "canonical": null,
+  "ogTitle": "Track your inquiry · SHENHE ZHONGKE",
+  "ogDescription": "Track your inquiry · SHENHE ZHONGKE",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": false
+ },
+ "blocks": [
+  {
+   "classes": "",
+   "bg": "plain",
+   "type": "richtext",
+   "content": {
+    "html": "<header id=\"pz-topbar\"></header>"
+   }
+  },
+  {
+   "type": "richtext",
+   "classes": "",
+   "bg": "plain",
+   "content": {
+    "html": "<main class=\"pz-shell pz-shell--narrow pz-section\">\n    <a href=\"/\" style=\"display:inline-block; margin-bottom:14px; color: var(--pp-ink-700); text-decoration: none; font-size: 14px;\">← Back to site</a>\n    <span class=\"pz-eyebrow\">No account needed</span>\n    <h1>Track your inquiry</h1>\n    <p class=\"pz-lead\">Enter the reference number from your welcome email and the email you used. You'll see the current status and the latest message from our team — no portal account required.</p>\n\n    <div id=\"content\">\n      <form id=\"track-form\" class=\"pz-card pz-track-card\" novalidate>\n        <div id=\"form-msg\"></div>\n        <div class=\"pz-form__field\">\n          <label class=\"pz-form__label\" for=\"ref\">Inquiry reference <span class=\"req\">*</span></label>\n          <input class=\"pz-form__input\" type=\"text\" id=\"ref\" name=\"ref\" required autocomplete=\"off\" placeholder=\"e.g. INQ-20261009-0001\">\n          <div class=\"pz-form__hint\">From the subject line of your welcome email. Also accepts a numeric ID like <code>43</code>.</div>\n        </div>\n        <div class=\"pz-form__field\">\n          <label class=\"pz-form__label\" for=\"email\">Email you used <span class=\"req\">*</span></label>\n          <input class=\"pz-form__input\" type=\"email\" id=\"email\" name=\"email\" required autocomplete=\"email\" placeholder=\"you@company.com\">\n        </div>\n        \n        <div class=\"pz-tr-honeypot\" aria-hidden=\"true\">\n          <label for=\"company\">Company (leave blank)</label>\n          <input type=\"text\" id=\"company\" name=\"company\" tabindex=\"-1\" autocomplete=\"off\">\n        </div>\n        <div class=\"pz-tr-honeypot\" aria-hidden=\"true\">\n          <label for=\"phone_2\">Phone 2 (leave blank)</label>\n          <input type=\"text\" id=\"phone_2\" name=\"phone_2\" tabindex=\"-1\" autocomplete=\"off\">\n        </div>\n        <button class=\"pz-btn pz-btn--primary pz-btn--lg pz-btn--block\" type=\"submit\" id=\"submit-btn\">Look up inquiry</button>\n        <p style=\"text-align:center; margin-top:14px; font-size:13px; color:var(--pp-ink-500);\">\n          Already have an account? <a href=\"/portal/login.html\">Sign in →</a>\n        </p>\n      </form>\n    </div>\n  </main>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 2,
+  "richtextFallback": 2
+ }
+}

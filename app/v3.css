@@ -1,0 +1,423 @@
+/* =============================================================================
+   V3 VISUAL SYSTEM — the section rhythm, the density rules, the icon chrome.
+
+   This layer sits on top of design-system.css. It does not restyle the existing
+   components; it supplies the vocabulary the pages are re-composed FROM, so a
+   section reads the same whether it is a factory line card or an R&D FAQ.
+
+   THE SIX RULES, AS CODE
+   1. Density through cards + hairlines, never through whitespace alone.
+   2. Two-column data organisation for every figure-and-caption pair.
+   3. One repeating section header: centred title, green dot, grey subtitle.
+   4. Dark surfaces carry service and process content — the material that
+      deserves weight. Green is reserved for what is clickable and for numbers.
+   5. Icons are line art that changes colour on interaction.
+   6. Everything animates on a scroll-linked transform, never a layout shift.
+
+   NOTHING HERE HIDES CONTENT. No clip-path reveals, no opacity-then-slide
+   that can strand text at zero opacity. If motion is unavailable, the element
+   is already in its final position.
+   ========================================================================== */
+
+/* ---------- 1. tokens ---------- */
+:root {
+  /* Hairline: the primary density instrument. A 1px rule separates more
+     information than 24px of padding, and costs no vertical rhythm. */
+  --v3-hairline: rgb(0 0 0 / 0.08);
+  --v3-hairline-strong: rgb(0 0 0 / 0.14);
+  --v3-hairline-dark: rgb(255 255 255 / 0.12);
+  --v3-hairline-dark-strong: rgb(255 255 255 / 0.22);
+
+  /* Card surface: flat, barely lifted. Depth comes from the rule, not shadow. */
+  --v3-card: #ffffff;
+  --v3-card-sunk: #fafbfb;
+  --v3-card-dark: #0f1a1f;
+
+  /* Grey subtitle — the third line of every section header. */
+  --v3-subtle: #66747a;
+  --v3-subtle-dark: #8fa3aa;
+
+  /* Green is a verb, not an adjective: clickable, or a figure. */
+  --v3-live: #0c816c;
+  --v3-live-bright: #14b89b;
+}
+
+/* ---------- 2. section rhythm ---------- */
+.v3-section {
+  padding-block: clamp(4rem, 8vw, 7rem);
+}
+
+@media (min-width: 768px) {
+  .v3-section--tight {
+    padding-block: clamp(2.75rem, 5vw, 4.25rem);
+  }
+}
+
+/* ---------- 3. the repeating section header ---------- */
+/* Centred title, a green dot above it, a grey subtitle below. This component
+   appears on every major section so the page has a visible pulse. */
+.v3-head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.875rem;
+}
+
+.v3-head__dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 999px;
+  background: var(--v3-live);
+  box-shadow: 0 0 0 4px rgb(15 157 132 / 0.14);
+}
+
+.v3-head__title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.022em;
+  line-height: 1.12;
+  color: #0b1519;
+  font-size: clamp(1.75rem, 3.6vw, 2.75rem);
+  text-wrap: balance;
+}
+
+.v3-head__sub {
+  max-width: 46rem;
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--v3-subtle);
+  text-wrap: pretty;
+}
+
+/* Dark variant — same three parts, inverted for service/process sections. */
+.v3-head--dark .v3-head__title {
+  color: #ffffff;
+}
+.v3-head--dark .v3-head__sub {
+  color: var(--v3-subtle-dark);
+}
+
+/* Left-aligned variant for sections that must sit beside an image. */
+.v3-head--start {
+  align-items: flex-start;
+  text-align: left;
+}
+
+/* ---------- 4. cards and hairlines ---------- */
+/* A hairline grid: adjacent cards share one rule, so a 4-up row reads as a
+   table of facts rather than four floating boxes. */
+.v3-hairgrid {
+  display: grid;
+  gap: 1px;
+  background: var(--v3-hairline);
+  border-block: 1px solid var(--v3-hairline);
+  /* Own the column template here rather than delegating to a Tailwind utility.
+     A hairline grid only reads as a table of facts if the dividers line up,
+     which requires the template to be guaranteed for this primitive. */
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+@media (min-width: 640px) {
+  .v3-hairgrid--2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .v3-hairgrid--3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .v3-hairgrid--4 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .v3-hairgrid--3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .v3-hairgrid--4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+.v3-hairgrid > * {
+  background: var(--v3-card);
+  padding: clamp(1.25rem, 2.4vw, 1.75rem);
+}
+
+.v3-hairgrid--dark {
+  background: var(--v3-hairline-dark);
+  border-color: var(--v3-hairline-dark);
+}
+.v3-hairgrid--dark > * {
+  background: var(--v3-card-dark);
+}
+
+/* Standalone card: the same surface, with the rule drawn instead of implied. */
+.v3-card {
+  background: var(--v3-card);
+  border: 1px solid var(--v3-hairline);
+  border-radius: 14px;
+  transition:
+    border-color 260ms cubic-bezier(0.2, 0.7, 0.3, 1),
+    transform 260ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+
+.v3-card:hover {
+  border-color: var(--v3-hairline-strong);
+}
+
+/* ---------- 4b. card interaction and motion ---------- */
+/* A card that only darkens its border on hover reads as a document. A card
+   that lifts, brightens its icon plate and underlines its link reads as
+   something you can press. Three signals on one hover, no layout shift. */
+.v3-card--interactive {
+  transition:
+    transform 320ms cubic-bezier(0.2, 0.7, 0.3, 1),
+    border-color 320ms cubic-bezier(0.2, 0.7, 0.3, 1),
+    box-shadow 320ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+
+@media (hover: hover) {
+  .v3-card--interactive:hover {
+    transform: translateY(-3px);
+    border-color: rgb(15 157 132 / 0.4);
+    box-shadow: 0 10px 28px -14px rgb(11 21 25 / 0.22);
+  }
+  .v3-card--interactive:hover .v3-icon-plate {
+    border-color: rgb(15 157 132 / 0.55);
+    background: rgb(15 157 132 / 0.06);
+  }
+  .v3-card--interactive:hover .v3-link {
+    background-size: 100% 1px;
+  }
+}
+
+.v3-card--interactive:active {
+  transform: translateY(-1px);
+  transition-duration: 90ms;
+}
+
+.v3-icon-plate {
+  transition:
+    transform 320ms cubic-bezier(0.2, 0.7, 0.3, 1),
+    border-color 320ms cubic-bezier(0.2, 0.7, 0.3, 1),
+    background-color 320ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+
+.v3-card--interactive:focus-visible,
+a:focus-visible .v3-card--interactive {
+  outline: 2px solid var(--v3-live);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .v3-card--interactive,
+  .v3-card--interactive:hover,
+  .v3-card--interactive:active,
+  .v3-icon-plate {
+    transition: none;
+  }
+  .v3-card--interactive:hover {
+    transform: none;
+  }
+}
+
+/* ---------- 5. two-column data organisation ---------- */
+/* figure on the left, caption on the right. Used for every stat, every metric,
+   every spec row — the pairing is what makes a number legible in context. */
+.v3-duo {
+  display: grid;
+  gap: 0.375rem 1.25rem;
+  align-items: baseline;
+}
+
+.v3-duo__value {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  color: var(--v3-live);
+}
+
+.v3-duo__label {
+  color: #35454b;
+}
+
+.v3-duo--stacked {
+  gap: 0.25rem;
+}
+
+/* Green numerals: the colour carries the figure, never the sentence. */
+.v3-figure {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  color: var(--v3-live);
+}
+
+/* ---------- 6. line icons that change colour ---------- */
+/* The icon inherits text colour and animates to live-green on interaction.
+   No fill swap, no size jump — only stroke colour moves. */
+.v3-icon {
+  color: var(--v3-subtle);
+  transition: color 220ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+
+.v3-card:hover .v3-icon,
+a:hover .v3-icon,
+a:focus-visible .v3-icon,
+button:hover .v3-icon {
+  color: var(--v3-live);
+}
+
+.v3-icon--live {
+  color: var(--v3-live);
+}
+
+/* Icon plate: a hairline square, not a filled chip. Filled chips fight the
+   green button for attention; a hairline square does not. */
+.v3-icon-plate {
+  display: inline-grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border: 1px solid var(--v3-hairline);
+  border-radius: 10px;
+  background: var(--v3-card-sunk);
+  transition: border-color 220ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+
+.v3-card:hover .v3-icon-plate {
+  border-color: rgb(15 157 132 / 0.35);
+}
+
+/* ---------- 7. green means interactive ---------- */
+.v3-link {
+  color: var(--v3-live);
+  text-decoration: none;
+  background-image: linear-gradient(var(--v3-live), var(--v3-live));
+  background-size: 0% 1px;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  transition: background-size 280ms cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+
+.v3-link:hover,
+.v3-link:focus-visible {
+  background-size: 100% 1px;
+}
+
+/* ---------- 8. scroll-linked motion ---------- */
+/* Transform-only, and the final state is the DEFAULT state. When
+   prefers-reduced-motion is set the animation never applies and the element is
+   simply already in place. There is no hidden end-state to strand content. */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .v3-rise {
+      animation: v3-rise linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 42%;
+    }
+  }
+}
+
+@keyframes v3-rise {
+  from {
+    transform: translateY(14px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+/* ---------- 9. dark service/process band ---------- */
+/* The band itself signals "this is where the work happens" — heavier, cooler,
+   and never green except for the numbers. */
+.v3-band-dark {
+  background: linear-gradient(180deg, #0b1418 0%, #0f1a1f 100%);
+  color: #dfe8ea;
+}
+
+.v3-band-dark .v3-head__title {
+  color: #ffffff;
+}
+.v3-band-dark .v3-card {
+  background: rgb(255 255 255 / 0.03);
+  border-color: var(--v3-hairline-dark);
+}
+.v3-band-dark .v3-card:hover {
+  border-color: var(--v3-hairline-dark-strong);
+}
+.v3-band-dark .v3-duo__label {
+  color: #c3d2d6;
+}
+.v3-band-dark .v3-icon {
+  color: var(--v3-subtle-dark);
+}
+
+/* ---------- 10. hairline caption pair ---------- */
+.v3-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 0.875rem;
+  font-size: 0.8125rem;
+  color: var(--v3-subtle);
+}
+
+/* The same line, on a dark ground. The blog header carries the trail on
+   the near-black band, and the light-ground tone does not reach the
+   standard there. */
+.on-dark .v3-meta {
+  color: var(--v3-subtle-dark);
+}
+
+.v3-meta__rule {
+  width: 1.5rem;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.5;
+}
+
+/* ---------- 11. process connector ---------- */
+/*
+ * The connector rule only makes sense when the NEXT step is on the same row.
+ * The column count is 1 / 2 / 4 depending on the breakpoint, so "the last step
+ * of a row" is a different item at every width — a rule drawn for every step
+ * but the last leaves a line hanging into the gutter at the end of each row,
+ * which reads as a layout mistake rather than a sequence.
+ *
+ * The 2-column rule is scoped to 640–1023px on purpose. Left unscoped it
+ * would still apply at 1024px+ and delete half of the 4-column connectors.
+ *
+ * Two selectors cover the row end: `nth-child(Cn)` kills the rule after
+ * every full row, and `:last-child` kills the one after a short final row —
+ * six steps in four columns end on step 6, which is the last of a row but is
+ * not 4n.
+ */
+.v3-track__line {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .v3-track__line {
+    display: block;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  .v3-track li:nth-child(2n) .v3-track__line,
+  .v3-track li:last-child .v3-track__line {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) {
+  .v3-track li:nth-child(4n) .v3-track__line,
+  .v3-track li:last-child .v3-track__line {
+    display: none;
+  }
+}

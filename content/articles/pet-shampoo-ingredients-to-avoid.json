@@ -1,0 +1,96 @@
+{
+  "slug": "pet-shampoo-ingredients-to-avoid",
+  "category": "howto",
+  "date": "2026-10-23",
+  "reviewedBy": "compliance",
+  "seo": {
+    "title": "Pet Shampoo Ingredients to Avoid: What to Check on the Label",
+    "description": "Essential oils, harsh surfactants and undisclosed fragrance are the three things to check on a pet shampoo label. How to read one. How to read a label."
+  },
+  "faq": [
+    {
+      "q": "Is tea tree oil safe in a dog shampoo?",
+      "a": "It is used in pet shampoos and is present in low concentration in this catalogue's ear cleanser. Cats are the animals most often reported to be sensitive to it, so a tea tree formula intended for dogs should not be used on cats unless the manufacturer states that it is."
+    },
+    {
+      "q": "Should I avoid heavily scented pet shampoo?",
+      "a": "Generally yes, and particularly for cats. Fragrance is added for the human handling the pet, not for the animal, and a strong scent on a wet cat is a common cause of avoidance behaviour around the bath itself."
+    },
+    {
+      "q": "What is the difference between SLS and SLES?",
+      "a": "Sodium lauryl sulfate is the stronger of the two and foams more; sodium laureth sulfate is the milder variant. Either can be used in a pet product, but a formula built on either is a cleansing-forward product rather than a conditioning one, and on some animals it dries the coat."
+    },
+    {
+      "q": "Is fragrance the last ingredient on a label the same as no fragrance?",
+      "a": "No. Fragrance is commonly listed at the end regardless of the amount present, because regulations require ingredients to be listed in descending order by weight, and fragrance is often added at a small percentage after the main surfactants."
+    }
+  ],
+  "body": [
+    {
+      "type": "lead",
+      "html": "<p>Reading a pet shampoo label takes about thirty seconds once you know the three things worth checking. Everything else on the list is either unremarkable or a trade-off you can live with. The three are: the surfactant, the fragrance, and the essential oils.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "The surfactant: what cleans the coat"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Cocamidopropyl betaine, a coconut-derived surfactant, is the mildest of the commonly available and is what you want to see first for a regular bathing product. It cleans adequately and does not strip the coat.</p><p>Sodium lauryl sulfate cleans harder and foams more. It is not dangerous on pet skin, but it is a drying choice, and on a double-coated breed or a frequent-bathing animal it shows. Sodium laureth sulfate is the milder variant of the same family and sits between the two.</p><p>The practical rule: a product whose main surfactant is a sulfate is a cleansing-forward formula, and one built on a betaine is a daily-use formula. Neither is wrong; they are different products.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Fragrance: added for you, not for them"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Perfume in a pet shampoo is a human preference. It does nothing for the animal and it is the component most often implicated in a cat refusing to be bathed — not because the smell is offensive to the cat, but because a heavily scented animal is a stressed animal.</p><p>One practical caution: fragrance usually appears at the <em>end</em> of the ingredient list regardless of how much is present, because regulations require listing in descending order by weight and fragrance is often added after the main surfactants at a small percentage. A last-position fragrance does not mean a trace amount.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Essential oils: the one that varies by species"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Tea tree oil and citrus oils are the two most commonly raised concerns in pet shampoos, and cats are the animals most often reported to react to them. This is not a regulatory restriction so much as a practical one: many cats, particularly young ones, do not metabolise these compounds well.</p><p>The rule that follows is simple. A formula with tea tree or citrus belongs on a dog product unless the label says otherwise for cats. It is worth asking a supplier directly whether a given formula is cat-rated, because the answer determines which animals it can be sold for.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "What is worth looking for instead"
+    },
+    {
+      "type": "prose",
+      "html": "<p>These are the ingredients that earn their place in a gentle formula, and they are all conditioning agents rather than active ones:</p><p><strong>Camellia seed extract</strong> — a light emollient, used across the grooming line in this catalogue for both washing and foaming formats. <strong>Silk protein</strong> — binds to the hair shaft and is what gives a 500 mL shampoo its conditioning character. <strong>Aloe vera extract</strong> — in the paw moisturising gel, where the application is genuinely dry and cracked skin. <strong>Biological enzymes</strong> — in the laundry detergent, where the job is breaking down organic residue in fabric rather than on skin.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "What to do with a health claim"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Ingredients like nano silver ions, chlorine dioxide or plant extracts used against mites are a different category. They make the product a treatment rather than a cosmetic, and in most jurisdictions that brings it into a regulated frame requiring production licensing and supporting laboratory data.</p><p>This has a practical consequence for anyone buying to resell: the claim on the label determines the regulatory classification at import. A shampoo that says it controls mites and one that says it cleanses are, from a customs and compliance point of view, different products even if the base formula is similar.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "The thirty-second version"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Read the first ingredient. If it is a betaine, you are looking at a daily-use formula. Scan for fragrance and for tea tree or citrus, and if either is present, check which species the product is intended for. Everything after that is trade-off you can live with.</p><p>The full specification, the ingredient list and the available pack sizes for each product are on its product page. Minimum order, price and production time are confirmed once the destination and quantity are known.</p>"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "id": "P012",
+      "note": "Gentle 500 mL shampoo — betaine base with silk protein, no essential oils"
+    },
+    {
+      "id": "P014",
+      "note": "No-rinse foam — same mild base, camellia seed extract, no fragrance load"
+    },
+    {
+      "id": "P013",
+      "note": "Antibacterial shampoo — stemona, sophora and mugwort; a health claim, not a cosmetic one"
+    }
+  ]
+}

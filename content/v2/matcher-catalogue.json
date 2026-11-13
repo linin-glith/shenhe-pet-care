@@ -1,0 +1,635 @@
+{
+  "catalogue": [
+    {
+      "id": "P001",
+      "sku_oem": "SHENHE-DEO-SET-PRO",
+      "name_en": "Probiotic + Bio-Enzyme Odor Control Set 1 spray + 2 × 220 mL",
+      "specification": "1 spray + 2 × 220 mL",
+      "line": "deodorizing_disinfection",
+      "category": "disinfection_odor_control",
+      "function_en": "Targets odor at source; 94.2% ammonia removal, report NACCYH25014722; for surfaces around the animal",
+      "application": [
+        "Pet waste",
+        "Litter boxes",
+        "Bedding",
+        "Living areas"
+      ],
+      "moq": 1000,
+      "moq_unit": "sets",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [
+        "Disinfectant Licence"
+      ],
+      "msds_available": true,
+      "package": "12 sets/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Enzyme Preparations, Probiotics, Plant Extracts, Deionized Water",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 40 × W 30 × H 25",
+      "carton_weight_kg": 8.5,
+      "hs_code": "3401.19",
+      "specification_options": [
+        "220 mL × 2",
+        "350 mL refill"
+      ],
+      "name_zh": "益生菌＋生物酶除臭套装"
+    },
+    {
+      "id": "P002",
+      "sku_oem": "SHENHE-OEM-DEO-SPRAY-350",
+      "name_en": "Power Odor Eliminator (Extra Strength) 350 mL",
+      "specification": "350 mL / bottle",
+      "line": "deodorizing_disinfection",
+      "category": "disinfection_odor_control",
+      "function_en": "Targets odor at source; 94.2% ammonia removal, report NACCYH25014722; formulated for coats an animal may lick, safety assessment 2024FM11611R02D",
+      "application": [
+        "Pet body",
+        "Pet waste",
+        "Bedding",
+        "Floors",
+        "Litter boxes",
+        "Living areas"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [
+        "Disinfectant Licence"
+      ],
+      "msds_available": true,
+      "package": "12 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Enzyme Preparations, Plant Extracts, Odor-Eliminating Compounds, Deionized Water, Probiotics",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 35 × W 25 × H 22",
+      "carton_weight_kg": 7.2,
+      "hs_code": "3401.19",
+      "specification_options": [
+        "350 mL",
+        "Refill 500 mL"
+      ],
+      "name_zh": "净味小子（强力型）"
+    },
+    {
+      "id": "P003",
+      "sku_oem": "SHENHE-DISINFECT-SOL-350",
+      "name_en": "Disinfectant & Deodorizing Solution 350 mL",
+      "specification": "350 mL / bottle",
+      "line": "deodorizing_disinfection",
+      "category": "disinfection_odor_control",
+      "function_en": "Cleans and deodorizes surfaces; biocidal kill-rate claims are made only on markets where the product is registered, and the registration number is printed on the label",
+      "application": [
+        "Floors",
+        "Bedding",
+        "Living areas",
+        "Pet equipment"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [
+        "Disinfectant Licence"
+      ],
+      "msds_available": true,
+      "package": "12 bottles/carton",
+      "storage": "Cool, dry place below 25 °C, away from direct sunlight",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Chlorine Dioxide (ClO₂), Surfactant, Deionized Water",
+      "shelf_life_months": 18,
+      "carton_dimensions_cm": "L 35 × W 25 × H 22",
+      "carton_weight_kg": 7.2,
+      "hs_code": "3808.94",
+      "specification_options": [
+        "350 mL",
+        "Refill 500 mL"
+      ],
+      "name_zh": "消毒除味液"
+    },
+    {
+      "id": "P004",
+      "sku_oem": "SHENHE-CATCLEAN-350",
+      "name_en": "CatClean Antifungal & Deodorizing Solution 350 mL",
+      "specification": "350 mL / bottle",
+      "line": "deodorizing_disinfection",
+      "category": "disinfection_odor_control",
+      "function_en": "Antifungal + deodorizing; targets feline ringworm fungi (Trichophyton mentagrophytes, Microsporum canis)",
+      "application": [
+        "Cat bedding",
+        "Litter boxes",
+        "Feline skin lesions"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [
+        "Disinfectant Licence"
+      ],
+      "msds_available": true,
+      "package": "12 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Chlorine Dioxide (ClO₂), Surfactant, Sophora Flavescens Extract",
+      "shelf_life_months": 18,
+      "carton_dimensions_cm": "L 35 × W 25 × H 22",
+      "carton_weight_kg": 7.2,
+      "hs_code": "3808.94",
+      "specification_options": [
+        "350 mL"
+      ],
+      "name_zh": "猫立净"
+    },
+    {
+      "id": "P005",
+      "sku_oem": "SHENHE-EAR-CLEAN-100",
+      "name_en": "Pet Ear Cleansing Solution 100 mL",
+      "specification": "100 mL / bottle",
+      "line": "grooming_care",
+      "category": "disinfection_odor_control",
+      "function_en": "Gentle ear canal cleaning; dissolves ear wax; helps prevent ear mites",
+      "application": [
+        "Pet ear canal",
+        "Routine ear care"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "24 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Cocamidopropyl Betaine, Low-Concentration Tea Tree Oil, Deionized Water",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 30 × W 25 × H 20",
+      "carton_weight_kg": 4.5,
+      "hs_code": "3307.90",
+      "specification_options": [
+        "100 mL",
+        "PPT 250 mL reference"
+      ],
+      "name_zh": "宠物洁耳液"
+    },
+    {
+      "id": "P006",
+      "sku_oem": "SHENHE-PROBIO-DENTAL-150",
+      "name_en": "Probiotic Pet Dental Water 150 mL",
+      "specification": "150 mL / bottle",
+      "line": "grooming_care",
+      "category": "disinfection_odor_control",
+      "function_en": "Add to drinking water; balances oral flora; reduces plaque and bad breath",
+      "application": [
+        "Pet drinking water",
+        "Daily oral care"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "24 bottles/carton",
+      "storage": "Refrigerate after opening",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Probiotics (Lactobacillus), Mint Extract, Deionized Water",
+      "shelf_life_months": 18,
+      "carton_dimensions_cm": "L 30 × W 25 × H 20",
+      "carton_weight_kg": 5,
+      "hs_code": "3306.90",
+      "specification_options": [
+        "150 mL",
+        "PPT 300 mL reference"
+      ],
+      "name_zh": "益生菌宠物洁齿水"
+    },
+    {
+      "id": "P007",
+      "sku_oem": "SHENHE-LITTER-POWDER-500",
+      "name_en": "Cat Litter Partner — Deodorizing Powder 500 g",
+      "specification": "500 g / pack",
+      "line": "deodorizing_disinfection",
+      "category": "disinfection_odor_control",
+      "function_en": "Absorbs and decomposes litter box odor; accelerates clumping; extends litter life",
+      "application": [
+        "Cat litter boxes"
+      ],
+      "moq": 2000,
+      "moq_unit": "packs",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "24 packs/carton",
+      "storage": "Cool, dry place",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Sodium Bicarbonate, Silicon Dioxide, Bio-Enzyme, Plant Extracts",
+      "shelf_life_months": 36,
+      "carton_dimensions_cm": "L 40 × W 30 × H 25",
+      "carton_weight_kg": 13.5,
+      "hs_code": "3824.99",
+      "specification_options": [
+        "500 g",
+        "300 g"
+      ],
+      "name_zh": "猫砂伙伴（500 g）"
+    },
+    {
+      "id": "P008",
+      "sku_oem": "SHENHE-LITTER-POWDER-300",
+      "name_en": "Cat Litter Partner — Deodorizing Powder 300 g",
+      "specification": "300 g / pack",
+      "line": "deodorizing_disinfection",
+      "category": "disinfection_odor_control",
+      "function_en": "Absorbs and decomposes litter box odor; accelerates clumping; extends litter life",
+      "application": [
+        "Cat litter boxes"
+      ],
+      "moq": 2000,
+      "moq_unit": "packs",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "36 packs/carton",
+      "storage": "Cool, dry place",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Sodium Bicarbonate, Silicon Dioxide, Bio-Enzyme, Plant Extracts",
+      "shelf_life_months": 36,
+      "carton_dimensions_cm": "L 40 × W 30 × H 30",
+      "carton_weight_kg": 11.5,
+      "hs_code": "3824.99",
+      "specification_options": [
+        "300 g"
+      ],
+      "name_zh": "猫砂伙伴（300 g）"
+    },
+    {
+      "id": "P009",
+      "sku_oem": "SHENHE-SPRAY-GUN-KIT",
+      "name_en": "Pet Deodorizing Spray Gun Kit 220 mL × 2 bottles + 1 spray gun",
+      "specification": "220 mL × 2 bottles + 1 spray gun",
+      "line": "deodorizing_disinfection",
+      "category": "disinfection_odor_control",
+      "function_en": "Bundle: convenient refill-and-spray format for end-consumers",
+      "application": [
+        "Retail bundle",
+        "Pet households"
+      ],
+      "moq": 1000,
+      "moq_unit": "sets",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [
+        "Disinfectant Licence"
+      ],
+      "msds_available": true,
+      "package": "6 sets/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Kit: Power Odor Eliminator 220 mL × 2 + spray gun",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 50 × W 35 × H 30",
+      "carton_weight_kg": 9.8,
+      "hs_code": "3401.19",
+      "specification_options": [
+        "220 mL × 2"
+      ],
+      "name_zh": "除臭喷雾枪套装"
+    },
+    {
+      "id": "P010",
+      "sku_oem": "SHENHE-MULTIWASH-300",
+      "name_en": "Multi-Purpose Pet Wash 300 mL",
+      "specification": "300 mL / bottle",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Multi-purpose wash; gentle cleansing + antibacterial",
+      "application": [
+        "Pet body",
+        "Routine bath"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "12 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Cocamidopropyl Betaine, Camellia Seed Extract, Nano Silver Ions",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 35 × W 25 × H 22",
+      "carton_weight_kg": 6.5,
+      "hs_code": "3307.10",
+      "specification_options": [
+        "300 mL",
+        "200 mL"
+      ],
+      "name_zh": "多效洗护液（300 mL）"
+    },
+    {
+      "id": "P011",
+      "sku_oem": "SHENHE-MULTIWASH-200",
+      "name_en": "Multi-Purpose Pet Wash 200 mL",
+      "specification": "200 mL / bottle",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Multi-purpose wash; gentle cleansing + antibacterial",
+      "application": [
+        "Pet body",
+        "Routine bath"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "24 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Cocamidopropyl Betaine, Camellia Seed Extract, Nano Silver Ions",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 35 × W 25 × H 22",
+      "carton_weight_kg": 5.5,
+      "hs_code": "3307.10",
+      "specification_options": [
+        "200 mL"
+      ],
+      "name_zh": "多效洗护液（200 mL）"
+    },
+    {
+      "id": "P012",
+      "sku_oem": "SHENHE-SHAMPOO-500",
+      "name_en": "Pet Shampoo for Cats or Dogs 500 mL",
+      "specification": "500 mL / bottle",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Gentle cleansing + conditioning; cat & dog safe",
+      "application": [
+        "Pet body",
+        "Regular bath"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "12 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Camellia Seed Extract, Cocamidopropyl Betaine, Silk Protein",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 38 × W 28 × H 25",
+      "carton_weight_kg": 8,
+      "hs_code": "3307.10",
+      "specification_options": [
+        "500 mL"
+      ],
+      "name_zh": "宠物沐浴露（500 mL）"
+    },
+    {
+      "id": "P013",
+      "sku_oem": "SHENHE-SHAMPOO-MITE-300",
+      "name_en": "Pet Shampoo — Antibacterial · Mite Control 300 mL",
+      "specification": "300 mL / bottle",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Antibacterial + mite control; targets common pet mites and bacterial infections",
+      "application": [
+        "Pet body",
+        "Skin problem relief"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "12 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Stemona Root Extract, Sophora Flavescens Extract, Mugwort Extract",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 35 × W 25 × H 22",
+      "carton_weight_kg": 6.8,
+      "hs_code": "3307.10",
+      "specification_options": [
+        "300 mL"
+      ],
+      "name_zh": "宠物沐浴露（除螨抗菌）"
+    },
+    {
+      "id": "P014",
+      "sku_oem": "SHENHE-NORINSE-FOAM-500",
+      "name_en": "No-Rinse Pet Cleansing Foam 500 mL",
+      "specification": "500 mL / bottle",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Waterless cleansing foam; convenient spot-clean for pets",
+      "application": [
+        "Pet paws",
+        "Local cleaning",
+        "Travel"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "12 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Cocamidopropyl Betaine, Camellia Seed Extract",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 38 × W 28 × H 25",
+      "carton_weight_kg": 7.5,
+      "hs_code": "3307.10",
+      "specification_options": [
+        "500 mL",
+        "300 mL"
+      ],
+      "name_zh": "宠物免洗泡沫（500 mL）"
+    },
+    {
+      "id": "P015",
+      "sku_oem": "SHENHE-NORINSE-FOAM-300",
+      "name_en": "No-Rinse Pet Cleansing Foam 300 mL",
+      "specification": "300 mL / bottle",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Waterless cleansing foam; convenient spot-clean for pets",
+      "application": [
+        "Pet paws",
+        "Local cleaning",
+        "Travel"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "12 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Cocamidopropyl Betaine, Camellia Seed Extract",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 35 × W 25 × H 22",
+      "carton_weight_kg": 5.5,
+      "hs_code": "3307.10",
+      "specification_options": [
+        "300 mL"
+      ],
+      "name_zh": "宠物免洗泡沫（300 mL）"
+    },
+    {
+      "id": "P016",
+      "sku_oem": "SHENHE-PAW-FOAM-200",
+      "name_en": "Pet Paw Cleansing Foam 200 mL",
+      "specification": "200 mL / bottle",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Cleans pet paws before/after walks",
+      "application": [
+        "Pet paws",
+        "Outdoor walks"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "24 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Cocamidopropyl Betaine, Camellia Seed Extract",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 35 × W 25 × H 22",
+      "carton_weight_kg": 5.5,
+      "hs_code": "3307.10",
+      "specification_options": [
+        "200 mL",
+        "PPT 250 mL reference"
+      ],
+      "name_zh": "宠物洁足泡沫"
+    },
+    {
+      "id": "P017",
+      "sku_oem": "SHENHE-LAUNDRY-1.5KG",
+      "name_en": "Laundry Detergent for Pet Households 1.5 kg",
+      "specification": "1.5 kg / bottle",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Laundry detergent specifically formulated for pet hair and pet odors",
+      "application": [
+        "Pet bedding",
+        "Pet clothing",
+        "Household laundry"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "6 bottles/carton",
+      "storage": "Cool, dry place",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Bio-Enzyme, Surfactant, Plant Extracts",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 35 × W 28 × H 30",
+      "carton_weight_kg": 10.5,
+      "hs_code": "3402.20",
+      "specification_options": [
+        "1.5 kg"
+      ],
+      "name_zh": "养宠家庭洗衣液"
+    },
+    {
+      "id": "P018",
+      "sku_oem": "SHENHE-PAW-MOISTURE-10G",
+      "name_en": "Pet Paw Moisturizing Gel 10 g",
+      "specification": "10 g / sachet",
+      "line": "grooming_care",
+      "category": "cleansing_grooming",
+      "function_en": "Moisturizes and repairs pet paw pads",
+      "application": [
+        "Pet paw pads",
+        "Cracked paw care"
+      ],
+      "moq": 2000,
+      "moq_unit": "sachets",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "100 sachets/carton",
+      "storage": "Cool, dry place",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Camellia Seed Extract, Aloe Vera Extract, Glycerin",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 30 × W 25 × H 20",
+      "carton_weight_kg": 2.5,
+      "hs_code": "3307.90",
+      "specification_options": [
+        "10 g sachet"
+      ],
+      "name_zh": "宠物润脚凝露"
+    },
+    {
+      "id": "P019",
+      "sku_oem": "SHENHE-OUTDOOR-PROTECT-80",
+      "name_en": "Outdoor Protection Spray for Pets 80 mL",
+      "specification": "80 mL / bottle",
+      "line": "outdoor_protection",
+      "category": "outdoor_protection",
+      "function_en": "Repels insects during outdoor activities",
+      "application": [
+        "Pet coat",
+        "Outdoor walks",
+        "Hiking"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "48 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Plant Extracts, Citronella Essential Oil, Mugwort Essential Oil",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 30 × W 25 × H 20",
+      "carton_weight_kg": 6,
+      "hs_code": "3307.90",
+      "specification_options": [
+        "80 mL"
+      ],
+      "name_zh": "宠物户外防护喷雾"
+    },
+    {
+      "id": "P020",
+      "sku_oem": "SHENHE-OUTDOOR-REPELLENT-80",
+      "name_en": "Outdoor Insect Repellent Spray 80 mL",
+      "specification": "80 mL / bottle",
+      "line": "outdoor_protection",
+      "category": "outdoor_protection",
+      "function_en": "Repels mosquitoes and insects during outdoor activities",
+      "application": [
+        "Pet coat",
+        "Outdoor walks",
+        "Hiking"
+      ],
+      "moq": 2000,
+      "moq_unit": "bottles",
+      "lead_time_days_stock": "7-15",
+      "certifications_required": [],
+      "msds_available": true,
+      "package": "48 bottles/carton",
+      "storage": "Cool, dry place below 25 °C",
+      "lead_time_days_oem": "25-40",
+      "ingredients_en": "Citronella Essential Oil, Mugwort Essential Oil, Sophora Flavescens Extract",
+      "shelf_life_months": 24,
+      "carton_dimensions_cm": "L 30 × W 25 × H 20",
+      "carton_weight_kg": 6,
+      "hs_code": "3307.90",
+      "specification_options": [
+        "80 mL"
+      ],
+      "name_zh": "户外防护防叮喷雾"
+    }
+  ]
+}

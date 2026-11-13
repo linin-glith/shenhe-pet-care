@@ -1,0 +1,28 @@
+{
+  "site": "https://shenhezhongke.com",
+  "legalName": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+  "brand": "SHENHE ZHONGKE",
+  "languages": [
+    "en"
+  ],
+  "published": "2026-11-13",
+  "generator": "scripts/gen-agent-skills.mjs",
+  "agentSkills": [
+    "shenhe-sourcing",
+    "shenhe-private-label-process",
+    "shenhe-compliance-docs",
+    "shenhe-rfq-helper"
+  ],
+  "endpoints": [
+    "/api/health",
+    "/api/inquiries",
+    "/api/inquiries/track"
+  ],
+  "readingLists": [
+    "/llms.txt",
+    "/llms-full.txt",
+    "/llms-full.json",
+    "/faq.json",
+    "/product-feed.json"
+  ]
+}

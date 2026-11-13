@@ -1,0 +1,53 @@
+/* =============================================================
+   14. BACK TO TOP
+   The one control every long page is missing: a way back to the
+   header without scrolling a whole catalogue back up.
+   ============================================================= */
+.to-top {
+  position: fixed;
+  right: 1.25rem;
+  /* Slot 1 of the bottom-right corner. The slots are declared in
+     design-system.css; the conversion rail shifts the whole stack up by one
+     slot when it comes up. */
+  bottom: calc(var(--v2-float-slot-1) + var(--v2-float-shift, 0rem));
+  z-index: 61;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: rgb(255 255 255 / 0.94);
+  border: 1px solid var(--v2-ink-200);
+  box-shadow: 0 10px 26px -14px rgb(11 15 18 / 0.4);
+  color: var(--v2-ink-700);
+  opacity: 0;
+  transform: translateY(0.75rem);
+  pointer-events: none;
+  transition: opacity 220ms ease, transform 220ms cubic-bezier(0.16, 1, 0.3, 1),
+    background-color 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+.to-top--in {
+  opacity: 1;
+  transform: none;
+  pointer-events: auto;
+}
+.to-top:hover {
+  background: var(--v2-accent-600);
+  border-color: var(--v2-accent-600);
+  color: #fff;
+}
+.to-top:focus-visible {
+  outline: 2px solid var(--v2-accent-600);
+  outline-offset: 2px;
+}
+
+/* The conversion dock is a full-width strip on the bottom edge. The whole
+   floating stack moves up by one slot when it is up, so the button sits ON
+   the rail rather than under it - and never on another control. */
+@media (max-width: 640px) {
+  .to-top { right: 0.875rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .to-top { transition: none; }
+}

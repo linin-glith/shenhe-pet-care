@@ -1,0 +1,114 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# The tarball the server deploy takes. It is the build, repacked for the
+# wire -- 77 MB of the same bytes /out/ already holds, and it is thrown
+# away the moment the deploy has run.
+out.tar.gz
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Phase 0 repair backups �� original state is preserved in git history
+*.bak
+
+# The api's own directory. Its code is committed - the api is the
+# production code and it belongs in version control - but its secrets
+# do not.
+server-pg/.env
+server-pg/node_modules/
+server-pg/*.broken
+server-pg/*.bak
+
+# --- generated artefacts, not source -------------------------------------
+# The local development database. The rows are rebuilt by the seed scripts
+# (scripts/seed_demo_buyer.py, scripts/seed_order_book.py); these files
+# are runtime state, and the WAL is four megabytes of transaction log that
+# changes on every test run.
+server/data/*.db-wal
+server/data/*.db-shm
+
+# The keyword board is written by scripts/keyword_board.py -- 2.3 MB of
+# generated JSON that changed on every board run.
+content/v2/keyword-board.json
+
+# The link audit is written by scripts/audit_links.py.
+scripts/link-audit.json
+
+# The TypeScript incremental build state.
+tsconfig.tsbuildinfo
+
+# Python bytecode caches. The rehearsal imports the script it rehearses, so
+# running it leaves a __pycache__ behind.
+__pycache__/
+*.pyc
+
+# A version of a version.
+# The variant generator used to make smaller copies of its own smaller
+# copies, and the names grew "-w1440-w960-w480-w240-w120". Nothing asks
+# for those pictures, so they are not tracked. The generator skips its
+# own output now; this keeps the old ones out of the repository and out
+# of the deployed site.
+public/**/*-w[0-9]*-w[0-9]*.webp
+public/**/*-w[0-9]*-w[0-9]*.png
+public/**/*-w[0-9]*-w[0-9]*.jpg
+
+# The deploy archives. Each one is a copy of the build, about 90 MB, and the
+# deploy throws them away when it is done. Nine of them were tracked: 804 MB
+# of build output in a repository that holds the source.
+*.tar.gz
+
+# The local database. It is runtime state - the staff accounts, the session
+# rows and the quote book - and the seed scripts rebuild it. The -wal and
+# -shm files were already ignored; the database itself was not.
+server/data/*.db
+
+# The prospecting lists. 450 companies with their email addresses and phone
+# numbers: other people's contact details, and our own outreach list. The
+# scripts write them; they are not source.
+docs/prospecting/
+
+# The upload artifacts are not the source. The source is the build:
+#   npm run build && node scripts/check-build.mjs
+# The tar is made from out/ at deploy time and lives on the server.
+deploy-*.tar.gz
+
+# the publishing script's own lists
+scripts/publish/publish_keep.txt
+scripts/publish/publish_remove.txt

@@ -1,0 +1,205 @@
+{
+  "source": "factory.html",
+  "slug": "factory",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Care Factory China | 30,000m² GMP in Heyuan",
+    "description": "A 30,000 m2 pet care park in Heyuan, China: 5,000 m2 GMP workshop, six filling lines, 220 people, 1,000,000 bottles a month, 1.2% reject rate.",
+    "canonical": "https://shenhezhongke.com/factory.html",
+    "ogTitle": "Pet Care Factory China | 30,000m² GMP in Heyuan",
+    "ogDescription": "A 30,000 m2 pet care park in Heyuan, China: 5,000 m2 GMP workshop, six filling lines, 220 people, 1,000,000 bottles a month, 1.2% reject rate.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": null,
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd. — Heyuan Factory",
+        "@id": "https://shenhezhongke.com/factory.html",
+        "url": "https://shenhezhongke.com/factory.html",
+        "image": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+        "description": "30,000 m² self-owned industrial park in Heyuan, Guangdong. 5,000 m² GMP workshop with class-D cleanroom filling line. 1,000,000 bottles monthly capacity.",
+        "telephone": "+86-762-3909998",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "No.141-1 Longteng Road, Gaopugang",
+          "addressLocality": "Heyuan",
+          "addressRegion": "Guangdong",
+          "postalCode": "517000",
+          "addressCountry": "CN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 23.7333,
+          "longitude": 114.7
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "opens": "09:00",
+            "closes": "18:00"
+          }
+        ],
+        "areaServed": "Worldwide",
+        "providesService": [
+          {
+            "@type": "Service",
+            "name": "Contract Manufacturing",
+            "description": "OEM / ODM / OBM cooperation models"
+          },
+          {
+            "@type": "Service",
+            "name": "Custom Formulation",
+            "description": "Bio-enzyme, probiotic, plant-extract formulations"
+          },
+          {
+            "@type": "Service",
+            "name": "Bottle Filling & Packaging",
+            "description": "Class-D cleanroom, 1,000,000 bottles/month"
+          }
+        ]
+      }
+    ],
+    "hasGtm": true
+  },
+  "blocks": [
+    {
+      "classes": "pp-hero-simple",
+      "bg": "plain",
+      "type": "heroSimple",
+      "content": {
+        "title": "A 30,000m² industrial park built to OEM/ODM standards — not a contract kitchen",
+        "titleAccent": null,
+        "eyebrow": "Factory tour",
+        "lead": "5,000m² GMP workshop, class-D cleanroom filling lines, on-site QC lab, and 1,000,000 bottles of monthly capacity. Walk the park, audit the process, and ship from the dock you visited.",
+        "actions": [
+          {
+            "href": "/contact.html?topic=visit",
+            "label": "Book a Factory Visit",
+            "variant": "primary"
+          },
+          {
+            "href": "/assets/img/factory/factory-exterior-1344x768.png",
+            "label": "View Park Photo",
+            "variant": "ghost"
+          }
+        ],
+        "stats": [],
+        "panels": [],
+        "image": null,
+        "html": null
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "richtext",
+      "content": {
+        "html": "<section class=\"pp-section\" style=\"padding-top: 0;\">\n      <div class=\"pp-container\">\n        <figure style=\"margin: 0; border-radius: var(--pp-radius-xl); overflow: hidden; box-shadow: 0 12px 32px rgba(15, 23, 42, 0.12);\">\n          <img src=\"/assets/img/factory/factory-exterior-1344x768.png\" alt=\"SHENHE ZHONGKE industrial park aerial view — Heyuan, Guangdong\" loading=\"lazy\" style=\"width: 100%; height: auto; display: block;\">\n        </figure>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Three connected blocks, one integrated supply chain",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title pp-text-center\" >\n          <span class=\"pp-eyebrow\">The facility</span>\n          <h2>Three connected blocks, one integrated supply chain</h2>\n        </div>\n        <div class=\"pp-grid pp-grid--3 pp-mt-8\" >\n          <div class=\"pp-feature-card pp-feature-card--featured\">\n            <div class=\"pp-feature-card__icon pp-feature-card__icon--gradient\"><svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-building/\"></svg></div>\n            <h3>30,000 m² industrial park</h3>\n            <p  class=\"pp-prose\">Self-owned land in Heyuan, Guangdong — no third-party lease risk. Park includes production, warehouse, dormitory, and wastewater treatment on a single secured site.</p>\n            <div class=\"pp-feature-card__meta\"><strong>3 buildings</strong><span>·</span><span>Self-owned land</span></div>\n          </div>\n          <div class=\"pp-feature-card\">\n            <div class=\"pp-feature-card__icon pp-feature-card__icon--gradient\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z\"/></svg></div>\n            <h3>5,000 m² GMP workshop</h3>\n            <p  class=\"pp-prose\">ISO 22716 GMP-aligned with class-D cleanroom filling, purified water system, and a dedicated chlorine-dioxide suite. Photographed during your audit visit.</p>\n            <div class=\"pp-feature-card__meta\"><strong>Class-D cleanroom</strong><span>·</span><span>ISO 22716</span></div>\n          </div>\n          <div class=\"pp-feature-card\">\n            <div class=\"pp-feature-card__icon pp-feature-card__icon--gradient\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"/><polyline points=\"9 22 9 12 15 12 15 22\"/></svg></div>\n            <h3>3,000 m² office building</h3>\n            <p  class=\"pp-prose\">Houses sales, customer service, regulatory, finance, and the R&amp;D documentation team. English-speaking account managers work from this building.</p>\n            <div class=\"pp-feature-card__meta\"><strong>220+ staff</strong><span>·</span><span>EN support</span></div>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Six integrated lines from raw material to packed carton",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title pp-text-center\" >\n          <span class=\"pp-eyebrow\">Production lines</span>\n          <h2>Six integrated lines from raw material to packed carton</h2>\n          <p  class=\"pp-lead-narrow\">Six real photos below replace the placeholder diagrams. Save each JPEG at the target path shown in the slot — the dashed border is replaced by your photo automatically. Recommended 1200 × 800 px, landscape.</p>\n        </div>\n        <div class=\"pp-grid pp-grid--2 pp-mt-8\" >\n<h2>Six integrated lines from raw material to packed carton</h2>\n          <p  class=\"pp-lead-narrow\">Six real photos below replace the placeholder diagrams. Save each JPEG at the target path shown in the slot — the dashed border is replaced by your photo automatically. Recommended 1200 × 800 px, landscape.</p>\n        </div>\n        <div class=\"pp-grid pp-grid--3 pp-mt-8\" >\n          <article class=\"pp-photo-slot\" data-line=\"1\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/line-1-purified-water.jpg\" alt=\"Purified water system\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>Purified water system</strong>RO + EDI dual-stage unit, on-site generation, continuous conductivity monitor. Show tanks and the digital readout.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <div class=\"pp-line-num\">01</div>\n            <p class=\"pp-photo-label\">Purified water system</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/line-1-purified-water.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">RO + EDI dual-stage unit, on-site generation, continuous conductivity monitor. Show tanks and the digital readout.</p>\n          </article>\n          <article class=\"pp-photo-slot\" data-line=\"2\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/line-2-mixing-blending.jpg\" alt=\"Stainless mixing &amp; blending\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>Stainless mixing &amp; blending</strong>500L–2,000L jacketed vessels. Wide shot showing two or three vessels side-by-side, control panel visible.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <div class=\"pp-line-num\">02</div>\n            <p class=\"pp-photo-label\">Stainless mixing &amp; blending</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/line-2-mixing-blending.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">500L–2,000L jacketed vessels. Wide shot showing two or three vessels side-by-side, control panel visible.</p>\n          </article>\n          <article class=\"pp-photo-slot\" data-line=\"3\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/line-3-cleanroom-filling.jpg\" alt=\"Class-D cleanroom filling\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>Class-D cleanroom filling</strong>Peristaltic / piston fillers, 30 mL–1.5L format changeover. Wide-angle of the line, no faces required for privacy.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <div class=\"pp-line-num\">03</div>\n            <p class=\"pp-photo-label\">Class-D cleanroom filling</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/line-3-cleanroom-filling.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">Peristaltic / piston fillers, 30 mL–1.5L format changeover. Wide-angle of the line, no faces required for privacy.</p>\n          </article>\n          <article class=\"pp-photo-slot\" data-line=\"4\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/line-4-capping-sealing.jpg\" alt=\"Capping, sealing &amp; induction\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>Capping, sealing &amp; induction</strong>Screw cap / pump / sprayer head changeover, induction sealer, inline torque tester. Close-up of the head station preferred.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <div class=\"pp-line-num\">04</div>\n            <p class=\"pp-photo-label\">Capping, sealing &amp; induction</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/line-4-capping-sealing.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">Screw cap / pump / sprayer head changeover, induction sealer, inline torque tester. Close-up of the head station preferred.</p>\n          </article>\n          <article class=\"pp-photo-slot\" data-line=\"5\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/line-5-labeling-coding.jpg\" alt=\"Labeling &amp; coding\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>Labeling &amp; coding</strong>Auto-label applicator, inkjet batch + lot + expiry printer, barcode scanner. Show one labeled bottle clearly.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <div class=\"pp-line-num\">05</div>\n            <p class=\"pp-photo-label\">Labeling &amp; coding</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/line-5-labeling-coding.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">Auto-label applicator, inkjet batch + lot + expiry printer, barcode scanner. Show one labeled bottle clearly.</p>\n          </article>\n          <article class=\"pp-photo-slot\" data-line=\"6\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/line-6-carton-packing.jpg\" alt=\"Carton &amp; pallet packing\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>Carton &amp; pallet packing</strong>Shrink-wrap, inner box, master carton, ISPM-15 export pallet. Wide shot of one finished pallet preferred.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <div class=\"pp-line-num\">06</div>\n            <p class=\"pp-photo-label\">Carton &amp; pallet packing</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/line-6-carton-packing.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">Shrink-wrap, inner box, master carton, ISPM-15 export pallet. Wide shot of one finished pallet preferred.</p>\n          </article>\n\n        </div>\n        <p style=\"text-align: center; margin-top: var(--pp-space-6); color: var(--pp-ink-600); font-size: var(--pp-text-sm);\">Once you have the line photos uploaded, contact your account manager to bundle them with the GMP/QC/export photos into a video audit pack.</p>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Inside the workshop — photos from the floor",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title pp-text-center\" >\n          <span class=\"pp-eyebrow\">Photo gallery</span>\n          <h2>Inside the workshop — photos from the floor</h2>\n          <p  class=\"pp-lead-narrow\">The six process-line photos above (lines 01–06) plus the three environment photos below (GMP cleanroom, QC bench, export dock) make up the full nine-photo audit set. All slots use the same drop-in pattern.</p>p a JPEG at the target path, the slot becomes a real image automatically.</p>\n        </div>\n        <div class=\"pp-grid pp-grid--3 pp-mt-8\" >\n          <div class=\"pp-photo-slot\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/gmp-cleanroom-interior.jpg\" alt=\"GMP cleanroom interior\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>GMP cleanroom interior</strong>Wide-angle shot of the class-D cleanroom filling line with operators in full gowning. No faces required for privacy.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <p class=\"pp-photo-label\">GMP cleanroom interior</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/gmp-cleanroom-interior.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">Wide-angle shot of the class-D cleanroom filling line with operators in full gowning. No faces required for privacy.</p>\n          </div>\n          <div class=\"pp-photo-slot\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/qc-lab-bench.jpg\" alt=\"QC lab bench\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>QC lab bench</strong>Benchtop photo showing pH meter, viscometer, and stability chamber. Natural daylight from the side window.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <p class=\"pp-photo-label\">QC lab bench</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/qc-lab-bench.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">Benchtop photo showing pH meter, viscometer, and stability chamber. Natural daylight from the side window.</p>\n          </div>\n          <div class=\"pp-photo-slot\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/export-container-loading.jpg\" alt=\"Export container loading\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>Export container loading</strong>Outdoor shot of a 40' HQ container being loaded at the export dock with ISPM-15 pallets. Daylight preferred.</div>\n            <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n            <p class=\"pp-photo-label\">Export container loading</p>\n            <code class=\"pp-photo-filename\">assets/img/factory/export-container-loading.jpg</code>\n            <p class=\"pp-photo-size\">Recommended · 1200 × 800 px</p>\n            <p class=\"pp-photo-caption\">Outdoor shot of a 40' HQ container being loaded at the export dock with ISPM-15 pallets. Daylight preferred.</p>\n          </div>\n        </div>\n        <div style=\"background: var(--pp-amber-50, #fef3c7); border-left: 4px solid var(--pp-amber-500, #f59e0b); border-radius: var(--pp-radius-md); padding: var(--pp-space-4) var(--pp-space-5); margin-top: var(--pp-space-6); display: flex; gap: var(--pp-space-3); align-items: flex-start;\">\n          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#92400e\" stroke-width=\"2\" style=\"flex-shrink: 0; margin-top: 2px;\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><line x1=\"12\" y1=\"8\" x2=\"12\" y2=\"12\"/><line x1=\"12\" y1=\"16\" x2=\"12.01\" y2=\"16\"/></svg>\n          <div style=\"color: #78350f; font-size: var(--pp-text-sm); line-height: 1.6;\">\n            <strong>How to add a real photo:</strong> save the JPEG at the target path shown in each slot (e.g. <code style=\"background: rgba(146, 64, 14, 0.1); padding: 1px 6px; border-radius: 3px; font-size: 12px;\">assets/img/factory/gmp-cleanroom-interior.jpg</code>) and the dashed border is replaced by a real <code style=\"background: rgba(146, 64, 14, 0.1); padding: 1px 6px; border-radius: 3px; font-size: 12px;\">&lt;img&gt;</code> on next page load. Filenames are case-sensitive and the recommended ratio is 3:2.\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "From the workshop to the shipping container — under our roof",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--2\" style=\"gap: var(--pp-space-12); align-items: center;\">\n          <div>\n            <span class=\"pp-eyebrow\">Storage &amp; logistics</span>\n            <h2  class=\"pp-mt-2\">From the workshop to the shipping container — under our roof</h2>\n            <p  class=\"pp-prose-loose\">Finished goods move from the GMP workshop into a temperature-controlled warehouse within the same park. No third-party logistics partner, no handoff between buildings, no inventory that leaves our sight until it reaches your nominated forwarder.</p>\n            <ul style=\"list-style: none; padding: 0; margin-top: var(--pp-space-4);\">\n              <li  class=\"pp-list-item\"><span  class=\"pp-accent-text\">✓</span> <span><strong>Raw material warehouse</strong> — quarantined IQC area, segregated by batch and supplier.</span></li>\n              <li  class=\"pp-list-item\"><span  class=\"pp-accent-text\">✓</span> <span><strong>Finished goods warehouse</strong> — climate-monitored, FIFO-racked, lot-traceable from any pallet.</span></li>\n              <li  class=\"pp-list-item\"><span  class=\"pp-accent-text\">✓</span> <span><strong>Export dock</strong> — direct loading into 20' / 40' containers with ISPM-15 pallets and full export documentation.</span></li>\n              <li  class=\"pp-list-item\"><span  class=\"pp-accent-text\">✓</span> <span><strong>1,000,000 bottles / month</strong> — current capacity headroom, confirmed against the production schedule on each order.</span></li>\n            </ul>\n          </div>\n          <div>\n            <div class=\"pp-photo-slot\" style=\"aspect-ratio: 4/3; padding: var(--pp-space-6);\">\n          <img class=\"pp-photo-img\" src=\"/assets/img/factory/warehouse-export-dock.jpg\" alt=\"Warehouse &amp; export dock\" loading=\"lazy\" onerror=\"this.style.display='none'\">\n          <div class=\"pp-photo-overlay\"><strong>Warehouse &amp; export dock</strong>Wide shot of finished pallets staged at the export dock, 40′ HQ container loading, ISPM-15 pallets visible.</div>\n              <div class=\"pp-photo-icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg></div>\n              <p class=\"pp-photo-label\">Warehouse &amp; export dock</p>\n              <code class=\"pp-photo-filename\">assets/img/factory/warehouse-export-dock.jpg</code>\n              <p class=\"pp-photo-size\">Recommended · 1600 × 1200 px</p>\n              <p class=\"pp-photo-caption\">Wide shot of finished pallets staged at the export dock, 40′ HQ container loading, ISPM-15 pallets visible.</p>\n            </div>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Every certification below is audit-ready, not paper-deep",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n      <div class=\"pp-container\">\n        <span class=\"pp-eyebrow\">Compliance built into the building</span>\n        <h2  class=\"pp-mt-2\">Every certification below is audit-ready, not paper-deep</h2>\n        <p style=\"max-width: 720px; margin: var(--pp-space-3) auto var(--pp-space-6); color: var(--pp-ink-600);\">Each certificate can be verified on-site during your visit, or via the digital audit pack. Click any pill for the certificate PDF and scope details.</p>\n        <div style=\"display: flex; gap: var(--pp-space-3); flex-wrap: wrap; justify-content: center; margin-bottom: var(--pp-space-4);\">\n          <a class=\"pp-cert-pill\" href=\"/assets/img/certs/Factory-Audit-Report-FM12662R01Da.pdf\" target=\"_blank\" rel=\"noopener\">\n            <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-check-circle/\"></svg>\n            Factory Audit · FM12662R01Da\n          </a>\n          <span class=\"pp-cert-pill\">\n            <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-check-circle/\"></svg>\n            FDA Registered Facility\n          </span>\n          <span class=\"pp-cert-pill\">\n            <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-check-circle/\"></svg>\n            ISO 22716 GMP (Cosmetic)\n          </span>\n          <span class=\"pp-cert-pill\">\n            <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-check-circle/\"></svg>\n            MSDS Compliant · all 20 SKUs\n          </span>\n          <span class=\"pp-cert-pill\">\n            <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-check-circle/\"></svg>\n            Cruelty-free Formulations\n          </span>\n          <a class=\"pp-cert-pill\" href=\"/certifications.html\" style=\"text-decoration: none;\">\n            <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-clock/\"></svg>\n            9 third-party lab reports\n          </a>\n        </div>\n        <p  class=\"pp-meta\">For facility audit reports and full certificate set, see the <a href=\"/certifications.html\"  class=\"pp-accent-bold\">Certifications page</a> or request a digital audit pack from your account manager.</p>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Come to the park — or audit from your desk",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title pp-text-center\" >\n          <span class=\"pp-eyebrow\">Visit &amp; audit</span>\n          <h2>Come to the park — or audit from your desk</h2>\n        </div>\n        <div class=\"pp-grid pp-grid--2 pp-mt-8\" >\n          <div class=\"pp-card\">\n            <h3 style=\"color: var(--pp-teal-700); display: flex; align-items: center; gap: 8px;\">\n              <svg width=\"24\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-map-pin/\"></svg>\n              In-person visit\n            </h3>\n            <p  class=\"pp-prose\">We welcome brand clients, regulatory consultants, and third-party auditors. A typical 2-day visit covers the park tour, formula review, QC lab walk, and commercial terms alignment.</p>\n            <ul style=\"list-style: none; padding: 0; margin-top: var(--pp-space-3); font-size: var(--pp-text-sm); color: var(--pp-ink-600);\">\n              <li  class=\"pp-list-item-tight\">• Pickup from Guangzhou Baiyun International Airport (CAN)</li>\n              <li  class=\"pp-list-item-tight\">• One-night hotel included for confirmed visits</li>\n              <li  class=\"pp-list-item-tight\">• Same-day NDA and sample kit available</li>\n            </ul>\n            <a class=\"pp-btn pp-btn--primary pp-mt-3\" href=\"/contact.html?topic=visit\" >Schedule a visit</a>\n          </div>\n          <div class=\"pp-card\">\n            <h3 style=\"color: var(--pp-teal-700); display: flex; align-items: center; gap: 8px;\">\n              <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><polygon points=\"23 7 16 12 23 17 23 7\"/><rect x=\"1\" y=\"5\" width=\"15\" height=\"14\" rx=\"2\"/></svg>\n              Remote / video audit\n            </h3>\n            <p  class=\"pp-prose\">Can't travel? We deliver a digital audit pack and run a live video walkthrough of every production stage, the QC lab, and the warehouse. Documents can be countersigned remotely via DocuSign.</p>\n            <ul style=\"list-style: none; padding: 0; margin-top: var(--pp-space-3); font-size: var(--pp-text-sm); color: var(--pp-ink-600);\">\n              <li  class=\"pp-list-item-tight\">• Pre-recorded 4K video audit (PDF + MP4)</li>\n              <li  class=\"pp-list-item-tight\">• Live video call with the QC manager</li>\n              <li  class=\"pp-list-item-tight\">• NDA, COA, and lab reports under counter-signed NDA</li>\n            </ul>\n            <a class=\"pp-btn pp-btn--secondary pp-mt-3\" href=\"/contact.html?topic=audit\" >Request video audit</a>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-cta-banner",
+      "bg": "plain",
+      "type": "cta",
+      "content": {
+        "title": "Walk the floor, then place the order",
+        "eyebrow": null,
+        "actions": [
+          {
+            "href": "/contact.html?topic=visit",
+            "label": "Book a Visit",
+            "variant": "primary"
+          },
+          {
+            "href": "/capabilities.html",
+            "label": "See R&D & QC",
+            "variant": "outlineWhite"
+          },
+          {
+            "href": "/about.html",
+            "label": "Company Overview",
+            "variant": "outlineWhite"
+          }
+        ],
+        "html": null,
+        "text": "Audit once. Ship for years. Reach the team, the lab, and the line that will produce your brand."
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 9,
+    "richtextFallback": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+ "source": "terms.html",
+ "slug": "terms",
+ "isPortal": false,
+ "head": {
+  "title": "Terms of Service · SHENHE ZHONGKE",
+  "description": "Terms of Service for SHENHE ZHONGKE B2B portal. Covers OEM/ODM engagement, quotations, payment terms, and which documents we issue. Read before ordering.",
+  "canonical": "https://shenhezhongke.com/terms.html",
+  "ogTitle": "Terms of Service · SHENHE ZHONGKE",
+  "ogDescription": "Terms of Service for SHENHE ZHONGKE B2B portal. Covers OEM/ODM engagement, quotation, intellectual property, and dispute resolution.",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": true
+ },
+ "blocks": [
+  {
+   "classes": "pp-section pp-section--sm",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": "1. Scope",
+    "sub": null,
+    "html": "<section class=\"pp-section pp-section--sm\">\n      <div class=\"pp-container pp-container--narrow\">\n        <h1>Terms of Service</h1>\n        <p style=\"color: var(--pp-ink-500); font-size: var(--pp-text-sm);\">Last updated: 2026-09-08</p>\n\n        <h2>1. Scope</h2>\n        <p>These terms govern your use of shenhezhongke.com and any commercial agreements with Guangdong Shenhe Zhongke Biotechnology Co., Ltd.</p>\n\n        <h2>2. Use of this website</h2>\n        <p>The site is for B2B information and enquiry. We do not sell direct to consumers. By submitting an enquiry, you confirm you are acting on behalf of a business.</p>\n\n        <h2>3. Commercial terms</h2>\n        <p>Pricing, MOQ, lead times, and payment terms listed on this site are indicative. A binding agreement requires a signed quotation and NDA. Default terms:</p>\n        <ul>\n          <li>35% T/T deposit + 65% balance before shipment (orders &lt; $30,000)</li>\n          <li>L/C at sight (orders ≥ $30,000)</li>\n          <li>FOB Guangzhou / Shenzhen</li>\n          <li>Private label (ODM — our formula, your label): 25–40 days from artwork approval</li>\n          <li>OEM (your own formula, made here): 30–45 days from formula approval</li>\n        </ul>\n\n        <h2>4. IP and confidentiality</h2>\n        <p>Customer formulas (OEM) remain 100% the property of the customer. We sign NDAs before discussing custom formulas. We do not reproduce, sell, or disclose customer formulas to third parties.</p>\n\n        <h2>5. Limitation of liability</h2>\n        <p>Lab reports and performance claims on this site come from third-party testing under controlled conditions. Actual results may vary by use, environment, and application. We publish reports in good faith.</p>\n\n        <h2>6. Governing law</h2>\n        <p>These terms are governed by the laws of the People's Republic of China. Disputes are subject to the jurisdiction of Guangzhou courts.</p>\n\n        <h2>7. Contact</h2>\n        <p>For questions: <a href=\"mailto:sales@shenhezhongke.com\">sales@shenhezhongke.com</a></p>\n      </div>\n    </section>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 1,
+  "richtextFallback": 0
+ }
+}

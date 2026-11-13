@@ -1,0 +1,41 @@
+{
+ "source": "portal/register.html",
+ "slug": "portal__register",
+ "isPortal": true,
+ "head": {
+  "title": "Create account · SHENHE ZHONGKE portal",
+  "description": null,
+  "canonical": null,
+  "ogTitle": "Create account · SHENHE ZHONGKE portal",
+  "ogDescription": "Create account · SHENHE ZHONGKE portal",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": false
+ },
+ "blocks": [
+  {
+   "classes": "",
+   "bg": "plain",
+   "type": "richtext",
+   "content": {
+    "html": "<header id=\"pz-topbar\"></header>"
+   }
+  },
+  {
+   "type": "richtext",
+   "classes": "",
+   "bg": "plain",
+   "content": {
+    "html": "<main class=\"pz-shell pz-shell--narrow pz-section\">\n    <span class=\"pz-eyebrow\">Customer portal</span>\n    <h1 data-i18n=\"registerTitle\">Create your B2B account</h1>\n    <p class=\"pz-lead\" data-i18n=\"registerSubtitle\">Use the email you sent your inquiry from — we will link it automatically.</p>\n\n    <form id=\"register-form\" class=\"pz-card\" novalidate>\n      <div id=\"form-msg\"></div>\n      <div class=\"pz-form__row\">\n        <div class=\"pz-form__field\">\n          <label class=\"pz-form__label\" for=\"email\" data-i18n=\"emailLabel\">Email <span class=\"req\">*</span></label>\n          <input class=\"pz-form__input\" type=\"email\" id=\"email\" name=\"email\" required autocomplete=\"email\">\n        </div>\n        <div class=\"pz-form__field\">\n          <label class=\"pz-form__label\" for=\"password\" data-i18n=\"passwordLabel\">Password <span class=\"req\">*</span></label>\n          <input class=\"pz-form__input\" type=\"password\" id=\"password\" name=\"password\" required minlength=\"8\" autocomplete=\"new-password\">\n          <div class=\"pz-form__hint\" data-i18n=\"passwordHint\">At least 8 characters.</div>\n        </div>\n      </div>\n      <div class=\"pz-form__row\">\n        <div class=\"pz-form__field\">\n          <label class=\"pz-form__label\" for=\"company\" data-i18n=\"companyLabel\">Company</label>\n          <input class=\"pz-form__input\" type=\"text\" id=\"company\" name=\"company\" autocomplete=\"organization\">\n        </div>\n        <div class=\"pz-form__field\">\n          <label class=\"pz-form__label\" for=\"contact_name\" data-i18n=\"contactNameLabel\">Contact name</label>\n          <input class=\"pz-form__input\" type=\"text\" id=\"contact_name\" name=\"contact_name\" autocomplete=\"name\">\n        </div>\n      </div>\n      <div class=\"pz-form__field\">\n        <label class=\"pz-form__label\" for=\"country\" data-i18n=\"countryLabel\">Country / Region</label>\n        <input class=\"pz-form__input\" type=\"text\" id=\"country\" name=\"country\" autocomplete=\"country-name\">\n      </div>\n      <button class=\"pz-btn pz-btn--primary pz-btn--lg pz-btn--block\" type=\"submit\" data-i18n=\"register\">Create account</button>\n      <p style=\"text-align:center; margin-top:18px; font-size:14px;\">\n        <span data-i18n=\"haveAccount\">Already have an account?</span>\n        <a href=\"/portal/login.html\" data-i18n=\"signIn\">Sign in</a>\n      </p>\n    </form>\n  </main>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 2,
+  "richtextFallback": 2
+ }
+}

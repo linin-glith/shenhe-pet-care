@@ -1,0 +1,310 @@
+{
+  "$schema": "https://shenhezhongke.com/topic-cluster.schema.json",
+  "version": "2.0.0",
+  "updated": "2026-11-10",
+  "description": "Topic cluster map for AI search engines. Each cluster groups a hub page with its spoke pages, blog articles, evidence, and target queries. depthScore and breadthScore indicate the site's topical authority on a 0-1 scale.",
+  "clusters": [
+    {
+      "id": "pet-care-oem",
+      "name": "Pet Care OEM Manufacturing",
+      "description": "Contract manufacturing of pet care products: OEM (custom formula), ODM (private label), OBM (turnkey). Factory capabilities, certifications, processes, and trade compliance.",
+      "hubPage": "https://shenhezhongke.com/oem-odm.html",
+      "spokePages": [
+        "https://shenhezhongke.com/factory.html",
+        "https://shenhezhongke.com/capabilities.html",
+        "https://shenhezhongke.com/certifications.html",
+        "https://shenhezhongke.com/trade-compliance.html",
+        "https://shenhezhongke.com/global-compliance.html",
+        "https://shenhezhongke.com/why-us.html",
+        "https://shenhezhongke.com/standards.html"
+      ],
+      "blogSpokes": [
+        "https://shenhezhongke.com/blog/sourcing/how-to-choose-a-pet-care-oem-manufacturer-in-china.html",
+        "https://shenhezhongke.com/blog/sourcing/pet-groomer-bulk-supply.html",
+        "https://shenhezhongke.com/blog/sourcing/pet-salon-shampoo-wholesale.html",
+        "https://shenhezhongke.com/blog/sourcing/shelter-and-rescue-pet-wash.html"
+      ],
+      "targetQueries": [
+        "pet care OEM manufacturer China",
+        "private label pet products factory",
+        "pet shampoo contract manufacturing",
+        "pet product ODM supplier Guangdong",
+        "ISO 22716 GMP pet care factory",
+        "how to choose a pet care OEM manufacturer",
+        "pet care OEM MOQ China",
+        "pet product OEM vs ODM"
+      ],
+      "evidence": [
+        "FDA facility registration",
+        "ISO 22716 GMP certificate",
+        "粤卫消证字[2023]-07-第0002号 (Guangdong Sanitation Disinfection Product License)",
+        "粤饲添(2023)H07002 (Feed Additive License)",
+        "PICC product liability insurance USD 1M/5M"
+      ],
+      "depthScore": 0.85,
+      "breadthScore": 0.75,
+      "depthScoreNote": "7 spoke pages + 4 blog articles = 11 supporting pages",
+      "breadthScoreNote": "6 distinct subtopics: cooperation models, factory, capabilities, certifications, compliance, why-us"
+    },
+    {
+      "id": "pet-deodorizing",
+      "name": "Pet Deodorizing & Disinfecting Technology",
+      "description": "Enzyme-based and chlorine-dioxide deodorizing and disinfecting products for pets. Ammonia removal, hydrogen sulfide removal, antifungal formulations, and cat litter deodorizing.",
+      "hubPage": "https://shenhezhongke.com/products/deodorizing-disinfecting.html",
+      "spokePages": [
+        "https://shenhezhongke.com/products/pet-deodorizing-spray.html",
+        "https://shenhezhongke.com/products/pet-disinfectant-deodorizing-solution.html",
+        "https://shenhezhongke.com/products/odor-control-set.html",
+        "https://shenhezhongke.com/products/cat-ringworm-spray.html",
+        "https://shenhezhongke.com/products/cat-litter-companion.html",
+        "https://shenhezhongke.com/products/cat-litter-partner-300.html",
+        "https://shenhezhongke.com/products/pet-deodorizing-spray-gun-kit.html"
+      ],
+      "blogSpokes": [
+        "https://shenhezhongke.com/blog/pet-care-notes/why-does-cat-litter-smell.html"
+      ],
+      "evidence": [
+        {
+          "type": "lab_report",
+          "id": "NACCYH25014722",
+          "finding": "94.2% ammonia removal",
+          "supportsProducts": ["P001", "P002"]
+        },
+        {
+          "type": "lab_report",
+          "id": "NACCYH25014721",
+          "finding": "93.3% hydrogen sulfide removal",
+          "supportsProducts": ["P002"]
+        },
+        {
+          "type": "lab_report",
+          "id": "NACCYH25007027",
+          "finding": "96.6% ammonia removal (cat litter deodorizer)",
+          "supportsProducts": ["P007", "P008"]
+        },
+        {
+          "type": "lab_report",
+          "id": "2024FM11611R02D",
+          "finding": "Acute oral toxicity safety assessment",
+          "supportsProducts": ["P002"]
+        },
+        {
+          "type": "lab_report",
+          "id": "2024FM11610R01D",
+          "finding": "99.9999% bactericidal and fungicidal kill rate",
+          "supportsProducts": ["P003"]
+        },
+        {
+          "type": "lab_report",
+          "id": "2024FM12662R01Da",
+          "finding": "99.999% kill rate against Trichophyton mentagrophytes and Candida albicans",
+          "supportsProducts": ["P004"]
+        },
+        {
+          "type": "lab_report",
+          "id": "XJ2025001233",
+          "finding": "Available chlorine 130 mg/L, 14.6% fall after 14 days at 54°C",
+          "supportsProducts": ["P003"]
+        }
+      ],
+      "targetQueries": [
+        "OEM pet deodorizing spray",
+        "pet odor eliminator manufacturer",
+        "enzyme pet deodorizer OEM",
+        "cat litter deodorizer supplier",
+        "private label pet disinfectant",
+        "pet deodorizing spray 350 mL bulk",
+        "chlorine dioxide pet disinfectant manufacturer",
+        "cat ringworm antifungal spray OEM"
+      ],
+      "depthScore": 0.90,
+      "breadthScore": 0.80,
+      "depthScoreNote": "7 spoke pages + 1 blog article + 7 lab reports = 15 supporting items",
+      "breadthScoreNote": "6 distinct subtopics: deodorizing spray, disinfectant, odor control set, antifungal, cat litter deodorizer, spray gun kit"
+    },
+    {
+      "id": "pet-grooming",
+      "name": "Pet Grooming & Cleansing Products",
+      "description": "Pet shampoo, waterless cleansing foam, paw care, ear care, dental care, and laundry detergent for pet households. Antibacterial, mite control, and conditioning formulations.",
+      "hubPage": "https://shenhezhongke.com/products/grooming-care.html",
+      "spokePages": [
+        "https://shenhezhongke.com/products/pet-shampoo-antibacterial-500.html",
+        "https://shenhezhongke.com/products/pet-shampoo-antibacterial-300.html",
+        "https://shenhezhongke.com/products/multi-purpose-pet-wash-300.html",
+        "https://shenhezhongke.com/products/multi-purpose-pet-wash-200.html",
+        "https://shenhezhongke.com/products/waterless-cleansing-foam-500.html",
+        "https://shenhezhongke.com/products/pet-waterless-cleaning-foam.html",
+        "https://shenhezhongke.com/products/pet-paw-cleaning-foam.html",
+        "https://shenhezhongke.com/products/pet-paw-moisturizing-gel.html",
+        "https://shenhezhongke.com/products/ear-mite-cleaning-solution.html",
+        "https://shenhezhongke.com/products/probiotic-pet-tooth-cleaner.html",
+        "https://shenhezhongke.com/products/pet-household-laundry-detergent.html"
+      ],
+      "blogSpokes": [
+        "https://shenhezhongke.com/blog/howto/how-to-choose-a-pet-shampoo.html",
+        "https://shenhezhongke.com/blog/howto/pet-shampoo-ingredients-to-avoid.html",
+        "https://shenhezhongke.com/blog/howto/washing-a-cat-at-home.html",
+        "https://shenhezhongke.com/blog/howto/waterless-foam-or-wet-shampoo.html"
+      ],
+      "evidence": [
+        {
+          "type": "lab_report",
+          "id": "2024FM11612R01D",
+          "finding": "99.97% antibacterial inhibition rate (GB/T 27404)",
+          "supportsProducts": ["P010", "P011"]
+        },
+        {
+          "type": "lab_report",
+          "id": "2024FM11612R03D",
+          "finding": "100% mite control at 48 hours against Dermatophagoides farinae",
+          "supportsProducts": ["P013"]
+        },
+        {
+          "type": "lab_report",
+          "id": "2024FM11612R02D",
+          "finding": "Aerobic bacterial count below 10 CFU/g, thermotolerant coliforms absent; meets QB/T 4524-2013.",
+          "supportsProducts": ["P010", "P011", "P013"]
+        }
+      ],
+      "targetQueries": [
+        "OEM pet shampoo manufacturer",
+        "private label pet shampoo China",
+        "waterless pet shampoo OEM",
+        "dog shampoo supplier bulk",
+        "antibacterial pet shampoo manufacturer",
+        "pet ear cleaner supplier",
+        "pet paw care manufacturer",
+        "pet dental water OEM",
+        "no-rinse pet cleanser manufacturer",
+        "pet laundry detergent OEM"
+      ],
+      "depthScore": 0.95,
+      "breadthScore": 0.85,
+      "depthScoreNote": "11 spoke pages + 4 blog articles + 3 lab reports = 18 supporting items",
+      "breadthScoreNote": "7 distinct subtopics: shampoo, waterless foam, paw care, ear care, dental, mite control, laundry"
+    },
+    {
+      "id": "pet-outdoor-protection",
+      "name": "Pet Outdoor Protection",
+      "description": "Plant-based insect repellent and outdoor protection sprays for pets during walks, hikes, and outdoor activities.",
+      "hubPage": "https://shenhezhongke.com/products/outdoor-protection.html",
+      "spokePages": [
+        "https://shenhezhongke.com/products/outdoor-protection.html",
+        "https://shenhezhongke.com/products/outdoor-insect-repellent-spray.html"
+      ],
+      "blogSpokes": [],
+      "evidence": [],
+      "targetQueries": [
+        "OEM pet insect repellent",
+        "plant-based pet repellent manufacturer",
+        "outdoor pet spray supplier",
+        "mosquito repellent for dogs OEM"
+      ],
+      "depthScore": 0.50,
+      "breadthScore": 0.40,
+      "depthScoreNote": "2 spoke pages, 0 blog articles — gap identified, recommend adding 2-3 blog articles",
+      "breadthScoreNote": "2 distinct subtopics: general outdoor protection, insect repellent — thin coverage"
+    },
+    {
+      "id": "pet-nutrition",
+      "name": "Pet Nutrition & Supplements",
+      "description": "Probiotic digestive supplements and bovine colostrum IgG immune support for pets. Quoted per project, not catalogue SKUs.",
+      "hubPage": "https://shenhezhongke.com/products/pet-nutrition.html",
+      "spokePages": [
+        "https://shenhezhongke.com/products/pet-digestive-probiotics.html",
+        "https://shenhezhongke.com/products/pet-immunoglobulin.html"
+      ],
+      "blogSpokes": [
+        "https://shenhezhongke.com/blog/howto/blog-pet-nutrition-trends.html"
+      ],
+      "evidence": [],
+      "targetQueries": [
+        "OEM pet supplement manufacturer",
+        "pet probiotics bulk",
+        "pet nutrition products supplier",
+        "pet IgG supplement manufacturer",
+        "bovine colostrum IgG private label"
+      ],
+      "depthScore": 0.45,
+      "breadthScore": 0.35,
+      "depthScoreNote": "2 spoke pages + 1 blog article — gap identified, recommend adding lab reports and 2-3 more articles",
+      "breadthScoreNote": "2 distinct subtopics: probiotics, immunoglobulin — thin coverage"
+    },
+    {
+      "id": "trade-compliance",
+      "name": "Pet Product Trade & Regulatory Compliance",
+      "description": "Payment terms, Incoterms, FX policy, customs documentation, regulatory compliance for pet product imports from China. FDA, EU, UK, and other market regulations.",
+      "hubPage": "https://shenhezhongke.com/trade-compliance.html",
+      "spokePages": [
+        "https://shenhezhongke.com/global-compliance.html",
+        "https://shenhezhongke.com/standards.html",
+        "https://shenhezhongke.com/msds.html",
+        "https://shenhezhongke.com/faq.html",
+        "https://shenhezhongke.com/terms.html",
+        "https://shenhezhongke.com/data-license.html"
+      ],
+      "blogSpokes": [
+        "https://shenhezhongke.com/blog/sourcing/how-to-choose-a-pet-care-oem-manufacturer-in-china.html"
+      ],
+      "evidence": [
+        "PICC product liability insurance certificate (USD 1M/5M)",
+        "FDA facility registration (on file)",
+        "ISO 22716 GMP certificate",
+        "MSDS 16-language compliance",
+        "CCPIT certificate of origin capability",
+        "HS codes for all 20 SKUs published"
+      ],
+      "targetQueries": [
+        "pet product import compliance China",
+        "pet care OEM payment terms",
+        "pet product Incoterms",
+        "FDA registration pet products",
+        "EU CPNP pet cosmetics",
+        "pet product HS codes",
+        "pet product trade dispute resolution CIETAC",
+        "pet product MSDS requirements"
+      ],
+      "depthScore": 0.85,
+      "breadthScore": 0.90,
+      "depthScoreNote": "6 spoke pages + 1 blog article + 6 evidence items = 13 supporting items",
+      "breadthScoreNote": "8 distinct subtopics: payment, Incoterms, FX, customs, FDA, EU, MSDS, dispute resolution"
+    }
+  ],
+  "clusterRelationships": [
+    {
+      "from": "pet-care-oem",
+      "to": "pet-deodorizing",
+      "type": "contains"
+    },
+    {
+      "from": "pet-care-oem",
+      "to": "pet-grooming",
+      "type": "contains"
+    },
+    {
+      "from": "pet-care-oem",
+      "to": "pet-outdoor-protection",
+      "type": "contains"
+    },
+    {
+      "from": "pet-care-oem",
+      "to": "pet-nutrition",
+      "type": "contains"
+    },
+    {
+      "from": "pet-care-oem",
+      "to": "trade-compliance",
+      "type": "supportedBy"
+    },
+    {
+      "from": "pet-deodorizing",
+      "to": "trade-compliance",
+      "type": "references"
+    },
+    {
+      "from": "pet-grooming",
+      "to": "trade-compliance",
+      "type": "references"
+    }
+  ]
+}

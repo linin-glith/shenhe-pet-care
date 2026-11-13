@@ -1,0 +1,373 @@
+/* =============================================================
+   Shenhe — Element Library 2026
+   =============================================================
+   NOT a theme. A vocabulary.
+
+   A theme changes how the site looks. An element library changes how the
+   site BEHAVES — and behaviour is what a visitor actually perceives as
+   "modern". Every rule here is a reusable primitive that any page can adopt
+   without re-inventing the interaction.
+
+   THE CONTRACT FOR EVERY ELEMENT BELOW
+     1. It degrades. Without pointer, without JS, or with
+        prefers-reduced-motion, the element is still a complete, legible,
+        clickable piece of UI. Never a husk.
+     2. It is CSS-first. JS only supplies raw coordinates (--mx/--my/--rx).
+        Animation, compositing and easing stay in the stylesheet.
+     3. It is content-agnostic. These primitives say nothing about pets,
+        factories or SKUs — content decides what goes inside.
+   ============================================================= */
+
+/* ---------- 1. POINTER FIELDS ----------
+   The single most reusable idea in this file. An element publishes where
+   the cursor is into two custom properties, and every descendant effect
+   reads them. One listener, many effects, zero per-element handlers. */
+[data-ptr] {
+  --mx: 50%;
+  --my: 50%;
+  --rx: 0deg;
+  --ry: 0deg;
+  --lift: 0px;
+  --press: 1;
+  position: relative;
+}
+
+/* ---------- 2. SPOTLIGHT CARD ----------
+   A soft light follows the cursor across the surface. The card reads as a
+   physical panel catching a lamp — the cheapest possible way to make a flat
+   rectangle feel like an object. */
+.el-spotlight {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+}
+.el-spotlight::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0;
+  background: radial-gradient(
+    260px circle at var(--mx) var(--my),
+    rgb(13 148 136 / 0.16),
+    transparent 68%
+  );
+  transition: opacity 320ms var(--v2-ease);
+}
+.el-spotlight:hover::before,
+.el-spotlight:focus-within::before {
+  opacity: 1;
+}
+
+/* Border that lights on the same field, so the edge and the glow agree. */
+.el-spotlight::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+  border-radius: inherit;
+  padding: 1px;
+  background: radial-gradient(
+    200px circle at var(--mx) var(--my),
+    rgb(13 148 136 / 0.55),
+    transparent 62%
+  );
+  -webkit-mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+  mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+  opacity: 0;
+  transition: opacity 320ms var(--v2-ease);
+}
+.el-spotlight:hover::after,
+.el-spotlight:focus-within::after {
+  opacity: 1;
+}
+.el-spotlight > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* ---------- 3. TILT ----------
+   Perspective rotation driven by the same pointer field. Kept deliberately
+   small (6deg): past that it becomes a toy. Anything the buyer must READ
+   stays un-tilted, so this is applied to cards, never to paragraphs. */
+.el-tilt {
+  transform: perspective(900px) rotateX(var(--rx)) rotateY(var(--ry))
+    translate3d(0, var(--lift), 0) scale(var(--press));
+  transform-style: preserve-3d;
+  will-change: transform;
+  transition: transform 260ms var(--v2-ease);
+}
+
+/* ---------- 4. LIFT + SPRING ----------
+   Overshoot easing is what separates a modern micro-interaction from a
+   CSS transition. The element rises, peaks slightly past its rest height,
+   and settles. */
+.el-lift {
+  transition:
+    transform 460ms cubic-bezier(0.34, 1.56, 0.64, 1),
+    box-shadow 320ms var(--v2-ease),
+    border-color 320ms var(--v2-ease);
+}
+.el-lift:hover,
+.el-lift:focus-visible {
+  transform: translateY(-6px);
+  box-shadow: 0 24px 48px -24px rgb(11 15 18 / 0.32);
+}
+.el-lift:active {
+  transform: translateY(-1px) scale(0.995);
+  transition-duration: 90ms;
+}
+
+/* ---------- 5. GLOW BUTTON ----------
+   A conic gradient rotating behind a clipped foreground. The button
+   appears to have light travelling around its edge. Used sparingly — on the
+   single primary action per view — because a glowing button everywhere is the
+   same as no glowing button. */
+.el-glow {
+  position: relative;
+  isolation: isolate;
+  border-radius: 999px;
+}
+.el-glow::before {
+  content: "";
+  position: absolute;
+  inset: -1.5px;
+  z-index: -1;
+  border-radius: inherit;
+  background: conic-gradient(
+    from var(--angle, 0deg),
+    transparent 0deg,
+    rgb(20 167 148 / 0.9) 70deg,
+    transparent 150deg,
+    transparent 360deg
+  );
+  opacity: 0;
+  transition: opacity 300ms var(--v2-ease);
+}
+.el-glow:hover::before,
+.el-glow:focus-visible::before {
+  opacity: 1;
+}
+@property --angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .el-glow:hover::before {
+    animation: el-spin 3.6s linear infinite;
+  }
+}
+@keyframes el-spin {
+  to { --angle: 360deg; }
+}
+
+/* ---------- 6. GLASS ----------
+   Refraction, not decoration. Two layers of blur plus a top specular edge,
+   because a single blur reads as a smudge. */
+.el-glass {
+  position: relative;
+  background: rgb(255 255 255 / 0.62);
+  backdrop-filter: saturate(180%) blur(20px) brightness(1.06);
+  -webkit-backdrop-filter: saturate(180%) blur(20px) brightness(1.06);
+  border: 1px solid rgb(255 255 255 / 0.7);
+  box-shadow:
+    inset 0 1px 0 rgb(255 255 255 / 0.85),
+    0 12px 40px -20px rgb(11 15 18 / 0.35);
+}
+.el-glass-dark {
+  background: rgb(11 15 18 / 0.52);
+  backdrop-filter: saturate(160%) blur(22px);
+  -webkit-backdrop-filter: saturate(160%) blur(22px);
+  border: 1px solid rgb(255 255 255 / 0.12);
+  box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.1);
+}
+
+/* ---------- 7. NOISE ----------
+   Film grain that removes gradient banding on large dark fields. Drawn,
+   never downloaded — a bitmap here would cost a request and a cache miss. */
+.el-noise { position: relative; }
+.el-noise::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  pointer-events: none;
+  opacity: 0.05;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* ---------- 8. SCROLL CLIP ----------
+   Native scroll-driven wipe. The element is revealed by an animated clip
+   rather than a fade, which reads as material being uncovered instead of
+   fading in from nowhere. */
+@keyframes el-clip-x {
+  from { clip-path: inset(0 100% 0 0); }
+  to   { clip-path: inset(0 0 0 0); }
+}
+@keyframes el-clip-y {
+  from { clip-path: inset(100% 0 0 0); }
+  to   { clip-path: inset(0 0 0 0); }
+}
+@keyframes el-scale-in {
+  from { transform: scale(0.94); opacity: 0; }
+  to   { transform: none; opacity: 1; }
+}
+
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    .el-reveal-x {
+      animation: el-clip-x both cubic-bezier(0.22, 1, 0.36, 1);
+      animation-timeline: view();
+      animation-range: entry 12% cover 42%;
+    }
+    .el-reveal-y {
+      animation: el-clip-y both cubic-bezier(0.22, 1, 0.36, 1);
+      animation-timeline: view();
+      animation-range: entry 14% cover 40%;
+    }
+    .el-reveal-scale {
+      animation: el-scale-in both cubic-bezier(0.16, 1, 0.3, 1);
+      animation-timeline: view();
+      animation-range: entry 10% cover 38%;
+    }
+    /* Stagger without JS: each child binds to the SAME scroll range but
+       starts later via a negative delay on its own range. */
+    .el-stagger > * {
+      animation: el-scale-in both cubic-bezier(0.16, 1, 0.3, 1);
+      animation-timeline: view();
+      animation-range: entry 10% cover 40%;
+    }
+    .el-stagger > *:nth-child(2) { animation-range: entry 16% cover 44%; }
+    .el-stagger > *:nth-child(3) { animation-range: entry 22% cover 48%; }
+    .el-stagger > *:nth-child(4) { animation-range: entry 28% cover 52%; }
+    .el-stagger > *:nth-child(5) { animation-range: entry 34% cover 56%; }
+    .el-stagger > *:nth-child(6) { animation-range: entry 40% cover 60%; }
+  }
+}
+
+/* ---------- 8b. LOAD-IN (time-based, for above-the-fold) ----------
+   Scroll-driven animation is correct for content the reader has not reached
+   yet. It is WRONG for the hero: if the element is already in view at load and
+   the range has not been entered, the animation sits at its `from` state — and
+   for the display headline that state is opacity 0.25, i.e. the most important
+   text on the site rendered at a quarter strength.
+   So above-the-fold entrances are time-based and always resolve. */
+@keyframes el-enter-up {
+  from { opacity: 0; transform: translateY(24px); filter: blur(8px); }
+  to   { opacity: 1; transform: none; filter: blur(0); }
+}
+.el-enter { animation: el-enter-up 900ms cubic-bezier(0.16, 1, 0.3, 1) both; }
+.el-enter-1 { animation-delay: 90ms; }
+.el-enter-2 { animation-delay: 180ms; }
+.el-enter-3 { animation-delay: 270ms; }
+.el-enter-4 { animation-delay: 360ms; }
+@media (prefers-reduced-motion: reduce) {
+  .el-enter { animation: none; opacity: 1; transform: none; filter: none; }
+}
+
+/* ---------- 9. MAGNETIC ----------
+   Content leans toward the cursor. Applied to CTAs only. The strength is
+   capped in JS because an uncapped magnet makes the click target lie. */
+.el-magnetic {
+  display: inline-block;
+  will-change: transform;
+  transform: translate3d(var(--lift-x, 0px), var(--lift-y, 0px), 0);
+  transition: transform 320ms var(--v2-ease);
+}
+
+/* ---------- 10. MARQUEE + SHIMMER ----------
+   Continuous motion carries repeated content without visual noise. The
+   track holds the items twice and translates by exactly -50%, so the loop
+   point is invisible. */
+.el-marquee {
+  overflow: hidden;
+  mask-image: linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent);
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent);
+}
+.el-marquee__track {
+  display: flex;
+  width: max-content;
+  gap: 3rem;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .el-marquee__track { animation: el-marquee 36s linear infinite; }
+}
+@keyframes el-marquee {
+  from { transform: translate3d(0, 0, 0); }
+  to   { transform: translate3d(-50%, 0, 0); }
+}
+.el-marquee:hover .el-marquee__track { animation-play-state: paused; }
+
+@keyframes el-shimmer {
+  from { background-position: -200% 0; }
+  to   { background-position: 200% 0; }
+}
+
+/* ---------- 11. FOCUS SYSTEM ----------
+   One visible focus treatment for every element on the site. Keyboard
+   users are not an edge case, and a default outline on a teal button is
+   both ugly and easy to miss. */
+:where(a, button, input, select, textarea, summary, [tabindex]):focus-visible {
+  outline: 2px solid var(--v2-accent-500);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ---------- 11b. ON-DARK HEADINGS ----------
+   WHY THIS EXISTS RATHER THAN JUST text-white
+   A heading's colour comes from the utility class, and for that to be true
+   the heading rule in globals.css has to live in @layer base: an UNLAYERED
+   rule outranks every cascade layer regardless of specificity, so the old
+   unlayered `h1,h2,h3,h4 { color: … }` beat .text-white and every heading
+   that asked for white rendered ink-deep. That is fixed at the root, in
+   globals.css.
+
+   .on-dark is the explicit statement of the same thing for the dark
+   surfaces, and it loads after everything else, so a heading inside one of
+   them is white whatever else the cascade says.
+*/
+.on-dark, .on-dark h1, .on-dark h2, .on-dark h3 { color: #fff; }
+
+/* ---------- 11c. A LINK THAT IS A FACT, NOT A CALL TO ACTION ----------
+   The v3 rule is "green means interactive": .v3-link paints every link
+   green.  But the factory hero's contact block is a list of FACTS —
+   telephone, e-mail, WhatsApp — sitting in a white-on-dark list whose
+   labels are text-white/40 and whose lead is text-white/60.  The writer
+   put text-white on those three links, and because .v3-link is an
+   UNLAYERED rule it beat the layered utility: three lines in the middle
+   of a white list came out teal.
+
+   This applies only where the writer actually asked for white, and it
+   carries the hover underline with it, so the treatment stays one thing
+   instead of a white word with a green line under it. */
+.v3-link.text-white,
+.v3-link.text-white:hover,
+.v3-link.text-white:focus-visible {
+  color: #fff;
+  background-image: linear-gradient(#fff, #fff);
+}
+
+/* ---------- 12. TEXTURE / DEPTH UTILITIES ---------- */
+.el-stack-1 { position: relative; z-index: 1; }
+.el-stack-2 { position: relative; z-index: 2; }
+.el-stack-3 { position: relative; z-index: 3; }
+
+.el-bevel {
+  box-shadow:
+    inset 0 1px 0 rgb(255 255 255 / 0.6),
+    inset 0 -1px 0 rgb(11 15 18 / 0.06),
+    0 1px 2px rgb(11 15 18 / 0.05);
+}
+
+/* Tabular, instrument-like numerals — the 2026 default for metrics. */
+.el-figure {
+  font-family: var(--v2-font-display);
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.04em;
+  line-height: 1;
+}

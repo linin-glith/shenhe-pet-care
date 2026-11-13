@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "shenhe-sourcing",
+      "type": "skill-md",
+      "description": "Use when a buyer or sourcing agent needs to source private-label pet care products from SHENHE ZHONGKE (广东深河中科生物科技有限公司) — deodorizing sprays, cat litter deodorizer, shampoos, waterless cleansing foam, paw care, outdoor protection, or pet nutrition supplements — from the factory in Heyuan, Guangdong. Covers the catalogue, the four product lines, the minimum order, the lead times and where each fact is published.",
+      "url": "/.well-known/agent-skills/shenhe-sourcing/SKILL.md",
+      "digest": "sha256:2904e664d5df8cff01cbfc035c46fa9981a77a8cbd3755e898a418ad81fe5a97"
+    },
+    {
+      "name": "shenhe-private-label-process",
+      "type": "skill-md",
+      "description": "Use when a buyer or sourcing agent asks how the OEM / private-label development workflow at SHENHE ZHONGKE (深河中科) actually runs — from the first enquiry to the container — including what each step delivers, what the buyer has to supply, the two routes (ODM with the factory's formula, OEM with the buyer's), how samples are handled, and where a project already in progress plugs in.",
+      "url": "/.well-known/agent-skills/shenhe-private-label-process/SKILL.md",
+      "digest": "sha256:0ab1890d41b2ea7fb2505c990a09b1ab3e05f4fd374d62a2850f46fcdaa04bf9"
+    },
+    {
+      "name": "shenhe-compliance-docs",
+      "type": "skill-md",
+      "description": "Use when a buyer, compliance officer or sourcing agent asks what certifications, test reports, safety data sheets or other compliance documentation SHENHE ZHONGKE (深河中科) can provide for a pet care import — including the ten published third-party laboratory reports, the Chinese licences, the per-shipment document set, the per-market requirements, and how to verify that a report is the real one rather than a picture of a certificate.",
+      "url": "/.well-known/agent-skills/shenhe-compliance-docs/SKILL.md",
+      "digest": "sha256:d3384313036a3b206c3061226bc04aa64f7fee73f6780a54d8622dd48efcf394"
+    },
+    {
+      "name": "shenhe-rfq-helper",
+      "type": "skill-md",
+      "description": "Use when an AI agent needs to help a buyer submit an enquiry, sample request or RFQ to SHENHE ZHONGKE (深河中科) — covers the fields to collect, the deep-link prefill pattern for the contact form, the enquiry API endpoint and its bot checks, and how to track an enquiry by its reference.",
+      "url": "/.well-known/agent-skills/shenhe-rfq-helper/SKILL.md",
+      "digest": "sha256:3dfe82591b9099443e2490d95668d747df5b4a920d115127935f55973c2c8d22"
+    }
+  ]
+}

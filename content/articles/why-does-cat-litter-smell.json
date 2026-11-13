@@ -1,0 +1,83 @@
+{
+  "slug": "why-does-cat-litter-smell",
+  "category": "pet-care-notes",
+  "date": "2026-10-22",
+  "reviewedBy": "compliance",
+  "seo": {
+    "title": "Why Does Cat Litter Smell? 4 Causes and What Actually Works",
+    "description": "Litter box odor comes from urine residue, not the litter. Learn why ammonia builds up and how to stop it at the source. And what actually works for cats."
+  },
+  "faq": [
+    {
+      "q": "How often should I add deodorizing powder?",
+      "a": "Once after every scoop, spread in a thin even layer over the litter surface. A 500 g pack covers roughly 60–90 days in a single-box household scooped daily."
+    },
+    {
+      "q": "Is baking soda safe for cats?",
+      "a": "Sodium bicarbonate is the base of most litter deodorizers including ours, and it is safe at the concentrations used. Cats do not ingest litter in normal amounts, but keep the product stored sealed and out of reach as with any household chemical."
+    },
+    {
+      "q": "Does deodorizing powder stop a cat using the box?",
+      "a": "No. Our formulation is unscented and does not alter the litter texture, which matters — a change in texture or smell is one of the common reasons a cat stops using its box."
+    }
+  ],
+  "body": [
+    {
+      "type": "lead",
+      "html": "<p>Litter box odor comes from urine residue, not the litter itself. Urine breaks down into ammonia over 24–72 hours, and that ammonia rising off the surface is what you smell. Ventilation helps a little, but ventilation cannot remove a smell that is still being produced. It has to be stopped at the source.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Why the smell builds up"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Even with daily scooping, urine passes through the litter and reaches the bottom of the box, where it soaks into the base and the litter beneath the surface layer. What you cannot see is what has already soaked through.</p><p>Ammonia is what makes urine smell sharp. It is produced as urea breaks down, and it rises as a gas. This is why a box that looks clean can still smell strongly — the visible layer is new, and the odor is coming from underneath it.</p><p>Most odor-control products address the smell you can smell. The ones that work address the ammonia itself.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Four things that actually change the outcome"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Scoop every day, including the solids",
+          "body": "Daily scooping is the baseline. Urine clumps form within 24 hours; leaving them for longer gives the ammonia more time to reach the surface."
+        },
+        {
+          "title": "Keep a consistent litter depth",
+          "body": "Most boxes want 4–6 cm. Too shallow and urine reaches the base before it can be absorbed. Too deep and clumps sit buried where you will not find them."
+        },
+        {
+          "title": "Use an odor-absorbing powder after every scoop",
+          "body": "A powder spreads into the litter bed rather than sitting on top, so it reaches urine clumps wherever they form. Our Cat Litter Companion powder is sodium bicarbonate, silicon dioxide, bio-enzyme and plant extract — it absorbs moisture and breaks down the urea that produces ammonia, rather than masking the smell with fragrance."
+        },
+        {
+          "title": "Wash the box, not just the litter",
+          "body": "Once a month, empty the box completely and wash it. Odor that survives every product is usually residue on the box itself, which no litter additive can reach."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "What is not worth doing"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Perfumed litter masks ammonia for a few minutes and can make the problem harder to judge, because the real odor returns once the fragrance fades. Household bleach destroys ammonia by reaction, which works, but it is a caustic: it damages litter, irritates paws, and leaves a residue you then have to rinse out completely.</p><p>Neither approach addresses what is producing the smell.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "When to see a vet instead"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Odor control is a litter problem. If the behaviour has changed, it is not. See a vet if you notice:</p><ul><li>Blood in the urine, or litter that clumps hard in the box rather than in the tray</li><li>A sudden change in how often your cat urinates, or straining to urinate</li><li>A cat that has started avoiding the box entirely</li><li>Unusual thirst or changes in drinking</li></ul><p>Urinary obstruction is an emergency in cats and is easily mistaken for a litter-box problem. If straining produces nothing, that is a vet visit the same day.</p>"
+    }
+  ],
+  "relatedProducts": [
+    { "id": "P007", "note": "Cat Litter Companion — Deodorizing Powder, 500 g" },
+    { "id": "P002", "note": "Pet Deodorizing Spray, 350 mL" }
+  ]
+}

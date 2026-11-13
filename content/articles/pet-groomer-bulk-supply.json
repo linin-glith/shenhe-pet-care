@@ -1,0 +1,96 @@
+{
+  "slug": "pet-groomer-bulk-supply",
+  "category": "sourcing",
+  "date": "2026-10-23",
+  "reviewedBy": "compliance",
+  "seo": {
+    "title": "Bulk Pet Care Supply for Groomers and Distributors: A Guide",
+    "description": "Ordering pet care products by the carton as a groomer or distributor: which formats turn over fastest and how to build a range. And the MOQ explained."
+  },
+  "faq": [
+    {
+      "q": "Can I order different SKUs in one shipment?",
+      "a": "Yes. A mixed order is normal for a distributor opening a range, and it is worth asking about because a mixed pallet often ships at a lower per-unit freight cost than a single SKU at the same total volume."
+    },
+    {
+      "q": "What is the minimum order for a distributor?",
+      "a": "The standard minimum is 2,000 bottles per SKU across the grooming line. Whether a mixed order meets the threshold depends on the configuration, so the figure for your specific order is confirmed once the SKU list and quantity are known."
+    },
+    {
+      "q": "Which products turn over fastest in a grooming business?",
+      "a": "In most grooming businesses the multi-purpose wash turns over fastest because it is used on nearly every animal, followed by the no-rinse foam for between-appointment cleaning. Laundry detergent is a steady high-volume line that is often under-ordered."
+    },
+    {
+      "q": "Do you ship documentation for customs clearance?",
+      "a": "Every consignment leaves with a batch certificate of analysis, a 16-language safety data sheet, a commercial invoice carrying the HS code, and a certificate of origin, alongside the bill of lading or air waybill."
+    }
+  ],
+  "body": [
+    {
+      "type": "lead",
+      "html": "<p>A distributor ordering by the carton is making a different decision from a salon ordering for itself, and the useful comparison is not price per bottle. It is how much volume each format moves, how many SKUs you can carry on one pallet, and how many of them make a health claim.</p><p>This page sets out the ordering framework. Every commercial figure — minimum order, price, production time — is confirmed against your specific enquiry once the destination and quantity are known.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "The grooming line, format by format"
+    },
+    {
+      "type": "prose",
+      "html": "<p><strong>Multi-purpose wash, 300 mL and 200 mL.</strong> Twelve per carton at 6.8 kg and twenty-four per carton at 5.5 kg respectively. These are the highest-turnover SKUs in the range because they are used on nearly every animal that comes through. Note that they carry nano silver ions, which makes them a health claim rather than a cosmetic one.</p><p><strong>Shampoo, 500 mL.</strong> Twelve per carton at 8 kg. The conditioning workhorse — camellia seed extract, betaine base and silk protein — and the one most often sold on a private-label brief.</p><p><strong>No-rinse foam, 500 mL and 300 mL.</strong> Twelve per carton at 7.5 kg and 5.5 kg. The format that separates a busy groomer from a home owner: between appointments, for animals too stressed for a full bath, and for post-groom cleanup.</p><p><strong>Ear cleansing, 100 mL.</strong> Twenty-four per carton at 4.5 kg — a high-density carton, which matters when freight is the deciding cost. A 250 mL presentation is available as a reference.</p><p><strong>Paw foam, 200 mL, and paw gel, 10 g sachet.</strong> The paw line is compact and specific. The gel ships 100 sachets to a carton at 2.5 kg, the lightest carton in the whole catalogue, which makes it a sensible add-on to a mixed shipment.</p><p><strong>Laundry detergent, 1.5 kg.</strong> Six per carton at 10.5 kg — the heaviest carton and the one most often under-ordered. Towels and grooming cloths are a genuine consumable line, not an afterthought.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Building a mixed order that ships well"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Carton density varies enormously across this line — from 2.5 kg for the paw gel to 10.5 kg for the laundry detergent — and that variation decides whether your freight quote lands well. A mixed order that pairs a heavy carton with a light one fills a pallet better than a single-SKU order of the same total volume, and freight is per pallet before it is per bottle.</p><p>Practical pairings: the 1.5 kg detergent carton with the 200 mL wash or the paw foam; the 100 mL ear cleanser carton with the 300 mL foam. Ask for the pallet plan before you commit — it is a five-minute question that can change the landed cost materially.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Cosmetic claims and biocidal claims are different products"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Some SKUs in this line make a health claim and some do not. The multi-purpose wash carries nano silver ions; the antibacterial shampoo targets mites and bacterial infection. Both therefore sit inside a regulated frame that a plain shampoo does not, which affects classification, documentation and what you may claim in your own marketing.</p><p>For a distributor this is the single most important question to resolve early, because the claim determines what you can print. Decide which SKUs carry a claim and substantiate them properly, or plan the range around the cosmetic formats and treat the claim-bearing ones as a separate line with its own documentation.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "What to confirm before the first order"
+    },
+    {
+      "type": "prose",
+      "html": "<p>For each SKU: bottles per carton, gross carton weight, carton dimensions, HS code, and shelf life. Across the grooming line the HS codes are 3307.10 for the soaps and shampoos, 3307.90 for the ear cleanser and paw gel, and 3402.20 for the detergent — so three classifications cover eleven products, and getting them right at the outset avoids a customs query.</p><p>Then confirm the commercial terms for the order as a whole: the minimum that applies to a mixed order, the price at your volume, the production time, and the delivery basis once the destination is agreed. Freight and duty are quoted separately from the product price, so the landed figure stays unambiguous.</p>"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "id": "P010",
+      "note": "300 mL multi-purpose wash — 12 per carton, 6.8 kg. Highest turnover in the range"
+    },
+    {
+      "id": "P011",
+      "note": "200 mL multi-purpose wash — 24 per carton, 5.5 kg. Pairs well with heavy cartons"
+    },
+    {
+      "id": "P012",
+      "note": "500 mL shampoo — 12 per carton, 8 kg. The private-label workhorse"
+    },
+    {
+      "id": "P014",
+      "note": "500 mL no-rinse foam — 12 per carton, 7.5 kg"
+    },
+    {
+      "id": "P005",
+      "note": "100 mL ear cleanser — 24 per carton, 4.5 kg. High-density carton"
+    },
+    {
+      "id": "P018",
+      "note": "10 g paw gel sachet — 100 per carton, 2.5 kg. Lightest carton in the catalogue"
+    },
+    {
+      "id": "P017",
+      "note": "1.5 kg laundry detergent — 6 per carton, 10.5 kg. Heaviest carton"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "source": "index.html",
+  "slug": "index",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Care Manufacturer China | Shampoo & Deodorizer OEM",
+    "description": "Pet care manufacturer in Heyuan, China. 20 private-label SKUs, ISO 22716 GMP workshop, six filling lines, 1,000,000 bottles a month. MOQ from 1,000.",
+    "canonical": "https://shenhezhongke.com/",
+    "ogTitle": "Pet Care Manufacturer China | Shampoo & Deodorizer OEM",
+    "ogDescription": "Pet care manufacturer in Heyuan, China. 20 private-label SKUs, ISO 22716 GMP workshop, six filling lines, 1,000,000 bottles a month. MOQ from 1,000.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "SHENHE ZHONGKE",
+        "url": "https://shenhezhongke.com/",
+        "inLanguage": [
+          "en"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+          "logo": "https://shenhezhongke.com/assets/img/ui/logo.png"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://shenhezhongke.com/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    ],
+    "hasGtm": true
+  },
+  "blocks": [
+    {
+      "classes": "pp-clarity-hero",
+      "bg": "plain",
+      "type": "hero",
+      "content": {
+        "title": "We Make Pet Care for Your Brand",
+        "titleAccent": "From Formula to Shelf · Since 2020",
+        "eyebrow": "Pet Care OEM/ODM Factory · Since 2020",
+        "lead": "We make your brand's products: formula, packaging, and export-ready logistics . 20 ready-to-ship SKUs across 4 product lines. Sample in 7 days, quote within one business day.",
+        "actions": [
+          {
+            "href": "/contact.html",
+            "label": "Get a Free Quote",
+            "variant": "primary"
+          },
+          {
+            "href": "/factory.html",
+            "label": "View Factory ▸",
+            "variant": "ghost"
+          }
+        ],
+        "stats": [],
+        "panels": [],
+        "image": null,
+        "html": null
+      }
+    },
+    {
+      "classes": "pp-trustbar",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-trustbar\" aria-label=\"Why SHENHE ZHONGKE\" style=\"background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%); border-top: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; padding: 24px 0;\">\n  <div class=\"pp-container\">\n    <div class=\"pp-trustbar__grid\" style=\"display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; align-items: center; justify-items: center;\">\n\n      <div class=\"pp-trustbar__item\" style=\"display: flex; flex-direction: column; align-items: center; text-align: center; gap: 6px; padding: 8px;\">\n        <svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#0f766e\" stroke-width=\"2\" aria-hidden=\"true\">\n          <circle cx=\"12\" cy=\"12\" r=\"10\"></circle>\n          <polyline points=\"12,6 12,12 16,14\"></polyline>\n        </svg>\n        <strong style=\"font-size: 14px; color: #0f172a; font-weight: 700;\">6 years in business</strong>\n        <span style=\"font-size: 12px; color: #64748b;\">Since 2020</span>\n      </div>\n\n      <div class=\"pp-trustbar__item\" style=\"display: flex; flex-direction: column; align-items: center; text-align: center; gap: 6px; padding: 8px;\">\n        <svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#0f766e\" stroke-width=\"2\" aria-hidden=\"true\">\n          <path d=\"M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"></path>\n          <polyline points=\"9,22 9,12 15,12 15,22\"></polyline>\n        </svg>\n        <strong style=\"font-size: 14px; color: #0f172a; font-weight: 700;\">30,000 m² factory</strong>\n        <span style=\"font-size: 12px; color: #64748b;\">Heyuan, Guangdong</span>\n      </div>\n\n      <div class=\"pp-trustbar__item\" style=\"display: flex; flex-direction: column; align-items: center; text-align: center; gap: 6px; padding: 8px;\">\n        <svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#0f766e\" stroke-width=\"2\" aria-hidden=\"true\">\n          <path d=\"M20 7h-9l-3-3H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z\"></path>\n        </svg>\n        <strong style=\"font-size: 14px; color: #0f172a; font-weight: 700;\">20 SKUs · 4 lines</strong>\n        <span style=\"font-size: 12px; color: #64748b;\">Ready to ship</span>\n      </div>\n\n      <div class=\"pp-trustbar__item\" style=\"display: flex; flex-direction: column; align-items: center; text-align: center; gap: 6px; padding: 8px;\">\n        <svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#0f766e\" stroke-width=\"2\" aria-hidden=\"true\">\n          <path d=\"M9 12l2 2 4-4\"></path>\n          <path d=\"M21 12c0 4.97-4.03 9-9 9s-9-4.03-9-9 4.03-9 9-9 9 4.03 9 9z\"></path>\n        </svg>\n        <strong style=\"font-size: 14px; color: #0f172a; font-weight: 700;\">ISO 22716 GMP</strong>\n        <span style=\"font-size: 12px; color: #64748b;\">FDA registered</span>\n      </div>\n\n      <div class=\"pp-trustbar__item\" style=\"display: flex; flex-direction: column; align-items: center; text-align: center; gap: 6px; padding: 8px;\">\n        <svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#0f766e\" stroke-width=\"2\" aria-hidden=\"true\">\n          <circle cx=\"12\" cy=\"12\" r=\"10\"></circle>\n          <path d=\"M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z\"></path>\n        </svg>\n        <strong style=\"font-size: 14px; color: #0f172a; font-weight: 700;\">Exports to 12+ countries</strong>\n        <span style=\"font-size: 12px; color: #64748b;\">Russia · Brazil · EAEU · EU</span>\n      </div>\n\n    </div>\n  </div>\n</section>"
+      }
+    },
+    {
+      "classes": "",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Two ways to work with us",
+        "sub": null,
+        "html": "<section style=\"background: white; padding: 56px 0 8px;\">\n      <div class=\"pp-container\" style=\"text-align: center;\">\n        <span class=\"pp-eyebrow\" data-i18n=\"hero.claritySectionEyebrow\" style=\"color: var(--pp-teal-700); font-weight: 700;\">Choose how you want to start</span>\n        <h2 data-i18n=\"hero.claritySectionTitle\" style=\"margin: 8px 0 0; font-size: 32px;\">Two ways to work with us</h2>\n        <p data-i18n=\"hero.claritySectionDesc\" style=\"color: var(--pp-ink-600); margin: 12px auto 0; max-width: 640px;\">Pick the path that fits your business — buy our ready SKUs, or build your own brand from scratch. Same factory, same quality team, same export team.</p>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-hero",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "PRODUCTS",
+        "sub": null,
+        "html": "<section class=\"pp-hero\">\n      <div class=\"pp-hero__divider\" aria-hidden=\"true\"></div>\n      <div class=\"pp-container\">\n        <div class=\"pp-hero__inner\">\n\n          \n          <a class=\"pp-hero__panel pp-hero__panel--consumer\" href=\"/products.html\">\n            <span class=\"pp-hero__panel-edge\" aria-hidden=\"true\"></span>\n            <div class=\"pp-hero__info\">\n              <span class=\"pp-hero__panel-tag\" data-i18n=\"hero.consumerTag\">For Brand Buyers</span>\n              <h2 class=\"pp-hero__panel-title\">PRODUCTS</h2>\n              <p class=\"pp-hero__panel-stats\" data-i18n=\"hero.consumerStats\">20 SKUs · 4 series · Lab tested</p>\n              <p class=\"pp-hero__panel-desc\" data-i18n=\"hero.consumerDesc\">20 ready-to-market SKUs across 4 series. Deodorizing, grooming, outdoor protection & nutrition.</p>\n              <div class=\"pp-hero__panel-actions\">\n                <span class=\"pp-btn pp-btn--primary pp-btn--lg\" data-i18n=\"hero.consumerCta\">Explore Products</span>\n                <span class=\"pp-btn--text-link\" data-i18n=\"hero.consumerCtaSub\">20 SKUs ready →</span>\n              </div>\n            </div>\n          </a>\n\n          \n          <a class=\"pp-hero__panel pp-hero__panel--business\" href=\"/oem-odm.html\">\n            <span class=\"pp-hero__panel-edge\" aria-hidden=\"true\"></span>\n            <div class=\"pp-hero__info\">\n              <span class=\"pp-hero__panel-tag\" data-i18n=\"hero.businessTag\">For OEM/ODM Partners</span>\n              <h2 class=\"pp-hero__panel-title\">OEM / ODM</h2>\n              <p class=\"pp-hero__panel-stats\" data-i18n=\"hero.businessStats\">5,000m² GMP · 25–40 day private label · reply in 1 business day</p>\n              <p class=\"pp-hero__panel-desc\" data-i18n=\"hero.businessDesc\">Private label, custom formula & packaging. 5,000m² GMP workshop. From concept to shelf in 25–40 days.</p>\n              <div class=\"pp-hero__panel-actions\">\n                <span class=\"pp-btn pp-btn--primary pp-btn--lg\" data-i18n=\"hero.businessCta\">Start Your Project</span>\n                <span class=\"pp-btn--text-link\" data-i18n=\"hero.businessCtaSub\">reply in 1 business day →</span>\n              </div>\n            </div>\n          </a>\n\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-trust-banner",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-trust-banner\">\n      <div class=\"pp-container\">\n        <div class=\"pp-trust-banner__row\">\n          <div class=\"pp-trust-banner__item\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M9 12l2 2 4-4\"/><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>\n            <span><strong>FDA</strong> Registered Facility</span>\n          </div>\n          <div class=\"pp-trust-banner__item\">\n            <svg width=\"2\" height=\"24\" aria-hidden=\"true\"><use href=\"/assets/img/icons/sprite.svg#icon-cube/\"></svg>\n            <span><strong>ISO 22716</strong> GMP Certified</span>\n          </div>\n          <div class=\"pp-trust-banner__item\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 3h18v18H3z\"/><path d=\"M9 9h6v6H9z\"/></svg>\n            <span><strong>30,000m²</strong> Industrial Park</span>\n          </div>\n          <div class=\"pp-trust-banner__item\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z\"/></svg>\n            <span><strong>20 SKUs</strong> · 4 Product Lines</span>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--with-photo",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Third-party verified performance",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--with-photo\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title\">\n          <span class=\"pp-eyebrow\" data-i18n=\"hero.eyebrow\">Pet Care OEM/ODM Factory</span>\n          <h2 data-i18n=\"stats.label1\">Third-party verified performance</h2>\n          <p>Every number below comes from an independent lab report. View them all in <a href=\"/certifications.html\">Certifications</a>.</p>\n        </div>\n\n        <div class=\"pp-ring-row\">\n          <div class=\"pp-ring pp-ring--teal\" data-value=\"94.2\" data-unit=\"%\" data-max=\"100\">\n            <svg class=\"pp-ring__svg\" viewBox=\"0 0 180 180\">\n              <circle class=\"pp-ring__bg\" cx=\"90\" cy=\"90\" r=\"70\"/>\n              <circle class=\"pp-ring__fg\" cx=\"90\" cy=\"90\" r=\"70\" stroke-dasharray=\"439.8\" stroke-dashoffset=\"439.8\"/>\n            </svg>\n            <div class=\"pp-ring__value\">0%</div>\n            <div class=\"pp-ring__label\" data-i18n=\"stats.label1\">Ammonia removal</div>\n            <div class=\"pp-ring__label\" style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-400);\" data-i18n=\"stats.sub1\">Report NACCYH25014722</div>\n          </div>\n\n          <div class=\"pp-ring pp-ring--amber\" data-value=\"99.999\" data-unit=\"%\" data-max=\"100\">\n            <svg class=\"pp-ring__svg\" viewBox=\"0 0 180 180\">\n              <circle class=\"pp-ring__bg\" cx=\"90\" cy=\"90\" r=\"70\"/>\n              <circle class=\"pp-ring__fg\" cx=\"90\" cy=\"90\" r=\"70\" stroke-dasharray=\"439.8\" stroke-dashoffset=\"439.8\"/>\n            </svg>\n            <div class=\"pp-ring__value\">0%</div>\n            <div class=\"pp-ring__label\" data-i18n=\"stats.label2\">Pathogen kill rate</div>\n            <div class=\"pp-ring__label\" style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-400);\" data-i18n=\"stats.sub2\">3 strains verified</div>\n          </div>\n\n          <div class=\"pp-ring pp-ring--teal\" data-value=\"100\" data-unit=\"%\" data-max=\"100\">\n            <svg class=\"pp-ring__svg\" viewBox=\"0 0 180 180\">\n              <circle class=\"pp-ring__bg\" cx=\"90\" cy=\"90\" r=\"70\"/>\n              <circle class=\"pp-ring__fg\" cx=\"90\" cy=\"90\" r=\"70\" stroke-dasharray=\"439.8\" stroke-dashoffset=\"439.8\"/>\n            </svg>\n            <div class=\"pp-ring__value\">0%</div>\n            <div class=\"pp-ring__label\" data-i18n=\"stats.label3\">Natural formulas</div>\n            <div class=\"pp-ring__label\" style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-400);\" data-i18n=\"stats.sub3\">Plant-based ingredients</div>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Four product lines, ready to ship",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title\">\n          <span class=\"pp-eyebrow\">Product Lines</span>\n          <h2 data-i18n=\"categories.title\">Four product lines, ready to ship</h2>\n          <p data-i18n=\"categories.subtitle\">Each line tested, certified, and built for global B2B partners</p>\n        </div>\n\n        <div class=\"pp-grid pp-grid--4\">\n          <a class=\"pp-cat-card\" href=\"/products/deodorizing-disinfecting.html\">\n            <span class=\"pp-cat-card__count\">5 SKUs</span>\n            <div class=\"pp-cat-card__icon\">\n              <img src=\"/assets/img/hero/cat-five-cute.jpg\" alt=\"Pet deodorizing and disinfecting\" loading=\"lazy\" />\n            </div>\n            <h3 class=\"pp-cat-card__title\" data-i18n=\"categories.deodorizing-disinfecting.name\">Deodorizing &amp; Disinfecting</h3>\n            <p class=\"pp-cat-card__desc\" data-i18n=\"categories.deodorizing-disinfecting.desc\">Enzyme-powered deodorizers and chlorine-dioxide disinfectants.</p>\n            <span class=\"pp-cat-card__link\" data-i18n=\"categories.explore\">Explore</span>\n          </a>\n\n          <a class=\"pp-cat-card\" href=\"/products/grooming-care.html\">\n            <span class=\"pp-cat-card__count\">7 SKUs</span>\n            <div class=\"pp-cat-card__icon\">\n              <img src=\"/assets/img/hero/pet-cute.jpg\" alt=\"Pet grooming and care\" loading=\"lazy\" />\n            </div>\n            <h3 class=\"pp-cat-card__title\" data-i18n=\"categories.grooming-care.name\">Grooming &amp; Care</h3>\n            <p class=\"pp-cat-card__desc\" data-i18n=\"categories.grooming-care.desc\">Camellia-based shampoos, foams, gels, dental and ear care.</p>\n            <span class=\"pp-cat-card__link\" data-i18n=\"categories.explore\">Explore</span>\n          </a>\n\n          <a class=\"pp-cat-card\" href=\"/products/outdoor-protection.html\">\n            <span class=\"pp-cat-card__count\">2 SKUs</span>\n            <div class=\"pp-cat-card__icon\">\n              <img src=\"/assets/img/hero/cat-outdoor-warm.jpg\" alt=\"Outdoor protection\" loading=\"lazy\" />\n            </div>\n            <h3 class=\"pp-cat-card__title\" data-i18n=\"categories.outdoor-protection.name\">Outdoor Protection</h3>\n            <p class=\"pp-cat-card__desc\" data-i18n=\"categories.outdoor-protection.desc\">Natural plant-based insect repellent with nano-silver.</p>\n            <span class=\"pp-cat-card__link\" data-i18n=\"categories.explore\">Explore</span>\n          </a>\n\n          <a class=\"pp-cat-card\" href=\"/products/pet-nutrition.html\">\n            <span class=\"pp-cat-card__count\">2 SKUs</span>\n            <div class=\"pp-cat-card__icon\">\n              <img src=\"/assets/img/hero/cat-indoor.jpg\" alt=\"Pet nutrition\" loading=\"lazy\" />\n            </div>\n            <h3 class=\"pp-cat-card__title\" data-i18n=\"categories.pet-nutrition.name\">Pet Nutrition</h3>\n            <p class=\"pp-cat-card__desc\" data-i18n=\"categories.pet-nutrition.desc\">Triple-encapsulated probiotics and IgG colostrum supplements.</p>\n            <span class=\"pp-cat-card__link\" data-i18n=\"categories.explore\">Explore</span>\n          </a>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "4 SKUs that global B2B buyers reorder most",
+        "sub": null,
+        "html": "<section class=\"pp-section\" style=\"background: var(--pp-white, #fff); padding: 64px 0;\">\n  <div class=\"pp-container\">\n    <div class=\"pp-section-title\" style=\"text-align: center; margin-bottom: var(--pp-space-10, 40px);\">\n      <span class=\"pp-eyebrow\" style=\"color: var(--pp-teal-700, #0f766e); font-weight: 700;\">Best sellers · 2026</span>\n      <h2 style=\"margin-top: 8px;\">4 SKUs that global B2B buyers reorder most</h2>\n      <p class=\"pp-lead\" style=\"max-width: 720px; margin: 12px auto 0;\">Standard catalog formulas, ready for OEM/ODM with your brand artwork. Pricing tiers available on request.</p>\n    </div>\n\n    <div class=\"pp-grid pp-grid--4\" itemscope itemtype=\"https://schema.org/ItemList\">\n\n      <article class=\"pp-product-card\" itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/Product\" style=\"border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); background: #fff; transition: transform 0.2s, box-shadow 0.2s;\">\n        <meta itemprop=\"position\" content=\"1\" />\n        <a class=\"pp-product-card__link\" href=\"/products/pet-shampoo-antibacterial-500.html\" itemprop=\"url\" aria-label=\"Pet Shampoo Antibacterial 500 mL\"></a>\n        <div class=\"pp-product-card__image\" style=\"aspect-ratio: 1/1; background: linear-gradient(135deg, #f0fdfa 0%, #ccfbf1 100%); display: flex; align-items: center; justify-content: center;\">\n          <img src=\"/assets/img/products/pet-shampoo-antibacterial-500.png?v=2\" alt=\"Pet Shampoo Antibacterial 500 mL — OEM/ODM pet care\" itemprop=\"image\" loading=\"lazy\" style=\"max-width: 80%; max-height: 80%; object-fit: contain;\" />\n        </div>\n        <div class=\"pp-product-card__body\" style=\"padding: 16px;\">\n          <h3 class=\"pp-product-card__title\" itemprop=\"name\" style=\"font-size: 16px; font-weight: 600; margin: 0 0 4px;\">Pet Shampoo · Antibacterial 500 mL</h3>\n          <div class=\"pp-product-card__size\" style=\"font-size: 13px; color: var(--pp-ink-500, #6b7280); margin-bottom: 8px;\">500 mL · Catalog SKU</div>\n          <div itemprop=\"offers\" itemscope itemtype=\"https://schema.org/Offer\" style=\"font-size: 13px; color: var(--pp-teal-700, #0f766e); font-weight: 600;\">\n            MOQ 2,000 · <span itemprop=\"priceCurrency\" content=\"USD\">USD</span> <span itemprop=\"price\" content=\"quote-on-request\">Quote on request</span>\n          </div>\n        </div>\n      </article>\n\n      <article class=\"pp-product-card\" itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/Product\" style=\"border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); background: #fff; transition: transform 0.2s, box-shadow 0.2s;\">\n        <meta itemprop=\"position\" content=\"2\" />\n        <a class=\"pp-product-card__link\" href=\"/products/pet-deodorizing-spray.html\" itemprop=\"url\" aria-label=\"Pet Deodorizing Spray 350 mL\"></a>\n        <div class=\"pp-product-card__image\" style=\"aspect-ratio: 1/1; background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); display: flex; align-items: center; justify-content: center;\">\n          <img src=\"/assets/img/products/pet-deodorizing-spray.png?v=2\" alt=\"Pet Deodorizing Spray 350 mL — enzyme formula OEM\" itemprop=\"image\" loading=\"lazy\" style=\"max-width: 80%; max-height: 80%; object-fit: contain;\" />\n        </div>\n        <div class=\"pp-product-card__body\" style=\"padding: 16px;\">\n          <h3 class=\"pp-product-card__title\" itemprop=\"name\" style=\"font-size: 16px; font-weight: 600; margin: 0 0 4px;\">Pet Deodorizing Spray</h3>\n          <div class=\"pp-product-card__size\" style=\"font-size: 13px; color: var(--pp-ink-500, #6b7280); margin-bottom: 8px;\">350 mL · Trigger spray</div>\n          <div itemprop=\"offers\" itemscope itemtype=\"https://schema.org/Offer\" style=\"font-size: 13px; color: var(--pp-teal-700, #0f766e); font-weight: 600;\">\n            MOQ 2,000 · <span itemprop=\"priceCurrency\" content=\"USD\">USD</span> <span itemprop=\"price\" content=\"quote-on-request\">Quote on request</span>\n          </div>\n        </div>\n      </article>\n\n      <article class=\"pp-product-card\" itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/Product\" style=\"border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); background: #fff; transition: transform 0.2s, box-shadow 0.2s;\">\n        <meta itemprop=\"position\" content=\"3\" />\n        <a class=\"pp-product-card__link\" href=\"/products/outdoor-insect-repellent-spray.html\" itemprop=\"url\" aria-label=\"Outdoor Insect Repellent Spray 80 mL\"></a>\n        <div class=\"pp-product-card__image\" style=\"aspect-ratio: 1/1; background: linear-gradient(135deg, #fefce8 0%, #fef3c7 100%); display: flex; align-items: center; justify-content: center;\">\n          <img src=\"/assets/img/products/outdoor-insect-repellent-spray.png?v=2\" alt=\"Outdoor Insect Repellent Spray 80 mL — plant-based tick mosquito repellent\" itemprop=\"image\" loading=\"lazy\" style=\"max-width: 80%; max-height: 80%; object-fit: contain;\" />\n        </div>\n        <div class=\"pp-product-card__body\" style=\"padding: 16px;\">\n          <h3 class=\"pp-product-card__title\" itemprop=\"name\" style=\"font-size: 16px; font-weight: 600; margin: 0 0 4px;\">Outdoor Insect Repellent Spray</h3>\n          <div class=\"pp-product-card__size\" style=\"font-size: 13px; color: var(--pp-ink-500, #6b7280); margin-bottom: 8px;\">80 mL · Plant-based 15% picaridin</div>\n          <div itemprop=\"offers\" itemscope itemtype=\"https://schema.org/Offer\" style=\"font-size: 13px; color: var(--pp-teal-700, #0f766e); font-weight: 600;\">\n            MOQ 3,000 · <span itemprop=\"priceCurrency\" content=\"USD\">USD</span> <span itemprop=\"price\" content=\"quote-on-request\">Quote on request</span>\n          </div>\n        </div>\n      </article>\n\n      <article class=\"pp-product-card\" itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/Product\" style=\"border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); background: #fff; transition: transform 0.2s, box-shadow 0.2s;\">\n        <meta itemprop=\"position\" content=\"4\" />\n        <a class=\"pp-product-card__link\" href=\"/products/pet-digestive-probiotics.html\" itemprop=\"url\" aria-label=\"Pet Digestive Probiotics 8 mL x 9 vials\"></a>\n        <div class=\"pp-product-card__image\" style=\"aspect-ratio: 1/1; background: linear-gradient(135deg, #fdf4ff 0%, #fae8ff 100%); display: flex; align-items: center; justify-content: center;\">\n          <img src=\"/assets/img/products/pet-digestive-probiotics.png?v=2\" alt=\"Pet Digestive Probiotics 8 mL x 9 vials — triple-encapsulated OEM\" itemprop=\"image\" loading=\"lazy\" style=\"max-width: 80%; max-height: 80%; object-fit: contain;\" />\n        </div>\n        <div class=\"pp-product-card__body\" style=\"padding: 16px;\">\n          <h3 class=\"pp-product-card__title\" itemprop=\"name\" style=\"font-size: 16px; font-weight: 600; margin: 0 0 4px;\">Pet Digestive Probiotics</h3>\n          <div class=\"pp-product-card__size\" style=\"font-size: 13px; color: var(--pp-ink-500, #6b7280); margin-bottom: 8px;\">8 mL × 9 vials · Triple-encapsulated</div>\n          <div itemprop=\"offers\" itemscope itemtype=\"https://schema.org/Offer\" style=\"font-size: 13px; color: var(--pp-teal-700, #0f766e); font-weight: 600;\">\n            MOQ 2,000 · <span itemprop=\"priceCurrency\" content=\"USD\">USD</span> <span itemprop=\"price\" content=\"quote-on-request\">Quote on request</span>\n          </div>\n        </div>\n      </article>\n\n    </div>\n\n    <div style=\"text-align: center; margin-top: var(--pp-space-10, 40px);\">\n      <a class=\"pp-btn pp-btn--ghost pp-btn--lg\" href=\"/products.html\" data-i18n=\"categories.viewAll\">View all 20 SKUs →</a>\n    </div>\n  </div>\n</section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Build your pet brand with us",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--2\" style=\"align-items: center; gap: var(--pp-space-12);\">\n          <div>\n            <span class=\"pp-eyebrow\" data-i18n=\"hero.businessTag\">For OEM/ODM Partners</span>\n            <h2 data-i18n=\"hero.businessTitle\">Build your pet brand with us</h2>\n            <p class=\"pp-lead\" data-i18n=\"hero.businessDesc\">30,000m² industrial park, 20 SKU ready formulas, full OEM/ODM service from formula to logistics. one-business-day response on every enquiry.</p>\n            <ul class=\"pp-hero__panel-list\" data-i18n-list=\"hero.businessList\" style=\"color: var(--pp-ink-800);\">\n              <li>Chargeable samples, fee in the quotation</li>\n              <li>Custom formula · brand · packaging</li>\n              <li>FDA-registered · ISO 22716 GMP</li>\n              <li>one-business-day quote response</li>\n            </ul>\n            <div style=\"display: flex; gap: var(--pp-space-3); margin-top: var(--pp-space-6); flex-wrap: wrap;\">\n              <a class=\"pp-btn pp-btn--primary pp-btn--lg\" href=\"/oem-odm.html\" data-i18n=\"hero.businessCta\">Start OEM/ODM</a>\n              <a class=\"pp-btn pp-btn--ghost pp-btn--lg\" href=\"/ai-customize.html\" data-i18n=\"nav.ai\">AI Match</a>\n            </div>\n          </div>\n          <div>\n            <div class=\"pp-cta-card\">\n              <span class=\"pp-cta-card__eyebrow\" data-i18n=\"cta.title\">Request a quotation within 1 business day</span>\n              <h3 data-i18n=\"cta.subtitle\">Send your target market, MOQ, and timeline. We reply within one business day with a quote and a sample plan.</h3>\n              <div class=\"pp-cta-card__trust\">\n                <span class=\"pp-badge\" data-i18n=\"cta.trust.0\">Low MOQ 1,000</span>\n                <span class=\"pp-badge\" data-i18n=\"cta.trust.1\">Sample on request</span>\n                <span class=\"pp-badge\" data-i18n=\"cta.trust.2\">Reply in 1 business day</span>\n              </div>\n              <a class=\"pp-btn pp-btn--lg\" href=\"/contact.html\" data-i18n=\"cta.button\">Start Your Quote</a>\n            </div>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--dark",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "30,000m² of focused capacity",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--dark\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title\">\n          <span class=\"pp-eyebrow pp-eyebrow--light\">Scale</span>\n          <h2>30,000m² of focused capacity</h2>\n        </div>\n        <div class=\"pp-grid pp-grid--4\" style=\"text-align: center;\">\n          <div>\n            <div style=\"font-size: var(--pp-text-5xl); font-weight: 800; color: var(--pp-amber-400); font-variant-numeric: tabular-nums;\">30,000</div>\n            <div style=\"color: var(--pp-teal-200);\" data-i18n=\"about.scale.park\">Industrial park</div>\n            <div style=\"font-size: var(--pp-text-xs); color: var(--pp-teal-300);\">m²</div>\n          </div>\n          <div>\n            <div style=\"font-size: var(--pp-text-5xl); font-weight: 800; color: var(--pp-amber-400); font-variant-numeric: tabular-nums;\">5,000</div>\n            <div style=\"color: var(--pp-teal-200);\" data-i18n=\"about.scale.workshop\">Modern workshop</div>\n            <div style=\"font-size: var(--pp-text-xs); color: var(--pp-teal-300);\">m²</div>\n          </div>\n          <div>\n            <div style=\"font-size: var(--pp-text-5xl); font-weight: 800; color: var(--pp-amber-400); font-variant-numeric: tabular-nums;\">16</div>\n            <div style=\"color: var(--pp-teal-200);\">SKUs ready</div>\n            <div style=\"font-size: var(--pp-text-xs); color: var(--pp-teal-300);\">across 4 lines</div>\n          </div>\n          <div>\n            <div style=\"font-size: var(--pp-text-5xl); font-weight: 800; color: var(--pp-amber-400); font-variant-numeric: tabular-nums;\">1M</div>\n            <div style=\"color: var(--pp-teal-200);\" data-i18n=\"about.scale.capacity\">Monthly capacity</div>\n            <div style=\"font-size: var(--pp-text-xs); color: var(--pp-teal-300);\">bottles</div>\n          </div>\n        </div>\n        <div style=\"text-align: center; margin-top: var(--pp-space-8);\">\n          <a class=\"pp-btn pp-btn--outline-white\" href=\"/about.html\" data-i18n=\"common.learnMore\">Learn more</a>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Frequently asked questions",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-section-title\">\n          <span class=\"pp-eyebrow\">FAQ</span>\n          <h2 data-i18n=\"oem.faq.title\">Frequently asked questions</h2>\n          <p>Quick answers to the most common OEM/ODM questions.</p>\n        </div>\n\n        <div class=\"pp-faq\" data-i18n-faqs=\"oem.faq.items\">\n          \n        </div>\n\n        <div style=\"text-align: center; margin-top: var(--pp-space-8);\">\n          <a class=\"pp-btn pp-btn--secondary pp-btn--lg\" href=\"/oem-odm.html\" data-i18n=\"oem.unsure\">Still not sure which path fits? Talk to our solutions team.</a>\n        </div>\n      </div>\n    </section>"
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 11,
+    "richtextFallback": 0
+  }
+}

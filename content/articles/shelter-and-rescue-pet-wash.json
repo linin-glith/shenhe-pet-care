@@ -1,0 +1,96 @@
+{
+  "slug": "shelter-and-rescue-pet-wash",
+  "category": "sourcing",
+  "date": "2026-10-23",
+  "reviewedBy": "compliance",
+  "seo": {
+    "title": "Washing Dogs in a Shelter or Rescue: Products That Turn Over",
+    "description": "Shelters and rescues wash many animals with limited staff and limited time. Which pet care formats suit high-turnover use, and what to order for a shelter."
+  },
+  "faq": [
+    {
+      "q": "What is the fastest way to wash a newly arrived dog?",
+      "a": "A no-rinse foam. It needs no bath, no drying setup and no rinse step, which removes most of the labour from the process. It is a spot clean rather than a full bath, so a dirty or matted animal still needs a proper wash, but for an intake line where animals arrive one after another it is the format that scales."
+    },
+    {
+      "q": "Is a no-rinse foam safe for cats and small breeds?",
+      "a": "The 200 mL paw format suits smaller animals and is designed for paws after walks rather than whole-body use. For a cat or small dog arriving in intake, the 300 mL no-rinse foam is the practical size for a full spot clean."
+    },
+    {
+      "q": "Can shelters buy in smaller quantities?",
+      "a": "The standard minimum is 2,000 bottles per SKU across the grooming line. Shelters typically order through a distributor or a regional NGO buyer rather than direct, because the volume a single shelter can absorb rarely reaches the factory minimum. We work with resellers who serve this channel."
+    },
+    {
+      "q": "What documentation do we need for donor reporting?",
+      "a": "Every consignment includes a batch certificate of analysis and a 16-language safety data sheet, which are the documents a procurement audit normally asks for. Certificates of origin and the commercial invoice carry the HS code for customs."
+    }
+  ],
+  "body": [
+    {
+      "type": "lead",
+      "html": "<p>Intake washing is a different problem from home bathing. The constraint is not the animal's coat — it is staff time. A shelter processing twenty arrivals a week does not need a luxury bath; it needs the shortest procedure that leaves the animal clean and the volunteer unoccupied for half an hour.</p><p>This page covers the formats that suit that situation, and is written for shelters, rescues and the distributors who serve them.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "The no-rinse foam is the intake format"
+    },
+    {
+      "type": "prose",
+      "html": "<p>A no-rinse foam removes three of the four expensive parts of a bath: filling a tub, waiting for a rinse, and drying. It is applied, worked in and left. For an animal too stressed for handling, or a kennel line where throughput matters more than presentation, that is the difference between a five-minute job and a thirty-minute one.</p><p>Two sizes suit different animals. The 500 mL is for larger dogs and for a full spot clean; the 300 mL is the practical size for cats and small breeds. A dedicated 200 mL paw format exists for animals coming in from outside, where the paws are the part that actually needs attention.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Where a full bath is still needed"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Intake animals arrive with more than surface dirt. Mud, fecal soiling and urine staining need a proper wash, and this is where a liquid shampoo earns its place. The multi-purpose wash is the general-purpose format — mild betaine base with camellia seed extract — and the 300 mL and 200 mL sizes cover everything from small dogs to larger animals without a bulk bottle.</p><p>The 200 mL size ships 24 to a carton, which makes it the highest-density carton in the washing range at 5.5 kg, which is worth knowing when freight is the deciding cost.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Laundry is a real line, not an afterthought"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Blankets, bedding and towels in a shelter carry the same odor as the animals, and they are frequently the reason a kennel smells even after cleaning. A detergent formulated for pet hair and pet odor, built on biological enzymes rather than ordinary surfactants, is a 1.5 kg bottle at 6 per carton.</p><p>It is a heavier carton than anything else in the range at 10.5 kg, which makes it worth including in a mixed order alongside lighter cartons so the pallet fills evenly.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Choosing between a cosmetic wash and a treatment wash"
+    },
+    {
+      "type": "prose",
+      "html": "<p>Some animals arrive with a skin condition. That is a veterinary matter, not a grooming one, and the distinction matters for a shelter because treatment claims are regulated in most markets and must be substantiated.</p><p>The practical rule for an intake line: use a cosmetic wash as the default, and keep a claim-bearing product on the shelf for an animal a vet has already assessed. Buying the treatment format for every animal wastes money and creates a documentation problem.</p>"
+    },
+    {
+      "type": "h2",
+      "text": "Ordering, and who usually places the order"
+    },
+    {
+      "type": "prose",
+      "html": "<p>The standard minimum is 2,000 bottles per SKU, which is more than a single shelter absorbs in a year. Shelters and rescues almost always buy through a regional distributor, an NGO procurement framework or a reseller who consolidates orders — and the format mix that works best for consolidation is the mixed-carton approach: a heavy laundry carton alongside a high-density wash carton fills a pallet far better than either alone.</p><p>If you are a distributor serving this channel, the per-SKU figures for cartons, weights and HS codes are on each product page, and minimum order, price and production time for a specific order are confirmed once the destination and quantity are known.</p>"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "id": "P015",
+      "note": "300 mL no-rinse foam — the practical intake format for cats and small breeds"
+    },
+    {
+      "id": "P014",
+      "note": "500 mL no-rinse foam — larger dogs and full spot cleans"
+    },
+    {
+      "id": "P016",
+      "note": "200 mL paw foam — for animals arriving from outside"
+    },
+    {
+      "id": "P011",
+      "note": "200 mL multi-purpose wash — 24 per carton, the highest-density wash carton"
+    },
+    {
+      "id": "P017",
+      "note": "1.5 kg laundry detergent — for bedding, blankets and towels"
+    }
+  ]
+}

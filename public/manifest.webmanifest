@@ -1,0 +1,45 @@
+{
+  "name": "SHENHE ZHONGKE · Pet Care OEM/ODM Factory",
+  "short_name": "SHENHE ZHONGKE",
+  "description": "Pet care OEM/ODM manufacturer. 16 SKUs across 4 product lines. FDA-registered · ISO 22716 GMP · 30,000 m² industrial park in Heyuan, Guangdong.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["business", "manufacturing", "shopping"],
+  "icons": [
+    {
+      "src": "/assets/img/ui/logo.webp",
+      "sizes": "any",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/img/ui/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Get a Quote",
+      "url": "/contact.html",
+      "description": "Send your target market, MOQ, and timeline. We reply within 48 hours."
+    },
+    {
+      "name": "View Products",
+      "url": "/products/",
+      "description": "Browse 16 SKUs across 4 product lines."
+    },
+    {
+      "name": "OEM/ODM Service",
+      "url": "/oem-odm.html",
+      "description": "Private label, custom formula, packaging."
+    }
+  ]
+}

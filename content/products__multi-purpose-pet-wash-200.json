@@ -1,0 +1,24 @@
+{
+  "source": "products/multi-purpose-pet-wash-200.html",
+  "slug": "products__multi-purpose-pet-wash-200",
+  "isPortal": false,
+  "head": {
+    "title": "Multi-Purpose Pet Wash 200 mL | Private Label",
+    "description": "Multi-purpose wash; gentle cleansing + antibacterial",
+    "canonical": "https://shenhezhongke.com/products/multi-purpose-pet-wash-200.html",
+    "ogTitle": "Multi-Purpose Pet Wash 200 mL | Private Label",
+    "ogDescription": "Multi-purpose wash; gentle cleansing + antibacterial",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [],
+    "hasGtm": false
+  },
+  "blocks": [],
+  "stats": {
+    "blocks": 0,
+    "richtextFallback": 0
+  }
+}

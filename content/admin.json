@@ -1,0 +1,33 @@
+{
+ "source": "admin.html",
+ "slug": "admin",
+ "isPortal": true,
+ "head": {
+  "title": "Admin Console · SHENHE ZHONGKE",
+  "description": null,
+  "canonical": null,
+  "ogTitle": "Admin Console · SHENHE ZHONGKE",
+  "ogDescription": "Admin Console · SHENHE ZHONGKE",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": true
+ },
+ "blocks": [
+  {
+   "type": "richtext",
+   "classes": "",
+   "bg": "plain",
+   "content": {
+    "html": "<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5KV9GJR2\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n\n\n  <main class=\"pp-admin\" id=\"app\">\n    \n    <div class=\"pp-admin-loading\">Loading…</div>\n  </main>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 1,
+  "richtextFallback": 1
+ }
+}

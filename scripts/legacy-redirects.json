@@ -1,0 +1,35 @@
+{
+  "_readme": [
+    "The addresses the legacy site published, and the page that replaced each.",
+    "",
+    "Built on 2026-11-05 from content/_livejsonld.json (the capture of the",
+    "live legacy site) joined to the current pages on the SKU. The same SKU",
+    "is the same product at two addresses, so the map is a join, not a guess.",
+    "",
+    "Every one of these addresses was published by the legacy site and may",
+    "still be in a search engine's index. A 301 hands the address and its",
+    "history to the page that replaced it; a 404 throws the history away and",
+    "leaves the engine with a dead address it has to re-discover.",
+    "",
+    "The nginx rules that serve them live in the site's vhost. scripts/",
+    "check_legacy_redirects.py checks both this map and the live answers."
+  ],
+  "redirects": {
+    "catclean-350.html": "cat-ringworm-spray.html",
+    "disinfect-sol-350.html": "pet-disinfectant-deodorizing-solution.html",
+    "ear-clean-100.html": "ear-mite-cleaning-solution.html",
+    "laundry-1.5kg.html": "pet-household-laundry-detergent.html",
+    "litter-powder-300.html": "cat-litter-partner-300.html",
+    "litter-powder-500.html": "cat-litter-companion.html",
+    "norinse-foam-300.html": "pet-waterless-cleaning-foam.html",
+    "norinse-foam-500.html": "waterless-cleansing-foam-500.html",
+    "oem-deo-spray-350.html": "pet-deodorizing-spray.html",
+    "outdoor-repellent-80.html": "outdoor-insect-repellent-spray.html",
+    "paw-foam-200.html": "pet-paw-cleaning-foam.html",
+    "paw-moisture-10g.html": "pet-paw-moisturizing-gel.html",
+    "probio-dental-150.html": "probiotic-pet-tooth-cleaner.html",
+    "shampoo-500.html": "pet-shampoo-antibacterial-500.html",
+    "shampoo-mite-300.html": "pet-shampoo-antibacterial-300.html",
+    "spray-gun-kit.html": "pet-deodorizing-spray-gun-kit.html"
+  }
+}

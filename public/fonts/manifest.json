@@ -1,0 +1,198 @@
+[
+  {
+    "family": "Inter",
+    "weight": "100900",
+    "file": "inter-100900-100.woff2",
+    "local": "/fonts/inter-100900-100.woff2",
+    "bytes": 85272
+  },
+  {
+    "family": "Inter",
+    "weight": "100900",
+    "file": "inter-100900-102.woff2",
+    "local": "/fonts/inter-100900-102.woff2",
+    "bytes": 10280
+  },
+  {
+    "family": "Inter",
+    "weight": "100900",
+    "file": "inter-100900-1fxx.woff2",
+    "local": "/fonts/inter-100900-1fxx.woff2",
+    "bytes": 11272
+  },
+  {
+    "family": "Inter",
+    "weight": "100900",
+    "file": "inter-100900-301.woff2",
+    "local": "/fonts/inter-100900-301.woff2",
+    "bytes": 18744
+  },
+  {
+    "family": "Inter",
+    "weight": "100900",
+    "file": "inter-100900-370.woff2",
+    "local": "/fonts/inter-100900-370.woff2",
+    "bytes": 19044
+  },
+  {
+    "family": "Inter",
+    "weight": "100900",
+    "file": "inter-100900-460.woff2",
+    "local": "/fonts/inter-100900-460.woff2",
+    "bytes": 25844
+  },
+  {
+    "family": "Inter",
+    "weight": "100900",
+    "file": "inter-100900-xx.woff2",
+    "local": "/fonts/inter-100900-xx.woff2",
+    "bytes": 48432
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "500",
+    "file": "inter-tight-500-100.woff2",
+    "local": "/fonts/inter-tight-500-100.woff2",
+    "bytes": 89820
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "500",
+    "file": "inter-tight-500-102.woff2",
+    "local": "/fonts/inter-tight-500-102.woff2",
+    "bytes": 10508
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "500",
+    "file": "inter-tight-500-1fxx.woff2",
+    "local": "/fonts/inter-tight-500-1fxx.woff2",
+    "bytes": 11736
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "500",
+    "file": "inter-tight-500-301.woff2",
+    "local": "/fonts/inter-tight-500-301.woff2",
+    "bytes": 17052
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "500",
+    "file": "inter-tight-500-370.woff2",
+    "local": "/fonts/inter-tight-500-370.woff2",
+    "bytes": 22212
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "500",
+    "file": "inter-tight-500-460.woff2",
+    "local": "/fonts/inter-tight-500-460.woff2",
+    "bytes": 26644
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "500",
+    "file": "inter-tight-500-xx.woff2",
+    "local": "/fonts/inter-tight-500-xx.woff2",
+    "bytes": 44916
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "600",
+    "file": "inter-tight-600-100.woff2",
+    "local": "/fonts/inter-tight-600-100.woff2",
+    "bytes": 89820
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "600",
+    "file": "inter-tight-600-102.woff2",
+    "local": "/fonts/inter-tight-600-102.woff2",
+    "bytes": 10508
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "600",
+    "file": "inter-tight-600-1fxx.woff2",
+    "local": "/fonts/inter-tight-600-1fxx.woff2",
+    "bytes": 11736
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "600",
+    "file": "inter-tight-600-301.woff2",
+    "local": "/fonts/inter-tight-600-301.woff2",
+    "bytes": 17052
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "600",
+    "file": "inter-tight-600-370.woff2",
+    "local": "/fonts/inter-tight-600-370.woff2",
+    "bytes": 22212
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "600",
+    "file": "inter-tight-600-460.woff2",
+    "local": "/fonts/inter-tight-600-460.woff2",
+    "bytes": 26644
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "600",
+    "file": "inter-tight-600-xx.woff2",
+    "local": "/fonts/inter-tight-600-xx.woff2",
+    "bytes": 44916
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "700",
+    "file": "inter-tight-700-100.woff2",
+    "local": "/fonts/inter-tight-700-100.woff2",
+    "bytes": 89820
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "700",
+    "file": "inter-tight-700-102.woff2",
+    "local": "/fonts/inter-tight-700-102.woff2",
+    "bytes": 10508
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "700",
+    "file": "inter-tight-700-1fxx.woff2",
+    "local": "/fonts/inter-tight-700-1fxx.woff2",
+    "bytes": 11736
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "700",
+    "file": "inter-tight-700-301.woff2",
+    "local": "/fonts/inter-tight-700-301.woff2",
+    "bytes": 17052
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "700",
+    "file": "inter-tight-700-370.woff2",
+    "local": "/fonts/inter-tight-700-370.woff2",
+    "bytes": 22212
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "700",
+    "file": "inter-tight-700-460.woff2",
+    "local": "/fonts/inter-tight-700-460.woff2",
+    "bytes": 26644
+  },
+  {
+    "family": "Inter Tight",
+    "weight": "700",
+    "file": "inter-tight-700-xx.woff2",
+    "local": "/fonts/inter-tight-700-xx.woff2",
+    "bytes": 44916
+  }
+]

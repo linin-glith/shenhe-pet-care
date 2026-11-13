@@ -1,0 +1,343 @@
+@import './v3.css';
+@import "tailwindcss";
+
+/* ============================================
+   Shenhe Zhongke B2B Design Tokens
+   ============================================ */
+
+:root {
+  /* Brand colors */
+  --color-brand-primary: #0a6e65; /* the same teal as --v2-accent-600 */
+  --color-brand-primary-dark: #095f58;
+  --color-brand-primary-light: #4FA8A4;
+  --color-brand-soft: #E6F4F2;
+  --color-accent-warm: #C01E25; /* hsj red - CTA hover */
+  --color-accent-warm-dark: #A0181E;
+  --color-ink-deep: #1F2A2E;
+  --color-ink: #1F2A2E;
+  --color-ink-600: #4B5563;
+  --color-ink-700: #374151;
+  --color-ink-400: #9CA3AF;
+  --color-muted: #5B6670;
+  --color-line: #E5E7EB;
+  --color-surface: #FFFFFF;
+  --color-surface-soft: #F7FAFA;
+  --color-border-soft: #E5E7EB;
+
+  /* Background */
+  --background: #FFFFFF;
+  --foreground: var(--color-ink-deep);
+
+  /* Typography scale */
+  /* The display face. `--font-display` is set by next/font on the <html>
+     element (Inter Tight). The old value here was
+     `var(--font-display), ui-serif, Georgia, serif` — a self-reference,
+     which CSS resolves to the guaranteed-invalid value, so every
+     headline silently fell through to a serif fallback while the rest
+     of the site was Inter. The fallback chain stays for the case where
+     the font has not loaded. */
+  /*
+   * The three faces, and the fallback chain behind each.
+   *
+   * These were self-referencing: `--font-sans: var(--font-sans), ...`
+   * declares a variable in terms of itself, which CSS resolves to the
+   * guaranteed-invalid value, so the whole declaration was dropped and
+   * the browser fell through to whatever the UA defaults to.
+   *
+   * That is not academic. `ui-sans-serif` and `system-ui` resolve to the
+   * operating system's UI font, and on a machine with a CJK UI font
+   * installed that is a CJK face — whose Latin glyphs are much wider.
+   * A headline measured against the wrong metric is a headline that
+   * overflows on one reader's screen and not on another's, which is the
+   * worst kind of bug: it survives review and breaks in the market.
+   *
+   * So the chain now names Latin faces explicitly, and the CJK faces
+   * come last, only for the Chinese characters.
+   */
+  --font-display: var(--font-display, "Inter Tight"), "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-sans: var(--font-sans, "Inter"), "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-mono: var(--font-mono, ui-monospace), SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  /* Animation */
+  --ease-out-soft: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-snap: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Layout */
+  --container-max: 1200px;
+  --radius-lg: 16px;
+  --radius-md: 12px;
+  --radius-sm: 8px;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand: var(--color-brand-primary);
+  --color-brand-dark: var(--color-brand-primary-dark);
+  --color-brand-light: var(--color-brand-primary-light);
+  --color-brand-soft: var(--color-brand-soft);
+  --color-accent: var(--color-accent-warm);
+  --color-accent-dark: var(--color-accent-warm-dark);
+  --color-ink: var(--color-ink);
+  --color-ink-deep: var(--color-ink-deep);
+  --color-ink-600: var(--color-ink-600);
+  --color-ink-700: var(--color-ink-700);
+  --color-ink-400: var(--color-ink-400);
+  --color-muted: var(--color-muted);
+  --color-line: var(--color-line);
+  --color-surface: var(--color-surface);
+  --color-surface-soft: var(--color-surface-soft);
+  --color-border-soft: var(--color-border-soft);
+  --font-display: var(--font-display);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+  --radius-lg: var(--radius-lg);
+  --radius-md: var(--radius-md);
+  --radius-sm: var(--radius-sm);
+}
+
+/* ============================================
+   Base
+   ============================================ */
+
+html, body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-feature-settings: "ss01", "cv11";
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+}
+
+/* The heading COLOUR lives in the base layer, and that is deliberate.
+
+   globals.css is imported before tailwindcss, so every plain rule written
+   here is UNLAYERED — and in the CSS cascade an unlayered declaration
+   outranks a declaration in ANY layer, whatever the specificity. Tailwind v4
+   emits .text-white, .text-v2-ink-400 and every other colour utility inside
+   @layer utilities, so all of them lost to this bare `h1` selector and the
+   heading silently rendered ink-deep.
+
+   The damage was site-wide and invisible in code review: the white-on-teal
+   closing bands rendered ink-on-teal (rgb(31,42,46) on #0f9d84), and the
+   muted eyebrow headings that ask for text-v2-ink-400 rendered full-strength
+   ink instead of grey.
+
+   In @layer base the utilities win, which is exactly what the class names
+   promise. The font and the tracking stay unlayered on purpose: those are
+   the legacy defaults the migrated prose pages still rely on, and no utility
+   should silently take them over.
+*/
+@layer base {
+  h1, h2, h3, h4 {
+    color: var(--color-ink-deep);
+  }
+}
+
+/* ============================================
+   Utilities
+   ============================================ */
+
+.container-pp {
+  max-width: var(--container-max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .container-pp {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Smooth scroll for in-page anchors */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ============================================
+   Legacy prose — maps the extracted `pp-*` markup
+   onto v2 design tokens.
+
+   Content arrives as raw HTML from legacy2json.py (richtext / prose / table
+   fallbacks), so the legacy class names still appear in the DOM. Rather than
+   porting ~280 utility classes to Tailwind, we style the ones that carry
+   meaning here. Anything unstyled inherits sensible body defaults.
+   ============================================ */
+
+.legacy-prose {
+  color: var(--color-ink-700);
+  line-height: 1.7;
+}
+
+.legacy-prose > :first-child { margin-top: 0; }
+.legacy-prose > :last-child { margin-bottom: 0; }
+
+.legacy-prose h1,
+.legacy-prose h2,
+.legacy-prose h3,
+.legacy-prose h4 {
+  color: var(--color-ink);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+.legacy-prose h1 { font-size: 2.25rem; }
+.legacy-prose h2 { font-size: 1.75rem; }
+.legacy-prose h3 { font-size: 1.25rem; }
+.legacy-prose h4 { font-size: 1.0625rem; }
+
+.legacy-prose p { margin: 0 0 1rem; }
+
+.legacy-prose a {
+  color: var(--color-brand-primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.legacy-prose a:hover { color: var(--color-brand-primary-dark); }
+
+.legacy-prose ul,
+.legacy-prose ol { margin: 0 0 1rem; padding-left: 1.5rem; }
+.legacy-prose li { margin-bottom: 0.375rem; }
+
+.legacy-prose strong { color: var(--color-ink); font-weight: 600; }
+
+.legacy-prose img { max-width: 100%; height: auto; border-radius: var(--radius-md); }
+
+.legacy-prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+  margin-bottom: 1rem;
+}
+.legacy-prose th {
+  text-align: left;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-muted);
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--color-line);
+}
+.legacy-prose td {
+  padding: 0.75rem;
+  border-bottom: 1px solid rgba(229, 231, 235, 0.7);
+  vertical-align: top;
+}
+
+/* utility classes carried over from legacy markup */
+.legacy-prose .pp-eyebrow {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--color-brand-primary);
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.legacy-prose .pp-lead,
+.legacy-prose .pp-lead-narrow {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: var(--color-muted);
+}
+.legacy-prose .pp-lead-narrow { max-width: 46rem; }
+.legacy-prose .pp-small-text,
+.legacy-prose .pp-text-tiny {
+  font-size: 0.8125rem;
+  color: var(--color-muted);
+}
+.legacy-prose .pp-accent-bold { color: var(--color-brand-primary); font-weight: 600; }
+.legacy-prose .pp-accent-text { color: var(--color-brand-primary); }
+.legacy-prose .pp-trade-h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--color-ink);
+  margin-top: 2.5rem;
+}
+.legacy-prose .pp-text-center { text-align: center; }
+
+.legacy-prose .pp-pill,
+.legacy-prose .pp-badge {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgba(13, 148, 136, 0.3);
+  border-radius: 9999px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--color-brand-primary);
+  background: rgba(230, 244, 242, 0.5);
+  margin-right: 0.375rem;
+}
+.legacy-prose .pp-badge--amber,
+.legacy-prose .pp-badge--partial {
+  border-color: rgba(245, 158, 11, 0.4);
+  color: #b45309;
+  background: #fffbeb;
+}
+.legacy-prose .pp-badge--pending,
+.legacy-prose .pp-badge--infra {
+  border-color: var(--color-line);
+  color: var(--color-muted);
+  background: var(--color-surface-soft);
+}
+
+.legacy-prose .pp-list-item { margin-bottom: 0.5rem; }
+
+.legacy-prose .pp-checklist__item {
+  display: flex;
+  gap: 0.75rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--color-line);
+}
+
+.legacy-prose .pp-card,
+.legacy-prose .pp-feature-card {
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  background: #fff;
+  margin-bottom: 1rem;
+}
+
+.legacy-prose .pp-trade-list { margin-bottom: 1rem; }
+
+/* drop cap / spacing helpers that legacy inlined */
+.legacy-prose .pp-mt-2 { margin-top: 0.5rem; }
+.legacy-prose .pp-mt-3 { margin-top: 0.75rem; }
+.legacy-prose .pp-mt-4 { margin-top: 1rem; }
+.legacy-prose .pp-mt-6 { margin-top: 1.5rem; }
+.legacy-prose .pp-mt-8 { margin-top: 2rem; }
+.legacy-prose .pp-mb-3 { margin-bottom: 0.75rem; }

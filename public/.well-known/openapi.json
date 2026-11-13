@@ -1,0 +1,250 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "SHENHE ZHONGKE — pet care OEM/ODM, public API",
+    "version": "1.0.0",
+    "description": "The public endpoints of shenhezhongke.com. Everything else on this site (the console, the admin screens and the buyer portal) is authenticated and is deliberately not described here.",
+    "license": {
+      "name": "All rights reserved",
+      "url": "https://shenhezhongke.com/terms.html"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://shenhezhongke.com"
+    }
+  ],
+  "paths": {
+    "/api/health": {
+      "get": {
+        "summary": "The service is up and the database answers",
+        "operationId": "health",
+        "responses": {
+          "200": {
+            "description": "The service is up",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "ok": {
+                      "type": "boolean"
+                    },
+                    "db": {
+                      "type": "string",
+                      "enum": [
+                        "up",
+                        "down"
+                      ]
+                    },
+                    "time": {
+                      "type": "string",
+                      "format": "date-time"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "The database did not answer"
+          }
+        }
+      }
+    },
+    "/api/inquiries": {
+      "post": {
+        "summary": "Send an enquiry",
+        "description": "One of email or phone/whatsapp is required, and message is required. Two bot checks run on the server: a `company_website` field that a human never sees must be empty, and `form_age_ms` must be at least 2000. Both are refused with the same 422 as a missing field.\n\nTHE THREE THAT MAKE AN ENQUIRY QUOTABLE are products, volume and country - an enquiry that carries all three can be quoted without a follow-up question. The product ids come from /product-feed.json, which is the catalogue as a machine-readable feed.",
+        "operationId": "createInquiry",
+        "parameters": [
+          {
+            "name": "Idempotency-Key",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 120
+            },
+            "description": "Send the same key when you retry, and the retry does not become a second enquiry."
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "message"
+                ],
+                "properties": {
+                  "message": {
+                    "type": "string",
+                    "maxLength": 4000
+                  },
+                  "email": {
+                    "type": "string",
+                    "maxLength": 200
+                  },
+                  "phone": {
+                    "type": "string",
+                    "maxLength": 60
+                  },
+                  "whatsapp": {
+                    "type": "string",
+                    "maxLength": 60
+                  },
+                  "name": {
+                    "type": "string",
+                    "maxLength": 120
+                  },
+                  "company": {
+                    "type": "string",
+                    "maxLength": 160
+                  },
+                  "country": {
+                    "type": "string",
+                    "maxLength": 80
+                  },
+                  "products": {
+                    "type": "array",
+                    "maxItems": 50,
+                    "items": {
+                      "type": "string"
+                    },
+                    "description": "The SKU ids from /product-feed.json, or the product names. One of the three that make an enquiry quotable."
+                  },
+                  "volume": {
+                    "type": "string",
+                    "maxLength": 60,
+                    "description": "The annual volume, e.g. \"100,000 - 500,000 units\". One of the three that make an enquiry quotable."
+                  },
+                  "quantity": {
+                    "type": "integer",
+                    "description": "The quantity being ordered."
+                  },
+                  "incoterm": {
+                    "type": "string",
+                    "enum": [
+                      "EXW Shenzhen (default)",
+                      "FOB Guangzhou / Shenzhen",
+                      "CIF",
+                      "DDP"
+                    ]
+                  },
+                  "customerType": {
+                    "type": "string",
+                    "enum": [
+                      "A first private-label order",
+                      "A repeat order for a product we already make",
+                      "A distributor or wholesaler",
+                      "A brand with its own formulation to match",
+                      "A grooming salon or veterinary clinic buying for use",
+                      "A buyer with an existing specification to match"
+                    ]
+                  },
+                  "source": {
+                    "type": "string",
+                    "maxLength": 40
+                  },
+                  "source_detail": {
+                    "type": "object",
+                    "description": "Where the enquiry came from."
+                  },
+                  "idempotency_key": {
+                    "type": "string",
+                    "maxLength": 120,
+                    "description": "Optional. Send the same key when you retry, and the retry does not become a second enquiry. It can also be sent as the Idempotency-Key header."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "The enquiry was recorded",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "reference": {
+                      "type": "string",
+                      "example": "INQ-20261104-K3QW7"
+                    },
+                    "created_at": {
+                      "type": "string",
+                      "format": "date-time"
+                    },
+                    "message": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "The body could not be read"
+          },
+          "422": {
+            "description": "A field was missing, or the submission tripped a bot check"
+          },
+          "429": {
+            "description": "Too many enquiries from this address"
+          }
+        }
+      }
+    },
+    "/api/inquiries/track": {
+      "get": {
+        "summary": "Where an enquiry got to",
+        "description": "Deliberately narrow: a reference shows that an enquiry exists and what state it is in, never who sent it or what it was about.",
+        "operationId": "trackInquiry",
+        "parameters": [
+          {
+            "name": "reference",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "pattern": "^INQ-\\d{8}-[A-Z0-9]{5}$"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The enquiry",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "reference": {
+                      "type": "string"
+                    },
+                    "status": {
+                      "type": "string"
+                    },
+                    "created_at": {
+                      "type": "string",
+                      "format": "date-time"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "That does not look like an enquiry reference"
+          },
+          "404": {
+            "description": "No enquiry with that reference"
+          }
+        }
+      }
+    }
+  }
+}

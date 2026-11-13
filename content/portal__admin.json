@@ -1,0 +1,147 @@
+{
+ "source": "portal/admin.html",
+ "slug": "portal__admin",
+ "isPortal": true,
+ "head": {
+  "title": "Partner Console · SHENHE ZHONGKE",
+  "description": null,
+  "canonical": null,
+  "ogTitle": "Partner Console · SHENHE ZHONGKE",
+  "ogDescription": "Partner Console · SHENHE ZHONGKE",
+  "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+  "ogType": "website",
+  "twitterCard": "summary_large_image",
+  "themeColor": null,
+  "hreflang": [],
+  "jsonLd": [],
+  "hasGtm": false
+ },
+ "blocks": [
+  {
+   "classes": "pz-welcome-banner",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": "下午好",
+    "sub": null,
+    "html": "<section class=\"pz-welcome-banner\" id=\"welcomeBanner\">\n        <div>\n          <h2 class=\"pz-welcome-hi\" id=\"welcomeHi\">下午好</h2>\n          <p class=\"pz-welcome-text\" id=\"welcomeText\">Loading dashboard…</p>\n        </div>\n        <div class=\"pz-welcome-actions\">\n          <button class=\"pz-btn pz-btn--ghost\" onclick=\"P6Admin.openSearch()\">⌘K Search</button>\n          <a class=\"pz-btn pz-btn--ghost\" href=\"#\" onclick=\"P6Admin.showOrders(event)\">📦 Orders</a>\n          <button class=\"pz-btn pz-btn--primary\" onclick=\"P6Admin.openCreateInquiry()\">+ 创建询盘</button>\n          <a class=\"pz-btn pz-btn--primary\" href=\"#\" onclick=\"P6Admin.showInquiries(event)\">查看全部询盘 →</a>\n        </div>\n      </section>"
+   }
+  },
+  {
+   "classes": "pz-card",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": null,
+    "sub": null,
+    "html": "<section class=\"pz-card\">\n          <header class=\"pz-card__head\">\n            <div>\n              <h3>询盘趋势 · 最近 14 天</h3>\n              <p class=\"pz-card__meta\">每日新询盘</p>\n            </div>\n          </header>\n          <div class=\"pz-chart-wrap\">\n            <svg id=\"trendChart\" class=\"pz-trend-chart\" viewBox=\"0 0 700 220\" preserveAspectRatio=\"none\"></svg>\n          </div>\n        </section>"
+   }
+  },
+  {
+   "classes": "pz-card",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": null,
+    "sub": null,
+    "html": "<section class=\"pz-card\">\n          <header class=\"pz-card__head\">\n            <div>\n              <h3>询盘来源 · 国家</h3>\n              <p class=\"pz-card__meta\">最近 30 天</p>\n            </div>\n          </header>\n          <ul class=\"pz-country-list\" id=\"countryList\">\n            <li class=\"pz-loading\">Loading…</li>\n          </ul>\n        </section>"
+   }
+  },
+  {
+   "classes": "pz-card",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": null,
+    "sub": null,
+    "html": "<section class=\"pz-card\">\n          <header class=\"pz-card__head\">\n            <div>\n              <h3>Recent inquiries</h3>\n              <p class=\"pz-card__meta\">最近 10 条 · 点击行打开详情</p>\n            </div>\n            <a class=\"pz-btn pz-btn--ghost pz-btn--sm\" href=\"#\" onclick=\"P6Admin.showInquiries(event)\">View all</a>\n          </header>\n          <ul class=\"pz-inquiry-row-list\" id=\"recentInquiries\">\n            <li class=\"pz-loading\">Loading…</li>\n          </ul>\n        </section>"
+   }
+  },
+  {
+   "classes": "pz-card",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": null,
+    "sub": null,
+    "html": "<section class=\"pz-card\">\n          <header class=\"pz-card__head\">\n            <div>\n              <h3>Recent activity</h3>\n              <p class=\"pz-card__meta\">最近 7 天事件流</p>\n            </div>\n          </header>\n          <ul class=\"pz-activity-list\" id=\"activityList\">\n            <li class=\"pz-loading\">Loading…</li>\n          </ul>\n        </section>"
+   }
+  },
+  {
+   "classes": "",
+   "bg": "plain",
+   "type": "richtext",
+   "content": {
+    "html": "<header id=\"pz-topbar\"></header>"
+   }
+  },
+  {
+   "classes": "pz-card__head",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": null,
+    "sub": null,
+    "html": "<header class=\"pz-card__head\">\n            <div>\n              <h3>询盘趋势 · 最近 14 天</h3>\n              <p class=\"pz-card__meta\">每日新询盘</p>\n            </div>\n          </header>"
+   }
+  },
+  {
+   "classes": "pz-card__head",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": null,
+    "sub": null,
+    "html": "<header class=\"pz-card__head\">\n            <div>\n              <h3>询盘来源 · 国家</h3>\n              <p class=\"pz-card__meta\">最近 30 天</p>\n            </div>\n          </header>"
+   }
+  },
+  {
+   "classes": "pz-card__head",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": null,
+    "sub": null,
+    "html": "<header class=\"pz-card__head\">\n            <div>\n              <h3>Recent inquiries</h3>\n              <p class=\"pz-card__meta\">最近 10 条 · 点击行打开详情</p>\n            </div>\n            <a class=\"pz-btn pz-btn--ghost pz-btn--sm\" href=\"#\" onclick=\"P6Admin.showInquiries(event)\">View all</a>\n          </header>"
+   }
+  },
+  {
+   "classes": "pz-card__head",
+   "bg": "plain",
+   "type": "prose",
+   "content": {
+    "title": null,
+    "sub": null,
+    "html": "<header class=\"pz-card__head\">\n            <div>\n              <h3>Recent activity</h3>\n              <p class=\"pz-card__meta\">最近 7 天事件流</p>\n            </div>\n          </header>"
+   }
+  },
+  {
+   "classes": "pz-modal-head",
+   "bg": "plain",
+   "type": "richtext",
+   "content": {
+    "html": "<header class=\"pz-modal-head\">\n        <h3>创建询盘（手动录入 / Gmail / 电话 / 微信）</h3>\n        <button class=\"pz-btn pz-btn--ghost pz-btn--sm\" onclick=\"P6Admin.closeCreateInquiry()\">✕</button>\n      </header>"
+   }
+  },
+  {
+   "classes": "pz-modal-head",
+   "bg": "plain",
+   "type": "richtext",
+   "content": {
+    "html": "<header class=\"pz-modal-head\">\n        <h3>转为订单</h3>\n        <button class=\"pz-btn pz-btn--ghost pz-btn--sm\" onclick=\"P6Admin.closeConvert()\">✕</button>\n      </header>"
+   }
+  },
+  {
+   "type": "richtext",
+   "classes": "",
+   "bg": "plain",
+   "content": {
+    "html": "<main class=\"pz-shell pz-section pz-admin\">\n\n    \n    <div id=\"admin-login\">\n      <div class=\"pz-card pz-login-card\">\n        <h2>Sign in</h2>\n        <p style=\"color:var(--pp-ink-600);\">Use the partner admin email + password.</p>\n        <form id=\"admin-login-form\" novalidate>\n          <div id=\"form-msg\"></div>\n          <div class=\"pz-form__field\">\n            <label class=\"pz-form__label\" for=\"email\">Email</label>\n            <input class=\"pz-form__input\" type=\"email\" id=\"email\" name=\"email\" required autocomplete=\"email\">\n          </div>\n          <div class=\"pz-form__field\">\n            <label class=\"pz-form__label\" for=\"password\">Password</label>\n            <input class=\"pz-form__input\" type=\"password\" id=\"password\" name=\"password\" required autocomplete=\"current-password\">\n          </div>\n          <button class=\"pz-btn pz-btn--primary\" type=\"submit\">Log in</button>\n        </form>\n      </div>\n    </div>\n\n    \n    <div id=\"admin-dashboard\" style=\"display:none;\">\n\n      \n       \n\n      \n      <div class=\"pz-stat-grid\">\n        <div class=\"pz-card pz-stat-card\">\n          <span class=\"pz-stat-label\">今日新询盘</span>\n          <span class=\"pz-stat-value\" id=\"statToday\">—</span>\n          <span class=\"pz-stat-delta\" id=\"statTodayDelta\">—</span>\n        </div>\n        <div class=\"pz-card pz-stat-card\">\n          <span class=\"pz-stat-label\">本周询盘</span>\n          <span class=\"pz-stat-value\" id=\"statWeek\">—</span>\n          <span class=\"pz-stat-delta\" id=\"statWeekDelta\">—</span>\n        </div>\n        <div class=\"pz-card pz-stat-card\">\n          <span class=\"pz-stat-label\">活跃客户</span>\n          <span class=\"pz-stat-value\" id=\"statCustomers\">—</span>\n          <span class=\"pz-stat-delta\">已注册</span>\n        </div>\n        <div class=\"pz-card pz-stat-card\">\n          <span class=\"pz-stat-label\">平均响应时长</span>\n          <span class=\"pz-stat-value\" id=\"statResponse\">—</span>\n          <span class=\"pz-stat-delta\" id=\"statResponseDelta\">—</span>\n        </div>\n      </div>\n\n      \n      <div class=\"pz-row-grid\">\n         \n\n         \n      </div>\n\n      \n      <div class=\"pz-row-grid\">\n         \n\n         \n      </div>\n\n    </div>\n\n    \n    <div id=\"admin-inquiries\" style=\"display:none;\">\n      <a class=\"pz-back-link\" href=\"#\" onclick=\"P6Admin.showDashboard();return false;\">← 返回 Dashboard</a>\n      <div class=\"pz-row pz-row--wrap\" style=\"margin-bottom:14px;\">\n        <h2 style=\"margin:0;\">All inquiries</h2>\n        <span class=\"pz-spacer\"></span>\n        <button class=\"pz-btn pz-btn--primary\" onclick=\"P6Admin.openCreateInquiry()\">+ 创建询盘</button>\n        <input class=\"pz-form__input\" id=\"search\" placeholder=\"Search by name / email / company\" style=\"max-width:280px;\">\n      </div>\n      <div id=\"inquiries-list-panel\" class=\"pz-card\">\n        <div id=\"inquiries-table-wrap\"><div class=\"pz-loading\">Loading inquiries…</div></div>\n      </div>\n      \n      <div id=\"crmLayout\" class=\"pz-crm\" style=\"display:none;\"></div>\n    </div>\n\n    \n    <div id=\"admin-orders\" style=\"display:none;\">\n      <a class=\"pz-back-link\" href=\"#\" onclick=\"P6Admin.showDashboard();return false;\">← 返回 Dashboard</a>\n      <div class=\"pz-row pz-row--wrap\" style=\"margin-bottom:14px;\">\n        <h2 style=\"margin:0;\">Orders</h2>\n        <span class=\"pz-spacer\"></span>\n        <select id=\"orderStatusFilter\" class=\"pz-form__select\" style=\"max-width:180px;\">\n          <option value=\"\">All statuses</option>\n        </select>\n        <input class=\"pz-form__input\" id=\"orderSearch\" placeholder=\"Search order # / customer / product\" style=\"max-width:280px;\">\n      </div>\n      <div id=\"orders-list-panel\" class=\"pz-card\">\n        <div class=\"pz-loading\">Loading orders…</div>\n      </div>\n      <div id=\"order-detail-panel\" style=\"display:none;\"></div>\n    </div>\n  </main>\n\n  \n  <div class=\"pz-modal-overlay\" id=\"createInquiryOverlay\" hidden>\n    <div class=\"pz-modal\">\n       \n      <div class=\"pz-modal-body\">\n        <p class=\"pz-modal-hint\">系统会自动发\"我们已收到你的询盘\"邮件给客户，并 CC 一份给 partner 邮箱。</p>\n        <form id=\"createInquiryForm\">\n          <div class=\"pz-form__row\">\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">客户邮箱 *</label>\n              <input class=\"pz-form__input\" type=\"email\" name=\"email\" required>\n            </div>\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">客户姓名 *</label>\n              <input class=\"pz-form__input\" type=\"text\" name=\"name\" required>\n            </div>\n          </div>\n          <div class=\"pz-form__row\">\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">公司</label>\n              <input class=\"pz-form__input\" type=\"text\" name=\"company\">\n            </div>\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">国家</label>\n              <input class=\"pz-form__input\" type=\"text\" name=\"country\" placeholder=\"e.g. United States, Brasil\">\n            </div>\n          </div>\n          <div class=\"pz-form__row\">\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">电话</label>\n              <input class=\"pz-form__input\" type=\"text\" name=\"phone\">\n            </div>\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">来源</label>\n              <select class=\"pz-form__select\" name=\"source\">\n                <option value=\"manual\" selected>Manual (phone / WeChat / in person)</option>\n                <option value=\"gmail_import\">Gmail import</option>\n                <option value=\"email\">Email (non-Gmail)</option>\n                <option value=\"whatsapp\">WhatsApp</option>\n              </select>\n            </div>\n          </div>\n          <div class=\"pz-form__field\">\n            <label class=\"pz-form__label\">询盘产品 *</label>\n            <input class=\"pz-form__input\" type=\"text\" name=\"product_interest\" required placeholder=\"e.g. Pet shampoo 500 mL antibacterial\">\n          </div>\n          <div class=\"pz-form__row\">\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">预计数量</label>\n              <input class=\"pz-form__input\" type=\"text\" name=\"estimated_quantity\" placeholder=\"e.g. 5,000 bottles / month\">\n            </div>\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">目标市场</label>\n              <input class=\"pz-form__input\" type=\"text\" name=\"target_market\" placeholder=\"e.g. EU retail\">\n            </div>\n          </div>\n          <div class=\"pz-form__field\">\n            <label class=\"pz-form__label\">交付时间</label>\n            <input class=\"pz-form__input\" type=\"text\" name=\"timeline\" placeholder=\"e.g. 3 months / urgent\">\n          </div>\n          <div class=\"pz-form__field\">\n            <label class=\"pz-form__label\">询盘内容 *</label>\n            <textarea class=\"pz-form__textarea\" name=\"message\" required rows=\"5\" placeholder=\"客户的原始询盘内容...\"></textarea>\n          </div>\n          <div id=\"createInquiryMsg\"></div>\n        </form>\n      </div>\n      <footer class=\"pz-modal-foot\">\n        <button class=\"pz-btn pz-btn--ghost\" onclick=\"P6Admin.closeCreateInquiry()\">取消</button>\n        <button class=\"pz-btn pz-btn--primary\" id=\"createInquirySubmit\" onclick=\"P6Admin.submitCreateInquiry()\">创建并发送确认邮件</button>\n      </footer>\n    </div>\n  </div>\n\n  \n  <div class=\"pz-modal-overlay\" id=\"convertToOrderOverlay\" hidden>\n    <div class=\"pz-modal\">\n       \n      <div class=\"pz-modal-body\">\n        <p class=\"pz-modal-hint\">将当前询盘转为正式订单，状态自动设为 \"quoted\"。客户邮箱会进订单通知列表。</p>\n        <form id=\"convertToOrderForm\">\n          <div class=\"pz-form__row\">\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">数量</label>\n              <input class=\"pz-form__input\" type=\"number\" name=\"quantity\" min=\"1\">\n            </div>\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">单价 (USD)</label>\n              <input class=\"pz-form__input\" type=\"number\" name=\"unit_price_usd\" step=\"0.0001\" min=\"0\">\n            </div>\n          </div>\n          <div class=\"pz-form__row\">\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">运输条款</label>\n              <input class=\"pz-form__input\" type=\"text\" name=\"shipping_terms\" placeholder=\"FOB Shenzhen / CIF Rotterdam\">\n            </div>\n            <div class=\"pz-form__field\">\n              <label class=\"pz-form__label\">付款条款</label>\n              <input class=\"pz-form__input\" type=\"text\" name=\"payment_terms\" placeholder=\"35% deposit, 65% before shipment\">\n            </div>\n          </div>\n          <div class=\"pz-form__field\">\n            <label class=\"pz-form__label\">目标交付日期</label>\n            <input class=\"pz-form__input\" type=\"date\" name=\"target_delivery_date\">\n          </div>\n          <div class=\"pz-form__field\">\n            <label class=\"pz-form__label\">备注</label>\n            <textarea class=\"pz-form__textarea\" name=\"notes\" rows=\"3\"></textarea>\n          </div>\n          <div id=\"convertToOrderMsg\"></div>\n        </form>\n      </div>\n      <footer class=\"pz-modal-foot\">\n        <button class=\"pz-btn pz-btn--ghost\" onclick=\"P6Admin.closeConvert()\">取消</button>\n        <button class=\"pz-btn pz-btn--primary\" onclick=\"P6Admin.submitConvert()\">转为订单</button>\n      </footer>\n    </div>\n  </div>\n\n  \n  <div class=\"pz-search-overlay\" id=\"searchOverlay\" hidden>\n    <div class=\"pz-search-modal\">\n      <input type=\"search\" id=\"globalSearch\" placeholder=\"搜索询盘号、客户邮箱、公司…\" autocomplete=\"off\">\n      <ul class=\"pz-search-results\" id=\"searchResults\"></ul>\n      <p class=\"pz-search-hint\">↑↓ navigate · ↵ open · Esc close</p>\n    </div>\n  </div>"
+   }
+  }
+ ],
+ "stats": {
+  "blocks": 13,
+  "richtextFallback": 4
+ }
+}

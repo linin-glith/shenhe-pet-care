@@ -1,0 +1,290 @@
+{
+  "$schema": "https://shenhezhongke.com/citation-graph.schema.json",
+  "version": "2.0.0",
+  "updated": "2026-11-10",
+  "description": "Citation graph mapping laboratory reports to the product claims they support. Each report entry lists the products whose efficacy claims are verified by that report, with the specific claim and its location on the product page. This allows AI search engines to trace any claim back to its evidence.",
+  "reports": [
+    {
+      "id": "NACCYH25014722",
+      "lab": "Guangzhou Institute of Microbiology (NACC)",
+      "testType": "Ammonia removal efficiency",
+      "finding": "Ammonia 1.53 → 0.088 mg/m³, a 94.2% removal",
+      "sample": "Pet deodorant sample",
+      "date": "2025",
+      "sha256": "2273cc7786a5dfe90bc04376b948a870fffef9c45e9724ad105e1de65db54ce8",
+      "pdf": "https://shenhezhongke.com/reports/naccyh25014722.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/naccyh25014722.html",
+      "supports": [
+        {
+          "productId": "P002",
+          "productName": "Power Odor Eliminator (Extra Strength) 350 mL",
+          "claim": "94.2% ammonia removal",
+          "claimType": "efficacy",
+          "page": "https://shenhezhongke.com/products/pet-deodorizing-spray.html",
+          "locationOnPage": "#product-questions"
+        },
+        {
+          "productId": "P001",
+          "productName": "Probiotic + Bio-Enzyme Odor Control Set",
+          "claim": "94.2% ammonia removal",
+          "claimType": "efficacy",
+          "page": "https://shenhezhongke.com/products/odor-control-set.html",
+          "locationOnPage": "#product-questions"
+        }
+      ]
+    },
+    {
+      "id": "NACCYH25014721",
+      "lab": "Guangzhou Institute of Microbiology (NACC)",
+      "testType": "Hydrogen sulfide removal efficiency",
+      "finding": "Hydrogen sulfide 0.15 → <0.010 mg/m³, a 93.3% removal",
+      "sample": "Pet deodorant sample",
+      "date": "2025",
+      "sha256": "03f5c37f2e2ada31484ea3a4353d600ce3e0e585ae0d13de94917b853d3325dc",
+      "pdf": "https://shenhezhongke.com/reports/naccyh25014721.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/naccyh25014721.html",
+      "supports": [
+        {
+          "productId": "P002",
+          "productName": "Power Odor Eliminator (Extra Strength) 350 mL",
+          "claim": "93.3% hydrogen sulfide removal",
+          "claimType": "efficacy",
+          "page": "https://shenhezhongke.com/products/pet-deodorizing-spray.html",
+          "locationOnPage": "#product-questions"
+        }
+      ]
+    },
+    {
+      "id": "NACCYH25007027",
+      "lab": "Guangzhou Institute of Microbiology (NACC)",
+      "testType": "Ammonia removal efficiency",
+      "finding": "Ammonia 1.53 → 0.052 mg/m³, a 96.6% removal",
+      "sample": "Cat litter deodorizer sample",
+      "date": "2025",
+      "sha256": "f7eccbab13ac06af95a26e7d5f3dd3fda897b9d7038973966e59dabdb18b61ff",
+      "pdf": "https://shenhezhongke.com/reports/naccyh25007027.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/naccyh25007027.html",
+      "supports": [
+        {
+          "productId": "P007",
+          "productName": "Cat Litter Partner — Deodorizing Powder 500 g",
+          "claim": "96.6% ammonia removal",
+          "claimType": "efficacy",
+          "page": "https://shenhezhongke.com/products/cat-litter-companion.html",
+          "locationOnPage": "#market-fit"
+        },
+        {
+          "productId": "P008",
+          "productName": "Cat Litter Partner — Deodorizing Powder 300 g",
+          "claim": "96.6% ammonia removal",
+          "claimType": "efficacy",
+          "page": "https://shenhezhongke.com/products/cat-litter-partner-300.html",
+          "locationOnPage": "#market-fit"
+        }
+      ]
+    },
+    {
+      "id": "XJ2025001233",
+      "lab": "Guangzhou Institute of Microbiology Group Co., Ltd.",
+      "testType": "Available chlorine stability and acute oral toxicity",
+      "finding": "Available chlorine 130 mg/L, and 111 mg/L after 14 days at 54°C — a 14.6% fall",
+      "sample": "Disinfectant sample",
+      "date": "2025",
+      "sha256": "c636d8b9748bdbd3fbd0892bc5c9b4b979d2368282ffd55751c50647d58ac737",
+      "pdf": "https://shenhezhongke.com/reports/xj2025001233.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/xj2025001233.html",
+      "supports": [
+        {
+          "productId": "P003",
+          "productName": "Disinfectant & Deodorizing Solution 350 mL",
+          "claim": "Available chlorine stability: 130 mg/L with 14.6% fall after 14 days at 54°C",
+          "claimType": "stability",
+          "page": "https://shenhezhongke.com/products/pet-disinfectant-deodorizing-solution.html",
+          "locationOnPage": "#market-fit"
+        }
+      ]
+    },
+    {
+      "id": "2024FM12662R01Da",
+      "lab": "Guangdong Detection Center of Microbiology",
+      "testType": "Fungicidal performance",
+      "finding": "Fungicidal kill rates above 99.999% against Trichophyton mentagrophytes and Microsporum canis",
+      "sample": "Purepaws neutralising spray",
+      "date": "2024",
+      "sha256": "32b520409784a63b758ff159fc6111b8b6eeec4212b1c9c37971ccdb283de5c5",
+      "pdf": "https://shenhezhongke.com/reports/2024fm12662r01da.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/2024fm12662r01da.html",
+      "supports": []
+    },
+    {
+      "id": "2024FM11610R01D",
+      "lab": "Guangdong Detection Center of Microbiology",
+      "testType": "Bactericidal and fungicidal suspension test",
+      "finding": "Kill rates above 99.9999% in the suspension bactericidal and fungicidal tests",
+      "sample": "Disinfectant & deodorizing liquid",
+      "date": "2024",
+      "sha256": "7b4d1462a0b2f62bf6ae9bd377f21842b5903fbf12b48ddd7f0c85291367425",
+      "pdf": "https://shenhezhongke.com/reports/2024fm11610r01d.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/2024fm11610r01d.html",
+      "supports": [
+        {
+          "productId": "P003",
+          "productName": "Disinfectant & Deodorizing Solution 350 mL",
+          "claim": "99.9999% bactericidal and fungicidal kill rate",
+          "claimType": "efficacy",
+          "page": "https://shenhezhongke.com/products/pet-disinfectant-deodorizing-solution.html",
+          "locationOnPage": "#market-fit"
+        }
+      ]
+    },
+    {
+      "id": "2024FM11612R01D",
+      "lab": "Guangdong Detection Center of Microbiology",
+      "testType": "Antibacterial inhibition test",
+      "finding": "Inhibition rate above 99.97% under GB/T 27404.1.11.3.2",
+      "sample": "Multi-effect wash",
+      "date": "2024",
+      "sha256": "8dab2eef5c27c89e21f0cb6b324b7c05ac8f43597655fc3b6e776c1827e9850",
+      "pdf": "https://shenhezhongke.com/reports/2024fm11612r01d.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/2024fm11612r01d.html",
+      "supports": [
+        {
+          "productId": "P010",
+          "productName": "Multi-Purpose Pet Wash 300 mL",
+          "claim": "99.97% antibacterial inhibition rate (GB/T 27404)",
+          "claimType": "efficacy",
+          "page": "https://shenhezhongke.com/products/multi-purpose-pet-wash-300.html",
+          "locationOnPage": "#market-fit"
+        },
+        {
+          "productId": "P011",
+          "productName": "Multi-Purpose Pet Wash 200 mL",
+          "claim": "99.97% antibacterial inhibition rate (GB/T 27404)",
+          "claimType": "efficacy",
+          "page": "https://shenhezhongke.com/products/multi-purpose-pet-wash-200.html",
+          "locationOnPage": "#market-fit"
+        }
+      ]
+    },
+    {
+      "id": "2024FM11612R03D",
+      "lab": "Guangdong Detection Center of Microbiology",
+      "testType": "Mite control test",
+      "finding": "Mite control: 100% kill rate at 48 hours against Dermatophagoides farinae",
+      "sample": "Multi-effect wash",
+      "date": "2024",
+      "sha256": "fdf42af40f371073bc6ac46b22bd9f9bcd54d3ebaeecd2766acc7a0bdef973af",
+      "pdf": "https://shenhezhongke.com/reports/2024fm11612r03d.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/2024fm11612r03d.html",
+      "supports": []
+    },
+    {
+      "id": "2024FM11612R02D",
+      "lab": "Guangdong Detection Center of Microbiology",
+      "testType": "Microbiological and quality test",
+      "finding": "Aerobic bacterial count below 10 CFU/g, thermotolerant coliforms absent; meets QB/T 4524-2013.",
+      "sample": "Multi-effect wash",
+      "date": "2024",
+      "sha256": "abe3c99cedd0da0dff2f7ccfaa9f4cc2b8b549bbff74b4186f5563177608daad",
+      "pdf": "https://shenhezhongke.com/reports/2024fm11612r02d.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/2024fm11612r02d.html",
+      "supports": [
+        {
+          "productId": "P010",
+          "productName": "Multi-Purpose Pet Wash 300 mL",
+          "claim": "Meets QB/T 4524-2013 (batch 2024061102)",
+          "claimType": "safety",
+          "page": "https://shenhezhongke.com/products/multi-purpose-pet-wash-300.html",
+          "locationOnPage": "#market-fit"
+        },
+        {
+          "productId": "P011",
+          "productName": "Multi-Purpose Pet Wash 200 mL",
+          "claim": "Meets QB/T 4524-2013 (batch 2024061102)",
+          "claimType": "safety",
+          "page": "https://shenhezhongke.com/products/multi-purpose-pet-wash-200.html",
+          "locationOnPage": "#market-fit"
+        }
+      ]
+    },
+    {
+      "id": "2024FM11611R02D",
+      "lab": "Guangdong Detection Center of Microbiology",
+      "testType": "Acute oral toxicity safety assessment",
+      "finding": "Acute oral toxicity test on the pet deodorant sample, batch 2024061101",
+      "sample": "Pet deodorant",
+      "date": "2024",
+      "sha256": "08fc1582e4791c7997f30100a386b0536fb6b5f0aef43a516aaa6db2963aba36",
+      "pdf": "https://shenhezhongke.com/reports/2024fm11611r02d.pdf",
+      "htmlVersion": "https://shenhezhongke.com/reports/2024fm11611r02d.html",
+      "supports": [
+        {
+          "productId": "P002",
+          "productName": "Power Odor Eliminator (Extra Strength) 350 mL",
+          "claim": "Safety assessment: acute oral toxicity test passed (batch 2024061101)",
+          "claimType": "safety",
+          "page": "https://shenhezhongke.com/products/pet-deodorizing-spray.html",
+          "locationOnPage": "#market-fit"
+        }
+      ]
+    }
+  ],
+  "unverifiedProducts": [
+    {
+      "productId": "P005",
+      "productName": "Pet Ear Cleansing Solution 100 mL",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P006",
+      "productName": "Probiotic Pet Dental Water 150 mL",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P009",
+      "productName": "Pet Deodorizing Spray Gun Kit",
+      "note": "Bundle product — inherits efficacy from P002 components"
+    },
+    {
+      "productId": "P012",
+      "productName": "Pet Shampoo for Cats or Dogs 500 mL",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P014",
+      "productName": "No-Rinse Pet Cleansing Foam 500 mL",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P015",
+      "productName": "No-Rinse Pet Cleansing Foam 300 mL",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P016",
+      "productName": "Pet Paw Cleansing Foam 200 mL",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P017",
+      "productName": "Laundry Detergent for Pet Households 1.5 kg",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P018",
+      "productName": "Pet Paw Moisturizing Gel 10 g",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P019",
+      "productName": "Outdoor Protection Spray for Pets 80 mL",
+      "note": "No published lab report — recommend adding efficacy test"
+    },
+    {
+      "productId": "P020",
+      "productName": "Pet Insect Repellent Spray 80 mL",
+      "note": "No published lab report — recommend adding efficacy test"
+    }
+  ],
+  "verificationMethod": "Each report's SHA-256 hash is published at https://shenhezhongke.com/report-hashes.json. Batch attestations are written to a public blockchain at https://shenhezhongke.com/attestation.html. An attestation proves the report file existed at the recorded time and has not been changed since."
+}

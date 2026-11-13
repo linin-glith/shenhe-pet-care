@@ -1,0 +1,339 @@
+{
+  "source": "certifications.html",
+  "slug": "certifications",
+  "isPortal": false,
+  "head": {
+    "title": "Pet Care Lab Reports & Certifications | SHENHE ZHONGKE",
+    "description": "Third-party lab reports for pet product importers: ammonia removal, kill rate, mite control, ISO 22716 GMP. Download a report, or ask for your own SKU.",
+    "canonical": "https://shenhezhongke.com/certifications.html",
+    "ogTitle": "Pet Care Lab Reports & Certifications | SHENHE ZHONGKE",
+    "ogDescription": "Third-party lab reports for pet product importers: ammonia removal, kill rate, mite control, ISO 22716 GMP. Download a report, or ask for your own SKU.",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": null,
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Third-Party Lab Reports & Certifications",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Pet deodorant — ammonia removal — NACCYH25014722",
+              "url": "https://shenhezhongke.com/reports/naccyh25014722.html",
+              "identifier": "NACCYH25014722",
+              "abstract": "The determination behind the 94.2% ammonia figure quoted on every deodorizing SKU. 1.53 → 0.088 mg/m³, method CJ/T 516-2017.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Test-Ammonia-Removal-Efficiency.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangzhou Institute of Microbiology (NACC)"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Pet deodorant — hydrogen sulfide removal — NACCYH25014721",
+              "url": "https://shenhezhongke.com/reports/naccyh25014721.html",
+              "identifier": "NACCYH25014721",
+              "abstract": "Independent H₂S determination for the same product family. 0.15 → <0.010 mg/m³, >93.3% removal.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Test-Hydrogen-Sulfide-Removal-Efficiency.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangzhou Institute of Microbiology (NACC)"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Cat litter deodorizer — ammonia removal — NACCYH25007027",
+              "url": "https://shenhezhongke.com/reports/naccyh25007027.html",
+              "identifier": "NACCYH25007027",
+              "abstract": "Litter-line performance: 96.6% ammonia removal, 1.53 → 0.052 mg/m³.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Cat-Litter-Deodorizer-Ammonia-Removal-Test.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangzhou Institute of Microbiology (NACC)"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Disinfectant — available chlorine stability and acute oral toxicity — XJ2025001233",
+              "url": "https://shenhezhongke.com/reports/xj2025001233.html",
+              "identifier": "XJ2025001233",
+              "abstract": "Shelf-life substantiation for the sodium hypochlorite disinfectant solution, with the acute oral toxicity test on the same batch. Available chlorine 130 mg/L before storage, 111 mg/L after 14 days at 54 °C — a 14.6% fall, inside the ≤15% that GB/T 38499-2020 sets for a one-year shelf life.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Test-Available-Chlorine-Stability-1Year.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangzhou Institute of Microbiology Group Co., Ltd."
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Purepaws neutralising spray — full analysis — 2024FM12662R01Da",
+              "url": "https://shenhezhongke.com/reports/2024fm12662r01da.html",
+              "identifier": "2024FM12662R01Da",
+              "abstract": "Entrustment analysis report on the cat-environment sterilising deodorizing spray.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Factory-Audit-Report-FM12662R01Da.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangdong Detection Center of Microbiology"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Disinfectant & deodorizing liquid — analysis — 2024FM11610R01D",
+              "url": "https://shenhezhongke.com/reports/2024fm11610r01d.html",
+              "identifier": "2024FM11610R01D",
+              "abstract": "Analysis report for the Disinfectant & Deodorizing Solution line.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Disinfectant-Solution-Bilingual-Spec.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangdong Detection Center of Microbiology"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Multi-effect wash — antibacterial — 2024FM11612R01D",
+              "url": "https://shenhezhongke.com/reports/2024fm11612r01d.html",
+              "identifier": "2024FM11612R01D",
+              "abstract": "Antibacterial performance of the Multi-Purpose Pet Wash cleansing line.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Antibacterial-Test.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangdong Detection Center of Microbiology"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Multi-effect wash — mite control — 2024FM11612R03D",
+              "url": "https://shenhezhongke.com/reports/2024fm11612r03d.html",
+              "identifier": "2024FM11612R03D",
+              "abstract": "Efficacy against common pet mites, same product and same report series.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Mite-Control-Test.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangdong Detection Center of Microbiology"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Multi-effect wash — microbiological and quality test — 2024FM11612R02D",
+              "url": "https://shenhezhongke.com/reports/2024fm11612r02d.html",
+              "identifier": "2024FM11612R02D",
+              "abstract": "Aerobic bacterial count below 10 CFU/g, thermotolerant coliforms absent; meets QB/T 4524-2013.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Multi-Effect-Wash-Ingredient-Report.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangdong Detection Center of Microbiology"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+              "@type": "CreativeWork",
+              "name": "Pet deodorant — safety assessment — 2024FM11611R02D",
+              "url": "https://shenhezhongke.com/reports/2024fm11611r02d.html",
+              "identifier": "2024FM11611R02D",
+              "abstract": "Safety assessment for the Power Odor Eliminator (Extra Strength) pet deodorant.",
+              "encoding": {
+                "@type": "MediaObject",
+                "encodingFormat": "application/pdf",
+                "contentUrl": "https://shenhezhongke.com/assets/img/certs/Pet-Deodorizing-Spray-Non-Toxic-Cert.pdf"
+              },
+              "creator": {
+                "@type": "Organization",
+                "name": "Guangdong Detection Center of Microbiology"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+                "url": "https://shenhezhongke.com"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "hasGtm": true
+  },
+  "blocks": [
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section\" style=\"background: linear-gradient(180deg, var(--pp-teal-50), var(--pp-white)); padding-top: var(--pp-space-12);\">\n      <div class=\"pp-container pp-container--narrow pp-text-center\" >\n        <span class=\"pp-eyebrow\" data-i18n=\"nav.certs\">Certifications</span>\n        <h1 data-i18n=\"certs.title\">Certifications &amp; Lab Reports</h1>\n        <p class=\"pp-lead\" data-i18n=\"certs.subtitle\">Every claim on this site is backed by an independent third-party test.</p>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "richtext",
+      "content": {
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--3\" id=\"certs-grid\">\n          \n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "cardGrid",
+      "content": {
+        "cols": 4,
+        "cards": [
+          {
+            "kind": "card",
+            "html": "<div class=\"pp-card\"><div style=\"font-size: var(--pp-text-2xl); font-weight: 700; color: var(--pp-teal-700);\">FDA-registered</div><div  class=\"pp-meta\">Facility ID available on request</div></div>"
+          },
+          {
+            "kind": "card",
+            "html": "<div class=\"pp-card\"><div style=\"font-size: var(--pp-text-2xl); font-weight: 700; color: var(--pp-teal-700);\">ISO 22716 GMP</div><div  class=\"pp-meta\">Cosmetic GMP certified</div></div>"
+          },
+          {
+            "kind": "card",
+            "html": "<div class=\"pp-card\"><div style=\"font-size: var(--pp-text-2xl); font-weight: 700; color: var(--pp-teal-700);\">MSDS Compliant</div><div  class=\"pp-meta\">All 20 SKUs documented</div></div>"
+          },
+          {
+            "kind": "card",
+            "html": "<div class=\"pp-card\"><div style=\"font-size: var(--pp-text-2xl); font-weight: 700; color: var(--pp-teal-700);\">Cruelty-free</div><div  class=\"pp-meta\">No animal testing</div></div>"
+          }
+        ]
+      }
+    },
+    {
+      "classes": "",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "Need a custom certification plan?",
+        "sub": null,
+        "html": "<section style=\"margin-top:48px; padding:32px; background: linear-gradient(180deg,#f0fdfa 0%,#ccfbf1 100%); border-radius:14px; text-align:center;\">\n        <h2 style=\"margin:0 0 8px;\">Need a custom certification plan?</h2>\n        <p style=\"margin:0 0 18px; color: var(--pp-ink-600); font-size:15px;\">FDA + EU CPNP + ISO 22716 covered. We map your target market's regs and quote the cert path within one business day.</p>\n        <a class=\"pp-btn pp-btn--primary pp-btn--lg\" href=\"/contact.html?interest=certification\">Plan my certification →</a>\n      </section>"
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 4,
+    "richtextFallback": 1
+  }
+}

@@ -1,0 +1,475 @@
+{
+ "generated": "2026-10-20 21:18",
+ "pages": [
+  {
+   "slug": "about",
+   "source": "about.html",
+   "isPortal": false,
+   "title": "About SHENHE ZHONGKE · Pet Care OEM/ODM Factory Since 2020",
+   "words": 839,
+   "blocks": 7,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "admin",
+   "source": "admin.html",
+   "isPortal": true,
+   "title": "Admin Console · SHENHE ZHONGKE",
+   "words": 1,
+   "blocks": 1,
+   "fallbacks": 1,
+   "jsonLd": 0
+  },
+  {
+   "slug": "ai-customize",
+   "source": "ai-customize.html",
+   "isPortal": false,
+   "title": "AI Match · SHENHE ZHONGKE",
+   "words": 213,
+   "blocks": 3,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "blog__index",
+   "source": "blog/index.html",
+   "isPortal": false,
+   "title": "Blog · SHENHE ZHONGKE",
+   "words": 42,
+   "blocks": 1,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "capabilities",
+   "source": "capabilities.html",
+   "isPortal": false,
+   "title": "R&D and Quality · SHENHE ZHONGKE Capabilities",
+   "words": 903,
+   "blocks": 7,
+   "fallbacks": 0,
+   "jsonLd": 2
+  },
+  {
+   "slug": "certifications",
+   "source": "certifications.html",
+   "isPortal": false,
+   "title": "Certifications · SHENHE ZHONGKE",
+   "words": 364,
+   "blocks": 4,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "contact",
+   "source": "contact.html",
+   "isPortal": false,
+   "title": "Contact · SHENHE ZHONGKE",
+   "words": 3168,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 2
+  },
+  {
+   "slug": "factory",
+   "source": "factory.html",
+   "isPortal": false,
+   "title": "Factory Tour · SHENHE ZHONGKE 30,000m² Industrial Park in Heyuan",
+   "words": 1230,
+   "blocks": 9,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "google-site-verification",
+   "source": "google-site-verification.html",
+   "isPortal": false,
+   "title": null,
+   "words": 0,
+   "blocks": 0,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "index",
+   "source": "index.html",
+   "isPortal": false,
+   "title": "SHENHE ZHONGKE · Pet Care OEM/ODM Factory",
+   "words": 622,
+   "blocks": 11,
+   "fallbacks": 0,
+   "jsonLd": 1
+  },
+  {
+   "slug": "msds",
+   "source": "msds.html",
+   "isPortal": false,
+   "title": "MSDS Sheets · SHENHE ZHONGKE",
+   "words": 143,
+   "blocks": 3,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "oem-odm",
+   "source": "oem-odm.html",
+   "isPortal": false,
+   "title": "OEM vs ODM · SHENHE ZHONGKE",
+   "words": 320,
+   "blocks": 6,
+   "fallbacks": 0,
+   "jsonLd": 2
+  },
+  {
+   "slug": "portal__admin",
+   "source": "portal/admin.html",
+   "isPortal": true,
+   "title": "Partner Console · SHENHE ZHONGKE",
+   "words": 303,
+   "blocks": 13,
+   "fallbacks": 4,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__change-password",
+   "source": "portal/change-password.html",
+   "isPortal": true,
+   "title": "Change password · SHENHE ZHONGKE portal",
+   "words": 257,
+   "blocks": 2,
+   "fallbacks": 2,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__dashboard",
+   "source": "portal/dashboard.html",
+   "isPortal": true,
+   "title": "Inquiries · SHENHE ZHONGKE portal",
+   "words": 1115,
+   "blocks": 2,
+   "fallbacks": 2,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__forgot-password",
+   "source": "portal/forgot-password.html",
+   "isPortal": true,
+   "title": "Forgot password · SHENHE ZHONGKE portal",
+   "words": 337,
+   "blocks": 2,
+   "fallbacks": 2,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__inquiry",
+   "source": "portal/inquiry.html",
+   "isPortal": true,
+   "title": "Inquiry detail · SHENHE ZHONGKE portal",
+   "words": 808,
+   "blocks": 1,
+   "fallbacks": 1,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__login",
+   "source": "portal/login.html",
+   "isPortal": true,
+   "title": "Sign in · SHENHE ZHONGKE portal",
+   "words": 146,
+   "blocks": 2,
+   "fallbacks": 2,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__register",
+   "source": "portal/register.html",
+   "isPortal": true,
+   "title": "Create account · SHENHE ZHONGKE portal",
+   "words": 185,
+   "blocks": 2,
+   "fallbacks": 2,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__reset-password",
+   "source": "portal/reset-password.html",
+   "isPortal": true,
+   "title": "Reset your password · SHENHE ZHONGKE portal",
+   "words": 421,
+   "blocks": 2,
+   "fallbacks": 2,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__set-password",
+   "source": "portal/set-password.html",
+   "isPortal": true,
+   "title": "Set your password · SHENHE ZHONGKE portal",
+   "words": 448,
+   "blocks": 1,
+   "fallbacks": 1,
+   "jsonLd": 0
+  },
+  {
+   "slug": "portal__track",
+   "source": "portal/track.html",
+   "isPortal": true,
+   "title": "Track your inquiry · SHENHE ZHONGKE",
+   "words": 505,
+   "blocks": 2,
+   "fallbacks": 2,
+   "jsonLd": 0
+  },
+  {
+   "slug": "privacy",
+   "source": "privacy.html",
+   "isPortal": false,
+   "title": "Privacy Policy · SHENHE ZHONGKE",
+   "words": 246,
+   "blocks": 1,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "products__cat-litter-companion",
+   "source": "products/cat-litter-companion.html",
+   "isPortal": false,
+   "title": "Cat Litter Companion Deodorizer · 300 g / 500 g · SHENHE ZHONGKE",
+   "words": 373,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__cat-ringworm-spray",
+   "source": "products/cat-ringworm-spray.html",
+   "isPortal": false,
+   "title": "Anti-Fungal Treatment for Cats · 350 mL · SHENHE ZHONGKE",
+   "words": 384,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__deodorizing-disinfecting",
+   "source": "products/deodorizing-disinfecting.html",
+   "isPortal": false,
+   "title": "Deodorizing & Disinfecting · SHENHE ZHONGKE",
+   "words": 218,
+   "blocks": 3,
+   "fallbacks": 0,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__ear-mite-cleaning-solution",
+   "source": "products/ear-mite-cleaning-solution.html",
+   "isPortal": false,
+   "title": "Ear Mite Cleaning Solution · 250 mL · SHENHE ZHONGKE",
+   "words": 377,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__grooming-care",
+   "source": "products/grooming-care.html",
+   "isPortal": false,
+   "title": "Grooming & Care · SHENHE ZHONGKE",
+   "words": 263,
+   "blocks": 3,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "products__index",
+   "source": "products/index.html",
+   "isPortal": false,
+   "title": "All Products · SHENHE ZHONGKE",
+   "words": 882,
+   "blocks": 6,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "products__outdoor-insect-repellent-spray",
+   "source": "products/outdoor-insect-repellent-spray.html",
+   "isPortal": false,
+   "title": "Outdoor Insect Repellent Spray · 80 mL · SHENHE ZHONGKE",
+   "words": 341,
+   "blocks": 5,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__outdoor-protection",
+   "source": "products/outdoor-protection.html",
+   "isPortal": false,
+   "title": "Outdoor Protection · SHENHE ZHONGKE",
+   "words": 155,
+   "blocks": 3,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "products__pet-deodorizing-spray-gun-kit",
+   "source": "products/pet-deodorizing-spray-gun-kit.html",
+   "isPortal": false,
+   "title": "Pet Deodorizing Spray Gun Kit · 220 mL × 2 · SHENHE ZHONGKE",
+   "words": 484,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__pet-deodorizing-spray",
+   "source": "products/pet-deodorizing-spray.html",
+   "isPortal": false,
+   "title": "Pet Deodorizing Spray · 350 mL · SHENHE ZHONGKE",
+   "words": 397,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__pet-digestive-probiotics",
+   "source": "products/pet-digestive-probiotics.html",
+   "isPortal": false,
+   "title": "Pet Digestive Probiotics · 8 mL × 9 vials · SHENHE ZHONGKE",
+   "words": 332,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 0
+  },
+  {
+   "slug": "products__pet-disinfectant-deodorizing-solution",
+   "source": "products/pet-disinfectant-deodorizing-solution.html",
+   "isPortal": false,
+   "title": "Disinfectant & Deodorizing Solution · 350 mL · SHENHE ZHONGKE",
+   "words": 350,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__pet-household-laundry-detergent",
+   "source": "products/pet-household-laundry-detergent.html",
+   "isPortal": false,
+   "title": "Pet Household Laundry Detergent · 1.5 kg · SHENHE ZHONGKE",
+   "words": 370,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__pet-immunoglobulin",
+   "source": "products/pet-immunoglobulin.html",
+   "isPortal": false,
+   "title": "Pet Immunoglobulin (IgG) · 15 g × 8 sachets · SHENHE ZHONGKE",
+   "words": 347,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 0
+  },
+  {
+   "slug": "products__pet-nutrition",
+   "source": "products/pet-nutrition.html",
+   "isPortal": false,
+   "title": "Pet Nutrition · SHENHE ZHONGKE",
+   "words": 157,
+   "blocks": 3,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "products__pet-paw-cleaning-foam",
+   "source": "products/pet-paw-cleaning-foam.html",
+   "isPortal": false,
+   "title": "Pet Paw Cleaning Foam · 250 mL · SHENHE ZHONGKE",
+   "words": 349,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__pet-paw-moisturizing-gel",
+   "source": "products/pet-paw-moisturizing-gel.html",
+   "isPortal": false,
+   "title": "Pet Paw Moisturizing Gel · 10 g · SHENHE ZHONGKE",
+   "words": 379,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__pet-shampoo-antibacterial-300",
+   "source": "products/pet-shampoo-antibacterial-300.html",
+   "isPortal": false,
+   "title": "Pet Shampoo · Antibacterial · 300 mL · SHENHE ZHONGKE",
+   "words": 370,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__pet-shampoo-antibacterial-500",
+   "source": "products/pet-shampoo-antibacterial-500.html",
+   "isPortal": false,
+   "title": "Pet Shampoo ·Antibacterial + Coat Conditioning ·500 mL ·SHENHE ZHONGKE",
+   "words": 369,
+   "blocks": 5,
+   "fallbacks": 0,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__pet-waterless-cleaning-foam",
+   "source": "products/pet-waterless-cleaning-foam.html",
+   "isPortal": false,
+   "title": "Pet Waterless Cleaning Foam · 300 mL / 500 mL · SHENHE ZHONGKE",
+   "words": 360,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "products__probiotic-pet-tooth-cleaner",
+   "source": "products/probiotic-pet-tooth-cleaner.html",
+   "isPortal": false,
+   "title": "Probiotic Pet Tooth Cleaner · 300 mL · SHENHE ZHONGKE",
+   "words": 378,
+   "blocks": 6,
+   "fallbacks": 1,
+   "jsonLd": 1
+  },
+  {
+   "slug": "systems",
+   "source": "systems.html",
+   "isPortal": false,
+   "title": "Systems Dashboard — SHENHE ZHONGKE",
+   "words": 801,
+   "blocks": 9,
+   "fallbacks": 2,
+   "jsonLd": 0
+  },
+  {
+   "slug": "terms",
+   "source": "terms.html",
+   "isPortal": false,
+   "title": "Terms of Service · SHENHE ZHONGKE",
+   "words": 221,
+   "blocks": 1,
+   "fallbacks": 0,
+   "jsonLd": 0
+  },
+  {
+   "slug": "trade-compliance",
+   "source": "trade-compliance.html",
+   "isPortal": false,
+   "title": "International Trade Compliance · SHENHE ZHONGKE",
+   "words": 2114,
+   "blocks": 16,
+   "fallbacks": 0,
+   "jsonLd": 1
+  }
+ ]
+}

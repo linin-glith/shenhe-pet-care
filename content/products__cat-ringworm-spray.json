@@ -1,0 +1,156 @@
+{
+  "source": "products/cat-ringworm-spray.html",
+  "slug": "products__cat-ringworm-spray",
+  "isPortal": false,
+  "head": {
+    "title": "Cat Ringworm Antifungal Spray 350 mL | Private Label",
+    "description": "Eliminates feline ringworm fungi, breaks reinfection cycle",
+    "canonical": "https://shenhezhongke.com/products/cat-ringworm-spray.html",
+    "ogTitle": "Cat Ringworm Antifungal Spray 350 mL | Private Label",
+    "ogDescription": "Eliminates feline ringworm fungi, breaks reinfection cycle",
+    "ogImage": "https://shenhezhongke.com/assets/img/ui/og-default.png",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "themeColor": "#0d9488",
+    "hreflang": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "CatClean Antifungal & Deodorizing Solution — 350 mL / bottle",
+        "sku": "SHENHE-CATCLEAN-350",
+        "mpn": "SHENHE-CATCLEAN-350",
+        "description": "CatClean Antifungal & Deodorizing Solution — 350 mL / bottle. Made with chlorine dioxide (clo₂), surfactant, sophora flavescens extract. Antifungal + deodorizing. Targets feline ringworm fungi (Trichophyton mentagrophytes, Microsporum canis). Suited to cat bedding, litter boxes, feline skin lesions",
+        "image": "https://shenhezhongke.com/assets/img/products/quote-catclean-antifungal.png",
+        "brand": {
+          "@type": "Brand",
+          "name": "SHENHE ZHONGKE"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Guangdong Shenhe Zhongke Biotechnology Co., Ltd.",
+          "url": "https://shenhezhongke.com"
+        },
+        "category": "Pet Disinfection & Odor Control",
+        "url": "https://shenhezhongke.com/products/catclean-350.html",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Ingredients",
+            "value": "Chlorine Dioxide (ClO₂), Surfactant, Sophora Flavescens Extract"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Application",
+            "value": "Cat bedding, Litter boxes, Feline skin lesions"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Function",
+            "value": "Antifungal + deodorizing; targets feline ringworm fungi (Trichophyton mentagrophytes, Microsporum canis)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Minimum Order Quantity",
+            "value": "2000 bottles"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "HS Code",
+            "value": "3808.94"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Shelf Life",
+            "value": "18 months"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Lead Time",
+            "value": "Stock: 7-15 days · OEM: 25-40 days"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Carton",
+            "value": "12 bottles/carton · L 35 × W 25 × H 22 · 7.2 kg"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "MSDS Available",
+            "value": "Yes (16-language)"
+          }
+        ]
+      }
+    ],
+    "hasGtm": false
+  },
+  "blocks": [
+    {
+      "classes": "pp-section pp-section--sm",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": null,
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--sm\" style=\"padding-top: 0;\">\n      <div class=\"pp-container\">\n        <div class=\"pp-grid pp-grid--2\" style=\"gap: var(--pp-space-12); align-items: start;\">\n\n          <div>\n            <span class=\"pp-eyebrow\">Deodorizing & Disinfecting · 350 mL</span>\n            <h1 style=\"margin-bottom: var(--pp-space-2);\">Anti-Fungal Treatment for Cats</h1>\n                        <p class=\"pp-lead\">Eliminates feline ringworm fungi, breaks reinfection cycle</p>\n\n            <div class=\"pp-trust-row\" style=\"margin-bottom: var(--pp-space-6);\">\n              <span class=\"pp-badge pp-badge--amber\">MOQ 1,000</span>\n              <span class=\"pp-badge\">Sample on request</span>\n              <span class=\"pp-badge\">Quote in 1 business day</span>\n            </div>\n\n            \n            <div style=\"aspect-ratio: 1; background: linear-gradient(135deg, #ffffff, #f8fafc); border-radius: var(--pp-radius-xl); display: flex; align-items: center; justify-content: center; border: 1px solid var(--pp-ink-200); overflow: hidden;\">\n              <img src=\"/assets/img/products/quote-catclean-antifungal.png?v=2\" alt=\"Anti-Fungal Treatment for Cats\" style=\"width: 100%; height: 100%; object-fit: contain; padding: var(--pp-space-4);\" onerror=\"this.parentElement.innerHTML='<div style=&quot;font-size: 6rem; color: var(--pp-teal-300);&quot;>🐾</div>'\">\n            </div>\n            <p style=\"font-size: var(--pp-text-xs); color: var(--pp-ink-500); margin-top: var(--pp-space-2); text-align: center;\">DEKOBIO · 350 mL</p>\n          </div>\n\n          <div>\n                        <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.keyFeatures\" style=\"margin-bottom: var(--pp-space-2);\">Self-designed for feline ringworm 4&#8211;6 week cycle</h3>\n\n\n              <ul style=\"list-style: none; padding: 0; margin: 0; font-size: var(--pp-text-sm);\">\n\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Higher-concentration ClO&#8322;</strong> &#8212; stabilized at 800&#8211;1200 ppm for fungal pathogen kill, vs 100&#8211;200 ppm in standard deodorizers.</li>\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Spray-on contact, no rinse</strong> &#8212; surfactant formula spreads across affected skin and coat, no 10-minute soak.</li>\n\n                <li style=\"margin-bottom: var(--pp-space-1);\"><strong style=\"color: var(--pp-teal-700);\">Built-in skin-repair agents</strong> &#8212; aloe + panthenol minimize irritation from antimicrobial action over 4&#8211;6 weeks.</li>\n\n                <li style=\"margin-bottom: 0;\"><strong style=\"color: var(--pp-teal-700);\">Cat-safe residue</strong> &#8212; stabilized ClO&#8322; degrades to salt + water within minutes, safe if cat licks after drying.</li>\n\n\n              </ul>\n\n\n            </div>\n\n\n            <div class=\"pp-card\" style=\"margin-bottom: var(--pp-space-4);\">\n\n\n              <h3 data-i18n=\"products.ingredients\" style=\"margin-bottom: var(--pp-space-2);\">Main ingredients &#8212; and what each one powers</h3>\n\n\n              <table style=\"width:100%; border-collapse: collapse; font-size: var(--pp-text-sm);\">\n\n\n                <tbody>\n\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Stabilized Chlorine Dioxide</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Fungal pathogen kill &#8212; 800&#8211;1200 ppm.</td>\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Surfactants</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Spread + no-rinse &#8212; coats affected skin.</td>\n\n                  <tr style=\" border-bottom: 1px solid var(--pp-ink-100);\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Repairing Agents</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Skin barrier &#8212; aloe + panthenol.</td>\n\n                  <tr style=\"\">\n\n                    <td style=\"padding: 6px 6px 6px 0; font-weight: 600; color: var(--pp-teal-700); vertical-align: top; white-space: nowrap;\">Deionized Water</td>\n\n                    <td style=\"padding: 6px 0; color: var(--pp-ink-700); vertical-align: top;\">Pure carrier &#8212; no mineral residue.</td>\n\n\n\n                </tbody>\n\n\n              </table>\n\n\n            </div>\n\n\n\n\n            <div class=\"pp-card\">\n\n\n              <h3 data-i18n=\"products.labReports\" style=\"margin-bottom: var(--pp-space-2);\">Third-party lab reports</h3>\n\n\n              <p style=\"color: var(--pp-ink-500); font-size: var(--pp-text-sm); margin: 0;\">No specific lab report required. Manufactured under factory-level QC (ISO 22716); full COA available on request.</p>\n\n\n            </div>\n\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg-soft",
+      "bg": "soft",
+      "type": "prose",
+      "content": {
+        "title": "Pricing",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg-soft\">\n  <div class=\"pp-container\">\n    <h2>Pricing</h2>\n    <p>Unit prices are quote-only. Volume tiering, label/packaging costs and shipping terms are confirmed per RFQ.</p>\n  </div>\n</section>"
+      }
+    },
+    {
+      "classes": "pp-section",
+      "bg": "plain",
+      "type": "prose",
+      "content": {
+        "title": "OEM/ODM options",
+        "sub": null,
+        "html": "<section class=\"pp-section\">\n      <div class=\"pp-container\">\n        <h2>OEM/ODM options</h2>\n        <div class=\"pp-grid pp-grid--2\">\n          <div class=\"pp-card pp-card--feature\">\n            <h3>ODM · Use this ready formula</h3>\n            <p>Minimum 1,000 sets. We use the formula above and print your label. <strong>25–40 days</strong> from artwork approval to shipment.</p>\n            <a class=\"pp-btn pp-btn--primary pp-btn--block\" href=\"/contact.html?product=cat-ringworm-spray&mode=odm\">Request ODM quote</a>\n          </div>\n          <div class=\"pp-card pp-card--feature-amber\">\n            <h3>OEM · Custom formula</h3>\n            <p>Minimum 1,000–2,000 sets. Send us your formula or target spec. <strong>30–45 days</strong> from approval to shipment. NDA provided.</p>\n            <a class=\"pp-btn pp-btn--secondary pp-btn--block\" href=\"/contact.html?product=cat-ringworm-spray&mode=oem\">Request OEM quote</a>\n          </div>\n        </div>\n      </div>\n    </section>"
+      }
+    },
+    {
+      "classes": "pp-section pp-section--bg",
+      "bg": "bg",
+      "type": "prose",
+      "content": {
+        "title": "Related products",
+        "sub": null,
+        "html": "<section class=\"pp-section pp-section--bg\"><div class=\"pp-container\"><h2>Related products</h2><div class=\"pp-grid pp-grid--3\">\n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/pet-deodorizing-spray.html\" aria-label=\"Pet Deodorizing Spray\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/pet-deodorizing-spray.png?v=2\" alt=\"Pet Deodorizing Spray\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">deodorizing disinfecting</div>\n          <h3 class=\"pp-product-card__title\">Pet Deodorizing Spray</h4>\n          <div class=\"pp-product-card__size\">350 mL</div>\n          <p class=\"pp-product-card__desc\">Enzyme-powered daily odor control</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n        \n        </div>\n      </article>\n    \n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/pet-deodorizing-spray-gun-kit.html\" aria-label=\"Pet Deodorizing Spray Gun Kit\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/pet-deodorizing-spray-gun-kit.png?v=2\" alt=\"Pet Deodorizing Spray Gun Kit\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">deodorizing disinfecting</div>\n          <h3 class=\"pp-product-card__title\">Pet Deodorizing Spray Gun Kit</h4>\n          <div class=\"pp-product-card__size\">220 mL × 2</div>\n          <p class=\"pp-product-card__desc\">Professional spray system for fast coverage</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n        \n        </div>\n      </article>\n    \n      <article class=\"pp-product-card\">\n        <a class=\"pp-product-card__link\" href=\"/products/cat-litter-companion.html\" aria-label=\"Cat Litter Companion Deodorizer\"></a>\n        <div class=\"pp-product-card__image\">\n          <img src=\"/assets/img/products/cat-litter-companion.png?v=2\" alt=\"Cat Litter Companion Deodorizer\" loading=\"lazy\" onerror=\"this.style.display='none'; this.nextElementSibling.style.display='flex';\">\n          <div class=\"pp-product-card__image-fallback\" style=\"display: none;\"></div>\n        </div>\n        <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__body\">\n          <div class=\"pp-product-card__category\">deodorizing disinfecting</div>\n          <h3 class=\"pp-product-card__title\">Cat Litter Companion Deodorizer</h4>\n          <div class=\"pp-product-card__size\">300 g / 500 g</div>\n          <p class=\"pp-product-card__desc\">Adsorbs and breaks down odor molecules</p>\n          <div class=\"pp-product-card__cta\">View details <span aria-hidden=\"true\">→</span></div>\n        \n        </div>\n      </article>\n    </div></div></section>"
+      }
+    },
+    {
+      "classes": "pp-cta-banner",
+      "bg": "plain",
+      "type": "cta",
+      "content": {
+        "title": "Request a quotation within 1 business day",
+        "eyebrow": null,
+        "actions": [
+          {
+            "href": "/contact.html?product=cat-ringworm-spray",
+            "label": "Start Your Quote",
+            "variant": "primary"
+          },
+          {
+            "href": "/assets/img/certs/Factory-Audit-Report-FM12662R01Da.pdf",
+            "label": "View lab report",
+            "variant": "outlineWhite"
+          }
+        ],
+        "html": null,
+        "text": "Send your target market, MOQ, and timeline. We reply within one business day with a quote and a sample plan."
+      }
+    }
+  ],
+  "stats": {
+    "blocks": 5,
+    "richtextFallback": 1
+  }
+}
